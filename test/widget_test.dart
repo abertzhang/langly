@@ -12,9 +12,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hive/hive.dart';
-import 'package:langly/app.dart';
 import 'package:langly/core/storage/hive_service.dart';
 import 'package:langly/core/theme/theme_mode_provider.dart';
+import 'package:langly/main.dart';
 
 /// 有限帧推进：ScreenUtilPlusInit 会自动重建，
 /// pumpAndSettle() 可能一直等不到「没有新帧」的状态，所以固定推进两帧。
