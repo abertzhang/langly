@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Langly · App 图标候选</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 40px 32px 56px;
+    background: #FAF9F6;
+    color: #1A1D24;
+    font: 14px/1.6 -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  .wrap { max-width: 1000px; margin: 0 auto; }
+  h1 { font-size: 22px; font-weight: 500; margin: 0 0 6px; }
+  .sub { color: #6B7280; font-size: 13px; margin: 0 0 28px; }
+  .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+  .card {
+    background: #FFFFFF;
+    border: 1px solid #E8EAF0;
+    border-radius: 16px;
+    padding: 20px;
+  }
+  .preview { display: flex; align-items: center; gap: 18px; }
+  .icon {
+    width: 168px; height: 168px; flex: none;
+    border-radius: 22.5%;
+    object-fit: cover;
+    display: block;
+    background: #F0EEE9;
+  }
+  .icon.square { width: 64px; height: 64px; border-radius: 0; }
+  .side { min-width: 0; }
+  .name { font-size: 16px; font-weight: 500; margin: 0 0 4px; }
+  .tag {
+    display: inline-block; font-size: 12px; padding: 1px 8px;
+    border-radius: 8px; margin-bottom: 10px;
+    background: #FDEEE7; color: #A44A22;
+  }
+  .tag.alt { background: #F1EFE8; color: #5F5E5A; }
+  .swatch { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+  .dot { width: 14px; height: 14px; border-radius: 4px; border: 1px solid rgba(0,0,0,.08); }
+  .hex { font: 12px ui-monospace, SFMono-Regular, Menlo, monospace; color: #6B7280; }
+  .desc { color: #444441; font-size: 13px; margin: 0 0 8px; }
+  .file { font: 11px ui-monospace, SFMono-Regular, Menlo, monospace; color: #888780; word-break: break-all; }
+  .note {
+    margin-top: 28px; padding: 16px 20px;
+    background: #FFFFFF; border: 1px solid #E8EAF0; border-radius: 12px;
+    color: #5F5E5A; font-size: 13px;
+  }
+  .note b { font-weight: 500; color: #1A1D24; }
+  .note ul { margin: 8px 0 0; padding-left: 20px; }
+  @media (max-width: 720px) { .grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Langly · App 图标候选</h1>
+  <p class="sub">4 个方案 · 1024 × 1024 · 暖色系 · 均以大写字母 L 为主体 · 点击图片看原图</p>
+
+  <div class="grid">
+    <div class="card">
+      <div class="preview">
+        <img class="icon" src="./A_terracotta_book_L.png" alt="方案 A 陶土书脊">
+        <div class="side">
+          <p class="name">A · 陶土书脊</p>
+          <span class="tag">推荐 · 最稳</span>
+          <div class="swatch"><span class="dot" style="background:#DD5E3C"></span><span class="dot" style="background:#FBF6E4"></span><span class="hex">#DD5E3C / #FBF6E4</span></div>
+          <p class="desc">标准粗体 L，竖笔带一条书脊细线，右下一点留白。缩到 60px 依然清晰，最像正经 App 图标。</p>
+          <p class="file">A_terracotta_book_L.png</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="preview">
+        <img class="icon" src="./B_apricot_sound_L.png" alt="方案 B 杏色声波">
+        <div class="side">
+          <p class="name">B · 杏色声波</p>
+          <span class="tag alt">轻快</span>
+          <div class="swatch"><span class="dot" style="background:#F8C89A"></span><span class="dot" style="background:#8A4B22"></span><span class="hex">#F8C89A / #8A4B22</span></div>
+          <p class="desc">圆角块拼出 L，负空间嵌声波点阵，呼应「开口讲一遍」。缺点：L 被拆成三段，识别度略弱。</p>
+          <p class="file">B_apricot_sound_L.png</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="preview">
+        <img class="icon" src="./C_coral_speech_L.png" alt="方案 C 珊瑚对话">
+        <div class="side">
+          <p class="name">C · 珊瑚对话</p>
+          <span class="tag alt">扣题 · 偏花</span>
+          <div class="swatch"><span class="dot" style="background:#FF6C3E"></span><span class="dot" style="background:#FFFFFF"></span><span class="hex">#FF6C3E / #FFFFFF</span></div>
+          <p class="desc">横笔卷成对话气泡，直接对应费曼讲解。缺点：笔画变形大，小尺寸下容易看成箭头。</p>
+          <p class="file">C_coral_speech_L.png</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="preview">
+        <img class="icon" src="./D_caramel_pages_L.png" alt="方案 D 焦糖书页">
+        <div class="side">
+          <p class="name">D · 焦糖书页</p>
+          <span class="tag">推荐 · 质感</span>
+          <div class="swatch"><span class="dot" style="background:#5A2E1B"></span><span class="dot" style="background:#F5B33F"></span><span class="hex">#5A2E1B / #F5B33F</span></div>
+          <p class="desc">L 由折叠纸页构成，暗合「一轮轮讲解叠起来」。深底暖金在桌面上一眼跳出来，偏书卷气。</p>
+          <p class="file">D_caramel_pages_L.png</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="note">
+    <b>交付说明</b>
+    <ul>
+      <li>四张均为 1024 × 1024 PNG、不透明、直角方形（圆角由系统遮罩自动生成，左侧大图是模拟效果）。</li>
+      <li>已去除右下角工具水印；原始生成图保留在 <span class="file" style="display:inline">original/</span> 便于溯源。</li>
+      <li>建议先挑一个方向，再出成套尺寸（iOS / Android 各档、圆角版、单色版）与明暗双主题适配。</li>
+      <li>后续两批：<a href="./preview_language.html">语言主题</a> · <a href="./preview_ai.html">语言 + AI 主题</a> · <a href="./index.html">12 案总览</a>。</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>

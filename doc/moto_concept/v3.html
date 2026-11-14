@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VANTA-01 R3 · 精简大灯 + 小圆形四出</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 32px 64px; background: #FAF9F6; color: #1A1D24;
+    font: 14px/1.65 -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; }
+  .wrap { max-width: 1080px; margin: 0 auto; }
+  h1 { font-size: 24px; font-weight: 500; margin: 0 0 8px; }
+  h2 { font-size: 17px; font-weight: 500; margin: 0 0 10px; }
+  h3 { font-size: 13px; font-weight: 500; margin: 22px 0 8px; color: #6B7280;
+    text-transform: uppercase; letter-spacing: .06em; }
+  .sub { color: #6B7280; font-size: 13px; margin: 0 0 26px; }
+  .badge { display: inline-block; font-size: 12px; padding: 2px 9px; border-radius: 8px;
+    background: #FDEEE7; color: #A44A22; margin-left: 10px; vertical-align: 2px; font-weight: 400; }
+  .badge.alt { background: #E9F6F8; color: #17788C; }
+  .badge.grey { background: #F1EFE8; color: #5F5E5A; }
+  .concept, .panel { background: #FFFFFF; border: 1px solid #E8EAF0; border-radius: 16px;
+    padding: 24px; margin-bottom: 22px; }
+  .lead { color: #6B7280; font-size: 13px; margin: 0 0 18px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  figure { margin: 0; }
+  .shot { width: 100%; aspect-ratio: 1; object-fit: cover; display: block;
+    border-radius: 10px; background: #EFEDE7; border: 1px solid #EAEAEA; }
+  figcaption { font-size: 12px; color: #6B7280; margin-top: 8px; display: flex;
+    justify-content: space-between; gap: 10px; }
+  figcaption b { font-weight: 500; color: #1A1D24; }
+  .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 8px; }
+  th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid #EEF0F4; vertical-align: top; }
+  th { color: #6B7280; font-weight: 500; background: #FBFAF7; }
+  td:first-child { color: #6B7280; width: 22%; }
+  .panel p { margin: 0 0 10px; color: #5F5E5A; font-size: 13px; }
+  ul { margin: 8px 0 0; padding-left: 20px; color: #5F5E5A; font-size: 13px; }
+  li { margin-bottom: 6px; }
+  b.hl { color: #A44A22; font-weight: 500; }
+  .note { background: #FFF8F3; border: 1px solid #F3DDD0; border-radius: 10px;
+    padding: 12px 16px; color: #8A4B22; font-size: 13px; margin: 0 0 20px; }
+  .note.blue { background: #F2FAFC; border-color: #D3EAF0; color: #17788C; }
+  a { color: #A44A22; }
+  .foot { color: #8A8D93; font-size: 12px; text-align: center; margin-top: 28px; }
+  @media (max-width: 760px) { .grid2 { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>A · VANTA-01 R3 <span class="badge">按反馈精简 · 最新</span></h1>
+  <p class="sub">大灯线条做减法 · 排气改小口径圆形 · 998cc 直列四缸与车身造型不变 · 草图 + 两张照片级渲染</p>
+
+  <div class="note">
+    <b>本轮只改两处：</b>「大灯的线条有点多，排气管有点大，用圆形的排气管，做小一点」→ 大灯收成<b>一条干净连续的宽光带</b>（仍保持上一轮放大的尺寸），排气改成<b>双侧各两根小口径圆形短管</b>。动力、车身、轮组、尾灯全部沿用 <a href="./v2.html">R2</a>，参数见 <a href="./v2_spec.md">1000cc 参数表</a>。
+  </div>
+
+  <div class="concept">
+    <h2>精简后的造型 <span class="badge alt">同一台车 · 三个视角</span></h2>
+    <p class="lead">这一版是「减法」：把 v2 前脸上过密的灯组线条和尾部厚重的消音器都收掉，让折面车身本身成为主角。</p>
+    <div class="grid2">
+      <figure>
+        <a href="./sketch_A_v3_clean.png"><img class="shot" src="./sketch_A_v3_clean.png" alt="R3 设计草图板"></a>
+        <figcaption><b>设计草图板</b><span>3/4 主视 + 侧视 + 正视 · 比例网格与标注</span></figcaption>
+      </figure>
+      <figure>
+        <a href="./render_A_v3_front.png"><img class="shot" src="./render_A_v3_front.png" alt="R3 前 3/4 渲染"></a>
+        <figcaption><b>渲染 · 前 3/4 hero</b><span>单条连续宽光带 · 小圆形排气</span></figcaption>
+      </figure>
+      <figure>
+        <a href="./render_A_v3_rear4.png"><img class="shot" src="./render_A_v3_rear4.png" alt="R3 后 45° 四个小圆排气口"></a>
+        <figcaption><b>渲染 · 后 45°</b><span>四个小圆口可数 · 黄昏湿地</span></figcaption>
+      </figure>
+      <div>
+        <h3 style="margin-top:2px">v2 → v3 逐项对照</h3>
+        <table>
+          <tbody>
+            <tr><td>大灯</td><td>分段点阵光幕 + 两条长竖向 DRL + 下方蜂窝网格（T 形，线条多）→ <b>一条连续无分段的宽幅光带</b>，仅两端留极短圆角收头；点阵、网格、长竖 DRL 全去掉。<b>尺寸不缩小</b>，仍然大而醒目。</td></tr>
+            <tr><td>排气</td><td>四个大六边形斜切消音器 + 大块碳纤维隔热罩 → <b>四个小口径圆形短管</b>，双侧各两根，管口直径约减半，细钛合金圈 + 极细青色内环，内嵌尾壳；去掉大罩子。</td></tr>
+            <tr><td>完全不变</td><td>加宽加厚的折面单体壳与抬高肩线、每侧三道斜向鳍片、998cc 直列四缸 + 水箱 + 四根头段、封闭碟轮青色光环、悬浮单座、短上翘尾 + 细红线尾灯、哑光钛灰 / 电光青配色、双侧四出布局。</td></tr>
+            <tr><td>场景</td><td>v2 暗色湿地夜景 → 本版生图落在<b>黄昏湿地天台</b>（蓝灰晚霞 + 城市散景），布光更亮，小排气口和光带细节更容易看清。</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>1000cc 公升级参数 <span class="badge grey">沿用 v2 设定值</span></h2>
+    <div class="note blue" style="margin-bottom:12px">
+      动力、底盘、尺寸、性能全部沿用 <a href="./v2_spec.md">v2_spec.md</a>（均为<b>概念设定值，非实车数据</b>）。本版只改动排气外观条目：<br>
+      <b>排气系统</b>　4-2-1-2 钛合金头段；<b>双侧各 2 出、共 4 出小口径圆形短管</b>，内嵌折面尾壳，细钛合金圈 + 极细青色内环，内置可变排气阀；<s>短六边形斜切消音器与大块碳纤维隔热罩</s>已取消。
+    </div>
+    <table>
+      <tbody>
+        <tr><td>发动机</td><td>水冷 DOHC 16 气门 直列四缸 · <b>998 cc</b>（78.0 × 52.2 mm）· 13.0 : 1</td></tr>
+        <tr><td>功率 / 扭矩</td><td>147 kW / 200 PS @ 11,500 rpm　·　112 N·m @ 9,000 rpm</td></tr>
+        <tr><td>底盘</td><td>轴距 1,470 mm · 整备 214 kg · 前 120/70 ZR17 / 后 200/55 ZR17 · 座高 825 mm</td></tr>
+        <tr><td>性能目标</td><td>0–100 km/h 3.1 s · 极速 265 km/h（电子限速）</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="panel">
+    <h2>原创性边界（按本版再更新）</h2>
+    <p>改成圆形四出后，形态上确实比 v2 更靠近 Z1000 的经典布局，这点不回避。差异继续放在<b>实现细节与整体设计语言</b>上：</p>
+    <table>
+      <thead><tr><th style="width:22%">维度</th><th>处理方式</th></tr></thead>
+      <tbody>
+        <tr><td><b>前脸仍是原创</b></td><td>单条连续宽幅光带 + 极短圆角收头，不是锐角双眼灯、不做 T 形灯组、不做叠层侧罩；这是本车最强的识别点。</td></tr>
+        <tr><td><b>圆形四出怎么做自己的</b></td><td>小口径（约为常规消音器一半）、短管内嵌折面尾壳、双侧阶梯错位、细钛圈 + 极细青色内环、无外露大消音筒与碳纤维大罩；光带、轮缘、排气口三处青色细环是同一套设计语言。</td></tr>
+        <tr><td><b>明确避开</b></td><td>无 Z 字标、无厂商名 / 商标、<b>配色不含绿色</b>、不用叠层侧罩、不用四筒并列大排气。</td></tr>
+        <tr><td><b>法律边界</b></td><td>虚构代号 VANTA-01 R3；草图手写标注为设计说明与无意义笔迹，不含厂商名；未使用实车照片、车标或专利造型。</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="panel">
+    <h2>如实说明 / 交付</h2>
+    <ul>
+      <li><b>还可再收的两点</b>：前视光带两端仍留了一段下折收头（不是纯直线一条），排气管身也还略长。若你要更极简，可以再出一版「完全无折角的一条直线 + 更短的圆形尾管」。</li>
+      <li><b>草图迭代记录</b>：为锁住 v2 的车身比例，草图共试了 3 版 —— 第 1 版车头画成尖鲨鱼头、圆管小到像螺栓；第 2 版排气改对但大灯被参考图锁住没简化；第 3 版才两处都到位。前两版作为过程稿归档在 <span class="mono">original/</span>（<span class="mono">v3_draft_</span> 前缀），<b>不作为交付图</b>。</li>
+      <li>本版交付 3 张 1024 × 1024 PNG：<span class="mono">sketch_A_v3_clean.png</span>、<span class="mono">render_A_v3_front.png</span>、<span class="mono">render_A_v3_rear4.png</span>。两张渲染以去水印后的 v3 草图 / 前视渲染为造型参考，草图 ↔ 渲染为同一台车。</li>
+      <li>右下角工具水印用「邻近纹理水平翻转 + 列/行双向羽化 + 逐行色调对齐」清除；补行羽化是为了消掉前视地面在 <span class="mono">y≈940</span> 处的一条硬接缝。带水印原件归档 <span class="mono">original/</span>（<span class="mono">v3_</span> 前缀）。</li>
+      <li>后视图左上方一个圆口被后轮部分遮挡，四个出口仍可辨认；需要「四口全无遮挡」可再出正后视图。</li>
+      <li>本目录为独立概念设计稿，<b>与 langly App 代码无关</b>；未改 <span class="mono">lib/</span>、未加依赖、未提交 git。</li>
+      <li><a href="./v2.html">← v2（1000cc / 大六边形四出）</a>　·　<a href="./index.html">← v1 两案对比页</a></li>
+    </ul>
+  </div>
+
+  <p class="foot">VANTA-01 R3 · 概念设计稿 · 参数均为设定值，非实车数据</p>
+</div>
+</body>
+</html>

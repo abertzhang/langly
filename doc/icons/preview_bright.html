@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Langly · J 风格明亮配色优化（第四批）</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 40px 32px 56px; background: #FAF9F6; color: #1A1D24;
+    font: 14px/1.6 -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; }
+  .wrap { max-width: 1000px; margin: 0 auto; }
+  h1 { font-size: 22px; font-weight: 500; margin: 0 0 6px; }
+  h2 { font-size: 15px; font-weight: 500; margin: 32px 0 12px; }
+  .sub { color: #6B7280; font-size: 13px; margin: 0 0 28px; }
+  .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+  .card { background: #FFFFFF; border: 1px solid #E8EAF0; border-radius: 16px; padding: 20px; }
+  .preview { display: flex; align-items: center; gap: 18px; }
+  .icon { width: 168px; height: 168px; flex: none; border-radius: 22.5%; object-fit: cover; display: block; background: #F0EEE9; }
+  .side { min-width: 0; }
+  .name { font-size: 16px; font-weight: 500; margin: 0 0 4px; }
+  .tag { display: inline-block; font-size: 12px; padding: 1px 8px; border-radius: 8px; margin-bottom: 10px; background: #FDEEE7; color: #A44A22; }
+  .tag.alt { background: #F1EFE8; color: #5F5E5A; }
+  .tag.new { background: #E8F3EC; color: #2F6B45; }
+  .swatch { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+  .dot { width: 14px; height: 14px; border-radius: 4px; border: 1px solid rgba(0,0,0,.08); }
+  .hex { font: 12px ui-monospace, SFMono-Regular, Menlo, monospace; color: #6B7280; }
+  .desc { color: #444441; font-size: 13px; margin: 0 0 8px; }
+  .file { font: 11px ui-monospace, SFMono-Regular, Menlo, monospace; color: #888780; word-break: break-all; }
+  .note, .panel { margin-top: 28px; padding: 16px 20px; background: #FFFFFF; border: 1px solid #E8EAF0; border-radius: 12px; color: #5F5E5A; font-size: 13px; }
+  .note b, .panel b { font-weight: 500; color: #1A1D24; }
+  .note ul { margin: 8px 0 0; padding-left: 20px; }
+  table { width: 100%; border-collapse: collapse; font-size: 12px; margin-top: 10px; }
+  th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid #EEF0F4; vertical-align: top; }
+  th { color: #6B7280; font-weight: 500; background: #FBFAF7; }
+  td.mono, .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  .ok { color: #2F6B45; }
+  .warn { color: #A44A22; }
+  a { color: #A44A22; }
+  @media (max-width: 720px) { .grid { grid-template-columns: 1fr; } .preview { flex-direction: column; align-items: flex-start; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Langly · J 风格明亮配色优化</h1>
+  <p class="sub">第四批 5 个方案 · 1024 × 1024 · 以 J（AI 发音点评）为骨架：构图精修 + 明亮配色</p>
+
+  <div class="grid">
+    <div class="card">
+      <div class="preview">
+        <img class="icon" src="./M_sunrise_orange_L.png" alt="方案 M 日出橙">
+        <div class="side">
+          <p class="name">M · 日出橙</p>
+          <span class="tag">推荐 · J 直系精修</span>
+          <div class="swatch"><span class="dot" style="background:#FD7031"></span><span class="dot" style="background:#FFFFFF"></span><span class="hex">#FD7031 / #FFFFFF</span></div>
+          <p class="desc">四道完整递进的声波弧 + 两枚星芒统一移到弧外右上 + 右下白点。相对 J 修掉了游离短弧与星芒切断声波的问题，是最稳的「原味升级」。</p>
+          <p class="file">M_sunrise_orange_L.png</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="preview">
+        <img class="icon" src="./N_lemon_yellow_L.png" alt="方案 N 柠檬黄">
+        <div class="side">
+          <p class="name">N · 柠檬黄</p>
+          <span class="tag">推荐 · 最醒目 / 对比度最优</span>
+          <div class="swatch"><span class="dot" style="background:#FFE328"></span><span class="dot" style="background:#4C382E"></span><span class="dot" style="background:#FF5A36"></span><span class="hex">#FFE328 / #4C382E / #FF5A36</span></div>
+          <p class="desc">深可可 L 与弧 + 珊瑚橙星芒与圆点。全场明度最高，也是唯一主图形对比度达 8.51:1 的一张，缩到通知栏小图标依然清楚。</p>
+          <p class="file">N_lemon_yellow_L.png</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="preview">
+        <img class="icon" src="./O_peach_apricot_L.png" alt="方案 O 蜜桃杏">
+        <div class="side">
+          <p class="name">O · 蜜桃杏</p>
+          <span class="tag alt">最柔和 · 仅适合大图标</span>
+          <div class="swatch"><span class="dot" style="background:#FDA96E"></span><span class="dot" style="background:#FFFFFF"></span><span class="dot" style="background:#8A4B22"></span><span class="hex">#FDA96E / #FFFFFF / #8A4B22</span></div>
+          <p class="desc">圆角白 L，声波精简为两道，白星芒 + 焦糖圆点。最轻快友好；但白 L 在浅底上只有 1.90:1，小尺寸会发糊。</p>
+          <p class="file">O_peach_apricot_L.png</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="preview">
+        <img class="icon" src="./P_amber_coral_duet_L.png" alt="方案 P 琥珀珊瑚双色">
+        <div class="side">
+          <p class="name">P · 琥珀珊瑚双色</p>
+          <span class="tag">推荐 · 最有设计感</span>
+          <div class="swatch"><span class="dot" style="background:#FFB121"></span><span class="dot" style="background:#FF6E44"></span><span class="dot" style="background:#FFFFFF"></span><span class="hex">#FFB121 / #FF6E44 / #FFFFFF</span></div>
+          <p class="desc">上黄下橙两块纯色、水平直线分界，白 L 横跨两色，四道弧 + 两枚星芒。编辑设计感最强，桌面上一眼认得出。</p>
+          <p class="file">P_amber_coral_duet_L.png</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="preview">
+        <img class="icon" src="./Q_peach_highcontrast_L.png" alt="方案 Q 蜜桃杏高对比">
+        <div class="side">
+          <p class="name">Q · 蜜桃杏高对比</p>
+          <span class="tag new">补强 · 本地改色衍生</span>
+          <div class="swatch"><span class="dot" style="background:#FDA96E"></span><span class="dot" style="background:#4C382E"></span><span class="dot" style="background:#8A4B22"></span><span class="hex">#FDA96E / #4C382E / #8A4B22</span></div>
+          <p class="desc">保留 O 的构图与明亮底，把白色图形换成与 N 同款深可可，对比度从 1.90:1 提到 <b>5.79:1</b>。这一版是本地像素改色衍生，<b>非模型生成</b>，不额外消耗积分。</p>
+          <p class="file">Q_peach_highcontrast_L.png</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="note">
+    <b>相对 J 优化了什么</b>
+    <ul>
+      <li>弧线改为<b>完整连续、等距递进</b>，不再被星芒切断；模型把三道弧画成了四道（O 精简为两道），视觉更饱满，予以保留。</li>
+      <li>两枚<b>四角星芒统一移到最外弧的右上方外侧</b>，悬浮不压弧；删掉了 J 里游离的短线段。</li>
+      <li>保留识别骨架：<b>大写 L + 声波弧 + AI 星芒 + 右下录音点</b>，语义仍是「AI 听你讲、给发音反馈」。</li>
+      <li>配色整体提高明度，仍守暖色根（橙 / 黄 / 杏 / 珊瑚）；P 用双色块做层次而非渐变。</li>
+    </ul>
+  </div>
+
+  <div class="panel">
+    <h2 style="margin-top:0">色彩令牌（实测值，供 Flutter / 设计稿落地对齐）</h2>
+    <p style="margin:0">色值全部从成品 PNG 取样，不是提示词里的目标值。按「语义层」组织，组件只引用语义令牌，不硬编码原始色。</p>
+    <table>
+      <thead><tr><th>语义令牌</th><th>用途</th><th>M</th><th>N</th><th>O</th><th>P</th><th>Q</th></tr></thead>
+      <tbody>
+        <tr><td class="mono">--icon-bg</td><td>背景</td><td class="mono">#FD7031</td><td class="mono">#FFE328</td><td class="mono">#FDA96E</td><td class="mono">#FFB121 / #FF6E44</td><td class="mono">#FDA96E</td></tr>
+        <tr><td class="mono">--icon-fg</td><td>主体 L + 声波弧</td><td class="mono">#FFFFFF</td><td class="mono">#4C382E</td><td class="mono">#FFFFFF</td><td class="mono">#FFFFFF</td><td class="mono">#4C382E</td></tr>
+        <tr><td class="mono">--icon-ai</td><td>四角星芒（AI）</td><td class="mono">#FFFFFF</td><td class="mono">#FF5A36</td><td class="mono">#FFFFFF</td><td class="mono">#FFFFFF</td><td class="mono">#4C382E</td></tr>
+        <tr><td class="mono">--icon-accent</td><td>右下录音点</td><td class="mono">#FFFFFF</td><td class="mono">#FF5A36</td><td class="mono">#8A4B22</td><td class="mono">#FFFFFF</td><td class="mono">#8A4B22</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="panel">
+    <h2 style="margin-top:0">对比度实测（WCAG 非文本图形基线 3:1）</h2>
+    <table>
+      <thead><tr><th>方案</th><th>主图形 / 背景</th><th>实测对比度</th><th>3:1 基线</th><th>适用</th></tr></thead>
+      <tbody>
+        <tr><td>M 日出橙</td><td class="mono">#FFFFFF / #FD7031</td><td class="mono">2.79:1</td><td class="warn">未达</td><td>桌面大图标</td></tr>
+        <tr><td>N 柠檬黄</td><td class="mono">#4C382E / #FFE328</td><td class="mono">8.51:1</td><td class="ok">达标</td><td class="ok">全尺寸</td></tr>
+        <tr><td>O 蜜桃杏</td><td class="mono">#FFFFFF / #FDA96E</td><td class="mono">1.90:1</td><td class="warn">未达</td><td>仅大图标</td></tr>
+        <tr><td>P 双色块</td><td class="mono">#FFFFFF / 上下两色</td><td class="mono">1.82 / 2.78:1</td><td class="warn">未达</td><td>仅大图标</td></tr>
+        <tr><td>Q 高对比</td><td class="mono">#4C382E / #FDA96E</td><td class="mono">5.79:1</td><td class="ok">达标</td><td class="ok">全尺寸</td></tr>
+      </tbody>
+    </table>
+    <p style="margin:12px 0 0">说明：App 图标属<b>品牌图形</b>，严格来说 WCAG 3:1 针对的是 UI 控件与功能性图形，品牌 Logo 通常豁免；这里按设计系统规范从严标注，供后续出<b>小尺寸 / 单色 / 通知栏图标</b>时选型参考。N 的珊瑚橙星芒为 2.40:1，属装饰性点缀，不影响主体识别。<br><b>结论：要「明亮 + 全尺寸清晰」两项兼得，优先 N 或 Q</b>；只看桌面观感，M 与 P 更出挑。</p>
+  </div>
+
+  <div class="note">
+    <b>交付说明</b>
+    <ul>
+      <li>5 张均为 1024 × 1024 不透明 PNG、直角方形（圆角由系统遮罩生成，上方是 iOS 圆角模拟）。</li>
+      <li>模型生成的 M/N/O/P 已去除右下角工具水印：先量得水印在 <span class="mono">x≥900 / y≥960</span>、各图圆点均在 <span class="mono">y&lt;950</span>，因此把覆盖区收紧为 <span class="mono">x≥890 / y≥955</span>，逐行取最左背景色填充，保留了背景纵向明暗且不误伤圆点。带水印原件归档在 <span class="mono">original/</span>（<span class="mono">bright_</span> 前缀）。</li>
+      <li>Q 由 O 本地改色衍生，无对应原件；改色用 G 通道还原抗锯齿覆盖度，焦糖圆点按规则原样保留。</li>
+      <li>本轮只写设计稿文件，<b>未改 <span class="mono">lib/</span>、未动各平台 AppIcon 目录、未加依赖</b>。</li>
+      <li>分批导航：<a href="./index.html">17 案总览</a> · <a href="./preview_ai.html">第三批（含原型 J）</a> · <a href="./preview_language.html">第二批</a> · <a href="./preview.html">第一批</a>。</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>
