@@ -140,7 +140,9 @@ class HomePage extends ConsumerWidget {
         children: [
           Text('屏幕适配 · flutter_screenutil_plus', style: _titleStyle(scheme)),
           SizedBox(height: 6.h),
-          Text('下面的尺寸与字号都按 390×844 设计稿等比换算。', style: _bodyStyle(scheme)),
+          // 文案与 main.dart 的 kDesignSize（402×874）保持一致：
+          // 基准尺寸改了，这行也要同步，避免界面上显示的是过期数值。
+          Text('下面的尺寸与字号都按 402×874 设计稿等比换算。', style: _bodyStyle(scheme)),
           SizedBox(height: 14.h),
           Container(
             width: 150.w,

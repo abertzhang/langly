@@ -7,6 +7,14 @@ import 'core/theme/app_theme.dart';
 import 'core/theme/theme_mode_provider.dart';
 import 'features/home/home_page.dart';
 
+/// 设计稿基准尺寸（逻辑点 dp）。
+///
+/// 来源：1206 × 2622 的物理像素稿按 @3x 换算 → 402 × 874 dp
+/// （对应 iPhone 16 Pro 一类的 6.3 英寸机型）。
+/// 所有 .w / .h / .r / .sp 都以这个尺寸为分母等比换算，
+/// 改这里一处即可，不需要去动每个页面的数值。
+const Size kDesignSize = Size(402, 874);
+
 /// 应用入口。
 ///
 /// 启动顺序有讲究：
@@ -29,9 +37,9 @@ class LanglyApp extends ConsumerWidget {
     final themeMode = ref.watch(themeModeProvider);
 
     return ScreenUtilPlusInit(
-      // 设计稿基准尺寸，来自 doc/mockplus_ai_prompt.md（390×844）。
-      // 所有 .w / .h / .r / .sp 都按这个基准等比换算。
-      designSize: const Size(390, 844),
+      // 设计稿基准：402×874 dp（1206×2622 物理像素 @3x）。
+      // 详见文件顶部的 kDesignSize 注释。
+      designSize: kDesignSize,
       // 文字按宽度缩放，且不小于系统最小字号，避免小屏上文字被压得过小。
       minTextAdapt: true,
       // 分屏 / 多窗口时按当前窗口尺寸重算，而不是拿整块屏幕尺寸。

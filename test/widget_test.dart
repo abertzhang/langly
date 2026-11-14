@@ -10,6 +10,7 @@ import 'dart:io' show Directory;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hive/hive.dart';
 import 'package:langly/core/storage/hive_service.dart';
@@ -33,6 +34,13 @@ void main() {
     await pumpSafely(tester);
 
     expect(find.text('当前选择：跟随系统'), findsOneWidget);
+
+    // 设计稿基准回归：先锁住常量值，再用运行时缩放比反推分母，
+    // 确认 ScreenUtilPlusInit 真的按 402 宽初始化（不只是源码改了数字）。
+    expect(kDesignSize, const Size(402, 874));
+    final su = ScreenUtilPlus();
+    expect(su.screenWidth / su.scaleWidth, closeTo(kDesignSize.width, 0.001));
+    expect(find.textContaining('402×874'), findsOneWidget);
 
     // 切到深色。
     await tester.tap(
