@@ -1,0 +1,642 @@
+[
+  {
+    "point_content": "The devil is in the details",
+    "tag": ["谚语", "细节风险", "中性", "项目/合同", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "细节决定成败；魔鬼藏在细节里；麻烦都出在细节上\n自然译法：细看条款才知道坑 / 难处都在细节 / 别只看大方向",
+    "examples": [
+      "The plan sounds good, but the devil is in the details. 方案听着不错，麻烦都在细节。",
+      "The devil is in the details — read the contract clause by clause. 细节定成败，逐条读合同。",
+      "We lost money because the devil was in the details of the shipping terms. 我们亏在运输条款的细节上。",
+      "Design is where the devil is in the details. 设计就是魔鬼藏在细节的地方。",
+      "Sometimes it's the opposite: the good is in the details. 有时反过来：好处也在细节里。"
+    ],
+    "explanation": "【概要】谚语，指计划或协议总体可行，但真正的风险与难点都在具体细节中；常提醒逐项核对。\n【结构】The devil is in the details.（固定 the devil…the details）；变体 God is in the details（正面版）。\n【语用】中性，合同、项目复盘、设计评审；与 in principle（原则上可行）常搭配。\n【易错】① 固定冠词 the devil/the details；② 与 detail-oriented（注重细节）形容词不同；③ 正面变体是 God is in the details。",
+    "synonym_points": [
+      "God is in the details — 细节成就完美（正面版）",
+      "the small print matters — 小字条款很关键",
+      "check the fine print — 看细则",
+      "details decide success — 细节定成败"
+    ],
+    "antonym_points": [
+      "the big picture — 大局（对照视角）",
+      "don't sweat the small stuff — 别纠结小事",
+      "high level only — 只看高层框架",
+      "bird's-eye view — 鸟瞰视角"
+    ],
+    "extended_points": [
+      "fine print — 小字条款",
+      "the big picture — 全局",
+      "due diligence — 尽职调查（实务对应）"
+    ],
+    "key_point": "【速记】The devil is in the details = 麻烦在细节。\n冠词固定；合同项目高频。\n正面版 God is in the details。"
+  },
+  {
+    "point_content": "Don't get cocky",
+    "tag": ["口语提醒", "别自大", "中性偏负", "竞技/职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别自以为是；别得意忘形；别太狂\n自然译法：别太得意 / 稳住，别飘 / 赢一场别当自己是神",
+    "examples": [
+      "We're one goal up — don't get cocky. 我们只领先一球，别太得意。",
+      "Don't get cocky after one good quarter. 一个季度业绩好，别就飘了。",
+      "He got cocky and skipped the checks; the release broke. 他太自信跳过了检查，版本崩了。",
+      "Don't get cocky, but do enjoy the win. 别飘，但可以享受胜利。",
+      "Cocky isn't confident — it's overconfident and dismissive. cocky 不等于自信，是过度自信还轻视别人。"
+    ],
+    "explanation": "【概要】提醒对方不要因一时顺利而过度自信、轻视对手；confidence 是褒义，cocky 带贬义。\n【结构】get cocky（get + 形容词）；也可说 don't get too big for your boots（英式）、stay humble。\n【语用】中性偏负，体育、销售、项目；对年轻人使用要避免变成打压。\n【易错】① cocky 为贬义（≠ confident）；② 构成 get cocky（不是 be cocky 才可）；③ 与 arrogant（更重）程度不同。",
+    "synonym_points": [
+      "stay humble — 保持谦逊（正向说法）",
+      "don't get ahead of yourself — 别得意太早",
+      "don't be arrogant — 别傲慢",
+      "don't count your chickens — 别过早高兴"
+    ],
+    "antonym_points": [
+      "be confident — 自信（正面）",
+      "own your win — 大方承认胜利",
+      "you earned it — 你应得的",
+      "believe in yourself — 相信你自己"
+    ],
+    "extended_points": [
+      "confidence vs cockiness — 自信与自大的分界",
+      "get too big for your boots — 英式「膨胀」",
+      "humblebrag — 凡尔赛式自夸"
+    ],
+    "key_point": "【速记】Don't get cocky = 别太得意。\ncocky 为贬义（≠ confident）。\n正向替代 stay humble。"
+  },
+  {
+    "point_content": "I'm into you",
+    "tag": ["表白用语", "喜欢", "正面", "关系", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我喜欢你；我对你有感觉；我很中意你\n自然译法：我看上你了 / 我对你挺有意思 / 我很喜欢你",
+    "examples": [
+      "I'm into you — do you want to go out sometime? 我喜欢你，要不要一起出去？",
+      "She told him she was into him. 她告诉他她对他有感觉。",
+      "I'm into you, but I need to take it slow. 我喜欢你，但想慢慢来。",
+      "Being into someone is lighter than being in love. into 比 in love 的程度轻一些。",
+      "I'm into you doesn't mean I'm into your friends. 这是喜欢「你」，不含你朋友。（也常用于爱好：I'm into jazz）"
+    ],
+    "explanation": "【概要】be into sb 指对某人有好感、有吸引力，程度轻于 I'm in love with you；be into sth 则指「热衷于某事」。\n【结构】be into sb / sth（口语，介词 into 固定）；更正式说 I have feelings for you。\n【语用】正面，恋爱初级阶段；直接表白需评估关系阶段，职场慎用。\n【易错】① 介词 into（不是 on）；② 与 be in love with（更深）区分；③ 同一结构可接爱好。",
+    "synonym_points": [
+      "I have feelings for you — 我对你有感觉（略正式）",
+      "I'm interested in you — 我对你有兴趣",
+      "I like you — 我喜欢你（通用）",
+      "I'm crushing on you — 我在暗恋你（口语）"
+    ],
+    "antonym_points": [
+      "I'm not into you — 我对你没感觉",
+      "let's just be friends — 还是做朋友吧",
+      "I'm not interested — 我没兴趣",
+      "you're not my type — 你不是我的类型"
+    ],
+    "extended_points": [
+      "be into sth — 热衷于某事",
+      "have a crush on sb — 暗恋",
+      "in love with — 更深程度的爱"
+    ],
+    "key_point": "【速记】I'm into you = 我喜欢你（轻于 in love）。\n介词 into；也可接爱好。\n正式版 I have feelings for you。"
+  },
+  {
+    "point_content": "It was all for nothing",
+    "tag": ["情绪表达", "徒劳", "负面", "复盘/安慰", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "一切都是白费；全白忙一场；毫无意义\n自然译法：白干了 / 全打了水漂 / 一场空",
+    "examples": [
+      "We spent six months and it was all for nothing. 花了半年，全白费了。",
+      "It was all for nothing — the client cancelled anyway. 全白忙，客户最后取消。",
+      "Don't say it was all for nothing; you learned a lot. 别说全白费，你学到了东西。",
+      "He felt it was all for nothing after the rejection. 被拒之后他觉得全无意义。",
+      "All for nothing doesn't mean the effort had no value. 「白费」不等于努力没价值（安慰视角）。"
+    ],
+    "explanation": "【概要】表达努力未获回报、结果归零的失落感，语气强负面，常用于复盘或安慰场景。\n【结构】all for nothing（固定副词短语，for nothing＝毫无结果）；也可说 in vain。\n【语用】负面，失败复盘、情绪表达；安慰他人时应避免附和这句。\n【易错】① for nothing 不是「免费」（free 才表免费）；② 与 for free（免费）不同；③ 与 all for one（团结口号）无关。",
+    "synonym_points": [
+      "it was in vain — 白费了（正式）",
+      "a wasted effort — 白费功夫",
+      "we're back to square one — 回到起点",
+      "it came to nothing — 一无所成"
+    ],
+    "antonym_points": [
+      "it paid off — 有回报",
+      "worth every minute — 每分钟都值",
+      "it was a success — 成功了",
+      "all that effort paid off — 努力有成果"
+    ],
+    "extended_points": [
+      "in vain — 徒劳（书面）",
+      "sunk cost — 沉没成本",
+      "for nothing 与 for free 的区别"
+    ],
+    "key_point": "【速记】all for nothing = 白费一场。\nfor nothing≠免费；安慰时别附和。\n书面版 in vain。"
+  },
+  {
+    "point_content": "Mr. Right",
+    "tag": ["关系用语", "理想伴侣", "正面", "社交", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "真命天子；白马王子；命中注定的那个人（男）\n自然译法：对的那个人 / 我的白马王子 / 就是他了",
+    "examples": [
+      "She's still waiting for Mr. Right. 她还在等她的真命天子。",
+      "He's not Mr. Right, but he's fun. 他不是真命天子，但挺有趣。",
+      "I think I finally found Mr. Right. 我觉得终于找到对的人了。",
+      "Mr. Right vs Mr. Right Now is a common joke. 「真命天子」与「现在的伴儿」是常见玩笑对比。",
+      "The female equivalent is Miss Right or Ms. Right. 对应说法是 Miss/Ms. Right。"
+    ],
+    "explanation": "【概要】Mr. Right 指理想中的终身伴侣（男性），带浪漫与命定色彩；女性对应 Miss/Ms. Right。\n【结构】Mr. + Right（大写，可加 the）；也可说 the one。\n【语用】正面，朋友闲聊、影视；近年被视为过度理想化，可搭配 Mr. Right Now 调侃。\n【易错】① 大写 Right；② 与 Mr. Right Now（凑合的伴儿）不同；③ 女性用 Miss/Ms. Right。",
+    "synonym_points": [
+      "the one — 命中注定的那个人",
+      "my soulmate — 灵魂伴侣",
+      "Prince Charming — 白马王子",
+      "Ms. Right — 真命天女（女版）"
+    ],
+    "antonym_points": [
+      "Mr. Wrong — 错的人（口语）",
+      "Mr. Right Now — 只适合当下的人（调侃）",
+      "a rebound — 过渡期对象",
+      "not my type — 不是我那型"
+    ],
+    "extended_points": [
+      "Mr. Right Now — 调侃变体",
+      "soulmate — 灵魂伴侣",
+      "Prince Charming — 童话原型"
+    ],
+    "key_point": "【速记】Mr. Right = 真命天子。\n大写 Right；女版 Ms. Right。\n调侃版 Mr. Right Now。"
+  },
+  {
+    "point_content": "Out of the blue",
+    "tag": ["习语", "突然", "中性", "叙事", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "突然；毫无预兆地；晴天霹雳般（突如其来）\n注意：索引里中文写作「我不知道」，属对不上号的口播文案；本条目按短语本身的规范义处理\n自然译法：突然就 / 冷不丁 / 毫无征兆",
+    "examples": [
+      "He called me out of the blue after ten years. 十年后他突然给我打了电话。",
+      "The offer came out of the blue. 那个 offer 来得毫无预兆。",
+      "Out of the blue, she announced she was leaving. 她冷不丁宣布要走。",
+      "It didn't come out of the blue — there were warnings. 这不是突然发生的，早有警告。",
+      "The phrase means unexpectedly, not \"I don't know.\" 这个短语意为「突然」，不是「我不知道」。"
+    ],
+    "explanation": "【概要】out of the blue 意为「突然、出乎意料」，源自 a bolt out of the blue（晴空霹雳）；索引中文标注与短语字面不符，已按规范义重建。\n【结构】out of the blue（固定 the blue，作状语）；也可说 all of a sudden、out of nowhere。\n【语用】中性，叙事高频；与「毫无根据」义（out of thin air）不同。\n【易错】① 固定 the blue；② 不是「从蓝色里出来」；③ out of thin air 指「凭空捏造」，语义不同。",
+    "synonym_points": [
+      "all of a sudden — 突然间",
+      "out of nowhere — 不知从哪冒出来",
+      "without warning — 毫无预警",
+      "a bolt from the blue — 晴天霹雳"
+    ],
+    "antonym_points": [
+      "as expected — 如预期",
+      "predictably — 可预见地",
+      "right on schedule — 按计划",
+      "no surprises — 没有意外"
+    ],
+    "extended_points": [
+      "a bolt from the blue — 晴天霹雳（同源）",
+      "out of thin air — 凭空（不同义）",
+      "out of nowhere — 突然出现"
+    ],
+    "key_point": "【速记】out of the blue = 突然、毫无预兆。\n固定 the blue；源自晴空霹雳。\n勿混 out of thin air（凭空）。"
+  },
+  {
+    "point_content": "Keep dreaming",
+    "tag": ["口语讽刺", "别做梦", "中性偏负", "非正式", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "做你的白日梦去吧；想都别想；继续做梦吧\n自然译法：想得美 / 醒醒吧 / 梦里啥都有",
+    "examples": [
+      "You want a raise after that meeting? Keep dreaming. 那次会上你还想加薪？做梦吧。",
+      "Keep dreaming — that apartment costs triple. 想得美，那套房贵三倍。",
+      "He said keep dreaming when I asked for a day off. 我请假，他说「做梦」。",
+      "Keep dreaming can be playful between friends. 朋友间可当玩笑，职场会显得刻薄。",
+      "Keep dreaming is the opposite of \"in your dreams\" — both mean no. 与 in your dreams 同义，都是「不可能」。"
+    ],
+    "explanation": "【概要】讽刺性否定，表示对方愿望不切实际、不会实现；语气从玩笑到刻薄都有可能。\n【结构】Keep dreaming.（祈使句）；同义 in your dreams、dream on。\n【语用】中性偏负，朋友斗嘴；对下属或客户使用会显轻蔑。\n【易错】① 与 dream big（鼓励追梦，正面）方向相反；② 与 sweet dreams（晚安）无关；③ 注意语气分寸。",
+    "synonym_points": [
+      "in your dreams — 梦里吧（同义）",
+      "dream on — 继续做梦（英式口语）",
+      "not a chance — 别想了",
+      "you wish — 想得美"
+    ],
+    "antonym_points": [
+      "dream big — 大胆梦想（正面）",
+      "go for it — 去争取",
+      "it's possible — 有可能",
+      "why not — 有何不可"
+    ],
+    "extended_points": [
+      "dream on — 同义口语",
+      "dream big — 正面相反语",
+      "pipe dream — 白日梦（名词）"
+    ],
+    "key_point": "【速记】Keep dreaming = 做梦吧（想得美）。\n同义 in your dreams / dream on。\n与 dream big（追梦）方向相反。"
+  },
+  {
+    "point_content": "That's rich coming from you",
+    "tag": ["口语反讽", "双重标准", "强负面", "冲突", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这话你也有脸说；你这么说可真讽刺；你有什么资格讲\n自然译法：你还好意思说 / 轮不到你讲 / 自己都做不到还来教我",
+    "examples": [
+      "You're telling me to be on time? That's rich coming from you. 你让我守时？你还好意思说。",
+      "That's rich coming from the guy who quit twice. 这话从一个辞过两次职的人嘴里说出来真讽刺。",
+      "She said it was rich of him to complain about lateness. 她说他抱怨迟到真是可笑。",
+      "That's rich coming from you — you wrote the rule. 你有脸说？这规则是你写的。",
+      "Rich here means ironic, not wealthy. 这里的 rich 是「讽刺」，不是「有钱」。"
+    ],
+    "explanation": "【概要】反讽句式，指出对方言行不一、没有资格作此评论；that's rich = 真讽刺，此处 rich 非「富有」。\n【结构】That's rich coming from you.（固定结构，coming from sb）；也可说 that's a bit rich。\n【语用】强负面，冲突现场；职场公开使用会升级矛盾。\n【易错】① rich 在此为「荒诞可笑」；② 固定 coming from you；③ 与 that's rich!（真有钱/真丰富）歧义，靠语境。",
+    "synonym_points": [
+      "look who's talking — 你也好意思说",
+      "pot calling the kettle black — 五十步笑百步",
+      "that's a bit rich — 有点过分了（英式）",
+      "you of all people — 偏偏是你（说这话）"
+    ],
+    "antonym_points": [
+      "fair point — 说得有理",
+      "you're right — 你说得对",
+      "you practice what you preach — 你言行一致",
+      "well said — 说得好"
+    ],
+    "extended_points": [
+      "pot calling the kettle black — 同义谚语",
+      "look who's talking — 同义口语",
+      "double standard — 双重标准"
+    ],
+    "key_point": "【速记】That's rich coming from you = 你也有脸说。\nrich＝讽刺（非富有）；固定 coming from you。\n同义 look who's talking。"
+  },
+  {
+    "point_content": "Give me some sugar",
+    "tag": ["亲密口语", "亲吻", "正面", "家庭/情侣", "地域色彩"],
+    "translation_lang": "zh-CN",
+    "translation_content": "来亲一个；给我个吻；（也可指）来点甜头\n自然译法：亲一个嘛 / 来抱一下 / 给点甜头",
+    "examples": [
+      "Come here and give me some sugar. 过来亲一个。",
+      "Grandma said, \"Give me some sugar,\" and he kissed her cheek. 奶奶说「来亲一个」，他亲了她脸颊。",
+      "Give me some sugar before you leave. 走之前亲一下。",
+      "In the South, give me some sugar usually means a kiss. 在美南地区多指亲吻。",
+      "It can also mean sweets or affection in other contexts. 其他语境也可指糖果或撒娇。"
+    ],
+    "explanation": "【概要】美式（尤其南方）亲昵说法，请求亲吻或拥抱，也可指要糖；语域非常亲密、家庭化。\n【结构】give sb some sugar（some 固定）；也可说 give me a kiss。\n【语用】正面但极亲密，家人、情侣、长辈与小孩；职场与陌生人禁用。\n【易错】① 需 some；② 语义随地域可指「糖果」；③ 对非亲密者说会构成冒犯。",
+    "synonym_points": [
+      "give me a kiss — 亲一下",
+      "come here, sweetie — 过来，宝贝（亲昵）",
+      "smooch — 亲吻（口语）",
+      "hug it out — 抱一抱和好"
+    ],
+    "antonym_points": [
+      "keep your distance — 保持距离",
+      "no touching — 别碰我",
+      "don't touch me — 别动手动脚",
+      "hands off — 别碰"
+    ],
+    "extended_points": [
+      "smooch — 亲吻（口语）",
+      "PDA (public display of affection) — 公开亲昵",
+      "sugar 的多义（糖/亲昵）"
+    ],
+    "key_point": "【速记】Give me some sugar = 来亲一个（美南亲昵）。\nsome 固定；仅限家人情侣。\n对陌生人说即冒犯。"
+  },
+  {
+    "point_content": "I'd rather not say",
+    "tag": ["礼貌回避", "拒答", "中性", "社交/职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我还是不说了；这个我不太想讲；恕我不便透露\n自然译法：这个就不说了 / 不太方便讲 / 保密",
+    "examples": [
+      "\"How much did you pay?\" \"I'd rather not say.\" 「你花了多少？」「不太想说。」",
+      "I'd rather not say why I left the job. 离职原因我不太想讲。",
+      "She said she'd rather not say in front of everyone. 她说当众不太方便讲。",
+      "I'd rather not say is polite; \"none of your business\" is not. 前者礼貌，后者粗暴。",
+      "In interviews, I'd rather not say may raise questions. 面试里这句可能招来追问。"
+    ],
+    "explanation": "【概要】礼貌拒绝回答私人问题，语气不冒犯；比直接拒绝更得体，但仍需准备后续追问的应对。\n【结构】would rather not + 动词原形（固定搭配）；也可说 I'd prefer not to say。\n【语用】中性，薪酬、隐私、离职原因；面对客户询问技术细节时可用 I'm not at liberty to share。\n【易错】① rather not + 原形（不接 saying）；② 与 I'd rather say（宁愿说）相反；③ 反复使用会显不合作。",
+    "synonym_points": [
+      "I'd prefer not to say — 我不太想说（略正式）",
+      "that's private — 这属于隐私",
+      "I'm not at liberty to share — 无权透露（正式）",
+      "let's skip that — 这个跳过吧"
+    ],
+    "antonym_points": [
+      "I'll tell you everything — 我都告诉你",
+      "happy to share — 乐意分享",
+      "here's the full story — 完整经过是这样",
+      "ask me anything — 随便问"
+    ],
+    "extended_points": [
+      "would rather not 的搭配",
+      "privacy boundary — 隐私边界",
+      "off the record — 不供发表（近似）"
+    ],
+    "key_point": "【速记】I'd rather not say = 我不太想说。\nwould rather not + 原形；礼貌回避。\n正式版 not at liberty to share。"
+  },
+  {
+    "point_content": "Honesty is the best policy",
+    "tag": ["谚语", "诚实", "正面", "道德/教育", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "诚实为上策；老实最划算；还是说实话好\n自然译法：实话最省事 / 别绕了，说真话 / 诚实不吃亏",
+    "examples": [
+      "Tell the client you missed the deadline — honesty is the best policy. 跟客户说你没赶上，诚实为上。",
+      "Honesty is the best policy, even when it costs you. 即使有代价，诚实仍是上策。",
+      "He admitted the mistake: honesty is the best policy. 他承认错误，诚实最划算。",
+      "Honesty is the best policy doesn't mean brutal honesty. 诚实为上不等于口无遮拦。",
+      "Kids learn this proverb before they learn nuance. 孩子先学这句，后才懂分寸。"
+    ],
+    "explanation": "【概要】谚语，主张诚实通常带来最好结果（信任、减少返工），并非绝对道德律令。\n【结构】Honesty is the best policy.（抽象名词 + is + the best policy）；不加冠词于 honesty 前。\n【语用】正面，教育、职场沟通；需与「不留情面的直白」区分（brutal honesty 可能伤人）。\n【易错】① honesty 不可数；② policy 前用 the best；③ 不等于「任何场合都要全盘托出」。",
+    "synonym_points": [
+      "truth will out — 真相终会大白",
+      "better the truth than a lie — 宁可实话",
+      "transparency builds trust — 透明建立信任",
+      "own up — 坦白承认"
+    ],
+    "antonym_points": [
+      "honesty is overrated — 诚实被高估了（反调）",
+      "a white lie — 善意谎言",
+      "what they don't know won't hurt them — 不知道就没事",
+      "cover it up — 掩盖"
+    ],
+    "extended_points": [
+      "white lie — 善意谎言",
+      "brutal honesty — 口无遮拦的诚实",
+      "transparency — 透明度"
+    ],
+    "key_point": "【速记】Honesty is the best policy = 诚实为上策。\nhonesty 不可数；≠ 口无遮拦。\n反调 a white lie。"
+  },
+  {
+    "point_content": "We got company",
+    "tag": ["口语提醒", "有人来了", "中性", "家庭/职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "有人来了；来客人了；有外人在（注意言行）\n自然译法：有客到 / 有人来了 / 别乱说了，有人",
+    "examples": [
+      "We got company — put the cake away. 有人来了，把蛋糕收起来。",
+      "We got company, so mind what you say. 有外人，说话注意点。",
+      "He whispered \"we got company\" when the boss walked in. 老板进来时他低声说「有人来了」。",
+      "We got company at three, so tidy up. 三点有客人，收拾一下。",
+      "In business, \"we got company\" can mean a competitor arrived. 商务里也可指「竞争对手来了」。"
+    ],
+    "explanation": "【概要】提醒同伴有人到来（客人、上级、外人），常含「言行收敛」的暗示；company 在此为「来客、他人在场」。\n【结构】have company（有客人/有他人在场）；口语用 got。\n【语用】中性，家庭接待、办公室提醒；语气紧迫，通常紧接着调整行为。\n【易错】① company 不可数（不加 a）；② 与 company（公司）义不同；③ 与 in good company（和优秀的人一样）无关。",
+    "synonym_points": [
+      "someone's here — 有人来了",
+      "we have visitors — 有访客",
+      "heads up, boss incoming — 注意，领导来了",
+      "company's coming — 客要来了"
+    ],
+    "antonym_points": [
+      "we're alone — 就我们自己",
+      "nobody's here — 没人",
+      "the coast is clear — 安全了、没人（口语）",
+      "it's just us — 只有我们"
+    ],
+    "extended_points": [
+      "have company — 有客/有人在场",
+      "the coast is clear — 没人盯着",
+      "in good company — 与强者为伍（不同义）"
+    ],
+    "key_point": "【速记】We got company = 有人来了（注意言行）。\ncompany 不可数；≠ 公司。\n另一义：the coast is clear。"
+  },
+  {
+    "point_content": "Don't count your chickens",
+    "tag": ["谚语（省略式）", "别过早乐观", "中性", "商业/日常", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别高兴得太早；蛋没孵出来别数鸡；别提前算账\n自然译法：还没定呢别庆祝 / 等签了再说 / 别先吹",
+    "examples": [
+      "Don't count your chickens — the contract isn't signed. 别高兴太早，合同还没签。",
+      "He booked the venue before the funding came: don't count your chickens. 资金到账前就订了场地，别先算账。",
+      "Don't count your chickens before they hatch. 蛋没孵别数鸡（完整谚语）。",
+      "Counting chickens early can make a letdown worse. 过早乐观，失望更大。",
+      "She said don't count your chickens and waited for the results. 她说别高兴太早，等结果。"
+    ],
+    "explanation": "【概要】don't count your chickens (before they hatch) 指不要在结果确定前就把它当既定，劝人保留余地。\n【结构】省略式 don't count your chickens；完整版 + before they hatch。\n【语用】中性，商业预测、求职、比赛；对兴奋者说需注意别扫兴过度。\n【易错】① chickens 复数；② 省略后仍是同一谚语；③ 与 don't put all your eggs in one basket（别孤注一掷）不同。",
+    "synonym_points": [
+      "don't get ahead of yourself — 别太提前",
+      "it's not over till it's over — 没结束就不算完",
+      "don't jinx it — 别乌鸦嘴",
+      "wait for the results — 等结果"
+    ],
+    "antonym_points": [
+      "it's in the bag — 稳了",
+      "count on it — 放心",
+      "a sure thing — 十拿九稳",
+      "celebrate early — 提前庆祝"
+    ],
+    "extended_points": [
+      "before they hatch — 完整谚语后半",
+      "don't put all your eggs in one basket — 别孤注一掷",
+      "it's not over till it's over — 未到终局"
+    ],
+    "key_point": "【速记】Don't count your chickens = 别高兴太早。\nchickens 复数；完整版加 before they hatch。\n勿混 eggs in one basket。"
+  },
+  {
+    "point_content": "Ten to one",
+    "tag": ["口语判断", "很可能", "中性", "推测", "英式色彩"],
+    "translation_lang": "zh-CN",
+    "translation_content": "十有八九；很可能；（赔率语义）十比一\n自然译法：八成是 / 基本肯定 / 打赌是这样",
+    "examples": [
+      "Ten to one he's already left. 十有八九他已经走了。",
+      "Ten to one, the meeting will run late. 八成会议要拖。",
+      "I'll give you ten to one he forgets. 我跟你赌十比一他会忘。",
+      "Ten to one is a guess, not a guarantee. 这只是判断，不是保证。",
+      "\"Is she coming?\" \"Ten to one.\" 「她会来吗？」「十有八九。」"
+    ],
+    "explanation": "【概要】表示极高可能性（约 90%），源自赔率说法；也可字面指「十比一」的赌注赔率。\n【结构】Ten to one, + 从句（固定比值结构）；也可说 nine times out of ten。\n【语用】中性，日常推测、赌局；正式场合用 most likely。\n【易错】① 是「十比一」而非「十分之一」概率；② 与 one in ten（十分之一）方向相反；③ 语域口语。",
+    "synonym_points": [
+      "nine times out of ten — 十次有九次",
+      "in all likelihood — 很可能（正式）",
+      "odds are — 很可能（口语）",
+      "most likely — 最可能"
+    ],
+    "antonym_points": [
+      "one in a million — 百万分之一（极不可能）",
+      "unlikely — 不太可能",
+      "fat chance — 几乎没戏（口语）",
+      "not a chance — 没可能"
+    ],
+    "extended_points": [
+      "odds are — 赔率/可能性",
+      "nine times out of ten — 同义",
+      "long odds — 概率很低（对应）"
+    ],
+    "key_point": "【速记】ten to one = 十有八九。\n是 10:1 赔率，非 1/10；口语推测。\n正式版 in all likelihood。"
+  },
+  {
+    "point_content": "Whatever it takes",
+    "tag": ["决心表达", "不惜代价", "强正面偏执", "承诺/职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "不惜一切代价；无论如何都要做到；需要什么就做什么\n自然译法：不管多难都要办 / 该做的都做 / 我豁出去了",
+    "examples": [
+      "We'll get this launch done, whatever it takes. 这次发布一定得成，不惜代价。",
+      "Whatever it takes, I'm going to finish this degree. 无论如何我要把这学位读完。",
+      "He said whatever it took, he'd be there for his family. 他说不管多难都会陪家人。",
+      "Whatever it takes can excuse burning out your team. 这句也可能成为压榨团队的借口。",
+      "She answered \"whatever it takes\" when asked about the timeline. 问进度她答「怎么都得办到」。"
+    ],
+    "explanation": "【概要】表达为达成目标愿意付出任何努力的强决心，可用于激励，也可能隐含牺牲他人或伦理风险。\n【结构】whatever it takes（it 固定指「所需的」）；也可说 by any means necessary（更激进）。\n【语用】强正面偏执，销售冲刺、个人承诺；管理中应配套边界与资源，避免透支。\n【易错】① 用 takes 而非 take；② 与 whatever it is（不管是什么）不同；③ 不要用来正当化不当手段。",
+    "synonym_points": [
+      "by any means necessary — 用任何手段（更激进）",
+      "at all costs — 不惜一切代价",
+      "no matter what — 无论如何",
+      "do whatever it takes — 想尽办法"
+    ],
+    "antonym_points": [
+      "only if convenient — 方便才做",
+      "within limits — 在限度内",
+      "not at any cost — 不能不计代价",
+      "give it a try — 试试再说"
+    ],
+    "extended_points": [
+      "at all costs — 不惜代价",
+      "by any means necessary — 任何手段（注意伦理边界）",
+      "burnout — 过度消耗（风险）"
+    ],
+    "key_point": "【速记】whatever it takes = 不惜代价。\ntakes 三单；需配边界，防透支。\n更激进版 by any means necessary。"
+  },
+  {
+    "point_content": "You're the love of my life",
+    "tag": ["表白用语", "深情", "正面", "浪漫", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你是我一生的挚爱；你是我这辈子最爱的人\n自然译法：你是我的全部 / 我这辈子最爱的就是你 / 命中挚爱",
+    "examples": [
+      "You're the love of my life — I mean it. 你是我一生的挚爱，我是认真的。",
+      "He told her she was the love of his life. 他跟她说她是他的挚爱。",
+      "She said her husband was the love of her life. 她说丈夫是她一生的爱。",
+      "The love of my life is a strong statement; use it sincerely. 这句分量很重，要真心才说。",
+      "\"The love of my life\" can also describe a passion, like music. 也可形容一生的热爱，如音乐。"
+    ],
+    "explanation": "【概要】最强级别的爱与专属表达，指一生中最重要、最深的爱；也可指某种终身热爱的事物。\n【结构】the love of one's life（固定 the love of + 物主代词 + life）；也可说 my one and only。\n【语用】正面，重大表白、婚礼致辞；轻率使用会贬值，也易给人压力。\n【易错】① 结构是 love of one's life（不是 love of my live）；② 需 the；③ 与 lover（情人，常指地下关系）完全不同。",
+    "synonym_points": [
+      "my one and only — 我的唯一",
+      "my soulmate — 灵魂伴侣",
+      "the one for me — 就是你了",
+      "my everything — 我的一切"
+    ],
+    "antonym_points": [
+      "you mean nothing to me — 你什么都不是",
+      "a fling — 一段短暂关系",
+      "we're done — 我们结束了",
+      "just a friend — 只是朋友"
+    ],
+    "extended_points": [
+      "lover 的语义差异（慎用）",
+      "one and only — 唯一",
+      "soulmate — 灵魂伴侣"
+    ],
+    "key_point": "【速记】the love of my life = 一生挚爱。\n需 the；慎用 lover。\n近义 my one and only。"
+  },
+  {
+    "point_content": "What's your poison?",
+    "tag": ["口语邀请", "喝什么", "正面", "社交/酒吧", "略老派"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你想喝什么？；你要来点什么（酒）？\n自然译法：喝点什么 / 你要哪款 / 来一杯什么",
+    "examples": [
+      "What's your poison? I'm buying. 你想喝什么？我请。",
+      "He asked, \"What's your poison?\" and she ordered gin. 他问「喝什么」，她点了金酒。",
+      "What's your poison — beer or something stronger? 喝点什么，啤酒还是烈的？",
+      "Poison here is a joke, not literal. 这里的 poison 是玩笑，不是毒药。",
+      "In a non-drinking crowd, use \"what would you like to drink.\" 不喝酒的场合要说「你想喝什么」。"
+    ],
+    "explanation": "【概要】酒吧或聚会中询问对方想喝什么酒的幽默说法，poison 是玩笑式代称；也可泛指「你的嗜好」。\n【结构】What's your poison?（固定问句）；中性版 what would you like to drink?。\n【语用】正面但偏老派/成人社交；对不饮酒者或不熟的人用中性说法更稳妥。\n【易错】① poison 非字面；② 语域偏酒局，正式接待改中性说法；③ 与 pick your poison（在两难选项中挑一个）不同。",
+    "synonym_points": [
+      "what would you like to drink — 你想喝什么（中性）",
+      "what can I get you — 我给你拿点什么（服务语）",
+      "name your drink — 点你的酒（口语）",
+      "your usual — 老样子（熟客）"
+    ],
+    "antonym_points": [
+      "I'm not drinking — 我不喝酒",
+      "just water, thanks — 白水就行",
+      "nothing for me — 我不用",
+      "I'll pass — 我不要"
+    ],
+    "extended_points": [
+      "pick your poison — 在两个坏选项里挑（不同义）",
+      "your usual — 常点的酒",
+      "on the house — 店家请客"
+    ],
+    "key_point": "【速记】What's your poison? = 想喝点什么（玩笑）。\npoison 非字面；不饮酒者用中性问法。\n勿混 pick your poison。"
+  },
+  {
+    "point_content": "What are the odds",
+    "tag": ["口语感叹", "真巧", "中性偏正", "巧遇", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "真是巧啊；这概率也太低了吧；竟然撞上了\n自然译法：太巧了吧 / 世界真小 / 几率这么低还遇上",
+    "examples": [
+      "What are the odds — we booked the same flight. 太巧了，我们订了同一班机。",
+      "What are the odds we'd both be here? 我们俩都在，这概率多低啊。",
+      "He laughed: \"What are the odds?\" 他笑说「真巧」。",
+      "What are the odds is rhetorical — nobody expects math. 这是反问，不是真要算概率。",
+      "Sometimes \"what are the odds\" hints at suspicion, not joy. 有时这句暗示怀疑，不只是惊喜。"
+    ],
+    "explanation": "【概要】巧遇或巧合时的反问式感叹，表示事件概率极低、令人惊讶；语气可惊喜也可带疑。\n【结构】What are the odds?（省略 of that）；完整版 what are the odds of that happening。\n【语用】中性偏正，重逢、撞衫、同订；反讽时暗示「太巧得有鬼」。\n【易错】① odds 复数；② 不是真问概率数值；③ 与 what's the chance（同义，更口语）一致。",
+    "synonym_points": [
+      "what a coincidence — 真巧",
+      "small world — 世界真小（感叹）",
+      "fancy meeting you here — 居然在这儿遇上",
+      "of all people — 偏偏是你"
+    ],
+    "antonym_points": [
+      "as expected — 意料之中",
+      "no surprise there — 一点不意外",
+      "of course — 当然如此",
+      "predictable — 可预见"
+    ],
+    "extended_points": [
+      "small world — 世界真小",
+      "six degrees of separation — 六度分隔（相关概念）",
+      "odds 的数学义与口语义"
+    ],
+    "key_point": "【速记】What are the odds = 真巧、概率太低。\nodds 复数；反问非实算。\n近义 small world。"
+  },
+  {
+    "point_content": "Six of one",
+    "tag": ["英式习语（省略式）", "半斤八两", "中性", "比较", "英式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "半斤八两；都一样；没什么差别\n自然译法：五十步笑百步（程度义）/ 两边差不多 / 换汤不换药",
+    "examples": [
+      "Six of one, half a dozen of the other — both plans cost the same. 半斤八两，两个方案花费一样。",
+      "Whether we go Monday or Tuesday, it's six of one. 周一去还是周二去，都一样。",
+      "He said six of one and chose the cheaper one anyway. 他说都一样，还是选了便宜的。",
+      "The full phrase is \"six of one, half a dozen of the other.\" 完整说法是「六个对半打」。",
+      "It signals indifference, sometimes mild annoyance. 表示无所谓，有时带点无奈。"
+    ],
+    "explanation": "【概要】(it's) six of one (and half a dozen of the other) 指两种选择实质相同、无差别，源自「6 与半打」数值相等。\n【结构】six of one, half a dozen of the other（固定对举）；口语可只说 six of one。\n【语用】中性，比较与选择；语域偏英式口语。\n【易错】① 完整版需 half a dozen of the other；② 与 six of one and half a dozen of the other 同义；③ 不指具体数量。",
+    "synonym_points": [
+      "much of a muchness — 差不多（英式）",
+      "same difference — 一样、没差",
+      "tomato, tomato — 差不离（口语）",
+      "no real difference — 没有实质差别"
+    ],
+    "antonym_points": [
+      "a world of difference — 天壤之别",
+      "night and day — 完全不同",
+      "chalk and cheese — 截然不同（英式）",
+      "not even close — 差得远"
+    ],
+    "extended_points": [
+      "much of a muchness — 半斤八两",
+      "chalk and cheese — 截然不同（反义）",
+      "same difference — 口语同义"
+    ],
+    "key_point": "【速记】six of one (half a dozen of the other) = 半斤八两。\n对举结构；英式口语。\n反义 chalk and cheese。"
+  },
+  {
+    "point_content": "I got my period",
+    "tag": ["生理话题", "月经", "中性", "隐私", "语用提示"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我来月经了；我来大姨妈了\n自然译法：我生理期到了 / 大姨妈来了 / 我例假来了",
+    "examples": [
+      "I got my period, so I'm staying home today. 我来例假了，今天在家休息。",
+      "She said she got her period and needed a break. 她说生理期到了，需要歇一下。",
+      "I got my period early this month. 这个月例假提前了。",
+      "It's a normal health statement, not a taboo. 这是正常健康表述，不该被当禁忌。",
+      "In formal medical contexts, say I'm menstruating. 正式医学场合说「我在月经期」。"
+    ],
+    "explanation": "【概要】直白陈述月经来潮，属个人健康信息；在多数英语语境中可直接说，但在职场宜简短并说明需求。\n【结构】get one's period（物主代词随主语变）；正式说 menstruate / be on one's period。\n【语用】中性，属隐私但正常话题；公开场合是否提及由本人决定，他人不应追问或调侃。\n【易错】① get 用过去式 got 表「来了」；② 与 have a period（处于经期）略有差别；③ 不宜用于玩笑或贬损。",
+    "synonym_points": [
+      "I'm on my period — 我在经期",
+      "it's that time of the month — 那个日子到了（委婉）",
+      "monthly cycle — 月经周期（正式）",
+      "menstruating — 处于月经期（医学）"
+    ],
+    "antonym_points": [
+      "my period is over — 经期结束了",
+      "I'm not on my period — 我不在经期",
+      "it's late — 推迟了（另指怀孕疑虑）",
+      "postmenopausal — 已绝经（医学）"
+    ],
+    "extended_points": [
+      "that time of the month — 委婉说法",
+      "PMS — 经前综合征",
+      "menopause — 绝经"
+    ],
+    "key_point": "【速记】I got my period = 我来例假了。\nget one's period；正常健康陈述。\n他人不应追问或调侃。"
+  }
+]

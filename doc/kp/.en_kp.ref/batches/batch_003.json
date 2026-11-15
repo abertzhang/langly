@@ -1,0 +1,561 @@
+[
+  {
+    "point_content": "Nice save",
+    "tag": ["口语称赞", "补救", "救场", "体育引申", "轻松"],
+    "translation_lang": "zh-CN",
+    "translation_content": "救得漂亮；这波补救得好；（也用于）差点说漏嘴被你圆回来了\n自然译法：这波救得漂亮 / 圆得不错 / 幸亏你接住了",
+    "examples": ["I dropped the tray and caught it — nice save! 我把托盘掉了又接住——救得漂亮！",
+      "He nearly mentioned the surprise party, but his wife made a nice save. 他差点说出惊喜派对，他老婆赶紧圆了回来。",
+      "Nice save, goalie — that shot was going in. 门将救得漂亮，那球本来必进。",
+      "She tripped over the name and made a nice save with a joke. 她叫错名字，用一句玩笑圆过去了。",
+      "Nice save on the budget question; nobody noticed the gap. 预算那问题你圆得漂亮，没人看出漏洞。"
+    ],
+    "explanation": "【概要】称赞某人及时阻止失误或把尴尬场面圆回来，源自体育里的「扑救」。\n【结构】独立评价句 Nice save!；也可说 That was a nice save. / make a nice save（动词短语）。\n【语用】轻松、带赞许，也可带一点调侃（其实差点搞砸）；朋友、同事间很自然。\n【易错】① save 在此是名词「救球/救场」，不是「节省」；② 别说 nice saving；③ 对方真心失误很严重时不宜用，会显得轻慢。",
+    "synonym_points": ["good recovery — 恢复得好、挽回得漂亮",
+      "way to save it — 挽救得不错（口语）",
+      "you pulled it off — 你硬是办成了",
+      "smooth recovery — 圆场圆得顺"
+    ],
+    "antonym_points": ["you blew it — 你搞砸了",
+      "that was a miss — 那下没接住",
+      "drop the ball — 掉链子",
+      "dig yourself a hole — 自己挖坑越陷越深"
+    ],
+    "extended_points": ["save face — 保全面子",
+      "a lifesaver — 救命恩人/救急之物",
+      "bail sb out — 帮某人解围"
+    ],
+    "key_point": "【速记】Nice save! = 救得漂亮（接住失误、圆回场面）。\n用法：独立评价，轻松赞许或善意调侃。\n同源：save face 保面子；a lifesaver 救急之物。"
+  },
+  {
+    "point_content": "Peek-a-boo",
+    "tag": ["儿语", "游戏", "逗婴儿", "拟声词", "温馨"],
+    "translation_lang": "zh-CN",
+    "translation_content": "躲猫猫；（逗婴儿时捂住脸再放开）猫儿——看见了！\n自然译法：躲猫猫 / 藏猫猫 / 猫——！",
+    "examples": ["She played peek-a-boo with the baby and he laughed. 她跟宝宝玩躲猫猫，孩子笑个不停。",
+      "Peek-a-boo! I see you! 猫儿——看见你啦！",
+      "The toddler never gets tired of peek-a-boo. 那小孩玩躲猫猫永远玩不腻。",
+      "He hid behind the curtain and shouted, \"Peek-a-boo!\" 他藏在窗帘后面喊「猫——！」",
+      "Grandma's peek-a-boo trick works every time. 奶奶的躲猫猫绝招每次都管用。"
+    ],
+    "explanation": "【概要】逗婴儿的经典游戏词：遮住脸再突然露出来，配合这句喊声；也泛指「忽隐忽现」的东西。\n【结构】可作名词 play peek-a-boo，也可作感叹词单独喊；拼写变体 peekaboo。\n【语用】只用于婴儿、亲子、亲密玩笑场景；成人间用会显得幼稚或卖萌。\n【易错】① 不是「偷看」（偷看是 peek）；② 游戏动词用 play，不用 do；③ 正式文本不出现。",
+    "synonym_points": ["boo — 突然出现时的吓人喊声",
+      "hide-and-seek — 捉迷藏（儿童游戏，规则不同）",
+      "peekaboo — 同词的连写形式",
+      "where's the baby? — 逗婴儿常说的问句（游戏一部分）"
+    ],
+    "antonym_points": ["in plain sight — 明摆着、就在眼前",
+      "hide away — 藏起来不露面",
+      "stay out of sight — 不露面"
+    ],
+    "extended_points": ["peek — 偷看、瞄一眼",
+      "object permanence — 客体永久性（躲猫猫背后的婴儿认知概念）",
+      "boo-boo — 小伤口、小错（儿语，注意与 boo 不同）"
+    ],
+    "key_point": "【速记】peek-a-boo = 躲猫猫（逗婴儿）。\n用法：play peek-a-boo 或直接喊 Peek-a-boo!。\n区分：peek 是偷看；boo 是吓人喊声。"
+  },
+  {
+    "point_content": "Good catch",
+    "tag": ["口语称赞", "发现错误", "机敏", "工作", "体育引申"],
+    "translation_lang": "zh-CN",
+    "translation_content": "好眼力；发现得及时；（体育）接得漂亮\n自然译法：这个你抓得准 / 幸好你发现了 / 眼真尖",
+    "examples": ["Good catch — that invoice was double-charged. 好眼力，那张发票重复收费了。",
+      "You spotted the typo on page 3? Good catch. 你发现第三页的错字了？眼真尖。",
+      "Good catch on the contract date; it would have cost us. 合同日期你抓得准，不然要吃亏。",
+      "The goalie made a good catch at full stretch. 门将全力扑出，接得漂亮。",
+      "Thanks for the good catch — I've fixed the code. 多谢你发现，代码我改好了。"
+    ],
+    "explanation": "【概要】称赞对方发现了一个容易漏掉的问题（错误、漏洞、隐患），也可字面指「接住了球」。\n【结构】独立成句 Good catch!；也可说 Nice catch / That's a good catch；动词化 catch sth（发现、听清）。\n【语用】职场、代码评审、校对场景高频，专业且友好；对上级说也合适。\n【易错】① catch 在此是「发现」，不是「抓住」；② 别说 Good catching；③ 与 Good job（泛泛表扬）不同，它专指「发现了问题」。",
+    "synonym_points": ["nice catch — 同样意思，更口语",
+      "sharp eyes — 眼尖",
+      "well spotted — 发现得好（英式常用）",
+      "good eye — 好眼力"
+    ],
+    "antonym_points": ["missed it — 没看出来",
+      "slipped through — 漏过去了",
+      "overlooked — 忽略了",
+      "blind spot — 盲区、看不到的地方"
+    ],
+    "extended_points": ["catch a mistake — 抓到错误",
+      "catch sb out — 抓住某人的破绽",
+      "spot the difference — 找不同（练习类说法）"
+    ],
+    "key_point": "【速记】Good catch = 好眼力、发现得及时。\n场景：评审、校对、排查问题；也可指接球漂亮。\n同义：well spotted / nice catch。"
+  },
+  {
+    "point_content": "Two for one",
+    "tag": ["促销用语", "数量表达", "划算", "口语", "商业"],
+    "translation_lang": "zh-CN",
+    "translation_content": "买一送一；一份价钱两份东西；（引申）一举两得\n自然译法：买一送一 / 花一份钱得两份 / 一箭双雕",
+    "examples": ["Tickets are two for one on Tuesdays. 周二门票买一送一。",
+      "It's a two-for-one deal: buy the phone, get the case free. 这是买一送一：买手机送手机壳。",
+      "The trip was two for one — business and a family visit. 这趟一举两得：出差加探亲。",
+      "Two for one on the training: skills and certification. 这个培训一箭双雕：学技能还拿证。",
+      "They ran a two-for-one promotion all weekend. 他们整个周末都在做买一送一。"
+    ],
+    "explanation": "【概要】商业促销常见说法，字面「两个算一个的钱」；引申为一件事同时达成两个目的。\n【结构】作定语加连字符 two-for-one deal / offer；也可说 two for the price of one（更完整）。\n【语用】中性偏正面，购物、营销常用；引申用法带点得意。\n【易错】① 定语位置加连字符；② 别写成 two for ones；③ 与 buy one get one free（BOGO）是同一意思，后者更正式。",
+    "synonym_points": ["buy one, get one free — 买一赠一（BOGO）",
+      "two for the price of one — 一份钱买两份",
+      "a bonus — 额外的好处",
+      "kill two birds with one stone — 一石二鸟（引申义最贴近）"
+    ],
+    "antonym_points": ["buy one, get nothing — 白买（无赠品，非固定说法）",
+      "double the price — 双倍价格",
+      "one at a time — 只能一个一个来",
+      "no freebies — 没有赠品"
+    ],
+    "extended_points": ["BOGO — buy one get one（促销缩写）",
+      "bundle deal — 打包优惠",
+      "value pack — 超值装"
+    ],
+    "key_point": "【速记】two for one = 买一送一；引申一举两得。\n写法：定语加连字符 two-for-one offer。\n同义：BOGO；引申版 kill two birds with one stone。"
+  },
+  {
+    "point_content": "Wall-to-wall",
+    "tag": ["形容词", "覆盖范围", "媒体用语", "夸张", "商业"],
+    "translation_lang": "zh-CN",
+    "translation_content": "铺满整个空间的；无处不在的；铺天盖地的（报道、广告）\n自然译法：满屋子都是 / 铺天盖地 / 全面覆盖",
+    "examples": ["The apartment has wall-to-wall carpet. 这套公寓铺满了整墙到整墙的地毯。",
+      "The launch got wall-to-wall coverage on every channel. 这次发布在各频道铺天盖地地报道。",
+      "The mall was wall-to-wall shoppers on Black Friday. 黑五那天商场挤满了人。",
+      "Wall-to-wall ads made the app unusable. 满屏广告让这个 App 没法用。",
+      "We had wall-to-wall meetings from nine to six. 我们九点到六点会议排得满满当当。"
+    ],
+    "explanation": "【概要】原指地毯从一个墙脚铺到另一个墙脚（铺满地面），引申为「完全覆盖、无处不在、密集到极限」。\n【结构】复合形容词，作定语时用 wall-to-wall + 名词；也可作表语 It was wall-to-wall people。\n【语用】中性偏夸张，家居、媒体、商业报道常用；说到会议时带疲惫感。\n【易错】① 连字符在定语位置必须有；② 不表示「墙挨着墙」的建筑描述；③ 与 full-wall（整墙的）不同。",
+    "synonym_points": ["all over the place — 到处都是",
+      "saturated coverage — 饱和式报道（媒体术语）",
+      "packed to the rafters — 挤得满满当当",
+      "round-the-clock — 全天候不间断"
+    ],
+    "antonym_points": ["sparse — 稀疏的",
+      "spotty coverage — 覆盖零零散散",
+      "here and there — 零零星星",
+      "patchy — 参差不齐、不完整"
+    ],
+    "extended_points": ["carpet bombing — 地毯式轰炸（军事，同源比喻）",
+      "blanket coverage — 全面覆盖（媒体）",
+      "back-to-back meetings — 会议一个接一个"
+    ],
+    "key_point": "【速记】wall-to-wall = 铺满、无处不在、铺天盖地。\n写法：定语加连字符 wall-to-wall carpet/coverage。\n引申：wall-to-wall meetings 会议排满。"
+  },
+  {
+    "point_content": "Jet lag",
+    "tag": ["旅行词汇", "时差", "身体状态", "不可数名词", "航空"],
+    "translation_lang": "zh-CN",
+    "translation_content": "时差反应；倒时差带来的疲惫与睡眠紊乱\n自然译法：我在倒时差 / 时差没倒过来 / 飞完时差反应很重",
+    "examples": ["I've had jet lag for three days since I landed. 落地三天了我还在倒时差。",
+      "Jet lag hits harder when you fly east. 往东飞时时差反应更厉害。",
+      "She's fighting jet lag before the conference. 会议前她正硬扛时差。",
+      "Take melatonin to ease the jet lag. 吃点褪黑素缓解时差。",
+      "The jet lag wore off after a week. 一周后时差才倒过来。"
+    ],
+    "explanation": "【概要】跨时区飞行后生物钟与当地时间错位引起的困倦、失眠、注意力下降。\n【结构】不可数名词：have / get / suffer from jet lag；搭配 recover from jet lag（缓过来）、jet-lagged（形容词：在倒时差）。\n【语用】旅行、出差高频；不带冠词、不加 s。\n【易错】① 不说 a jet lag / jet lags；② 与 jet fatigue 不通用；③ 「倒时差」动作说 adjust to the time difference，不是 jet lag yourself。",
+    "synonym_points": ["time difference fatigue — 时差疲劳（描述性说法）",
+      "jet-lagged — 在倒时差的（形容词）",
+      "circadian disruption — 生物钟紊乱（医学说法）",
+      "travel fatigue — 旅途疲劳（更宽泛）"
+    ],
+    "antonym_points": ["well rested — 休息充分",
+      "on local time — 已适应当地时间",
+      "adjusted — 调整过来了",
+      "fresh as a daisy — 精神饱满（口语）"
+    ],
+    "extended_points": ["circadian rhythm — 昼夜节律",
+      "body clock — 生物钟",
+      "red-eye flight — 红眼航班（易加重时差）"
+    ],
+    "key_point": "【速记】jet lag = 时差反应（不可数，不加 a/s）。\n搭配：have / suffer from / recover from jet lag；形容词 jet-lagged。\n相关：body clock 生物钟。"
+  },
+  {
+    "point_content": "Cranky",
+    "tag": ["形容词", "情绪", "口语", "日常", "略带贬义"],
+    "translation_lang": "zh-CN",
+    "translation_content": "脾气暴躁的；烦躁闹别扭的（多因累、饿、没睡好）\n自然译法：他今天脾气很差 / 孩子闹脾气 / 没睡好就爱发火",
+    "examples": ["The baby gets cranky when she's tired. 宝宝一累就闹。",
+      "Don't take it personally — he's just cranky from lack of sleep. 别往心里去，他就是没睡好脾气差。",
+      "I get cranky when I skip lunch. 我一不吃午饭就烦躁。",
+      "The cranky customer wanted a refund and a manager. 那位暴躁的顾客要退款还要见经理。",
+      "She was cranky all morning until the coffee kicked in. 咖啡起效前她一上午都在闹脾气。"
+    ],
+    "explanation": "【概要】形容人（尤指孩子、老人或没休息好的人）情绪差、爱抱怨、容易发火，程度比 angry 轻。\n【结构】作定语 a cranky toddler / 作表语 be cranky；比较级 crankier；也可说 get cranky。\n【语用】口语、日常，多带理解或无奈而非严厉指责；英式另有「古怪、毛病多」的意思（cranky machine）。\n【易错】① 不表示「疯狂」；② 与 grumpy 近义，grumpy 更常指长期爱抱怨的人；③ 说人 angry 比 cranky 重得多。",
+    "synonym_points": ["grumpy — 脾气坏、爱抱怨",
+      " irritable — 易怒的（书面）",
+      "testy — 暴躁、不耐烦",
+      "out of sorts — 状态不好、情绪不佳"
+    ],
+    "antonym_points": ["cheerful — 开朗愉快",
+      "easygoing — 随和",
+      "good-natured — 好脾气",
+      "in good spirits — 心情好"
+    ],
+    "extended_points": ["hangry — 饿到发火（hungry + angry 的混成词）",
+      "moody — 喜怒无常",
+      "snap at sb — 冲某人发火"
+    ],
+    "key_point": "【速记】cranky = 烦躁、闹脾气（因累或饿）。\n程度：比 angry 轻，多带理解口吻。\n近义：grumpy / irritable；饿到发火是 hangry。"
+  },
+  {
+    "point_content": "Be into sb",
+    "tag": ["口语", "恋爱情感", "俚语", "关系", "非正式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "喜欢某人；对某人有意思（带好感、想发展关系）\n自然译法：他喜欢她 / 他们俩有意思 / 我对她挺心动",
+    "examples": ["I think he's into you — he keeps finding excuses to talk. 我觉得他对你有意思，总找借口跟你说话。",
+      "She's totally into him, but he has no idea. 她明显喜欢他，他却完全没察觉。",
+      "\"Is he into her?\" \"Very.\" 「他对她有意思吗？」「非常有意思。」",
+      "We were into each other in college but never dated. 大学时我们互相有好感，可没在一起过。",
+      "Don't play games if you're really into him. 真喜欢他就别玩心眼。"
+    ],
+    "explanation": "【概要】be into sb = 对某人有好感、有兴趣，程度从「觉得不错」到「很想交往」；be into sth 则是「迷上某事」。\n【结构】be into + 人（口语，需语境）；加强用 really / totally / so into；问句 Are you into him?\n【语用】非正式、朋友间八卦用；正式场合用 interested in sb / attracted to sb。\n【易错】① 不能用于正式表白文本（太随意）；② be into sb 与 be in sb（在其内部）无关；③ 别与 be on sb（依赖某人）混。",
+    "synonym_points": ["have a crush on sb — 暗恋某人",
+      "be interested in sb — 对某人有兴趣（中性）",
+      "be attracted to sb — 被某人吸引（正式）",
+      "have feelings for sb — 对某人有感情"
+    ],
+    "antonym_points": ["not my type — 不是我的类型",
+      "be over sb — 已经放下某人",
+      "be put off by sb — 被某人扫兴、反感",
+      "friend-zone sb — 把某人放进朋友区"
+    ],
+    "extended_points": ["be into sth — 迷上某事（I'm into jazz.）",
+      "hit it off — 一见如故、相处很来电",
+      "ask sb out — 约某人出去"
+    ],
+    "key_point": "【速记】be into sb = 对某人有意思（口语）。\n加强：really / totally into sb；正式说 interested in sb。\n同源：be into sth 是迷上某事。"
+  },
+  {
+    "point_content": "Put sb in the middle",
+    "tag": ["习语", "为难处境", "人际冲突", "职场", "同情"],
+    "translation_lang": "zh-CN",
+    "translation_content": "把某人夹在中间；让某人两头为难；当夹心饼干\n自然译法：别让我夹在你们中间 / 我两头受气 / 我成了传话筒",
+    "examples": ["Don't put me in the middle of your argument with Dad. 别让我夹在你和爸的争吵中间。",
+      "As the manager, she was put in the middle between the team and the board. 作为经理，她被夹在团队和董事会之间。",
+      "I hate being put in the middle — someone always gets hurt. 我讨厌当夹心饼干，总有一方会受伤。",
+      "You put your friend in the middle by telling both sides. 你两边都说了，把朋友架在中间。",
+      "He was put in the middle of a family dispute and lost sleep over it. 他被卷进家里的争执，愁得睡不着。"
+    ],
+    "explanation": "【概要】使某人处于两方冲突之间，既要传话又要承担压力，左右都不讨好。\n【结构】put sb in the middle (of sth)；被动 be put in the middle；也可说 be caught in the middle（被卷在中间，更常见）。\n【语用】人际、家庭、职场调解场景；说自己时是抱怨，说别人时是指责其制造处境。\n【易错】① 介词 in，不是 on；② 常用被动或 caught；③ 「夹心饼干」在英语口语里不是固定比喻词，别直译 sandwich。",
+    "synonym_points": ["be caught in the middle — 被夹在中间（更常用）",
+      "be stuck in the middle — 卡在中间动不了",
+      "play piggy in the middle — 当传话筒、两头受气（英式）",
+      "mediate between A and B — 居间调解（中性动作）"
+    ],
+    "antonym_points": ["stay out of it — 不掺和",
+      "mind your own business — 管好自己的事",
+      "keep your distance — 保持距离",
+      "wash your hands of it — 撒手不管"
+    ],
+    "extended_points": ["piggy in the middle — 英式儿童游戏「抢中间」，也比喻两头受气的人",
+      "the middleman — 中间人、经手人",
+      "caught between a rock and a hard place — 两头都难（处境版）"
+    ],
+    "key_point": "【速记】put sb in the middle = 把某人夹在中间、两头为难。\n更常用被动：be caught in the middle。\n对照：stay out of it 是不掺和。"
+  },
+  {
+    "point_content": "You read my mind",
+    "tag": ["口语", "默契", "共鸣", "称赞", "亲密"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你懂我；咱俩想到一块了；正合我意\n自然译法：你怎么知道我在想这个 / 我也是这么想的 / 心有灵犀",
+    "examples": ["\"I ordered pizza.\" \"You read my mind.\" 「我订了披萨。」「你怎么知道我想吃这个！」",
+      "I was about to suggest a break — you read my mind. 我正想说歇一会儿，你就先开口了。",
+      "She read my mind and booked the earlier flight. 她猜到我的心思，订了早一班飞机。",
+      "You read my mind about the color; I wanted blue too. 颜色上咱俩想到一块了，我也想要蓝色。",
+      "He always seems to read my mind before I say a word. 我还没开口他好像就知道我要什么。"
+    ],
+    "explanation": "【概要】表示对方恰好说出了自己心里想的，体现默契与体贴，语气正面。\n【结构】You read my mind. 独立成句；也可说 read sb's mind（读某人心思）、mind reader（会读心的人）。\n【语用】亲密、轻松，朋友、伴侣、同事间都可用；带惊喜感。\n【易错】① 用 read（过去式也是 read，发音 /red/），不是 readed；② 别理解成「真的会读心术」（那是 mind reading 超能力）；③ 对上级说可，但别用来说「我猜到你想法」的越界感。",
+    "synonym_points": ["you took the words right out of my mouth — 你把我要说的说了（最贴近）",
+      "great minds think alike — 英雄所见略同",
+      "we're on the same wavelength — 我们频率一致",
+      "that's exactly what I was thinking — 正是我想的"
+    ],
+    "antonym_points": ["you're way off — 你完全猜错了",
+      "that's not what I meant — 我不是这个意思",
+      "we're not on the same page — 我们没对上",
+      "I lost you — 你没跟上我的意思"
+    ],
+    "extended_points": ["mind reader — 会读心的人（也用于调侃）",
+      "read the room — 察言观色、看气氛",
+      "finish each other's sentences — 能接对方的话（默契描写）"
+    ],
+    "key_point": "【速记】You read my mind = 你懂我、想到一块了。\n过去式仍是 read（读 /red/）。\n同义：took the words out of my mouth；great minds think alike。"
+  },
+  {
+    "point_content": "Second opinion",
+    "tag": ["医疗用语", "决策", "咨询", "专业", "通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "第二意见；另找专家再评估一次；（引申）再听听别人的看法\n自然译法：我想再找个人看看 / 听听第二位医生的意见 / 多方求证一下",
+    "examples": ["Before surgery, I'd like a second opinion. 手术前我想再听听别的医生意见。",
+      "The doctor encouraged her to get a second opinion. 医生建议她再找一位专家看看。",
+      "Always get a second opinion on a big contract. 大合同一定要再找人把关。",
+      "He asked his mentor for a second opinion on the offer. 他请导师对这份 offer 再给点看法。",
+      "A second opinion saved him from an unnecessary operation. 第二意见让他免了一刀。"
+    ],
+    "explanation": "【概要】在重要决定（尤其医疗）前请另一位专业人士评估，避免单一判断失误。\n【结构】get / seek / ask for a second opinion (on sth)；也可说 a second pair of eyes（口语版：再找双眼睛看）。\n【语用】中性、专业，医疗场景最高频；商务上引申为「多方复核」。\n【易错】① 用 a（可数）；② 不说 second advice；③ 不等于 second thought（那是「反悔/重新考虑」）。",
+    "synonym_points": ["a second pair of eyes — 再找双眼睛复核（口语）",
+      "another expert's view — 另一位专家的看法",
+      "cross-check — 交叉核对",
+      "consult another specialist — 咨询另一位专家"
+    ],
+    "antonym_points": ["go with your first instinct — 凭第一直觉决定",
+      "take it at face value — 照表面接受",
+      "act on one opinion — 只听一家之言",
+      "fly solo — 独自拍板"
+    ],
+    "extended_points": ["second thoughts — 反悔、重新考虑（不同义）",
+      "due diligence — 尽职调查",
+      "peer review — 同行评审（学术/专业复核）"
+    ],
+    "key_point": "【速记】second opinion = 第二意见（再找专家评估）。\n搭配：get / seek a second opinion on sth。\n区分：second thoughts 是「反悔、重新考虑」。"
+  },
+  {
+    "point_content": "Sleep in",
+    "tag": ["短语动词", "作息", "周末", "口语", "生活"],
+    "translation_lang": "zh-CN",
+    "translation_content": "睡懒觉；比平时起得晚；睡到自然醒\n自然译法：周末我要睡到自然醒 / 今早我睡过头了（睡懒觉意）/ 赖床",
+    "examples": ["I'm going to sleep in tomorrow — no alarm. 明天我要睡懒觉，不设闹钟。",
+      "We slept in and missed breakfast. 我们睡到太晚，早饭都错过了。",
+      "On Sundays she sleeps in until ten. 周日她睡到十点。",
+      "Don't sleep in; the tour leaves at seven. 别睡懒觉，团七点出发。",
+      "He slept in on his day off and felt great. 休息日他睡了个够，感觉特别好。"
+    ],
+    "explanation": "【概要】sleep in 指「有意睡到比平常晚」，多用于休息日；与 oversleep（睡过头误事）不同。\n【结构】不及物短语动词：sleep in / slept in / sleeping in；可加时间 until ten。\n【语用】中性偏惬意；说「睡过头误了事」要用 oversleep / sleep through the alarm。\n【易错】① 不要与 sleep over（在别人家过夜）混；② sleep in 不接宾语；③ 误事用 oversleep，不用 sleep in。",
+    "synonym_points": ["have a lie-in — 睡懒觉（英式常用）",
+      "sleep late — 睡到很晚才起",
+      "have a lazy morning — 慵懒的早晨",
+      "hit the snooze button — 按掉闹钟继续睡"
+    ],
+    "antonym_points": ["get up early — 早起",
+      "rise and shine — 起床啦（叫早语）",
+      "be an early riser — 早起的人",
+      "oversleep — 睡过头（误事）"
+    ],
+    "extended_points": ["sleep over — 在别人家过夜",
+      "sleep on it — 睡一觉再决定",
+      "beauty sleep — 美容觉"
+    ],
+    "key_point": "【速记】sleep in = 睡懒觉（有意晚起）。\n区分：oversleep 是睡过头误事；sleep over 是在外过夜。\n英式同义：have a lie-in。"
+  },
+  {
+    "point_content": "Pass the hat",
+    "tag": ["习语", "募捐", "集体", "口语", "人情"],
+    "translation_lang": "zh-CN",
+    "translation_content": "（传帽子）凑钱；集体募捐；大家凑个份子\n自然译法：大家凑点钱 / 传个帽子收一收 / 一起给他捐点",
+    "examples": ["We passed the hat for a colleague whose house burned down. 同事家失火，我们大家凑了钱。",
+      "They passed the hat around at the end of the show. 演出结束时他们传帽子募捐。",
+      "Let's pass the hat for the intern's farewell gift. 咱们凑点钱给实习生买告别礼物。",
+      "Nobody wanted to pass the hat again so soon. 没人想这么快又凑一次钱。",
+      "He passed the hat to cover the bus fare home. 他募了点钱凑回家的车费。"
+    ],
+    "explanation": "【概要】源自街头艺人把帽子传一圈收小费，引申为小范围的集体募捐、AA 凑钱。\n【结构】pass the hat (for sb/sth)；也可说 take the hat around（英式）。\n【语用】非正式、带人情味，办公室、社区、朋友间常见；正式募捐用 raise funds。\n【易错】① 必须带 the hat；② 不是「把帽子递过去」的字面动作；③ 大规模正式募捐不用这个说法。",
+    "synonym_points": ["take up a collection — 募捐（教会/活动常用）",
+      "chip in — 凑钱、AA（最口语）",
+      "go around with the hat — 传帽子收钱（英式）",
+      "raise funds — 筹款（正式）"
+    ],
+    "antonym_points": ["pay out of pocket — 自己掏钱",
+      "foot the bill — 买单",
+      "go Dutch — AA 各付各的",
+      "self-funded — 自筹（不募捐）"
+    ],
+    "extended_points": ["hat in hand — 低声下气地求人（同 hat 比喻）",
+      "whip-round — 英式「凑份子」",
+      "collection box — 募捐箱"
+    ],
+    "key_point": "【速记】pass the hat = 凑钱、众人募捐。\n搭配：pass the hat for sb/sth；英式 take the hat around。\n口语替代：chip in（凑份子）。"
+  },
+  {
+    "point_content": "Give it a shot",
+    "tag": ["口语鼓励", "尝试", "习语", "中性偏积极", "行动"],
+    "translation_lang": "zh-CN",
+    "translation_content": "试一试；放手一搏；（给某事）一个机会\n自然译法：试试看嘛 / 拼一把 / 先给它个机会",
+    "examples": ["You've never tried sushi? Give it a shot. 你没吃过寿司？试试看嘛。",
+      "I wasn't sure about the job, but I gave it a shot. 那工作我没底，但还是试了一把。",
+      "Give it a shot — what's the worst that could happen? 试一下呗，最坏能怎样？",
+      "She gave the recipe a shot and it turned out great. 她试了那个食谱，结果很不错。",
+      "He gave it his best shot but didn't get the part. 他尽力一试，可惜没拿到角色。"
+    ],
+    "explanation": "【概要】shot 在此指「尝试的机会」（同 take a shot at sth），鼓励对方别怕失败先动手。\n【结构】give sth a shot / give it a shot；加强版 give it one's best shot（尽全力一试）；也可说 take a shot at sth。\n【语用】轻松鼓励，朋友、同事、教练常用；中性偏正面，不承诺结果。\n【易错】① 别说 give a shot it（代词放中间）；② shot 不加 s；③ 与 give it a try 同义但更口语。",
+    "synonym_points": ["give it a try — 试一下（最通用）",
+      "take a shot at sth — 尝试做某事",
+      "have a go at it — 试一试（英式）",
+      "give it a whirl — 试一把（口语、俏皮）"
+    ],
+    "antonym_points": ["give up before you start — 还没开始就放弃",
+      "not even try — 根本不试",
+      "throw in the towel — 认输放弃",
+      "play it safe — 求稳不冒险"
+    ],
+    "extended_points": ["give it one's best shot — 竭尽全力一试",
+      "a shot in the dark — 瞎猜、盲试",
+      "call the shots — 拍板做主（同词不同义）"
+    ],
+    "key_point": "【速记】give it a shot = 试一试、拼一把。\n结构：give sth a shot；代词放中间；加强 give it one's best shot。\n同义：give it a try / have a go。"
+  },
+  {
+    "point_content": "Low bar",
+    "tag": ["口语", "标准评价", "批评", "职场", "比喻"],
+    "translation_lang": "zh-CN",
+    "translation_content": "低标准；门槛很低；（调侃）要求低到轻松就能过\n自然译法：门槛真低 / 标准低得离谱 / 这要求也太好达到了",
+    "examples": ["The food was fine, but that's a low bar. 饭菜还行，可这标准也太低了。",
+      "He cleared a low bar and got praised for it. 他跨过一道很低的门槛，还被夸了。",
+      "Customer service here sets a low bar. 这儿的客服把标准定得很低。",
+      "Being on time shouldn't be a low bar; it's the minimum. 准时不该算「低标准」，那是底线。",
+      "The sequel cleared a low bar and still disappointed. 续集标准已经很低了，还是让人失望。"
+    ],
+    "explanation": "【概要】源自跳高：横杆（bar）越低越容易过，比喻要求、标准定得低，常带轻微嘲讽。\n【结构】a low bar（可数）；动词搭配 set / clear / raise / lower the bar；反面 a high bar。\n【语用】评价他人表现、产品质量、行业水准；调侃成分强，当面说需注意。\n【易错】① 冠词 a/the 需要；② bar 在此不是「酒吧」；③ 表达「标准很高」用 a high bar，不是 high level（不地道）。",
+    "synonym_points": ["rock-bottom standards — 低到谷底的标准",
+      "the bare minimum — 最低要求",
+      "a low threshold — 门槛低",
+      "setting the bar low — 把标准定得低"
+    ],
+    "antonym_points": ["a high bar — 高标准",
+      "raise the bar — 提高标准",
+      "best-in-class — 同类最佳",
+      "gold standard — 黄金标准"
+    ],
+    "extended_points": ["clear the bar — 过线、达标",
+      "set the bar high — 定高标准",
+      "the bar is on the floor — 网络流行：标准低到掉地上（更夸张）"
+    ],
+    "key_point": "【速记】low bar = 低标准、低门槛（带调侃）。\n搭配：set / clear / raise the bar；反义 a high bar。\n注意：bar 不是酒吧。"
+  },
+  {
+    "point_content": "Take it down a notch",
+    "tag": ["口语指令", "收敛情绪", "音量", "习语", "冲突场景"],
+    "translation_lang": "zh-CN",
+    "translation_content": "收敛点；降个调；别那么激动/大声\n自然译法：小点声 / 收一收脾气 / 别上头",
+    "examples": ["Take it down a notch — the neighbors can hear you. 小点声，邻居都听见了。",
+      "You're yelling at a coworker; take it down a notch. 你在吼同事，收敛一点。",
+      "He took it down a notch when the manager walked in. 经理一进来他就收敛了。",
+      "Take it down a notch, champ; it's just a game. 别上头，冠军，不过是一场游戏。",
+      "The music needs to come down a notch. 音乐得调小一点。"
+    ],
+    "explanation": "【概要】notch 是「档位、刻度」，down a notch 就是「降一档」，用于让人降低音量、情绪或激烈程度。\n【结构】祈使句 Take it down a notch；也可说 turn it down a notch（音量）、dial it back（更口语）；反义 take it up a notch（加把劲、升级）。\n【语用】口语、半命令式，用于冲突现场或提醒；语气比 calm down 更具体，但依然可能被视为冒犯。\n【易错】① 代词 it 放中间：take it down，不是 take down it；② notch 不加 s；③ 与 take it down（拆下来/记下来）不同。",
+    "synonym_points": ["dial it back — 收敛点（口语）",
+      "calm down — 冷静点",
+      "tone it down — 语气/强度放低",
+      "cool your jets — 别上火（俚语）"
+    ],
+    "antonym_points": ["take it up a notch — 加把劲、升级",
+      "go all out — 全力以赴",
+      "crank it up — 把音量/强度拉满",
+      "let it all out — 尽情释放"
+    ],
+    "extended_points": ["a notch above — 高一个档次",
+      "top-notch — 顶级的",
+      "turn the volume down — 调低音量"
+    ],
+    "key_point": "【速记】take it down a notch = 降一档、收敛点。\n结构：take it down（代词放中间）；反义 take it up a notch。\n同义：tone it down / dial it back。"
+  },
+  {
+    "point_content": "Grow up",
+    "tag": ["口语责备", "成熟", "批评", "祈使句", "人际"],
+    "translation_lang": "zh-CN",
+    "translation_content": "成熟点；别这么幼稚；长大点吧\n自然译法：你能不能成熟点 / 别闹了 / 别像个孩子",
+    "examples": ["Grow up — it's just a spilled coffee. 成熟点，不就是洒了杯咖啡。",
+      "She told her brother to grow up and stop sulking. 她让弟弟成熟点，别赌气了。",
+      "Grow up and take responsibility for your mistake. 成熟点，为自己的错负责。",
+      "\"He won't apologize.\" \"Then tell him to grow up.\" 「他不肯道歉。」「那就让他成熟点。」",
+      "I need to grow up and stop blaming everyone else. 我得成熟起来，别老怪别人。"
+    ],
+    "explanation": "【概要】字面「长大」，实际是责备对方行为幼稚、不负责，是相当直接的批评。\n【结构】祈使句 Grow up!；也可 grow up to be…（长大成为…，中性用法要区分）。\n【语用】亲密关系、家人、同事间都可能出现；对上级或客户说非常失礼，等同于人身评价。\n【易错】① 中性义 grow up in…（在某地长大）别混；② 加 -ed 的 grown-up 是名词/形容词「成年人」；③ 说「长高」是 grow taller。",
+    "synonym_points": ["act your age — 按年龄该有的样子行事",
+      "be mature — 成熟点（较中性）",
+      "stop acting like a child — 别像小孩一样",
+      "get a grip — 稳住、别失控（更口语）"
+    ],
+    "antonym_points": ["act childish — 行为幼稚",
+      "throw a tantrum — 发脾气耍赖",
+      "be immature — 不成熟",
+      "sulk — 生闷气"
+    ],
+    "extended_points": ["grown-up — 成年人（名词）/ 成熟的（形容词）",
+      "grow out of sth — 长大后不再喜欢/不再适合",
+      "man up — 拿出男人样来（含性别意味，慎用）"
+    ],
+    "key_point": "【速记】Grow up! = 成熟点、别幼稚（直接责备）。\n区分：grow up in… 是「在某地长大」。\n对上级/客户禁用，等同人身评价。"
+  },
+  {
+    "point_content": "Top of the line",
+    "tag": ["商业用语", "产品评价", "高端", "习语", "褒义"],
+    "translation_lang": "zh-CN",
+    "translation_content": "顶级的；最高档的；同类里最好的那一款\n自然译法：最顶配的那款 / 顶级货 / 一步到位的旗舰",
+    "examples": ["This is the top-of-the-line model, with every feature. 这是顶配款，功能全都有。",
+      "They bought top-of-the-line equipment for the studio. 他们给工作室买了顶级设备。",
+      "Top of the line doesn't always mean best value. 最顶配不一定最划算。",
+      "Her top-of-the-line laptop still lags on this project. 她那台顶配笔记本跑这项目还是卡。",
+      "We only stock top-of-the-line coffee machines. 我们只进顶级咖啡机。"
+    ],
+    "explanation": "【概要】指一个品牌/品类里最高端、最贵、功能最全的那一档，与 entry-level（入门级）相对。\n【结构】作定语加连字符 top-of-the-line product；也可作表语 This is top of the line。\n【语用】商业、销售赞美语，中性偏褒；也可用于提醒「贵不等于合适」。\n【易错】① 定语加连字符；② 别写成 top of line（缺 the）；③ 与 state-of-the-art（技术最先进）不完全等同。",
+    "synonym_points": ["flagship — 旗舰款",
+      "high-end — 高端的",
+      "state-of-the-art — 技术最先进的",
+      "the best money can buy — 花钱能买到的最好的"
+    ],
+    "antonym_points": ["entry-level — 入门级",
+      "bottom of the line — 最低档（较少用）",
+      "budget model — 廉价款",
+      "bare-bones — 只保留最基本功能的"
+    ],
+    "extended_points": ["line 在此指「产品线」：product line 产品系列",
+      "high-ticket item — 高单价商品",
+      "value for money — 性价比"
+    ],
+    "key_point": "【速记】top of the line = 顶级、最高档的那款。\n写法：定语加连字符 top-of-the-line。\n对照：entry-level 入门级；state-of-the-art 是最先进。"
+  },
+  {
+    "point_content": "Not a clue",
+    "tag": ["口语", "一无所知", "否定表达", "略夸张", "日常"],
+    "translation_lang": "zh-CN",
+    "translation_content": "毫无头绪；一点都不知道\n常用完整式：I don't have a clue / I haven't got a clue\n自然译法：完全不懂 / 一点谱都没有 / 我哪知道",
+    "examples": ["Where's the meeting? Not a clue — nobody told me. 会在哪开？我完全不知道，没人通知我。",
+      "I haven't got a clue how this compiler works. 这编译器怎么跑的我一点头绪都没有。",
+      "He claims confidence but has not a clue what he's doing. 他嘴上很有信心，其实完全不会。",
+      "\"Do you know her name?\" \"Not a clue.\" 「你知道她叫什么吗？」「完全不知道。」",
+      "Not a clue why the build failed overnight. 构建为什么夜里挂了，我一点头绪都没有。"
+    ],
+    "explanation": "【概要】clue 是「线索」，not a clue = 连一点线索都没有，即完全不懂、毫不知情。\n【结构】口语常省略主语：Not a clue. / No clue.；完整式 have no clue / don't have a clue (about sth)；也可作定语 a clueless person（一无所知的人）。\n【语用】非常口语，朋友同事间自然；对客户答复需求时显得不专业，改用 I'll look into it。\n【易错】① 否定用 not a / no，不用 not any clue 更自然仍可；② clueless 是形容词但带贬义；③ 与 no idea 同义。",
+    "synonym_points": ["no idea — 不知道（最通用）",
+      "I have no clue — 我毫无头绪",
+      "beats me — 我也说不清（口语）",
+      "your guess is as good as mine — 我和你一样不知道"
+    ],
+    "antonym_points": ["I know exactly — 我很清楚",
+      "clear as day — 一清二楚",
+      "I've got it figured out — 我搞明白了",
+      "well informed — 消息灵通"
+    ],
+    "extended_points": ["clueless — 一无所知的（贬义形容词）",
+      "get a clue — 长点心、搞清楚状况（责备）",
+      "give sb a clue — 给某人一点提示"
+    ],
+    "key_point": "【速记】not a clue = 毫无头绪、完全不知道。\n完整式：have no clue about sth；口语省略主语。\n职场慎用，改说 I'll look into it。"
+  },
+  {
+    "point_content": "Drive a hard bargain",
+    "tag": ["商务习语", "谈判", "砍价", "中性偏褒", "交易"],
+    "translation_lang": "zh-CN",
+    "translation_content": "（在谈判中）狠压价；条件谈得很硬；不肯让步\n自然译法：他砍价太狠了 / 这人谈判非常强硬 / 一点不让利",
+    "examples": ["She drives a hard bargain — we ended up at cost. 她砍价太狠，最后我们只能按成本价成交。",
+      "He's known for driving a hard bargain with suppliers. 他对供应商压价是出了名的。",
+      "You drive a hard bargain, but deal. 你条件谈得够硬，成交吧。",
+      "The buyer drove a hard bargain and got free shipping too. 买家狠狠压价，还谈到了包邮。",
+      "Don't drive such a hard bargain that you lose the partner. 别压得太狠，把合作伙伴逼走了。"
+    ],
+    "explanation": "【概要】bargain 是「议价」，drive a hard bargain 指谈判时极力争取最有利条件，压价狠、少让步。\n【结构】drive a hard bargain (with sb)；主语可换，时态随句子变；也可说 strike a hard bargain。\n【语用】商业、买卖场景，中性偏褒（精明能干），对客户形容时可带钦佩，也可能暗含「太抠」。\n【易错】① 冠词 a 必须有；② 动词用 drive / strike，不用 do；③ 别与 a good bargain（买到便宜货）混。",
+    "synonym_points": ["drive a tough deal — 谈得很硬（同义变体）",
+      "haggle hard — 狠狠砍价（市井说法）",
+      "negotiate aggressively — 强势谈判（正式）",
+      "drive a good bargain — 谈成好条件（偏结果）"
+    ],
+    "antonym_points": ["cave in — 让步、妥协",
+      "roll over — 轻易让步（贬义）",
+      "pay full price — 照原价买单",
+      "give sth away — 白送、贱卖"
+    ],
+    "extended_points": ["bargain hunter — 淘便宜货的人",
+      "a steal — 便宜得离谱（褒义）",
+      "drive a wedge between — 挑拨离间（不同结构，勿混）"
+    ],
+    "key_point": "【速记】drive a hard bargain = 谈判狠压价、少让步。\n搭配：drive/strike a hard bargain with sb。\n区分：a good bargain 是「买到便宜货」。"
+  }
+]

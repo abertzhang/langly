@@ -1,0 +1,642 @@
+[
+  {
+    "point_content": "We don't have that luxury.",
+    "tag": ["资源约束", "没那条件", "中性偏负", "预算/时间", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我们没那条件；我们没有那种余裕；享受不起\n自然译法：我们没这个条件 / 耗不起 / 预算不允许",
+    "examples": [
+      "We can't wait three months — we don't have that luxury. 我们等不了三个月，没那条件。\n",
+      "We don't have that luxury of choosing ideal candidates. 我们没条件只挑理想人选。\n",
+      "Luxury here means spare time or money, not a product. 此处指余裕，不是奢侈品。\n",
+      "It's a factual constraint, not a complaint. 是客观约束，不是抱怨。\n",
+      "Constructive version: \"given our limits, here's the plan.\" 建设性版：在限制下这样安排。"
+    ],
+    "explanation": "【概要】表示缺乏某类余裕（时间、预算、人手）来做理想选择；luxury 在此喻指「余裕/奢侈条件」，常出现在项目与预算讨论。\n【结构】have the luxury of doing sth / have that luxury；否定 don't have。\n【语用】中性偏负，项目管理、资源谈判；接「那么方案是什么」才有效。\n【易错】① luxury 此处为抽象条件（可数 a luxury 也可）；② 与 luxury goods（奢侈品）字面义区分；③ 别用它暗示团队能力不足。",
+    "synonym_points": [
+      "we can't afford that — 我们承担不起",
+      "we don't have the bandwidth — 我们没那精力",
+      "we lack the resources — 我们资源不足",
+      "we're stretched thin — 我们已超负荷"
+    ],
+    "antonym_points": [
+      "we can afford to wait — 我们等得起",
+      "we have room to maneuver — 我们有回旋余地",
+      "resources aren't an issue — 资源不是问题",
+      "take your time — 慢慢来"
+    ],
+    "extended_points": [
+      "luxury 的比喻义（余裕）",
+      "bandwidth（精力带宽）",
+      "constraints-driven planning"
+    ],
+    "key_point": "【速记】We don't have that luxury = 没那条件。\nluxury＝余裕；需接方案。\n近义 no bandwidth。"
+  },
+  {
+    "point_content": "What have you been up to?",
+    "tag": ["寒暄提问", "最近忙什么", "中性偏正", "久别重逢", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你最近在忙什么？你最近怎么样？近来做什么呢？\n自然译法：最近忙啥 / 最近怎么样 / 好久不见，在干嘛呢",
+    "examples": [
+      "Long time no see — what have you been up to? 好久不见，最近忙什么？\n",
+      "What have you been up to this summer? 这个夏天你在忙什么？\n",
+      "It asks about recent activities, not feelings. 问的是近期活动，不是感受。\n",
+      "The structure is present perfect continuous. 结构为现在完成进行时。\n",
+      "For feelings, ask \"how have you been?\" 关心状态问 how have you been。"
+    ],
+    "explanation": "【概要】久别重逢的寒暄问句，询问对方近期在做什么、过得如何；语气友好，属开放式问题，需要具体回答。\n【结构】be up to sth（从事、忙于）；现在完成进行 What have you been up to?。\n【语用】中性偏正，朋友重逢、社媒互动；正式场合用 what have you been working on。\n【易错】① 用 up to（非 up on）；② 与 what are you up to（现在/暗含怀疑）不同；③ be up to you（由你决定）是另一义。",
+    "synonym_points": [
+      "how have you been — 你最近怎么样",
+      "what's new with you — 有什么新鲜事",
+      "what are you working on — 在做什么（正式）",
+      "catch me up — 跟我说说近况"
+    ],
+    "antonym_points": [
+      "nothing new — 没什么新事（回答）",
+      "same as usual — 老样子（回答）",
+      "never mind — 别问了",
+      "that's private — 私事不便说"
+    ],
+    "extended_points": [
+      "be up to sth 的双义",
+      "现在完成进行时用法",
+      "small talk openers — 寒暄开场"
+    ],
+    "key_point": "【速记】What have you been up to? = 最近忙什么。\nbe up to＝从事；勿混 up to you。\n正式版 working on。"
+  },
+  {
+    "point_content": "You're excused.",
+    "tag": ["许可用语", "你可以走了", "中性偏正式", "课堂/会议", "正式口语通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你可以走了；你可以离开了；（课堂）你可以去（洗手间）了\n自然译法：你可以走了 / 去吧 / 这儿没你事了",
+    "examples": [
+      "You're excused — go to the nurse. 你可以去了，去医务室。\n",
+      "The teacher said, \"You're excused.\" 老师说「你可以走了」。\n",
+      "You're excused grants permission to leave. 表示准许离开。\n",
+      "It can also dismiss a topic politely. 也可礼貌地结束某话题。\n",
+      "Casual version: \"you can go now.\" 口语版：你现在可以走了。"
+    ],
+    "explanation": "【概要】正式或半正式许可语，表示允许对方离开（课堂、会议、餐桌），也可礼貌地宣告某话题不必再谈。\n【结构】excuse sb（准予离开）；被动 You're excused。\n【语用】中性偏正式，课堂、正式会议；日常朋友间用 you can go now 更自然。\n【易错】① 与 Excuse me（打扰一下）不同；② 与 you're forgiven（你被原谅）不同；③ 语气上对成人使用略显上下级。",
+    "synonym_points": [
+      "you may leave — 你可以离开（更正式）",
+      "you can go now — 你可以走了（口语）",
+      "that's all — 就到这里",
+      "you're dismissed — 解散（军事/正式）"
+    ],
+    "antonym_points": [
+      "please stay — 请留下",
+      "not yet — 还不行",
+      "you need to stay — 你得留下",
+      "hold on — 等等"
+    ],
+    "extended_points": [
+      "excuse me 的多义",
+      "dismissed（解散）",
+      "permission language — 许可表达"
+    ],
+    "key_point": "【速记】You're excused = 你可以走了。\n≠ Excuse me；略上下级口吻。\n口语版 you can go now。"
+  },
+  {
+    "point_content": "I adore you.",
+    "tag": ["情感表达", "好喜欢你", "正面", "恋爱/亲昵", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我好喜欢你；我特别欣赏你；我超爱你（亲昵）\n自然译法：我太喜欢你了 / 我爱死你了 / 你太招人喜欢了",
+    "examples": [
+      "I adore you — you always know what to say. 我太喜欢你了，你总知道该说什么。\n",
+      "She adores her grandmother. 她特别爱她奶奶。\n",
+      "Adore is warmer than like, lighter than worship. 比 like 热，比 worship 轻。\n",
+      "It works for people, pets, and even places. 可用于人、宠物，甚至地方。\n",
+      "In formal writing, say \"I greatly admire you.\" 正式写作用 greatly admire。"
+    ],
+    "explanation": "【概要】强烈喜爱表达，比 like 更热情，含欣赏与珍视，常用于恋人、家人、宠物；语体柔和亲昵。\n【结构】adore sb/sth（及物，无需介词）；近义 love、be crazy about。\n【语用】正面，亲密关系与亲昵称呼；商务与正式书面用 admire、hold in high regard。\n【易错】① adore 及物（不说 adore about you）；② 与 worship（崇拜，偏宗教/夸张）不同；③ 语域偏亲昵，别用于同事。",
+    "synonym_points": [
+      "I love you — 我爱你",
+      "I'm crazy about you — 我为你着迷",
+      "I'm very fond of you — 我很喜欢你（略含蓄）",
+      "you're my favorite — 你是我的最爱"
+    ],
+    "antonym_points": [
+      "I can't stand you — 我受不了你",
+      "I dislike you — 我不喜欢你",
+      "I'm indifferent — 我无所谓",
+      "you annoy me — 你让我烦"
+    ],
+    "extended_points": [
+      "adore vs love vs worship",
+      "be crazy about — 着迷",
+      "fond of（含蓄喜欢）"
+    ],
+    "key_point": "【速记】I adore you = 我太喜欢你了。\nadore 及物；亲昵语域。\n正式版 admire。"
+  },
+  {
+    "point_content": "Bring it on.",
+    "tag": ["挑战用语", "放马过来", "中性偏强", "竞争/对抗", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "放马过来吧；来吧，我不怕；尽管挑战\n自然译法：来吧 / 谁怕谁 / 有本事就来",
+    "examples": [
+      "You think you can beat me? Bring it on. 你觉得能赢我？放马过来。\n",
+      "Bring it on — we've trained for this. 来吧，我们练过。\n",
+      "It's confident, sometimes aggressive. 自信，也可能带攻击性。\n",
+      "In a professional pitch, say \"we're ready for the challenge.\" 正式提案说 we're ready。\n",
+      "Avoid it with clients or superiors. 对客户与上级避免使用。"
+    ],
+    "explanation": "【概要】口语挑衅式表态，表示接受挑战、毫不畏惧；语气自信甚至好斗，适合运动、竞技与朋友互怼。\n【结构】bring it on（祈使短语，it 固定）；近义 come at me（更粗）、I'm ready。\n【语用】中性偏强，比赛、游戏；商务场合改 we're ready for the challenge。\n【易错】① 固定 bring it on（非 bring on it）；② 与 bring on（引起）不同；③ 正式沟通中易显不专业。",
+    "synonym_points": [
+      "come at me — 放马过来（更冲）",
+      "I'm ready — 我准备好了",
+      "let's go — 上吧",
+      "challenge accepted — 接受挑战"
+    ],
+    "antonym_points": [
+      "I'm out — 我退出",
+      "no thanks — 不参加",
+      "I'd rather not — 我不想",
+      "you win — 你赢了"
+    ],
+    "extended_points": [
+      "bring on（引起）辨析",
+      "challenge accepted — 接受挑战",
+      "trash talk — 赛前挑衅"
+    ],
+    "key_point": "【速记】Bring it on = 放马过来。\n固定语序；偏好斗。\n商务版 ready for the challenge。"
+  },
+  {
+    "point_content": "Second to none.",
+    "tag": ["习语", "首屈一指", "正面", "评价/商务", "正式口语通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "首屈一指；无人能及；最好的\n自然译法：数一数二 / 没有对手 / 最好的那个",
+    "examples": [
+      "Their customer service is second to none. 他们的客服首屈一指。\n",
+      "Second to none means nothing ranks above it. 意为没有比它更好的。\n",
+      "Her knowledge of the market is second to none. 她对市场的了解无人能及。\n",
+      "It's formal praise, common in business copy. 正式褒扬，常见于商务文案。\n",
+      "Modest version: \"among the best.\" 谦逊版：among the best。"
+    ],
+    "explanation": "【概要】习语，字面「不逊于任何一位（第二名都不算）」，表示在同类中排名第一、无可匹敌；多作表语。\n【结构】be second to none（固定 none，不加 the）；近义 the best、unrivaled。\n【语用】正面偏正式，商务宣传、绩效评价；过度使用会显得广告腔。\n【易错】① 固定 none（非 no one 也可但 none 更常见）；② 与 second to last（倒数第二）无关；③ 属绝对化表述，慎在合规广告中使用。",
+    "synonym_points": [
+      "unrivaled — 无可匹敌",
+      "the best in class — 同类最佳",
+      "top-notch — 一流",
+      "nothing beats it — 没有比它更好的"
+    ],
+    "antonym_points": [
+      "second-rate — 二流",
+      "far behind — 远远落后",
+      "nothing special — 没什么特别",
+      "bottom of the pack — 垫底"
+    ],
+    "extended_points": [
+      "second to last（易混）",
+      "best in class",
+      "absolute claims（绝对化表述的合规风险）"
+    ],
+    "key_point": "【速记】second to none = 首屈一指。\n固定 none；广告慎用绝对化。\n谦逊版 among the best。"
+  },
+  {
+    "point_content": "Easy come easy go.",
+    "tag": ["谚语（索引原写法）", "来得快去得快", "中性", "金钱/感情", "高频"],
+    "translation_lang": "zh-CN",
+        "translation_content": "来得容易去得快；不珍惜的东西容易失去；（钱）易得易失\n规范书写：easy come, easy go\n自然译法：钱来得快也花得快 / 太容易得到的不当回事",
+    "examples": [
+      "He spent the bonus in a week — easy come, easy go. 奖金一周花光，来得快去得也快。\n",
+      "Easy come, easy go applies to money and sometimes to affection. 可用于金钱，有时也指感情。\n",
+      "In writing, add the comma: easy come, easy go. 书面要加逗号。\n",
+      "It can sound dismissive when someone loses a lot. 别人损失惨重时说会显轻慢。\n",
+      "Neutral version: \"gains that come fast rarely last.\" 中性版：来得快的东西难长久。"
+    ],
+    "explanation": "【概要】谚语，表示轻易得到的东西也不易被珍惜、容易失去；常用于金钱，也可延伸到机会与感情。\n【结构】easy come, easy go（两个省略句并列，书面对称需逗号）；近义 what comes easily goes easily。\n【语用】中性，消费调侃、投资评论；他人重大损失时使用会显冷漠。\n【易错】① 趋势常省逗号但书面应加；② 与 easy money（容易赚的钱）相关但不同；③ 不适用于描述「感情淡薄」的贬评。",
+    "synonym_points": [
+      "what comes easily goes easily — 易得易失",
+      "easy money — 来得容易的钱",
+      "use it or lose it — 不用就丢（不同侧重）",
+      "here today, gone tomorrow — 转瞬即逝"
+    ],
+    "antonym_points": [
+      "hard-earned money — 辛苦钱",
+      "what you work for, you keep — 挣来的才留得住",
+      "slow and steady — 稳扎稳打",
+      "save for a rainy day — 未雨绸缪"
+    ],
+    "extended_points": [
+      "easy money — 易得之财",
+      "windfall — 意外之财",
+      "花式对称谚语（对偶结构）"
+    ],
+    "key_point": "【速记】easy come, easy go = 来得快去得快。\n书面加逗号；损失场景慎用。\n近义 windfall。"
+  },
+  {
+    "point_content": "Follow your heart.",
+    "tag": ["励志建议", "追随内心", "正面", "人生选择", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "追随你的心；按内心选择；做自己想做的\n自然译法：跟着心走 / 做你想做的 / 别违背内心",
+    "examples": [
+      "Follow your heart, but read the contract first. 追随内心，但先把合同读一遍。\n",
+      "She followed her heart and moved abroad. 她跟着心走，搬到了国外。\n",
+      "Follow your heart is emotional advice, not analysis. 是情感建议，不是分析。\n",
+      "Pair it with a reality check for major decisions. 重大决策要配现实检验。\n",
+      "Analytical version: \"weigh the trade-offs.\" 理性版：权衡取舍。"
+    ],
+    "explanation": "【概要】励志建议，鼓励按内在意愿与热情做选择；语气温暖，但在高风险决策中需要与理性评估并用。\n【结构】follow one's heart（固定物主代词）；近义 trust your gut、do what you love。\n【语用】正面，职业转向、感情选择；纯用它可能忽略成本与责任。\n【易错】① 用 heart（非 hearts 于单数主语）；② 与 listen to your head（理性）对举；③ 别用它推卸决策责任。",
+    "synonym_points": [
+      "trust your gut — 相信直觉",
+      "do what you love — 做你热爱的事",
+      "stay true to yourself — 忠于自己",
+      "go with your gut — 跟着感觉走"
+    ],
+    "antonym_points": [
+      "listen to your head — 用脑子判断",
+      "play it safe — 稳妥为上",
+      "follow the money — 向钱看",
+      "do what's practical — 选实际的"
+    ],
+    "extended_points": [
+      "head vs heart 对举",
+      "gut feeling — 直觉",
+      "trade-off analysis — 权衡分析"
+    ],
+    "key_point": "【速记】Follow your heart = 跟着心走。\n情感建议；重大决策配理性。\n对举 listen to your head。"
+  },
+  {
+    "point_content": "Add insult to injury.",
+    "tag": ["习语", "雪上加霜", "强负面", "事故/损失", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "雪上加霜；伤口上撒盐；在已受损时再加一击\n自然译法：本来已经够惨，还来这一出",
+    "examples": [
+      "I lost my wallet, and to add insult to injury, my phone died. 钱包丢了，雪上加霜的是手机也没电了。\n",
+      "To add insult to injury, they charged a cancellation fee. 更气人的是还收了取消费。\n",
+      "The phrase means compounding harm with humiliation. 指在伤害之上再加羞辱。\n",
+      "It's often introduced by \"to add insult to injury.\" 常以 to add insult to injury 引出。\n",
+      "Neutral version: \"and then it got worse.\" 中性版：然后更糟了。"
+    ],
+    "explanation": "【概要】习语，指在已经遭受损失或伤害时，又遭到额外的羞辱或打击，即「雪上加霜」；语气强烈，多用于叙事抱怨。\n【结构】add insult to injury（动词短语，可作 to add insult to injury 状语）；近义 make matters worse、kick sb when they're down。\n【语用】强负面，事故叙述、客服投诉；正式报告用 compounding factors。\n【易错】① 固定 insult + injury 对举；② 与 rub salt in the wound（撒盐，同义近）通用；③ 不宜在他人刚受创时轻用。",
+    "synonym_points": [
+      "make matters worse — 使情况更糟",
+      "rub salt in the wound — 伤口撒盐",
+      "kick someone when they're down — 落井下石",
+      "pour oil on the flames — 火上浇油"
+    ],
+    "antonym_points": [
+      "ease the pain — 减轻痛苦",
+      "soften the blow — 缓和打击",
+      "make amends — 弥补",
+      "turn it around — 扭转局面"
+    ],
+    "extended_points": [
+      "rub salt in the wound — 撒盐",
+      "compound harm — 叠加伤害",
+      "kick sb when they're down"
+    ],
+    "key_point": "【速记】add insult to injury = 雪上加霜。\ninsult/injury 对举；强烈抱怨语。\n近义 rub salt in the wound。"
+  },
+  {
+    "point_content": "Bite the bullet.",
+    "tag": ["习语", "咬紧牙关", "中性偏强", "艰难决定", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "咬紧牙关（硬扛）；狠下心做难事；认了这笔苦\n自然译法：硬着头皮上 / 咬牙认了 / 难受也得做",
+    "examples": [
+      "I bit the bullet and told him the truth. 我咬牙说了实话。\n",
+      "We'll bite the bullet and pay for the repair. 我们认了，付这笔维修费。\n",
+      "It comes from soldiers biting bullets during surgery. 源自士兵手术时咬子弹止痛的旧说。\n",
+      "Biting the bullet means accepting unavoidable pain. 指接受不可避免的痛苦。\n",
+      "Neutral version: \"we'll take the hit.\" 中性版：我们承担损失。"
+    ],
+    "explanation": "【概要】习语，指明知痛苦或代价高仍硬着头皮接受、执行；强调主动承担而非逃避，常见于不得已的决定。\n【结构】bite the bullet（固定 the bullet 单数）；近义 grit your teeth、take the hit。\n【语用】中性偏强，财务决策、艰难沟通；正式文本用 accept the cost。\n【易错】① 固定 the bullet；② 与 dodge the bullet（躲过一劫）相反；③ 与 take a bullet for sb（替人挡枪）不同。",
+    "synonym_points": [
+      "grit your teeth — 咬紧牙关",
+      "take the hit — 承担损失",
+      "grin and bear it — 忍着",
+      "face the music — 面对后果"
+    ],
+    "antonym_points": [
+      "dodge the bullet — 躲过一劫",
+      "pass the buck — 推责任",
+      "avoid the issue — 回避问题",
+      "kick the can down the road — 拖延"
+    ],
+    "extended_points": [
+      "dodge the bullet（对照）",
+      "face the music — 承担后果",
+      "sunk cost 决策"
+    ],
+    "key_point": "【速记】bite the bullet = 咬紧牙关硬扛。\n固定 the bullet；主动承担。\n反义 dodge the bullet。"
+  },
+  {
+    "point_content": "That's what I figured.",
+    "tag": ["推理确认", "我也是这么想的", "中性", "对话/排查", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我也是这么想的；我猜也是；跟我判断一样\n自然译法：我也猜到了 / 果然如此 / 我就说嘛",
+    "examples": [
+      "\"The server was down.\" \"That's what I figured.\" 「服务器挂了。」「我猜也是。」\n",
+      "That's what I figured from the logs. 从日志看我就这么判断。\n",
+      "Figure here means conclude, not calculate. figure 在此指推断。\n",
+      "It confirms agreement with an earlier guess. 表示与先前猜测一致。\n",
+      "Neutral version: \"that matches my read.\" 中性版：跟我的判断一致。"
+    ],
+    "explanation": "【概要】表示对方的说法与自己先前的推断一致，用于确认判断、推进排查与对话；语气平实，不带炫耀。\n【结构】that's what + 从句（I figured）；figure 意为「推断、认为」。\n【语用】中性，技术排查、日常对话；正式报告用 the evidence supports that。\n【易错】① figure 此处非「数字」；② 与 that's what I thought（更口语）近义；③ 与 I figured it out（我算出来了）不同。",
+    "synonym_points": [
+      "that's what I thought — 我也这么想",
+      "I had a feeling — 我有预感",
+      "that matches my read — 与我的判断一致",
+      "makes sense to me — 我觉得合理"
+    ],
+    "antonym_points": [
+      "that surprises me — 这出乎我意料",
+      "I didn't expect that — 我没想到",
+      "that contradicts my guess — 与我的猜测相反",
+      "no idea — 完全没想到"
+    ],
+    "extended_points": [
+      "figure 的「推断」义",
+      "go figure（反义语感）",
+      "confirming a hypothesis"
+    ],
+    "key_point": "【速记】That's what I figured = 我猜也是。\nfigure＝推断；用于确认判断。\n正式版 evidence supports that。"
+  },
+  {
+    "point_content": "Stick around.",
+    "tag": ["口语挽留", "别走", "中性偏正", "聚会/工作", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "留下来；别急着走；待一会儿\n自然译法：先别走 / 多待会儿 / 留着一起",
+    "examples": [
+      "Stick around — we're about to cut the cake. 别走，马上切蛋糕。\n",
+      "Stick around after the meeting; I'll share the data. 开完会别急着走，我发数据。\n",
+      "Stick around means stay in place for a while. 指留在原地待一会儿。\n",
+      "It's casual; \"please stay\" is more polite. 口语化，正式用 please stay。\n",
+      "For leaving, say \"I'll head out.\" 要离开说 I'll head out。"
+    ],
+    "explanation": "【概要】口语挽留或建议停留，指在某地多待一段时间；语气随意友好，常用于聚会、会议后交流。\n【结构】stick around（不及物短语动词）；近义 hang around（闲待，略贬）、stay a while。\n【语用】中性偏正，社交、团队活动；对客户或正式会议用 please stay。\n【易错】① 用 around（非 round 在美式也通）；② 与 stick to（坚持）不同；③ hang around 含「无所事事」意味。",
+    "synonym_points": [
+      "stay a while — 待一会儿",
+      "hang out — 一起待着",
+      "don't leave yet — 先别走",
+      "stick with us — 跟我们一块"
+    ],
+    "antonym_points": [
+      "head out — 先走了",
+      "take off — 离开（口语）",
+      "I've got to go — 我得走了",
+      "clear out — 撤了"
+    ],
+    "extended_points": [
+      "hang around（略贬）",
+      "stick to（坚持，易混）",
+      "head out — 离开"
+    ],
+    "key_point": "【速记】Stick around = 别急着走。\naround 固定；正式用 please stay。\n离开说 head out。"
+  },
+  {
+    "point_content": "You know the drill.",
+    "tag": ["职场口语", "你懂规矩", "中性", "流程/例行", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你知道规矩的；你懂流程；老一套，你熟\n自然译法：按老规矩来 / 流程你懂的 / 该怎么走你知道",
+    "examples": [
+      "Badge in, then sign the sheet — you know the drill. 刷卡进门再签到，流程你懂。\n",
+      "You know the drill: no phones in the lab. 规矩你知道，实验室不许带手机。\n",
+      "Drill here means routine procedure, not military exercise. drill 在此指固定流程。\n",
+      "It saves explanation when the person is experienced. 对老手可省去解释。\n",
+      "For a new hire, explain step by step instead. 对新人要一步步讲。"
+    ],
+    "explanation": "【概要】口语表达，指对方已熟悉既定流程或规矩，无需再解释；语气简洁，多用于团队例行事务。\n【结构】know the drill（固定 the drill）；近义 same as usual、you know the routine。\n【语用】中性，入职已久者、重复流程；对新人使用会造成沟通断层。\n【易错】① drill 此处为「流程」，非「操练」；② 固定 the drill；③ 别用它逃避必要的说明。",
+    "synonym_points": [
+      "you know the routine — 你懂流程",
+      "same as usual — 老规矩",
+      "business as usual — 照常办",
+      "you've done this before — 你做过"
+    ],
+    "antonym_points": [
+      "let me walk you through it — 我带你走一遍",
+      "here's the procedure — 流程如下",
+      "this is new — 这是新流程",
+      "first time? — 第一次吗"
+    ],
+    "extended_points": [
+      "drill 的双义（操练/流程）",
+      "SOP（标准作业流程）",
+      "onboarding gap"
+    ],
+    "key_point": "【速记】You know the drill = 你懂流程。\ndrill＝固定流程；对新人别用。\n正式版 here's the procedure。"
+  },
+  {
+    "point_content": "You lied to me.",
+    "tag": ["冲突指责", "你骗了我", "强负面", "信任破裂", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你骗了我；你对我撒谎了；（指责）你说了假话\n自然译法：你骗我 / 你怎么能骗我 / 你跟我说的是假的",
+    "examples": [
+      "You lied to me about the deadline. 截止期的事你骗了我。\n",
+      "You lied to me, and that's what hurts most. 你骗我，这才最伤人。\n",
+      "Lie to sb means tell a falsehood to someone. 指向某人说假话。\n",
+      "Accusations need specifics; \"about what?\" matters. 指控要具体到哪件事。\n",
+      "Repair version: \"I need to understand what happened.\" 修复版：我想弄清发生了什么。"
+    ],
+    "explanation": "【概要】直接指控对方说谎，属信任破裂时的核心表达；语气强烈，通常需要具体事实支撑才具建设性。\n【结构】lie to sb（介词 to 固定）；近义 you weren't honest with me、you deceived me（更重）。\n【语用】强负面，亲密关系、职场诚信问题；应配合具体事实与诉求。\n【易错】① 介词 to（非 lie me）；② lie（躺）与 lie（说谎）过去式不同（lay / lied）；③ deceive 更正式且含系统性欺骗。",
+    "synonym_points": [
+      "you weren't honest with me — 你对我不诚实",
+      "you deceived me — 你欺瞒了我（更重）",
+      "that was a lie — 那是谎话",
+      "you misled me — 你误导了我"
+    ],
+    "antonym_points": [
+      "you told me the truth — 你说了实话",
+      "you were honest — 你很坦诚",
+      "I believe you — 我信你",
+      "thanks for being straight — 谢谢你直说"
+    ],
+    "extended_points": [
+      "lie–lied–lied vs lie–lay–lain",
+      "white lie（善意谎言）",
+      "trust repair — 信任修复"
+    ],
+    "key_point": "【速记】You lied to me = 你骗了我。\n介词 to；须配具体事实。\n更重版 deceive。"
+  },
+  {
+    "point_content": "On the right track.",
+    "tag": ["进度评价", "方向正确", "正面", "项目/学习", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "方向对了；走上正轨；在正确的路上\n自然译法：思路对了 / 进度正常 / 走在正道上",
+    "examples": [
+      "The prototype is rough, but we're on the right track. 原型还粗糙，但方向对了。\n",
+      "You're on the right track with the grammar drills. 语法练习这条路你走对了。\n",
+      "It praises direction, not completion. 赞的是方向，不是完成度。\n",
+      "Railway metaphor: track means the set course. 源自铁路，指正确轨道。\n",
+      "Full praise: \"on track to finish by June.\" 完整表达：按计划六月完成。"
+    ],
+    "explanation": "【概要】表示方向、方法正确，虽未完成但进展合理；正面鼓励语，常用于项目评审与学习反馈。\n【结构】be on the right track（固定 the right track）；反义 on the wrong track、off track。\n【语用】正面，项目管理、教学反馈；需配具体依据，否则像安慰。\n【易错】① 固定 the right track；② 与 on track（按计划推进）近义但侧重不同；③ 别用它掩盖实际延误。",
+    "synonym_points": [
+      "on track — 按计划推进",
+      "heading in the right direction — 方向正确",
+      "making progress — 有进展",
+      "you're getting there — 你快成了"
+    ],
+    "antonym_points": [
+      "on the wrong track — 方向错了",
+      "off track — 偏离轨道",
+      "going nowhere — 毫无进展",
+      "back to square one — 回到原点"
+    ],
+    "extended_points": [
+      "on track vs on the right track",
+      "off track — 脱轨",
+      "milestone review — 里程碑评审"
+    ],
+    "key_point": "【速记】on the right track = 方向对了。\n固定 the right track；配具体依据。\n按计划版 on track。"
+  },
+  {
+    "point_content": "You're out of your league.",
+    "tag": ["贬低性评价", "高攀不起", "强负面", "竞争/恋爱", "慎用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你高攀不起；你不够格；别自不量力\n语域提示：贬低对方能力或身份，属不友善评价，正式沟通与职场中避免；中性替代：this may be a stretch / that's a tough match\n自然译法：你差着级别呢 / 别不自量力 / 你够不上",
+    "examples": [
+      "He tried out for the national team, but he's out of his league. 他去试训国家队，但水平差着级别。\n",
+      "Saying \"you're out of your league\" is dismissive and can damage morale. 这句带贬低，会打击士气。\n",
+      "In dating, it implies the other person is unattainable. 恋爱里指对方「高不可攀」。\n",
+      "League means a tier of competition. league 指竞争层级。\n",
+      "Neutral version: \"this role may be a stretch for now.\" 中性版：这个岗位现在可能有点吃力。"
+    ],
+    "explanation": "【概要】源自体育「联赛层级」，指某人能力/条件与目标不在同一层级，暗含「不够格、别尝试」；属贬低性表达，宜谨慎。\n【结构】be out of one's league（固定 out of + 物主代词 + league）；近义 out of your depth（力不从心）。\n【语用】强负面，竞技与恋爱语境的刻薄评价；职场反馈应改为具体能力差距。\n【易错】① 固定 out of（非 beyond 更文学）；② 与 out of your depth（不擅长）侧重不同；③ 别用它否定他人成长空间。",
+    "synonym_points": [
+      "out of your depth — 力不从心",
+      "not in the same class — 不是一个级别",
+      "that's a stretch — 有点勉强（中性）",
+      "above your level — 超出你的水平"
+    ],
+    "antonym_points": [
+      "you're in the same league — 你们同一级别",
+      "you're well qualified — 你完全够格",
+      "you're a strong fit — 你很合适",
+      "you belong here — 你属于这里"
+    ],
+    "extended_points": [
+      "league（竞争层级）",
+      "out of your depth",
+      "能力差距表述（skills gap）"
+    ],
+    "key_point": "【速记】out of your league = 高攀不起/不够格。\n固定 out of；贬低性强，慎用。\n中性版 that's a stretch。"
+  },
+  {
+    "point_content": "I have a gut feeling.",
+    "tag": ["直觉表达", "有种预感", "中性", "判断/风险", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我有一种直觉；我有预感；我总觉得不对劲/对\n自然译法：我直觉不对 / 我有种预感 / 说不上来，但我觉得",
+    "examples": [
+      "I have a gut feeling this deal is bad. 我直觉这单有问题。\n",
+      "I have a gut feeling she's telling the truth. 我直觉她说的是实话。\n",
+      "Gut feeling means intuition without full evidence. 指无完整依据的直觉。\n",
+      "It can flag risk but shouldn't replace data. 可作风险信号，但不能替代数据。\n",
+      "Formal version: \"my initial assessment suggests risk.\" 正式版：初步评估显示有风险。"
+    ],
+    "explanation": "【概要】表示基于经验与身体感受的直觉判断，缺乏完整证据；常用于风险预警与人事判断，需与事实核验结合。\n【结构】have a gut feeling (that + 从句)；近义 hunch、sixth sense。\n【语用】中性，投资、招聘、安全判断；决策中应由数据验证。\n【易错】① 用 gut（非 guts 于此处）；② 与 gut reaction（本能反应）略异；③ 别用直觉替代证据。",
+    "synonym_points": [
+      "I have a hunch — 我有预感",
+      "my gut tells me — 直觉告诉我",
+      "something feels off — 感觉不对",
+      "sixth sense — 第六感"
+    ],
+    "antonym_points": [
+      "the data says otherwise — 数据不支持",
+      "let's verify it — 先核实",
+      "that's just speculation — 只是猜测",
+      "I need evidence — 我要证据"
+    ],
+    "extended_points": [
+      "hunch — 预感",
+      "intuition vs evidence",
+      "risk signal — 风险信号"
+    ],
+    "key_point": "【速记】I have a gut feeling = 我有直觉。\n需数据验证；可作风险信号。\n正式版 initial assessment。"
+  },
+  {
+    "point_content": "Dig in one's heels.",
+    "tag": ["习语", "固执不让", "负面", "谈判/冲突", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "固执己见；死不让步；咬着不放\n自然译法：死守立场 / 怎么说都不松口 / 犟上了",
+    "examples": [
+      "Both sides dug in their heels over the price. 双方在价格上死不让步。\n",
+      "She dug in her heels and refused the transfer. 她死扛，拒绝了调岗。\n",
+      "The image is heels braced in the ground. 意象是把脚跟扎进地里硬顶。\n",
+      "It signals resistance, often irrational. 表抵抗，常带不理性。\n",
+      "Neutral version: \"we held our position.\" 中性版：我们坚持了立场。"
+    ],
+    "explanation": "【概要】习语，原指脚跟抵地稳住身体，喻指坚持立场、拒绝让步（常带不妥协甚至顽固的负面色彩）。\n【结构】dig in one's heels（物主代词随主语；也可 dig your heels in）；近义 stand firm（中性）、stonewall（更强）。\n【语用】负面至中性，谈判、家庭争执；正式文本用 held our position。\n【易错】① heels 用复数；② 与 dig in（开始吃/着手）不同；③ stand firm 不带贬义。",
+    "synonym_points": [
+      "refuse to budge — 一寸不让",
+      "stand your ground — 坚守立场（中性偏正）",
+      "stonewall — 顽固阻挠",
+      "hold firm — 坚持不让"
+    ],
+    "antonym_points": [
+      "give in — 让步",
+      "meet halfway — 各让一步",
+      "compromise — 妥协",
+      "bend — 松口"
+    ],
+    "extended_points": [
+      "dig in（开始吃/着手）辨析",
+      "stand firm（中性）",
+      "deadlock — 僵局"
+    ],
+    "key_point": "【速记】dig in one's heels = 死不让步。\nheels 复数；多带顽固色彩。\n中性版 stand firm。"
+  },
+  {
+    "point_content": "Don't be modest.",
+    "tag": ["社交劝语", "别谦虚", "正面", "夸奖/面试", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别谦虚了；别客气；该说你自己的功劳就说\n自然译法：别谦虚 / 你直说就行 / 这时候别藏",
+    "examples": [
+      "Don't be modest — you carried the whole project. 别谦虚，整个项目是你扛的。\n",
+      "Don't be modest, tell them what you achieved. 别客气，把成绩说出来。\n",
+      "In some cultures modesty is expected; here it may cost you. 有些文化重视谦虚，此处谦虚会吃亏。\n",
+      "Modest means humble, not small in size. modest 指谦虚，不是「小」。\n",
+      "Softer version: \"you can own this result.\" 柔和版：这个成果你可以认领。"
+    ],
+    "explanation": "【概要】在他人淡化自身成绩时，劝其不必过度谦虚、应正当地展示贡献；常见于面试准备、绩效沟通与东亚/欧美文化差异场景。\n【结构】be modest（形容词表语）；近义 don't sell yourself short、own your wins。\n【语用】正面，鼓励自我表达；在强调谦逊的文化语境中需注意分寸。\n【易错】① modest 与 humble 近义，但 modest 也可指「朴素的」；② 与 don't brag（别吹）方向相反；③ 劝人自夸也要有事实依据。",
+    "synonym_points": [
+      "don't sell yourself short — 别低估自己",
+      "own your wins — 认领你的成绩",
+      "give yourself credit — 给自己记一功",
+      "speak up for your work — 为你的工作发声"
+    ],
+    "antonym_points": [
+      "stay humble — 保持谦虚",
+      "don't brag — 别吹",
+      "downplay it — 淡化一下",
+      "let the work speak — 让作品说话"
+    ],
+    "extended_points": [
+      "modest 的双义（谦虚/朴素）",
+      "self-promotion 文化差异",
+      "own your wins — 认领成绩"
+    ],
+    "key_point": "【速记】Don't be modest = 别谦虚。\n鼓励正当展示；注意文化分寸。\n近义 own your wins。"
+  },
+  {
+    "point_content": "I don't give a damn.",
+    "tag": ["粗俗口语", "我不在乎", "强负面", "语域警告", "慎用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我一点都不在乎；我管他呢（粗俗）\n语域提示：damn 属轻度脏话，语气强硬且带不在乎的挑衅感；职场、客户沟通、正式文本避免；得体替代 I don't care / it doesn't matter to me\n自然译法：我根本不care / 关我什么事（粗鲁版）",
+    "examples": [
+      "I don't give a damn what they think. 他们怎么想我根本不在乎。\n",
+      "He said he didn't give a damn about the deadline. 他说截止期他根本不管。\n",
+      "Damn makes it mildly profane; use \"I don't care\" at work. 含 damn 属轻度脏话，职场用 I don't care。\n",
+      "It signals defiance more than indifference. 更多是挑衅式不在乎。\n",
+      "Softer version: \"it's not a priority for me.\" 柔和版：这对我来说不优先。"
+    ],
+    "explanation": "【概要】粗俗口语表达，表示完全不在乎、不在意他人看法；含 damn（轻度脏话），语气强硬且带挑衅，属不礼貌层级。\n【结构】not give a damn (about sth)（固定搭配）；近义 not care less（英式）、couldn't care less。\n【语用】强负面、粗俗，朋友间宣泄或影视对白；职场、客户、正式文案避免。\n【易错】① 含脏词，属粗俗语域；② 与 I could care less（逻辑反了，但仍通用）区分；③ 注意双否定误解。",
+    "synonym_points": [
+      "I don't care — 我不在乎（得体）",
+      "it doesn't matter to me — 对我无所谓",
+      "couldn't care less — 一点都不在乎（英式得体版）",
+      "whatever — 随便吧（轻慢）"
+    ],
+    "antonym_points": [
+      "I care deeply — 我很在意",
+      "this matters to me — 这对我很重要",
+      "I'm concerned — 我担心",
+      "it affects me — 这影响我"
+    ],
+    "extended_points": [
+      "语域警告：damn 属轻度脏话",
+      "couldn't care less 的逻辑争议",
+      "profanity levels（脏话强度分级）"
+    ],
+    "key_point": "【速记】I don't give a damn = 我根本不在乎（粗俗）。\ndamn 属脏话；职场用 I don't care。\n更得体：couldn't care less。"
+  }
+]

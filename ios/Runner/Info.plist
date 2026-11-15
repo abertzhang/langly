@@ -24,6 +24,11 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<!-- Google Mobile Ads SDK 启动时会校验这个 key；缺失会直接抛
+	     GADInvalidInitializationException 闪退。这里用 Google 官方测试 App ID，
+	     仅用于开发调试；正式发布前必须换成自己的 AdMob App ID。 -->
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-3940256099942544~1458002511</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSceneManifest</key>

@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Langly · 首页「今日」设计稿 · 摹客落地版</title>
+<style>
+/* ============================================================
+   Langly 首页设计令牌
+   与 J_ai_pronunciation_L_bigdot_v2.png 图标色板对齐（暖橙 + 深可可）
+   提示词包 v0.1 里的靛蓝 #4F46E5 是更早的备选，本稿未采用，见页面底部说明
+   ============================================================ */
+:root{
+  --bg:#FFF8F2;          /* 页面暖奶油底 */
+  --surface:#FFFFFF;     /* 卡片 */
+  --ink:#3A2A20;         /* 主文字（深可可） */
+  --ink-2:#786254;       /* 次文字 */
+  --ink-3:#A9988A;       /* 辅助文字 */
+  --line:#F0E2D6;        /* 分隔线 */
+  --brand:#F96C39;       /* 品牌暖橙（图标同款） */
+  --brand-deep:#C9441C;  /* 橙底上的强调文字 */
+  --brand-soft:#FFE7DA;  /* 橙色浅底 */
+  --danger:#B93C2B;      /* 逾期 / 错误 */
+  --danger-soft:#FDEBE6;
+  --success:#0F7A5F;     /* 成功 */
+  --success-soft:#E3F2EC;
+  --r-card:16px;
+  --r-btn:12px;
+  --r-chip:8px;
+  --sp-1:8px; --sp-2:12px; --sp-3:16px; --sp-4:24px;
+  font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Helvetica Neue",Arial,sans-serif;
+}
+
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#F3EDE7;color:var(--ink);-webkit-font-smoothing:antialiased}
+button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
+button:focus-visible{outline:3px solid var(--brand-deep);outline-offset:2px}
+.page{max-width:1240px;margin:0 auto;padding:36px 28px 64px}
+
+/* ---------- 文档外框 ---------- */
+.doc-head{margin-bottom:28px}
+.doc-head .kicker{font-size:12px;letter-spacing:.14em;color:var(--brand-deep);font-weight:700}
+.doc-head h1{font-size:28px;line-height:1.3;margin:8px 0 8px;font-weight:700;letter-spacing:-.02em}
+.doc-head p{font-size:14px;color:var(--ink-2);line-height:1.7;max-width:760px}
+.doc-head .tagline{display:inline-flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.doc-head .tagline span{font-size:12px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:5px 12px;color:var(--ink-2)}
+
+.workspace{display:grid;grid-template-columns:330px minmax(0,1fr);gap:28px;align-items:start}
+.panel,.spec{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-card);padding:20px}
+.panel h2,.spec h2{font-size:15px;font-weight:700;margin-bottom:12px}
+.panel h3,.spec h3{font-size:13px;font-weight:700;margin:18px 0 8px;color:var(--ink-2)}
+.panel p,.spec p,.panel li,.spec li{font-size:13px;line-height:1.75;color:var(--ink-2)}
+.panel ol,.spec ul{padding-left:18px}
+.panel .hint{font-size:12px;color:var(--ink-3);margin-bottom:12px;line-height:1.6}
+
+/* 评审工具：与产品导航明确分开，不属于 App 界面 */
+.states{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.state-btn{border:1px solid var(--line);border-radius:10px;padding:9px 10px;font-size:13px;text-align:left;color:var(--ink-2);transition:.15s}
+.state-btn:hover{background:var(--bg)}
+.state-btn[aria-pressed="true"]{background:var(--brand-soft);border-color:var(--brand);color:var(--brand-deep);font-weight:700}
+.reset-btn{margin-top:10px;width:100%;border:1px dashed var(--line);border-radius:10px;padding:8px;font-size:12px;color:var(--ink-3)}
+.reset-btn:hover{color:var(--brand-deep);border-color:var(--brand)}
+.shot-links{display:flex;flex-wrap:wrap;gap:6px}
+.shot-links a{font-size:11.5px;border:1px solid var(--line);border-radius:999px;padding:5px 10px;color:var(--brand-deep);text-decoration:none}
+.shot-links a:hover{background:var(--brand-soft);border-color:var(--brand)}
+
+.swatches{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+.sw{display:flex;align-items:center;gap:8px;font-size:11px;color:var(--ink-2)}
+.sw i{width:22px;height:22px;border-radius:6px;border:1px solid rgba(0,0,0,.06);flex:none}
+.sw code{font-size:10.5px;color:var(--ink-3)}
+
+.panel table,.spec table{width:100%;border-collapse:collapse;font-size:12px;color:var(--ink-2);margin-top:6px}
+.panel td,.spec td{padding:6px 4px;border-bottom:1px solid var(--line)}
+.panel td:first-child,.spec td:first-child{color:var(--ink);width:42%}
+
+/* ---------- 手机画布 ---------- */
+.stage{display:flex;flex-direction:column;align-items:center;gap:14px}
+.phone{width:402px;padding:10px;background:#241C17;border-radius:52px;box-shadow:0 24px 60px rgba(58,42,32,.22),0 2px 8px rgba(58,42,32,.12)}
+.screen{position:relative;width:382px;height:854px;background:var(--bg);border-radius:42px;overflow:hidden;display:flex;flex-direction:column}
+.stage-caption{font-size:12px;color:var(--ink-3);text-align:center}
+.stage-caption b{color:var(--ink-2)}
+
+/* 状态栏 */
+.statusbar{height:44px;flex:none;display:flex;align-items:center;justify-content:space-between;padding:0 24px 0 28px;font-size:13px;font-weight:700;letter-spacing:.02em}
+.statusbar .icons{display:flex;align-items:center;gap:5px}
+.statusbar svg{display:block}
+
+/* 内容滚动区 */
+.scroll{flex:1;overflow-y:auto;overflow-x:hidden;padding:4px 20px 20px;scrollbar-width:none}
+.scroll::-webkit-scrollbar{display:none}
+
+/* 顶部问候 */
+.greet{display:flex;justify-content:space-between;align-items:flex-start;margin-top:6px}
+.greet .date{font-size:12px;color:var(--ink-3);margin-bottom:4px}
+.greet h2{font-size:23px;line-height:1.3;font-weight:700;letter-spacing:-.02em}
+.avatar{width:38px;height:38px;border-radius:50%;background:var(--surface);border:1px solid var(--line);display:grid;place-items:center;font-size:13px;font-weight:700;color:var(--brand-deep)}
+.avatar svg{width:18px;height:18px;color:var(--brand)}
+
+/* 语言切换 */
+.chips{display:flex;gap:8px;overflow-x:auto;margin:18px -20px 0;padding:0 20px 4px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;display:flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 14px;font-size:13px;color:var(--ink-2);white-space:nowrap}
+.chip .dot{width:7px;height:7px;border-radius:50%;background:var(--ink-3)}
+.chip[aria-pressed="true"]{background:var(--brand-soft);border-color:var(--brand);color:var(--brand-deep);font-weight:700}
+.chip[aria-pressed="true"] .dot{background:var(--brand)}
+.chip.add{width:34px;height:34px;padding:0;justify-content:center;font-size:17px;color:var(--ink-3)}
+
+/* 提示条（逾期 / 错误 / 成功共用） */
+.notice{display:flex;align-items:center;gap:10px;border-radius:var(--r-btn);padding:11px 12px;margin-top:16px;font-size:12.5px;line-height:1.5}
+.notice.warn{background:var(--brand-soft);border:1px solid #FFC7AC;color:var(--brand-deep)}
+.notice.error{background:var(--danger-soft);border:1px solid #F2C4BA;color:var(--danger)}
+.notice .ntext{flex:1}
+.notice button{font-size:12px;font-weight:700;text-decoration:underline;text-underline-offset:2px;white-space:nowrap}
+.notice svg{flex:none}
+
+/* 主任务卡：暖橙底，文字用深可可保证对比度 */
+.hero{margin-top:16px;background:var(--brand);border-radius:20px;padding:18px;color:var(--ink);box-shadow:0 8px 20px rgba(249,108,57,.22)}
+.hero-top{display:flex;align-items:center;justify-content:space-between}
+.hero .eyebrow{font-size:12px;font-weight:700;letter-spacing:.04em;opacity:.78}
+.hero-top svg{width:20px;height:20px;color:#fff;opacity:.95}
+.hero-main{display:flex;align-items:center;justify-content:space-between;margin:12px 0 16px}
+.hero-num{font-size:44px;font-weight:800;line-height:1;letter-spacing:-.04em}
+.hero-label{font-size:13px;font-weight:600;margin-top:6px;opacity:.85}
+.ring{width:76px;height:76px;flex:none}
+.ring text{font-size:15px;font-weight:800;fill:var(--ink)}
+.cta{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;height:48px;border-radius:var(--r-btn);background:var(--surface);color:var(--ink);font-size:15px;font-weight:700;transition:transform .12s,background .15s,box-shadow .15s;box-shadow:0 2px 0 rgba(58,42,32,.08)}
+.cta:hover{background:#FFF3EA}
+.cta:active{transform:translateY(2px);box-shadow:none}
+.cta.is-disabled{background:rgba(255,255,255,.55);color:rgba(58,42,32,.45);cursor:not-allowed;box-shadow:none}
+.hero-note{margin-top:10px;font-size:11.5px;line-height:1.5;opacity:.82;text-align:center}
+
+/* 三数字概览 */
+.stats{display:grid;grid-template-columns:repeat(3,1fr);background:var(--surface);border:1px solid var(--line);border-radius:var(--r-card);margin-top:14px;padding:14px 4px}
+.stat{text-align:center;position:relative}
+.stat + .stat::before{content:"";position:absolute;left:0;top:6px;bottom:6px;width:1px;background:var(--line)}
+.stat b{display:block;font-size:21px;font-weight:800;line-height:1.2;font-variant-numeric:tabular-nums}
+.stat span{display:block;font-size:11.5px;color:var(--ink-3);margin-top:3px}
+
+/* 区块标题 */
+.section-head{display:flex;align-items:baseline;justify-content:space-between;margin:22px 0 12px}
+.section-head h3{font-size:16px;font-weight:700}
+.section-head a{font-size:12px;color:var(--brand-deep);font-weight:600}
+
+/* 待复习卡片 */
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-card);padding:14px;margin-bottom:10px;transition:border-color .15s,transform .12s;text-align:left;width:100%;display:block}
+.card:hover{border-color:var(--brand)}
+.card:active{transform:scale(.99)}
+.card-top{display:flex;align-items:center;justify-content:space-between}
+.kind{font-size:11px;font-weight:700;color:var(--brand-deep);background:var(--brand-soft);border-radius:var(--r-chip);padding:4px 8px}
+.due{font-size:11.5px;color:var(--ink-3);font-weight:600}
+.due.late{color:var(--danger)}
+.card h4{font-size:15px;font-weight:700;margin:10px 0 8px;line-height:1.45}
+.card .sub{font-size:12px;color:var(--ink-2);line-height:1.5;margin-bottom:10px}
+.dots{display:flex;align-items:center;gap:4px}
+.dots i{width:9px;height:9px;border-radius:50%;background:var(--line)}
+.dots i.on{background:var(--brand)}
+.dots span{font-size:11.5px;color:var(--ink-3);margin-left:6px}
+.card-foot{display:flex;align-items:center;justify-content:space-between;margin-top:12px;padding-top:10px;border-top:1px solid var(--line)}
+.tags{display:flex;gap:6px;flex-wrap:wrap}
+.tag{font-size:11px;color:var(--ink-2);background:var(--bg);border-radius:6px;padding:3px 7px}
+.card-foot .more{font-size:11.5px;color:var(--ink-3)}
+.card-foot .arrow{font-size:18px;color:var(--ink-3);line-height:1}
+
+/* 次级入口 */
+.gap-entry{display:flex;align-items:center;gap:12px;width:100%;background:var(--surface);border:1px solid var(--line);border-radius:var(--r-card);padding:14px;margin-top:14px;text-align:left}
+.gap-entry .ico{width:34px;height:34px;border-radius:10px;background:var(--brand-soft);display:grid;place-items:center;color:var(--brand-deep);flex:none}
+.gap-entry .txt{flex:1}
+.gap-entry .txt b{display:block;font-size:14px}
+.gap-entry .txt span{display:block;font-size:11.5px;color:var(--ink-3);margin-top:2px}
+.badge{background:var(--brand);color:#fff;font-size:11px;font-weight:700;border-radius:999px;min-width:20px;height:20px;display:grid;place-items:center;padding:0 6px}
+.gap-entry .arrow{color:var(--ink-3);font-size:18px}
+
+/* 空状态 / 错误态：内容少，用紧凑节奏保证关键按钮落在首屏内 */
+.empty{text-align:center;padding:16px 12px 14px;background:var(--surface);border:1px dashed var(--line);border-radius:var(--r-card)}
+.empty .art{width:72px;height:72px;margin:0 auto 8px;border-radius:50%;background:var(--brand-soft);display:grid;place-items:center}
+.empty .art svg{width:36px;height:36px;color:var(--brand)}
+.empty h4{font-size:15px;font-weight:700;margin-bottom:5px}
+.empty p{font-size:12.5px;color:var(--ink-2);line-height:1.6;margin-bottom:12px}
+.scroll.is-compact .hero{padding:15px;margin-top:12px}
+.scroll.is-compact .hero-main{margin:8px 0 12px}
+.scroll.is-compact .hero-num{font-size:38px}
+.scroll.is-compact .ring,.scroll.is-compact .sk-circle,.scroll.is-compact .unknown-ring{width:64px;height:64px}
+.scroll.is-compact .stats{margin-top:10px;padding:11px 4px}
+.scroll.is-compact .section-head{margin:14px 0 8px}
+.scroll.is-compact .empty{padding:12px}
+.scroll.is-compact .empty .art{width:60px;height:60px;margin-bottom:6px}
+.scroll.is-compact .empty p{margin-bottom:10px}
+.scroll.is-compact .notice{margin-top:10px;padding:9px 12px}
+.outline-btn{border:1px solid var(--brand);color:var(--brand-deep);border-radius:var(--r-btn);padding:10px 18px;font-size:13px;font-weight:700;background:var(--surface)}
+
+/* 骨架屏 */
+.sk{background:linear-gradient(90deg,#F1E6DC 25%,#F8F0E8 50%,#F1E6DC 75%);background-size:200% 100%;animation:shimmer 1.4s infinite;border-radius:6px}
+@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+@media (prefers-reduced-motion:reduce){.sk{animation:none}}
+.sk-line{height:12px;margin-bottom:8px}
+.sk-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-card);padding:14px;margin-bottom:10px}
+.sk-num{height:22px;width:34px;margin:0 auto 6px}
+.sk-circle{width:76px;height:76px;border-radius:50%}
+
+/* 底部 Tab */
+.tabbar{height:64px;flex:none;display:grid;grid-template-columns:repeat(4,1fr);background:var(--surface);border-top:1px solid var(--line);padding-top:6px}
+.tab{display:flex;flex-direction:column;align-items:center;gap:3px;font-size:10.5px;color:var(--ink-3);position:relative;padding-top:4px}
+.tab svg{width:22px;height:22px}
+.tab[aria-current="page"]{color:var(--brand-deep);font-weight:700}
+.tab[aria-current="page"]::after{content:"";position:absolute;top:0;width:16px;height:3px;border-radius:0 0 3px 3px;background:var(--brand)}
+.home-ind{height:18px;flex:none;display:grid;place-items:center;background:var(--surface)}
+.home-ind i{width:126px;height:5px;border-radius:99px;background:var(--ink);opacity:.85}
+
+/* Toast 与复习流程抽屉（原型演示，非真实功能） */
+.toast{position:absolute;left:20px;right:20px;bottom:92px;background:var(--ink);color:#fff;border-radius:10px;padding:11px 14px;font-size:12.5px;line-height:1.5;z-index:20;box-shadow:0 8px 24px rgba(58,42,32,.25)}
+.backdrop{position:fixed;inset:0;background:rgba(36,28,23,.45);z-index:40;display:none}
+.backdrop.open{display:block}
+.sheet{position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);width:340px;max-height:620px;background:var(--surface);border-radius:20px;z-index:50;padding:22px;display:none;box-shadow:0 24px 70px rgba(36,28,23,.3);overflow-y:auto}
+.sheet.open{display:block}
+.sheet-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.sheet-head .step{font-size:11.5px;font-weight:700;color:var(--brand-deep);letter-spacing:.04em}
+.sheet-head .close{width:28px;height:28px;border-radius:50%;background:var(--bg);color:var(--ink-2);font-size:16px;line-height:1}
+.sheet h3{font-size:18px;font-weight:700;margin-bottom:8px;line-height:1.4}
+.sheet p{font-size:13px;color:var(--ink-2);line-height:1.7;margin-bottom:16px}
+.steps{display:flex;gap:6px;margin-bottom:18px}
+.steps i{height:4px;flex:1;border-radius:9px;background:var(--line)}
+.steps i.on{background:var(--brand)}
+.wave{height:54px;border-radius:12px;background:var(--bg);display:flex;align-items:center;justify-content:center;gap:4px;margin-bottom:16px}
+.wave i{width:4px;border-radius:9px;background:var(--brand);opacity:.75}
+.sheet .primary{width:100%;height:44px;border-radius:var(--r-btn);background:var(--brand);color:#fff;font-size:14px;font-weight:700;margin-top:6px}
+.feedback{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.feedback button{border:1px solid var(--line);border-radius:var(--r-btn);padding:11px 8px;text-align:center}
+.feedback button b{display:block;font-size:13.5px}
+.feedback button span{display:block;font-size:11px;color:var(--ink-3);margin-top:3px}
+.feedback button:hover{border-color:var(--brand);background:var(--brand-soft)}
+.result-ico{width:52px;height:52px;border-radius:50%;background:var(--success-soft);color:var(--success);display:grid;place-items:center;margin-bottom:14px}
+.result-ico svg{width:26px;height:26px}
+.kv{display:flex;justify-content:space-between;font-size:12.5px;color:var(--ink-2);padding:9px 0;border-bottom:1px solid var(--line)}
+.kv b{color:var(--ink);font-variant-numeric:tabular-nums}
+
+/* 组件状态展示（文档区，非 App） */
+.demo-row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:10px}
+.demo-btn{height:36px;padding:0 14px;border-radius:10px;background:var(--brand);color:#fff;font-size:12.5px;font-weight:700}
+.demo-btn.hover{background:#EC5B2D}
+.demo-btn.pressed{background:var(--brand-deep);transform:translateY(2px)}
+.demo-btn.disabled{background:#EFE4DA;color:#B6A296;cursor:not-allowed}
+.demo-btn.focus{outline:3px solid var(--brand-deep);outline-offset:2px}
+.demo-chip{font-size:12px;padding:7px 12px;border-radius:999px;border:1px solid var(--line);color:var(--ink-2)}
+.demo-chip.on{background:var(--brand-soft);border-color:var(--brand);color:var(--brand-deep);font-weight:700}
+
+.spec{margin-top:28px}
+.spec .cols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.spec .note{background:var(--bg);border-left:3px solid var(--brand);border-radius:0 10px 10px 0;padding:12px 14px;font-size:12.5px;line-height:1.7;color:var(--ink-2);margin-top:14px}
+
+/* 截图模式：只输出 402×874 纯屏幕，可直接导入摹客当参考底图 */
+body.shot{background:var(--bg);overflow:hidden}
+body.shot .page{max-width:none;padding:0}
+body.shot .doc-head,body.shot .panel,body.shot .spec,body.shot .stage-caption{display:none}
+body.shot .workspace{display:block}
+body.shot .stage{display:block}
+body.shot .phone{width:402px;padding:0;border-radius:0;box-shadow:none;background:transparent}
+body.shot .screen{width:402px;height:874px;border-radius:0}
+body.shot .sheet,body.shot .backdrop{display:none !important}
+
+@media (max-width:900px){
+  .page{padding:24px 16px 48px}
+  .workspace{grid-template-columns:1fr}
+  .stage{order:-1}
+  .spec .cols{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="doc-head">
+    <div class="kicker">LANGLY · UI DESIGN · HOME</div>
+    <h1>首页「今日」· 高保真设计稿</h1>
+    <p>给摹客（Mockplus）落地用的一页稿：可直接粘进小摹 AI 生成可编辑矢量页，也可用导出的 PNG 在摹客画布里当参考底图描摹。核心业务红线是「<b>先讲一遍，再评分</b>」，主行动区与演示流程都围绕它组织。</p>
+    <div class="tagline">
+      <span>402×874 · 1206×2622 @3x</span><span>浅色主题</span><span>暖橙 × 深可可（对齐 J 图标）</span><span>示例数据，非真实业务</span>
+    </div>
+  </header>
+
+  <div class="workspace">
+    <aside class="panel">
+      <h2>状态预览</h2>
+      <p class="hint">以下为评审工具，不属于 App 界面。切换时会自动清掉上一个场景的临时提示；初始为干净默认态。</p>
+      <div class="states" id="stateBtns">
+        <button class="state-btn" data-state="default" aria-pressed="true">① 默认 · 今日队列</button>
+        <button class="state-btn" data-state="overdue" aria-pressed="false">② 逾期堆积</button>
+        <button class="state-btn" data-state="loading" aria-pressed="false">③ 加载骨架</button>
+        <button class="state-btn" data-state="empty" aria-pressed="false">④ 全部完成（空）</button>
+        <button class="state-btn" data-state="error" aria-pressed="false">⑤ 加载失败</button>
+      </div>
+      <button class="reset-btn" id="resetBtn">重置演示数据</button>
+
+      <h3>色板（实测令牌）</h3>
+      <div class="swatches">
+        <div class="sw"><i style="background:#F96C39"></i><span>品牌橙 <code>#F96C39</code></span></div>
+        <div class="sw"><i style="background:#3A2A20"></i><span>主文字 <code>#3A2A20</code></span></div>
+        <div class="sw"><i style="background:#FFF8F2"></i><span>页面底 <code>#FFF8F2</code></span></div>
+        <div class="sw"><i style="background:#FFE7DA"></i><span>橙浅底 <code>#FFE7DA</code></span></div>
+        <div class="sw"><i style="background:#C9441C"></i><span>橙强调 <code>#C9441C</code></span></div>
+        <div class="sw"><i style="background:#B93C2B"></i><span>逾期 <code>#B93C2B</code></span></div>
+      </div>
+      <p class="hint" style="margin-top:10px">橙底上的文字一律用深可可（≈5.6:1），不用白字；白字在 #F96C39 上仅 2.8:1，小尺寸读不清。这是第四批图标验过的同一条对比度结论。</p>
+
+      <h3>规格</h3>
+      <table>
+        <tr><td>圆角</td><td>卡 16 / 按钮 12 / 标签 8</td></tr>
+        <tr><td>间距基准</td><td>8 / 12 / 16 / 24</td></tr>
+        <tr><td>字号</td><td>标题 23 / 区块 16 / 卡题 15 / 正文 13–14 / 辅助 11–12</td></tr>
+        <tr><td>触摸目标</td><td>主按钮 48px、Tab 64px、chip 34px</td></tr>
+        <tr><td>字体</td><td>系统栈（PingFang SC），无远程字体</td></tr>
+      </table>
+
+      <h3>摹客落地两步</h3>
+      <ol>
+        <li>把 <code>doc/mockplus_ai_prompt.md</code> 第六节的<b>首页单页提示词</b>整段粘进小摹 AI，选 App / 402×874 / 浅色，生成可编辑矢量稿。</li>
+        <li>或把同目录的 <a href="./home_default.png"><code>home_default.png</code></a> 拖进摹客画布当参考底图，按上面的色板与规格描摹，图层用中文语义命名。</li>
+      </ol>
+      <h3>参考底图（402×874 @2x，可下载）</h3>
+      <div class="shot-links">
+        <a href="./home_default.png">默认</a>
+        <a href="./home_overdue.png">逾期</a>
+        <a href="./home_loading.png">加载</a>
+        <a href="./home_empty.png">空态</a>
+        <a href="./home_error.png">错误</a>
+      </div>
+      <p class="hint">点主按钮会演示「回想 → 讲一遍 → 四档反馈 → 结果」；关闭抽屉即清空，不会留下残留状态。</p>
+    </aside>
+
+    <main class="stage">
+      <div class="phone">
+        <div class="screen">
+          <div class="statusbar">
+            <span>9:41</span>
+            <span class="icons">
+              <svg width="17" height="12" viewBox="0 0 17 12" fill="currentColor" aria-hidden="true"><rect x="0" y="8" width="3" height="4" rx="1"/><rect x="4.5" y="6" width="3" height="6" rx="1"/><rect x="9" y="3" width="3" height="9" rx="1"/><rect x="13.5" y="0" width="3" height="12" rx="1"/></svg>
+              <svg width="16" height="12" viewBox="0 0 16 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M1 4.2a9 9 0 0 1 14 0"/><path d="M3.6 7a5.4 5.4 0 0 1 8.8 0"/><circle cx="8" cy="10" r="1.1" fill="currentColor" stroke="none"/></svg>
+              <svg width="25" height="12" viewBox="0 0 25 12" fill="none" aria-hidden="true"><rect x="0.6" y="0.6" width="20" height="10.8" rx="3" stroke="currentColor" stroke-width="1.2"/><rect x="2.4" y="2.4" width="15" height="7.2" rx="1.6" fill="currentColor"/><path d="M22.4 4.2v3.6c1.2-.3 1.8-1 1.8-1.8s-.6-1.5-1.8-1.8Z" fill="currentColor"/></svg>
+            </span>
+          </div>
+          <div class="scroll" id="screenContent"><!-- 由脚本按状态渲染 --></div>
+          <nav class="tabbar" id="tabbar" aria-label="底部导航">
+            <button class="tab" data-tab="today" aria-current="page">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4.5" width="18" height="16" rx="3"/><path d="M3 9.5h18M8 2.5v4M16 2.5v4"/><path d="m9 15 2 2 4-4"/></svg>
+              今日
+            </button>
+            <button class="tab" data-tab="points">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4.5h6.5a2.5 2.5 0 0 1 2.5 2.5v13a2 2 0 0 0-2-2H4z"/><path d="M20 4.5h-4.5A2.5 2.5 0 0 0 13 7v13a2 2 0 0 1 2-2h5z"/></svg>
+              知识点
+            </button>
+            <button class="tab" data-tab="explain">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="6" cy="12" r="2.2" fill="currentColor" stroke="none"/><path d="M10.5 7.5a7 7 0 0 1 0 9M14 4.5a11 11 0 0 1 0 15M17.5 2a15 15 0 0 1 0 20"/></svg>
+              讲解
+            </button>
+            <button class="tab" data-tab="me">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="8" r="3.6"/><path d="M4.5 20a7.5 7.5 0 0 1 15 0"/></svg>
+              我的
+            </button>
+          </nav>
+          <div class="home-ind"><i></i></div>
+          <div id="toastHost"></div>
+        </div>
+      </div>
+      <div class="stage-caption">402×874（项目新基准）· <b>示例数据</b>：8 条待复习 / 连续 12 天 / 本周 23 轮，均非真实业务数据</div>
+    </main>
+  </div>
+
+  <section class="spec">
+    <h2>设计说明与验收</h2>
+    <div class="cols">
+      <div>
+        <h3>视觉方向与假设</h3>
+        <ul>
+          <li>暖橙 <code>#F96C39</code> + 深可可文字，与 lib/core/theme/app_theme.dart 的品牌橙一致（J 图标为近似同色）；橙卡右上角一枚四角星芒呼应「AI 标识」，Tab「讲解」用声波弧呼应图标语义。</li>
+          <li>提示词包 v0.1 写的是靛蓝 <code>#4F46E5</code> 纸感风，那是更早的备选、未经确认；本稿按更晚且反复精修过的图标色板统一。<b>若要切回靛蓝，只需替换 3 个令牌</b>（<code>--brand</code> / <code>--brand-deep</code> / <code>--brand-soft</code>），布局与组件不用动。</li>
+          <li>首页定位为「操作型页面」：焦点是开始复习，数字与列表退居次级，不做营销式大标题和装饰。</li>
+        </ul>
+        <h3>业务红线（必须保留）</h3>
+        <ul>
+          <li>主按钮脚注与演示流程都写明「先讲一遍，再评分」，不是一上来点「认识 / 不认识」。</li>
+          <li>「讲解只追加、不覆盖」写在主卡脚注；录音为权威、转写只是副本写在演示流程第 2 步。</li>
+          <li>数据对应 <code>review_schedules.due_at</code>、<code>knowledge_points.mastery</code>、<code>learning_gaps.status=open</code>；P1 统计表未定稿，概览数字按设计占位。</li>
+        </ul>
+      </div>
+      <div>
+        <h3>状态覆盖</h3>
+        <ul>
+          <li>默认 / 逾期堆积 / 加载骨架 / 全部完成（空）/ 加载失败 五个整页状态。</li>
+          <li>组件级：按钮 default / hover / pressed / focus / disabled，语言 chip 选中与未选，Tab 选中，逾期与错误提示条，成功结果卡。</li>
+          <li>演示流程可走通：开始复习 → 回想 → 讲一遍 → 四档反馈 → 结果 → 回今日；关闭或点遮罩取消会清空状态。</li>
+        </ul>
+        <h3>组件状态（文档区示意，非 App 界面）</h3>
+        <div class="demo-row">
+          <button class="demo-btn">默认</button>
+          <button class="demo-btn hover">悬停</button>
+          <button class="demo-btn pressed">按下</button>
+          <button class="demo-btn focus">焦点</button>
+          <button class="demo-btn disabled">禁用</button>
+        </div>
+        <div class="demo-row">
+          <span class="demo-chip">未选中</span><span class="demo-chip on">● English 选中</span>
+        </div>
+        <h3>出稿后逐条点检</h3>
+        <ul>
+          <li>4 个 Tab 常驻且当前项高亮；语言切换在首页可见。</li>
+          <li>复习入口通向同一个「讲一遍」流程；四档反馈标出下次间隔预览。</li>
+          <li>逾期条目用文字 + 颜色双重表达，不只靠红色。</li>
+          <li>图层是中文语义命名的可编辑矢量，不是整页位图。</li>
+        </ul>
+      </div>
+    </div>
+    <div class="note"><b>边界说明：</b>这是静态高保真原型，只模拟交互，未连接真实数据、未改 <code>lib/</code> 任何 Flutter 代码、未登录或创建摹客项目。摹客目前没有 WorkBuddy 官方连接器，本稿采用「本地出稿 → 你导入摹客」的路径；若之后要读回摹客稿转 Flutter，见 <code>doc/mockplus_ai_prompt.md</code> 第五节。</div>
+  </section>
+</div>
+
+<div class="backdrop" id="backdrop"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="复习流程演示"></div>
+
+<script>
+/* ============================================================
+   原型演示逻辑：仅用于评审，不连接真实数据
+   状态机：整页 5 态 + 复习流程 4 步
+   ============================================================ */
+const SPARK = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 1.6c.85 6.1 3.6 8.85 9.7 9.7-6.1.85-8.85 3.6-9.7 9.7-.85-6.1-3.6-8.85-9.7-9.7 6.1-.85 8.85-3.6 9.7-9.7Z"/></svg>';
+const ARROW = '<svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4"/></svg>';
+const CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7"/></svg>';
+const ALERT = '<svg width="15" height="15" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="10" cy="10" r="8"/><path d="M10 6v5M10 14h.01"/></svg>';
+
+const REVIEWS = [
+  {title:'虚拟语气：If I were…', kind:'语法', sub:'和真实条件句总混，讲的时候容易跳步骤', mastery:3, due:'今天', tags:['# 条件句','# 易混'], last:'第 4 轮 · 11/08', late:false},
+  {title:'get around to doing', kind:'短语', sub:'介词搭配记不牢，开口会卡住', mastery:2, due:'已逾期 2 天', tags:['# 口语','# 搭配'], last:'第 2 轮 · 11/05', late:true},
+  {title:'「は」和「が」的区别', kind:'语法', sub:'能举例但讲不清话题与主语的分工', mastery:3, due:'今天', tags:['# 日本語','# 助词'], last:'第 3 轮 · 11/09', late:false}
+];
+
+const QUEUE_TOTAL = 8;       // 今日队列总数（示例数据）
+let pageState = 'default';
+let sheetStep = 0;           // 0=关闭 1=回想 2=讲一遍 3=反馈 4=结果
+let reviewed = 3;            // 已讲轮次
+let remaining = 5;           // 还剩待讲 = 队列总数 - 已讲
+let activeLang = 'English';
+let activeTab = 'today';
+let toastTimer = null;
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+function toast(msg){
+  clearTimeout(toastTimer);
+  $('toastHost').innerHTML = '<div class="toast" role="status">' + esc(msg) + '</div>';
+  toastTimer = setTimeout(() => { $('toastHost').innerHTML = ''; }, 2600);
+}
+function clearToast(){ clearTimeout(toastTimer); $('toastHost').innerHTML = ''; }
+
+function ring(part, total){
+  const r = 28, c = 2 * Math.PI * r, p = total ? part / total : 0;
+  return '<svg class="ring" viewBox="0 0 76 76" aria-label="已完成 ' + part + ' / ' + total + '">' +
+    '<circle cx="38" cy="38" r="' + r + '" fill="none" stroke="rgba(58,42,32,.18)" stroke-width="8"/>' +
+    '<circle cx="38" cy="38" r="' + r + '" fill="none" stroke="#3A2A20" stroke-width="8" stroke-linecap="round" stroke-dasharray="' + (c*p).toFixed(1) + ' ' + c.toFixed(1) + '" transform="rotate(-90 38 38)"/>' +
+    '<text x="38" y="42" text-anchor="middle">' + part + '/' + total + '</text></svg>';
+}
+
+/* 队列加载失败时，进度未知：用虚线空环表达「没有数据」，不伪装成骨架 */
+function unknownRing(){
+  return '<svg class="unknown-ring" viewBox="0 0 76 76" width="76" height="76" aria-label="进度未知">' +
+    '<circle cx="38" cy="38" r="28" fill="none" stroke="rgba(58,42,32,.32)" stroke-width="6" stroke-dasharray="4 7"/>' +
+    '<text x="38" y="45" text-anchor="middle" font-size="20" font-weight="800" fill="#3A2A20">?</text></svg>';
+}
+
+function chips(){
+  const langs = ['English','日本語','Español'];
+  return '<div class="chips" id="chips">' + langs.map(l =>
+    '<button class="chip" data-lang="' + l + '" aria-pressed="' + (l === activeLang) + '"><i class="dot"></i>' + l + '</button>'
+  ).join('') + '<button class="chip add" data-lang="+新增" aria-label="新增语言">＋</button></div>';
+}
+
+function hero(){
+  const loading = pageState === 'loading';
+  const err = pageState === 'error';
+  const empty = pageState === 'empty';
+  const num = err ? '暂无' : (empty ? '0' : remaining);
+  const label = loading ? '正在取回今日队列' : (err ? '暂时无法获取复习队列' : (empty ? '今天已经讲完了' : '条等你讲一遍'));
+  const btnText = loading ? '加载中…' : (empty ? '去记一个新知识点' : (err ? '暂时无法开始' : '开始复习（' + remaining + '）'));
+  const disabled = loading || err;
+  return '<section class="hero">' +
+    '<div class="hero-top"><span class="eyebrow">今日任务 · ' + esc(activeLang) + '</span>' + SPARK + '</div>' +
+    '<div class="hero-main">' +
+      '<div>' + (loading ? '<div class="sk sk-num" style="width:52px;height:38px"></div>'
+                         : '<div class="hero-num"' + (err ? ' style="font-size:30px"' : '') + '>' + num + '</div>') +
+      '<div class="hero-label">' + label + '</div></div>' +
+      (loading ? '<div class="sk sk-circle"></div>' : (err ? unknownRing() : ring(empty ? QUEUE_TOTAL : reviewed, QUEUE_TOTAL))) +
+    '</div>' +
+    '<button class="cta' + (disabled ? ' is-disabled' : '') + '" id="startBtn"' + (disabled ? ' disabled' : '') + '>' + btnText + (disabled ? '' : ARROW) + '</button>' +
+    '<div class="hero-note">' + (empty ? '每一轮讲解都会留下来，方便回看理解怎么变深' : '先讲一遍，再评分 · 讲解只追加不覆盖') + '</div>' +
+  '</section>';
+}
+
+function stats(){
+  const loading = pageState === 'loading';
+  const items = [[String(remaining),'待复习'],['12','连续天数'],['23','本周已讲']];
+  if (pageState === 'empty') items[0] = ['0','待复习'];
+  if (pageState === 'error') items[0] = ['—','待复习'];
+  return '<section class="stats">' + items.map(([n,l]) =>
+    '<div class="stat">' + (loading ? '<div class="sk sk-num"></div>' : '<b>' + n + '</b>') + '<span>' + l + '</span></div>'
+  ).join('') + '</section>';
+}
+
+function card(r){
+  const dots = [1,2,3,4,5].map(i => '<i class="' + (i <= r.mastery ? 'on' : '') + '"></i>').join('');
+  return '<button class="card" data-review="' + esc(r.title) + '">' +
+    '<div class="card-top"><span class="kind">' + r.kind + '</span><span class="due' + (r.late ? ' late' : '') + '">' + r.due + '</span></div>' +
+    '<h4>' + esc(r.title) + '</h4><div class="sub">' + esc(r.sub) + '</div>' +
+    '<div class="dots">' + dots + '<span>掌握度 ' + r.mastery + '/5</span></div>' +
+    '<div class="card-foot"><div class="tags">' + r.tags.map(t => '<span class="tag">' + t + '</span>').join('') + '</div>' +
+    '<span class="more">' + r.last + '</span><span class="arrow">›</span></div></button>';
+}
+
+function skeletonCards(){
+  return [0,1,2].map(() => '<div class="sk-card"><div style="display:flex;justify-content:space-between"><div class="sk sk-line" style="width:52px;height:16px"></div><div class="sk sk-line" style="width:64px;height:12px"></div></div><div class="sk sk-line" style="width:76%;height:15px;margin-top:12px"></div><div class="sk sk-line" style="width:92%;height:11px"></div><div class="sk sk-line" style="width:38%;height:9px;margin-top:14px"></div></div>').join('');
+}
+
+function emptyBlock(){
+  return '<div class="empty"><div class="art">' + SPARK + '</div><h4>今天讲得不错，明天见</h4>' +
+    '<p>今天的 ' + QUEUE_TOTAL + ' 条复习已讲完，SM-2 会排到合适的日子。</p>' +
+    '<button class="outline-btn" id="newPointBtn">去记一个新知识点</button></div>';
+}
+
+function errorBlock(){
+  return '<div class="empty"><div class="art" style="background:var(--danger-soft)">' + ALERT + '</div><h4>复习队列没加载出来</h4>' +
+    '<p>讲解记录都还在本地，重试一次就好。</p>' +
+    '<button class="outline-btn" id="retryBtn">重新加载</button></div>';
+}
+
+function listArea(){
+  const head = '<div class="section-head"><h3>今日待复习</h3><a id="allLink">' + (pageState === 'empty' ? '已完成 ' + QUEUE_TOTAL + ' 条' : '共 ' + QUEUE_TOTAL + ' 条 · 查看全部 ›') + '</a></div>';
+  if (pageState === 'loading') return head + skeletonCards();
+  if (pageState === 'empty') return head + emptyBlock();
+  if (pageState === 'error') return head + errorBlock();
+  const list = pageState === 'overdue'
+    ? [REVIEWS[1], REVIEWS[0], REVIEWS[2]]
+    : REVIEWS;
+  return head + list.map(card).join('') +
+    '<button class="gap-entry" id="gapBtn"><span class="ico">' + SPARK + '</span>' +
+    '<span class="txt"><b>待补的卡壳点</b><span>讲不清的地方，回查资料后补上</span></span>' +
+    '<span class="badge">3</span><span class="arrow">›</span></button>';
+}
+
+function notices(){
+  if (pageState === 'overdue') return '<div class="notice warn">' + ALERT + '<span class="ntext"><b>2 条已逾期</b>，建议先讲这两条再往下走。</span><button id="jumpBtn">先处理</button></div>';
+  if (pageState === 'error') return '<div class="notice error">' + ALERT + '<span class="ntext"><b>同步失败</b> · 本地记录不受影响</span><button id="retryBtn2">重试</button></div>';
+  return '';
+}
+
+function render(){
+  // 空 / 错误态内容少，压缩垂直节奏，保证主操作按钮落在首屏内
+  $('screenContent').classList.toggle('is-compact', pageState === 'empty' || pageState === 'error');
+  $('screenContent').innerHTML =
+    '<div class="greet"><div><div class="date">11 月 14 日 · 周六</div><h2>早上好，Alex</h2></div>' +
+      '<button class="avatar" id="avatarBtn" aria-label="个人中心">' + SPARK + '</button></div>' +
+    chips() + notices() + hero() + stats() + listArea();
+  bindScreen();
+}
+
+function bindScreen(){
+  document.querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => {
+    if (b.dataset.lang === '+新增') { toast('演示：新增语言入口，本稿未展开'); return; }
+    activeLang = b.dataset.lang; render(); toast('已切到 ' + activeLang + '（示例数据不变）');
+  }));
+  const start = $('startBtn');
+  if (start) start.addEventListener('click', () => {
+    if (pageState === 'empty') { toast('演示：进入「新建知识点」页'); return; }
+    openSheet(1);
+  });
+  document.querySelectorAll('[data-review]').forEach(b => b.addEventListener('click', () => openSheet(1)));
+  const all = $('allLink'); if (all) all.addEventListener('click', () => toast('演示：进入完整待复习列表'));
+  const gap = $('gapBtn'); if (gap) gap.addEventListener('click', () => toast('演示：进入卡壳点清单（3 条待补）'));
+  const jump = $('jumpBtn'); if (jump) jump.addEventListener('click', () => openSheet(1));
+  ['newPointBtn','retryBtn','retryBtn2'].forEach(id => {
+    const el = $(id); if (el) el.addEventListener('click', () => { setState('default'); toast(id === 'newPointBtn' ? '演示：进入新建知识点页' : '已重新加载复习队列'); });
+  });
+  const av = $('avatarBtn'); if (av) av.addEventListener('click', () => toast('演示：个人中心（我的 Tab 尚未设计）'));
+}
+
+/* ---- 复习流程抽屉 ---- */
+function openSheet(step){
+  sheetStep = step; clearToast();
+  $('sheet').classList.add('open'); $('backdrop').classList.add('open');
+  renderSheet();
+}
+function closeSheet(){
+  sheetStep = 0;
+  $('sheet').classList.remove('open'); $('backdrop').classList.remove('open');
+  $('sheet').innerHTML = '';
+}
+function stepsBar(n){
+  return '<div class="steps">' + [1,2,3].map(i => '<i class="' + (i <= n ? 'on' : '') + '"></i>').join('') + '</div>';
+}
+function renderSheet(){
+  const s = sheetStep;
+  const head = '<div class="sheet-head"><span class="step">复习 ' + (s <= 3 ? s : 3) + ' / 3 · ' + ['','回想','讲一遍','反馈'][Math.min(s,3)] + '</span><button class="close" id="closeSheet" aria-label="关闭">×</button></div>';
+  let body = '';
+  if (s === 1){
+    body = head + stepsBar(1) + '<h3>虚拟语气：If I were…</h3>' +
+      '<p>先别看笔记，用 30 秒回想它的用法和适用条件。想不起来也没关系，下一轮正是要把它讲清楚。</p>' +
+      '<button class="primary" data-go="2">想好了，开始讲</button>';
+  } else if (s === 2){
+    const bars = [14,26,18,34,22,40,28,18,32,20,12,26,16,22,12,30,18];
+    body = head + stepsBar(2) + '<h3>讲给同伴听</h3>' +
+      '<p>用你自己的话讲一遍，别用行话。<b>录音是权威载体，转写只是副本</b>；转写失败也不影响录音播放。</p>' +
+      '<div class="wave">' + bars.map(h => '<i style="height:' + h + 'px"></i>').join('') + '</div>' +
+      '<button class="primary" data-go="3">完成这一轮</button>';
+  } else if (s === 3){
+    const opts = [['又忘了','1 天后'],['很吃力','6 天后'],['想起来了','15 天后'],['太简单','39 天后']];
+    body = head + stepsBar(3) + '<h3>这遍讲得怎么样？</h3>' +
+      '<p>每档对应一次 SM-2 间隔调整，选完才进入下一条。</p>' +
+      '<div class="feedback">' + opts.map(([a,b]) => '<button data-result="' + a + '"><b>' + a + '</b><span>' + b + '</span></button>').join('') + '</div>';
+  } else {
+    body = head + '<div class="result-ico">' + CHECK + '</div><h3>已记录 · 下次复习 11 月 20 日</h3>' +
+      '<p>这一轮讲解只追加，没有覆盖第 4 轮的内容，之后可以在详情里对比首轮与最近一轮。</p>' +
+      '<div class="kv"><span>复习间隔</span><b>6 天 → 15 天</b></div>' +
+      '<div class="kv"><span>熟练度系数 EF</span><b>2.36 → 2.50</b></div>' +
+      '<button class="primary" id="backHome">回到今日</button>';
+  }
+  $('sheet').innerHTML = body;
+  const close = $('closeSheet'); if (close) close.addEventListener('click', closeSheet);
+  document.querySelectorAll('[data-go]').forEach(b => b.addEventListener('click', () => openSheet(Number(b.dataset.go))));
+  document.querySelectorAll('[data-result]').forEach(b => b.addEventListener('click', () => openSheet(4)));
+  const bh = $('backHome'); if (bh) bh.addEventListener('click', () => {
+    reviewed += 1; remaining = Math.max(0, remaining - 1);
+    closeSheet(); render(); toast('演示：已完成 1 条，四档反馈与讲解轮次均为示例数据');
+  });
+}
+
+/* ---- 状态切换（评审工具） ---- */
+function setState(name){
+  pageState = name; sheetStep = 0; clearToast();
+  closeSheet();
+  document.querySelectorAll('.state-btn').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.state === name)));
+  render();
+}
+function resetDemo(){
+  reviewed = 3; remaining = 5; activeLang = 'English'; activeTab = 'today';
+  document.querySelectorAll('.tab').forEach(b => b.setAttribute('aria-current', b.dataset.tab === 'today' ? 'page' : 'false'));
+  setState('default');
+  toast('演示数据已重置');
+}
+
+document.querySelectorAll('.state-btn').forEach(b => b.addEventListener('click', () => setState(b.dataset.state)));
+$('resetBtn').addEventListener('click', resetDemo);
+$('backdrop').addEventListener('click', closeSheet);
+document.querySelectorAll('.tab').forEach(b => b.addEventListener('click', () => {
+  if (b.dataset.tab === 'today') { activeTab = 'today'; document.querySelectorAll('.tab').forEach(x => x.setAttribute('aria-current', x.dataset.tab === 'today' ? 'page' : 'false')); toast('已在首页'); return; }
+  toast('演示：' + b.textContent.trim() + ' Tab 尚未设计，本稿只交付首页');
+}));
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && sheetStep) closeSheet(); });
+
+/* 截图模式：?shot=1&state=xxx 只输出纯屏幕，供摹客导入 */
+const params = new URLSearchParams(location.search);
+if (params.get('shot') === '1') document.body.classList.add('shot');
+const initial = params.get('state');
+setState(['default','overdue','loading','empty','error'].includes(initial) ? initial : 'default');
+if (params.get('shot') === '1') clearToast();
+</script>
+</body>
+</html>

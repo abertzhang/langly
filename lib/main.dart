@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 
 import 'core/storage/hive_service.dart';
+import 'core/storage/sqlite_service.dart';
 import 'core/theme/app_theme.dart';
 import 'core/theme/theme_mode_provider.dart';
 import 'features/home/home_page.dart';
@@ -21,11 +22,22 @@ const Size kDesignSize = Size(402, 874);
 /// 1. ensureInitialized —— Hive.initFlutter() 会走 path_provider 插件通道，
 ///    绑定没初始化就调用会抛 Binding has not yet been initialized；
 /// 2. HiveService.init() —— 打开 settings Box，之后主题模式可以同步读取；
-/// 3. ProviderScope 包住整个 App —— Riverpod 的所有 provider 都挂在它下面，
+/// 3. SqliteService.init() —— 把 asset/langly.db 复制到可写目录并打开，
+///    首页的第一条知识点卡片就能直接读 sqflite；
+/// 4. ProviderScope 包住整个 App —— Riverpod 的所有 provider 都挂在它下面，
 ///    少了这一层，ref.watch 会直接报「No ProviderScope found」。
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await HiveService.init();
+
+  // 预置库复制失败不该让整个 App 起不来：打印后继续 runApp，
+  // 首页的 FutureProvider 会再试一次，并把异常渲染成降级文案。
+  try {
+    await SqliteService.instance.init();
+  } on Object catch (error) {
+    debugPrint('[SqliteService] 初始化失败，首页将走降级展示：$error');
+  }
+
   runApp(const ProviderScope(child: LanglyApp()));
 }
 

@@ -1,0 +1,562 @@
+[
+  {
+    "point_content": "Toodles",
+    "tag": ["俚语", "告别语", "俏皮", "口语", "轻松"],
+    "translation_lang": "zh-CN",
+    "translation_content": "再见；回头见；（俏皮、带点可爱的告别语）\n自然译法：拜拜 / 回见 / 先撤啦",
+    "examples": ["Toodles! See you tomorrow. 拜拜！明天见。",
+      "I'm off — toodles, everyone. 我走了，各位回见。",
+      "She waved and said, \"Toodles!\" 她挥挥手说「拜拜啦」。",
+      "Toodles for now; text me later. 先拜拜，回头给我发消息。",
+      "He ended every call with \"toodles.\" 他每次通话都以「拜拜」收尾。"
+    ],
+    "explanation": "【概要】toodle-oo 的缩短形式，英式俚语来源的告别语，语气轻快、俏皮，带点老派幽默。\n【结构】独立使用，可单独成句，也可加 for now / everyone；一般不出现在句首接从句。\n【语用】朋友、熟人闲聊与短信中用；对客户或正式邮件不合适，用 goodbye / take care。\n【易错】① 只能告别，不能用于见面问候；② 不是「太糟糕了」的意思；③ 正式场合别用，容易显得不专业。",
+    "synonym_points": ["toodle-oo — 完整版，更复古俏皮",
+      "cheerio — 再见（英式，偏老派）",
+      "catch you later — 回头见（常用）",
+      "see ya — 回见（最随意）"
+    ],
+    "antonym_points": ["hello there — 你好呀（见面用）",
+      "welcome aboard — 欢迎加入",
+      "howdy — 你好（美式乡村问候）",
+      "nice to meet you — 很高兴认识你"
+    ],
+    "extended_points": ["ciao — 意大利语「再见」，英语口语里也常用",
+      "later gator — 儿童式俏皮告别（after a while, crocodile）",
+      "TTYL（talk to you later） — 聊天缩略语「回头聊」"
+    ],
+    "key_point": "【速记】toodles = 拜拜（俏皮告别语）。\n用法：独立成句，朋友/短信场景。\n禁忌：正式邮件与客户沟通换成 goodbye / take care。"
+  },
+  {
+    "point_content": "Tough luck",
+    "tag": ["口语", "同情缺失", "接受现实", "俚语", "稍冷"],
+    "translation_lang": "zh-CN",
+    "translation_content": "真倒霉；运气不好；算你倒霉（常带「认了吧」的意味）\n自然译法：太不巧了 / 那没办法 / 认栽吧",
+    "examples": ["You missed the last train? Tough luck. 错过末班车了？那真不巧。",
+      "Tough luck — the rules are the rules. 没办法，规矩就是规矩。",
+      "He lost by one point. Tough luck, but he played well. 他差一分输了，运气不好，不过打得不错。",
+      "If you didn't book, tough luck; the show is sold out. 没订票就只能认了，票卖光了。",
+      "\"My flight got cancelled.\" \"Tough luck, mate.\" 「我航班取消了。」「真够倒霉的，老兄。」"
+    ],
+    "explanation": "【概要】表示对别人的不幸「没什么可帮的」，可以是真诚同情，也可以是冷淡的「自认倒霉」。\n【结构】独立成句 Tough luck. 或 That's tough luck；也可作名词短语 a piece of tough luck（一段倒霉事）。\n【语用】语气差别大：加 sorry / mate 是安慰；单说一句常显得不近人情，正式场合慎用。\n【易错】① 不等于 hard work（辛苦）；② 不是「难运气」的字面组合；③ 对客户说会得罪人，改用 That's unfortunate。",
+    "synonym_points": ["that's unfortunate — 真不巧（正式、得体）",
+      "just my luck — 我就这运气（自嘲）",
+      "bad luck — 运气差",
+      "such is life — 生活就是这样（认命式）"
+    ],
+    "antonym_points": ["lucky you — 你真走运",
+      "what a stroke of luck — 真是好运",
+      "it's your lucky day — 今天是你的幸运日",
+      "better luck next time — 下次好运（带鼓励）"
+    ],
+    "extended_points": ["tough break — 倒霉事（更口语、更同情）",
+      "when it rains, it pours — 祸不单行",
+      "Murphy's law — 墨菲定律（该出错的一定出错）"
+    ],
+    "key_point": "【速记】tough luck = 真倒霉（也可能带「认了吧」的冷淡）。\n语气看搭配：加 sorry 是安慰，单说偏冷。\n正式场合换 that's unfortunate。"
+  },
+  {
+    "point_content": "Farm out",
+    "tag": ["短语动词", "商务", "外包", "分派", "工作"],
+    "translation_lang": "zh-CN",
+    "translation_content": "把（工作）外包出去；分派给别人做\n自然译法：这块包给外面做 / 分给下属去做 / 转手给别人干",
+    "examples": ["We farm out the accounting to a local firm. 我们把记账外包给本地一家公司。",
+      "They farmed out customer support to a call center. 他们把客服外包给了呼叫中心。",
+      "Don't farm out work you should do yourself. 该自己干的别甩给别人。",
+      "The editing was farmed out to freelancers. 剪辑分给了自由职业者做。",
+      "He farms out every task and then takes the credit. 他什么活都往外派，然后自己领功。"
+    ],
+    "explanation": "【概要】farm 原义「耕种」，farm out 引申为「把活分出去像租地一样让别人干」，即外包或分派。\n【结构】及物短语动词：farm sth out (to sb)；代词作宾语要放中间：farm it out，不能 farm out it。\n【语用】商务口语，中性偏务实；含「自己不想干」时带轻微贬义。\n【易错】① 代词位置规则；② 与 farm（种地）本义区分；③ 正式合同用 outsource / subcontract。",
+    "synonym_points": ["outsource — 外包（正式、通用）",
+      "subcontract — 分包（合同用语）",
+      "delegate — 授权分派（偏管理）",
+      "contract out — 发包给外部（英式）"
+    ],
+    "antonym_points": ["do sth in-house — 自己做、内部完成",
+      "keep sth in-house — 不外包，留在内部",
+      "take on sth oneself — 亲自接手",
+      "handle it internally — 内部处理"
+    ],
+    "extended_points": ["in-house team — 内部团队",
+      "third-party vendor — 第三方供应商",
+      "offshoring — 离岸外包（外包到海外）"
+    ],
+    "key_point": "【速记】farm out = 外包/分派出去。\n结构：farm sth out to sb；代词放中间（farm it out）。\n正式场合说 outsource / subcontract。"
+  },
+  {
+    "point_content": "Down payment",
+    "tag": ["金融词汇", "买房买车", "分期", "合同", "生活"],
+    "translation_lang": "zh-CN",
+    "translation_content": "首付款；定金；（分期付款的）先付部分\n自然译法：先付三成首付 / 交个定金 / 首期款",
+    "examples": ["We put 20% down as a down payment. 我们付了 20% 的首付。",
+      "The down payment on the house wiped out our savings. 房子的首付把我们的存款清空了。",
+      "Can I pay a small down payment and finance the rest? 我能先付一小笔首付，剩下的贷款吗？",
+      "He defaulted after missing the second down payment. 他第二期款没付，违约了。",
+      "A bigger down payment lowers your monthly bill. 首付多付些，月供就低。"
+    ],
+    "explanation": "【概要】大额消费分期时的「先付的一笔」，与贷款、月供（monthly payment）相对。\n【结构】名词：make / put / pay a down payment (on sth)；也可说 put money down（动词短语，付首付）。\n【语用】房产、汽车、分期购物必备；租房语境更常说 deposit（押金/定金），两者不完全等同。\n【易错】① down payment 是「首付」，不是「降价」；② deposit 在租房里是押金，别混；③ 说比例用 a 20% down payment。",
+    "synonym_points": ["deposit — 定金/押金（英式买房也常说 deposit）",
+      "initial payment — 首期付款（正式）",
+      "upfront payment — 预付的一笔",
+      "money down — 现付部分（口语）"
+    ],
+    "antonym_points": ["monthly installment — 每月分期款",
+      "balance — 尾款、余额",
+      "final payment — 最后一期款",
+      "pay in full — 一次性付清"
+    ],
+    "extended_points": ["mortgage — 房贷",
+      "interest rate — 利率",
+      "closing costs — 过户相关费用（买房时的附加支出）"
+    ],
+    "key_point": "【速记】down payment = 首付（分期里先付的一笔）。\n搭配：make / put / pay a down payment on sth。\n区分：租房押金是 deposit；一次性付清 pay in full。"
+  },
+  {
+    "point_content": "Damn straight",
+    "tag": ["口语强调", "强烈同意", "俚语", "态度", "非正式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "完全正确；当然；那还用说（强调式的同意）\n自然译法：必须的 / 百分百对 / 那当然",
+    "examples": ["\"Are you coming tonight?\" \"Damn straight I am.\" 「你今晚来吗？」「那还用说，当然来。」",
+      "Damn straight — that's exactly what I said. 完全正确，我就是这个意思。",
+      "You bet he's guilty — damn straight. 他肯定有罪，毫无疑问。",
+      "Damn straight it matters; it's our reputation. 这事当然重要，那是我们的名声。",
+      "\"Did she deserve the promotion?\" \"Damn straight she did.\" 「她该升职吗？」「当然该。」"
+    ],
+    "explanation": "【概要】damn 作强调词 + straight（直接、不拐弯），表示「一点没错、就是这样」，语气强且带情绪。\n【结构】独立回应；也可后接从句：Damn straight it is.；变体有 damn right、you're damn right。\n【语用】非常口语、略带粗俗，朋友间表达痛快认同；职场、客户、长辈面前不宜使用。\n【易错】① 属轻度脏话范畴，正式场合换成 absolutely / you're right；② 不表示「笔直」；③ 别与 damn well（强调不满）混。",
+    "synonym_points": ["you bet — 当然（口语）",
+      "absolutely — 绝对（正式）",
+      "you're damn right — 你说得太对了（更强）",
+      "hell yes — 当然是（粗俗强调）"
+    ],
+    "antonym_points": ["no way — 绝不、不行",
+      "not even close — 差得远",
+      "you're wrong about that — 这点你错了",
+      "hardly — 才不呢"
+    ],
+    "extended_points": ["damn well — 强调不满：「I damn well told you.」",
+      "as sure as I'm standing here — 我非常确定",
+      "dead right — 完全正确（英式口语）"
+    ],
+    "key_point": "【速记】damn straight = 完全正确/当然（强烈同意）。\n语域：非正式且带轻度粗俗，正式场合换 absolutely。\n变体：damn right / you're damn right。"
+  },
+  {
+    "point_content": "Truer words were never spoken",
+    "tag": ["习语", "赞同", "谚语式", "书面偏多", "评价"],
+    "translation_lang": "zh-CN",
+    "translation_content": "说得太对了；再没有比这更真的话了\n自然译法：这话一点不假 / 说得太到位了 / 至理名言",
+    "examples": ["\"You can't buy time.\" \"Truer words were never spoken.\" 「时间买不回来。」「这话一点不假。」",
+      "Truer words were never spoken — hard work beats talent when talent doesn't work. 说得太对了，天才不努力，努力的人就赢。",
+      "She said money can't fix trust, and truer words were never spoken. 她说钱买不回信任，这话太对了。",
+      "Truer words were never spoken, though it stings to admit it. 说得一点不假，虽然承认起来有点难受。",
+      "He quoted the old proverb, and everyone nodded: truer words were never spoken. 他引了那句老话，大家都点头：说得太对了。"
+    ],
+    "explanation": "【概要】对一句刚说出的真话表示高度认同，字面「更真的话从未被说过」，是固定套语。\n【结构】独立成句，常紧跟对方的话之后；也可后置：…, and truer words were never spoken。时态固定为过去式 were。\n【语用】肯定、带一点点文学腔，适合引用格言、感慨；日常闲聊用 absolutely / so true 更自然。\n【易错】① 时态固定 were，不写 are；② 全句不倒装；③ 只能评价「话」，不能评价人或物。",
+    "synonym_points": ["well said — 说得好（简洁）",
+      "you said it — 你说到点子上了",
+      "couldn't have said it better — 说得再妙不过",
+      "that's the truth — 这是实话"
+    ],
+    "antonym_points": ["that's nonsense — 胡说八道",
+      "nothing could be further from the truth — 完全不是事实",
+      "you're way off — 你差远了",
+      "that's a myth — 那是误传"
+    ],
+    "extended_points": ["a word to the wise — 明白人一听就懂（劝告套语）",
+      "the gospel truth — 千真万确（宗教色彩）",
+      "you can say that again — 太对了（口语版）"
+    ],
+    "key_point": "【速记】truer words were never spoken = 说得太对了。\n时态固定 were；用来评价「话」。\n口语替代：so true / you can say that again。"
+  },
+  {
+    "point_content": "Well-spoken",
+    "tag": ["形容词", "评价人物", "表达力", "褒义", "正式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "谈吐得体；说话有条理、得体（形容人）\n自然译法：他说话很得体 / 表达能力好 / 谈吐不俗",
+    "examples": ["She's a well-spoken young lawyer. 她是位谈吐得体的年轻律师。",
+      "The candidate was well-spoken and calm under pressure. 那位候选人表达得体，压力下也很稳。",
+      "He's quietly well-spoken, never loud. 他说话不急不躁，很有分寸。",
+      "A well-spoken apology can save a deal. 一句说得体面的道歉能救下一单生意。",
+      "Her well-spoken manner impressed the interviewers. 她得体的谈吐让面试官印象深刻。"
+    ],
+    "explanation": "【概要】well + spoken（speak 的过去分词），形容人说话清楚、用词得体、有教养，通常为褒义。\n【结构】作定语 well-spoken + 名词，或作表语 be well-spoken；比较级 more well-spoken。\n【语用】正式评价，常用于面试、推荐、公关描述；也可用于孩子「说话有礼貌」。\n【易错】① 连字符在定语位置必须有；② 别与 well-said（说得好，评价话语）混；③ 不表示「话多」，话多是 talkative。",
+    "synonym_points": ["articulate — 表达清晰（最常用同义）",
+      "eloquent — 有说服力、雄辩（更正式）",
+      "well-mannered — 举止得体（重礼貌）",
+      "soft-spoken — 说话温和（重音量语气）"
+    ],
+    "antonym_points": ["tongue-tied — 张口结舌、说不出话",
+      "inarticulate — 表达不清",
+      "foul-mouthed — 满嘴脏话",
+      "rambling — 说话东拉西扯"
+    ],
+    "extended_points": ["spokesperson — 发言人（同根词）",
+      "speak well of sb — 说某人的好话",
+      "public speaking — 公开演讲"
+    ],
+    "key_point": "【速记】well-spoken = 谈吐得体、表达有条理（褒义）。\n位置：定语加连字符；表语 be well-spoken。\n辨析：articulate 重清晰；eloquent 重感染力。"
+  },
+  {
+    "point_content": "What's the catch?",
+    "tag": ["口语提问", "怀疑", "交易", "隐藏条件", "习语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "有什么猫腻？；有什么隐藏条件？（天下没有白得的好处）\n自然译法：这有什么套路 / 里面藏着什么条件 / 不会有坑吧",
+    "examples": ["Free phone, free data — what's the catch? 免费手机、免流量，有什么猫腻？",
+      "\"It's 90% off.\" \"What's the catch?\" 「打一折。」「有什么条件？」",
+      "There must be a catch — nobody gives away money. 肯定有猫腻，没人白送钱。",
+      "I asked what the catch was before signing anything. 签字前我先问清了有什么附加条件。",
+      "No catch: you just have to leave a review. 没套路，就是要求写个评价。"
+    ],
+    "explanation": "【概要】catch 在此是「隐藏的陷阱/附加条件」，用于对「好得不像真的」的事提出怀疑。\n【结构】固定问句 What's the catch?；回答常用 There's no catch. / The catch is that…（条件是从句）。\n【语用】精明、带点警惕，购物、看广告、谈合同都用；不是恶意指控，是理性核实。\n【易错】① catch 在这里不是「抓」；② 回答条件用 The catch is + that 从句，不用 The catch is because；③ 别说 What is catch（缺冠词）。",
+    "synonym_points": ["what's the catch? — 有什么猫腻（本句）",
+      "what's the downside? — 有什么弊端（中性）",
+      "where's the hidden cost? — 隐藏成本在哪",
+      "sounds too good to be true — 好得不像真的"
+    ],
+    "antonym_points": ["no strings attached — 没有任何附加条件",
+      "no catch — 没套路",
+      "what you see is what you get — 所见即所得",
+      "straightforward deal — 干净利落的交易"
+    ],
+    "extended_points": ["there's always a catch — 天下没有免费的午餐（呼应）",
+      "a hidden clause — 合同里的隐藏条款",
+      "the fine print — 小字条款（真正的条件都在这儿）"
+    ],
+    "key_point": "【速记】What's the catch? = 有什么猫腻/隐藏条件？\n回答：There's no catch. / The catch is that…。\n对应无套路：no strings attached。"
+  },
+  {
+    "point_content": "Big picture",
+    "tag": ["习语", "格局", "战略思维", "工作", "中性偏褒"],
+    "translation_lang": "zh-CN",
+    "translation_content": "大局；整体情况；宏观视角\n自然译法：看大局 / 别只盯着细节 / 从整体上看",
+    "examples": ["Look at the big picture before you cut the budget. 砍预算前先看大局。",
+      "She always sees the big picture, not just her own task. 她总能看到全局，不只是自己那摊事。",
+      "You're losing the big picture in these details. 你陷在细节里，看不到整体。",
+      "The big picture is that we're still growing. 总体情况是，我们还在增长。",
+      "Step back and get the big picture first. 先退一步，把全局看清楚。"
+    ],
+    "explanation": "【概要】big picture 指整体图景，与细节（details）、局部（the small stuff）相对，强调战略视角。\n【结构】look at / see / get / lose the big picture；也可说 the bigger picture（更完整的全貌）。\n【语用】职场高频，多为褒义或建议；说别人 lose the big picture 带批评意味。\n【易错】① 定冠词 the 一般不能省；② 介词用 in the big picture（放在大局里看）；③ 别与 big deal（大事）混。",
+    "synonym_points": ["the whole picture — 全貌",
+      "the grand scheme of things — 从大处着眼、宏观来看",
+      "the bigger picture — 更完整的全局",
+      "helicopter view — 直升机视角（管理术语）"
+    ],
+    "antonym_points": ["the details — 细节",
+      "the nitty-gritty — 具体琐碎的实质内容",
+      "miss the forest for the trees — 见树不见林",
+      "lose sight of the goal — 忘了目标"
+    ],
+    "extended_points": ["big-picture thinker — 有全局思维的人",
+      "zoom out — 拉远视角、跳到宏观",
+      "put sth in perspective — 放到大背景里看"
+    ],
+    "key_point": "【速记】big picture = 大局、整体视角。\n搭配：look at / see / get the big picture；反面是细节。\n褒贬：提醒看全局是善意，说人 lose the big picture 是批评。"
+  },
+  {
+    "point_content": "Into thin air",
+    "tag": ["习语", "消失", "神秘", "叙述", "书面偏多"],
+    "translation_lang": "zh-CN",
+    "translation_content": "凭空消失；人间蒸发；无影无踪\n自然译法：人就没影了 / 钱一夜之间不见了 / 消失得干干净净",
+    "examples": ["The money vanished into thin air. 那笔钱凭空消失了。",
+      "He walked out and disappeared into thin air. 他走出去，然后就人间蒸发了。",
+      "My keys didn't just vanish into thin air — someone took them. 我钥匙不会自己消失，是有人拿走了。",
+      "The startup's funding went into thin air overnight. 那家初创的融资一夜之间没了踪影。",
+      "She seemed to melt into thin air when the police arrived. 警察一来她就像蒸发了一样。"
+    ],
+    "explanation": "【概要】thin air 字面「稀薄的空气」，vanish / disappear / melt into thin air 表示「毫无痕迹地消失」，常带神秘或蹊跷。\n【结构】固定与 vanish / disappear / melt / dissolve 等动词搭配；一般用 into thin air，不用 in thin air。\n【语用】叙述、新闻、悬疑语气；也可以夸张表达「东西找不到了」，带无奈或幽默。\n【易错】① 介词 into 不能换成 in；② 需要搭配「消失」类动词，不能单独说 into thin air 表状态；③ 不等于 out of nowhere（那是「突然出现」）。",
+    "synonym_points": ["vanish without a trace — 消失得无影无踪",
+      "disappear off the face of the earth — 从人间消失",
+      "go up in smoke — 化为乌有（多指计划、钱财）",
+      "evaporate — 蒸发、消失（可指资金、信心）"
+    ],
+    "antonym_points": ["out of nowhere — 凭空出现、突然冒出来",
+      "pop up — 冒出来",
+      "turn up — 露面、出现",
+      "materialize — 显现（书面）"
+    ],
+    "extended_points": ["thin air 也可指「凭空」：out of thin air（无中生有）",
+      "pull sth out of thin air — 凭空捏造出某物",
+      "like magic — 像变魔术一样"
+    ],
+    "key_point": "【速记】into thin air = 凭空消失（配 vanish/disappear/melt）。\n方向：into 表「消失进去」；in 不成立。\n对照：out of thin air 是「凭空出现/捏造」。"
+  },
+  {
+    "point_content": "Bossy",
+    "tag": ["形容词", "性格评价", "负面色调", "职场", "人际"],
+    "translation_lang": "zh-CN",
+    "translation_content": "爱发号施令的；霸道；好指挥别人（多含贬义）\n自然译法：她太爱指挥人了 / 有点霸道 / 事事都要管",
+    "examples": ["Don't be so bossy — we're a team, not your staff. 别这么爱指挥人，我们是团队，不是你的下属。",
+      "She gets bossy when she's stressed. 她一紧张就爱发号施令。",
+      "The bossy tone in that email rubbed everyone the wrong way. 那封邮件里命令式的口吻让所有人都不舒服。",
+      "He's not bossy, just clear about what he wants. 他不算霸道，只是把要求说得很清楚。",
+      "My bossy neighbor runs the whole building. 我那个爱管事的邻居把整栋楼都指挥了。"
+    ],
+    "explanation": "【概要】形容人喜欢对别人指手画脚、发号施令，尤其在没有权限时，带明显贬义。\n【结构】作定语 a bossy colleague / 作表语 be bossy；比较级 bossier；也可说 bossy boots（英式调侃）。\n【语用】多用于批评性格；职场里说女性 bossy 常被指有性别偏差，正式评价改用 assertive（果断）/direct。\n【易错】① 不是「有老板气质」的褒义；② 说上级命令用 commanding，不是 bossy；③ 别写成 bossey。",
+    "synonym_points": ["domineering — 专横、盛气凌人（更重）",
+      "overbearing — 压人一头、强势",
+      "pushy — 爱施压、咄咄逼人",
+      "dictatorial — 独断专行（书面、重）"
+    ],
+    "antonym_points": ["assertive — 果断自信（褒义）",
+      "easygoing — 随和",
+      "collaborative — 善于协作",
+      "accommodating — 好说话、愿意配合"
+    ],
+    "extended_points": ["bossy boots — 爱指挥的人（英式昵称式说法）",
+      "know-it-all — 自以为无所不知的人",
+      "micromanage — 事无巨细地管（动词）"
+    ],
+    "key_point": "【速记】bossy = 爱发号施令、霸道（贬义）。\n区别：assertive 果断是褒义；domineering 程度更重。\n职场提醒：形容女性 bossy 易被视作偏见，正式场合换说法。"
+  },
+  {
+    "point_content": "It's been known to happen",
+    "tag": ["口语", "委婉", "可能性", "轻描淡写", "英式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这种事也发生过；也不算稀奇（委婉表示「有可能发生」）\n自然译法：也不是没发生过 / 有过先例 / 这很常见",
+    "examples": ["\"Could the system crash again?\" \"It's been known to happen.\" 「系统还会崩吗？」「也不是没崩过。」",
+      "People do win the lottery — it's been known to happen. 确实有人中彩票，这种事真发生过。",
+      "It's been known to happen that a small team beats a giant. 小团队赢大公司，也不是没发生过。",
+      "Trains get delayed here; it's been known to happen. 这儿的火车会晚点，常有的事。",
+      "It's been known to happen, but don't count on it. 有过先例，但别指望。"
+    ],
+    "explanation": "【概要】用被动完成式「已知会发生」来委婉承认某种可能，既不保证也不否认，语气克制。\n【结构】固定句型 It's been known to happen (that + 从句)；也可说 sb/sth has been known to do sth（有过……的记录）。\n【语用】英式味道重、带幽默或回避承诺；回答「会不会」而你不愿给保证时很好用。\n【易错】① 时态固定完成式；② 不要理解成「已知的事」；③ 后接从句用 that，不用 if（问句除外）。",
+    "synonym_points": ["it happens — 是会发生的",
+      "it's not unheard of — 并非闻所未闻",
+      "there's precedent — 有先例",
+      "stranger things have happened — 更离奇的事都有过"
+    ],
+    "antonym_points": ["it never happens — 从没发生过",
+      "that's unheard of — 闻所未闻",
+      "impossible — 不可能",
+      "no chance — 没戏"
+    ],
+    "extended_points": ["have been known to do sth — 有过做某事的记录",
+      "once in a blue moon — 千载难逢",
+      "against all odds — 出乎意料地、不顾一切困难"
+    ],
+    "key_point": "【速记】It's been known to happen = 这事也发生过（委婉的可能）。\n变体：sb has been known to do sth（有过……的前科/记录）。\n语气：不承诺、不否认，英式幽默感。"
+  },
+  {
+    "point_content": "It takes a village",
+    "tag": ["谚语", "协作", "育儿", "团队", "正面"],
+    "translation_lang": "zh-CN",
+    "translation_content": "众人齐心，方能成事；（原谚语）养育一个孩子需要全村人的力量\n自然译法：这事一个人干不成 / 得靠大家搭把手 / 众人拾柴火焰高",
+    "examples": ["Nobody raises a child alone — it takes a village. 养孩子不是一个人的事，得靠大家。",
+      "Launching a product takes a village: design, engineering, support. 上一个产品得众人齐心：设计、工程、客服。",
+      "It takes a village to keep this community safe. 要守住这个社区的安全，得靠所有人。",
+      "Her book's acknowledgments read like a reminder that it takes a village. 她书里的致谢读起来就是在提醒：成事靠众人。",
+      "You can't do it solo; remember, it takes a village. 你一个人干不了，记住，得靠大家。"
+    ],
+    "explanation": "【概要】源自非洲谚语 It takes a village to raise a child，现常省略后半，泛指「大事需要多方协作」。\n【结构】独立成句或作从句；常用完整版 It takes a village to do sth。\n【语用】正面、鼓励协作；也用来反驳「全靠个人英雄」的说法。\n【易错】① 主语用 it（形式主语），不写 A village takes…；② 说「养孩子」需要补 to raise a child；③ 不是「需要很多钱」的意思。",
+    "synonym_points": ["many hands make light work — 人多好办事",
+      "it takes teamwork — 需要团队合作",
+      "no one succeeds alone — 没有人能独自成功",
+      "we're all in this together — 我们是一条船上的"
+    ],
+    "antonym_points": ["go it alone — 单干",
+      "every man for himself — 各顾各",
+      "pull yourself up by your bootstraps — 全靠自己白手起家",
+      "sink or swim — 自生自灭"
+    ],
+    "extended_points": ["It takes a village to raise a child — 完整谚语",
+      "It takes two to tango — 一个巴掌拍不响（双人互动类谚语）",
+      "a helping hand — 搭把手"
+    ],
+    "key_point": "【速记】It takes a village = 众人齐心才能成事。\n完整版：It takes a village to raise a child。\n用法：强调协作，反驳「一个人扛」的说法。"
+  },
+  {
+    "point_content": "Thin walls",
+    "tag": ["生活描述", "租房", "噪音", "名词短语", "抱怨"],
+    "translation_lang": "zh-CN",
+    "translation_content": "墙不隔音；墙很薄（指能听见隔壁动静）\n自然译法：这墙太薄了 / 隔音太差 / 隔壁说话都听得见",
+    "examples": ["The walls are thin — I can hear my neighbors arguing. 墙太薄了，隔壁吵架我都听得见。",
+      "Thin walls are the price of living downtown. 住市中心就得忍受隔音差。",
+      "Sorry for the noise; we have thin walls. 抱歉有点吵，我们这儿墙不隔音。",
+      "With walls this thin, everyone knows your business. 墙这么薄，你的事全楼都知道。",
+      "The apartment is nice, but the thin walls are a deal-breaker. 房子不错，可隔音差这一条就劝退了。"
+    ],
+    "explanation": "【概要】字面「薄墙」，实际指隔音差、私密性弱的居住环境，常用于租房与邻里抱怨。\n【结构】the walls are thin（表语）或 thin walls（名词短语作主语）；形容词 thin 与 thick（隔音好）相对。\n【语用】日常、租房看房语境；也可比喻「隐私容易外泄」。\n【易错】① 说隔音差更常说 the walls are thin / poor soundproofing；② 不要写成 wall is thin（一般用复数）；③ thin 不加 more。",
+    "synonym_points": ["poor soundproofing — 隔音差（技术说法）",
+      "no sound insulation — 没做隔音",
+      "you can hear a pin drop next door — 隔壁掉根针都听得见（夸张）",
+      "paper-thin walls — 纸糊的墙（更夸张）"
+    ],
+    "antonym_points": ["soundproof — 隔音的",
+      "thick walls — 厚墙、隔音好",
+      "well insulated — 隔音隔热良好",
+      "a quiet building — 安静的楼"
+    ],
+    "extended_points": ["the walls have ears — 隔墙有耳（提醒保密）",
+      "keep it down — 小声点",
+      "noise complaint — 噪音投诉"
+    ],
+    "key_point": "【速记】thin walls = 墙薄、隔音差。\n表达：the walls are thin / poor soundproofing。\n衍生：the walls have ears = 隔墙有耳。"
+  },
+  {
+    "point_content": "Gal pal",
+    "tag": ["口语称谓", "友情", "女性", "俚语", "社交"],
+    "translation_lang": "zh-CN",
+    "translation_content": "闺蜜；女性好友；（有时也指）女朋友\n自然译法：我的好姐妹 / 女闺蜜 / 女性朋友",
+    "examples": ["She's my gal pal from college. 她是我大学时的闺蜜。",
+      "The two gal pals opened a bakery together. 这两个好姐妹一起开了家面包店。",
+      "He brought his gal pal to the reunion. 他带女朋友去了聚会。",
+      "Girls' night is just me and my gal pals. 姐妹夜就是我和我的女朋友们。",
+      "They've been gal pals since kindergarten. 她们从上幼儿园起就是好姐妹。"
+    ],
+    "explanation": "【概要】gal（girl 的口语变体）+ pal（伙伴），指女性朋友或女朋友；语境决定是「闺蜜」还是「对象」。\n【结构】可数名词，a gal pal / my gal pals（复数）；口语中常带轻松、老派幽默感。\n【语用】随意、友善，偏美式；正式场合用 friend / female friend / partner。\n【易错】① 是女性之间的朋友或男性口中的女友，不含男性好友（male friend 或 buddy）；② 别在正式文书使用；③ 不要写成 gal-pal（作定语可加连字符）。",
+    "synonym_points": ["girlfriend — 女友/女性朋友（歧义大）",
+      "BFF — 最好的朋友（缩写）",
+      "bestie — 闺蜜（口语）",
+      "female friend — 女性朋友（中性、正式）"
+    ],
+    "antonym_points": ["guy friend — 男性朋友",
+      "buddy — 哥们儿",
+      "frenemy — 表面朋友、暗地较劲的人",
+      "acquaintance — 泛泛之交"
+    ],
+    "extended_points": ["gal — 女孩/女人（口语，带老派味）",
+      "pal — 伙伴、朋友（英式更常用）",
+      "girls' night out — 姐妹聚会"
+    ],
+    "key_point": "【速记】gal pal = 闺蜜/女性好友（也可指女友）。\n语域：美式口语、轻松；正式场合用 friend。\n对应男性版：buddy / guy friend。"
+  },
+  {
+    "point_content": "Talk some sense",
+    "tag": ["短语", "劝服", "沟通", "习语", "家庭职场"],
+    "translation_lang": "zh-CN",
+    "translation_content": "晓之以理；把某人劝清醒；讲道理让他改主意\n常用完整式：talk some sense into sb\n自然译法：你去劝劝他 / 跟他讲讲道理 / 让他清醒点",
+    "examples": ["Someone needs to talk some sense into him. 得有人去跟他讲讲道理。",
+      "I tried to talk some sense into her about the loan. 关于那笔贷款，我试着劝她清醒点。",
+      "Can you talk some sense into your brother? 你能劝劝你弟弟吗？",
+      "A good mentor talks sense, not slogans. 好的导师讲道理，不喊口号。",
+      "She finally talked some sense into the team about deadlines. 她终于把团队在截止期上劝明白了。"
+    ],
+    "explanation": "【概要】talk sense = 讲道理、说得有理；talk some sense into sb 是「说服某人别再犯傻」，带长辈/朋友式的关切。\n【结构】固定搭 into：talk some sense into sb；也可单独说 talk sense（讲道理）、make sb see sense（让某人明白过来）。\n【语用】口语，多用于劝家人、同事做糊涂事时；语气偏关心，不适用于正式谈判。\n【易错】① 介词是 into，不是 to；② sense 前可加 some / a little，不能加 a；③ 与 make sense（有道理）不同，后者不涉及劝说。",
+    "synonym_points": ["reason with sb — 与某人讲道理（更正式）",
+      "bring sb to their senses — 让某人清醒过来",
+      "set sb straight — 把某人纠正过来",
+      "knock some sense into sb — 敲醒某人（更粗直）"
+    ],
+    "antonym_points": ["talk nonsense — 胡说八道",
+      "lead sb astray — 把某人带偏",
+      "encourage the bad idea — 给馊主意打气",
+      "humor sb — 顺着某人胡来"
+    ],
+    "extended_points": ["make sense — 有道理、讲得通（不带劝说对象）",
+      "see sense — 明白过来、想通",
+      "common sense — 常识"
+    ],
+    "key_point": "【速记】talk some sense into sb = 劝某人讲点道理、清醒点。\n介词固定 into；some sense 不加 a。\n辨析：make sense 是「讲得通」，不涉及说服。"
+  },
+  {
+    "point_content": "Free range",
+    "tag": ["食品标签", "生活方式", "形容词", "育儿比喻", "散养"],
+    "translation_lang": "zh-CN",
+    "translation_content": "散养、放养的（鸡、蛋等）；（引申）自由放养式、不受拘束的\n自然译法：散养鸡蛋 / 放养的孩子（比喻自由成长）/ 自由散漫",
+    "examples": ["These are free-range eggs from a local farm. 这些是本地农场的散养鸡蛋。",
+      "Free-range chickens have access to the outdoors. 散养鸡可以到户外活动。",
+      "We raised our kids free-range — no schedules, lots of outside time. 我们养孩子是「散养」，不排课表，多在户外。",
+      "The label says free-range, but the barn tells another story. 标签写着散养，可鸡舍的情况可不是这样。",
+      "They offer a free-range approach to learning: kids choose their projects. 他们的学习方式是自由放养式，孩子自己选项目。"
+    ],
+    "explanation": "【概要】农业术语「放养的」，强调动物可在户外自由活动；引申到育儿、教育、管理上表示「少管束、给自由」。\n【结构】定语形容词，加连字符 free-range eggs / free-range kids；也可作状语式描述。\n【语用】褒义偏多：动物福利、天然食品；育儿用法带调侃，可能被理解为「放任」。\n【易错】① 修饰名词时加连字符；② 别把 free range 当成「免费范围」；③ 与 cage-free（无笼饲养）标准不同，虽常一起出现。",
+    "synonym_points": ["pasture-raised — 牧场散养（标准更严）",
+      "cage-free — 无笼饲养（可在舍内活动）",
+      "hands-off parenting — 放手式育儿",
+      "unstructured — 无固定安排的、自由的"
+    ],
+    "antonym_points": ["battery-farmed — 笼养的（密集养殖）",
+      "factory-farmed — 工厂化养殖",
+      "helicopter parenting — 直升机式育儿（事事紧盯）",
+      "strictly scheduled — 严格按课表安排"
+    ],
+    "extended_points": ["organic — 有机的",
+      "grass-fed — 草饲的",
+      "range-free — 注意：无此常见搭配，别生造"
+    ],
+    "key_point": "【速记】free-range = 散养/放养；引申自由不拘束。\n写法：作定语加连字符 free-range eggs。\n对照：battery-farmed 笼养；helicopter parenting 直升机育儿。"
+  },
+  {
+    "point_content": "A drop in the bucket",
+    "tag": ["习语", "数量对比", "杯水车薪", "美式", "财务"],
+    "translation_lang": "zh-CN",
+    "translation_content": "九牛一毛；杯水车薪；微不足道的一点（相对于所需总额）\n自然译法：这点钱塞牙缝都不够 / 相对总额根本不值一提 / 沧海一粟",
+    "examples": ["A $10 donation is a drop in the bucket for this campaign. 对这场募捐来说，10 美元连杯水车薪都算不上。",
+      "The fine is a drop in the bucket for a company that size. 对那种体量的公司，这点罚款就是九牛一毛。",
+      "Saving 5% is a drop in the bucket compared to the real costs. 省 5% 相比真实开销微不足道。",
+      "Our early funding was a drop in the bucket; we needed millions. 早期那点融资杯水车薪，我们要的是几百万。",
+      "It helps, but honestly it's a drop in the bucket. 有用，但说实话杯水车薪。"
+    ],
+    "explanation": "【概要】美式习语，一滴水落进水桶里毫无影响，比喻数量相对于需求微不足道。英式对应 a drop in the ocean。\n【结构】a drop in the bucket 作表语或同位语；常与 compared to / for 引出对比对象。\n【语用】中性偏务实，财务、募捐、政策评估常用；也可用来「淡化」成绩。\n【易错】① 冠词 a 不能省；② 介词固定 in the bucket；③ 别混 drop in the ocean（英式表达，同义）。",
+    "synonym_points": ["a drop in the ocean — 沧海一粟（英式同义）",
+      "a mere pittance — 一点点、微不足道的钱（书面）",
+      "chicken feed — 小钱、零头（口语）",
+      "negligible — 可忽略不计（正式）"
+    ],
+    "antonym_points": ["a game changer — 改变格局的关键量",
+      "a big chunk — 一大块、相当大一部分",
+      "the lion's share — 最大的一份",
+      "make all the difference — 起决定作用"
+    ],
+    "extended_points": ["bucket list — 人生清单（同为 bucket 词族）",
+      "kick the bucket — 翘辫子（俚语，慎用）",
+      "a rounding error — 四舍五入的误差（金融语境的同义说法）"
+    ],
+    "key_point": "【速记】a drop in the bucket = 九牛一毛、杯水车薪。\n结构：a drop in the bucket + compared to/for。\n英式对应 a drop in the ocean。"
+  },
+  {
+    "point_content": "In the middle of nowhere",
+    "tag": ["习语", "地点描述", "偏远", "口语", "旅行"],
+    "translation_lang": "zh-CN",
+    "translation_content": "荒郊野岭；前不着村后不着店；偏僻得没边\n自然译法：那地方偏得要命 / 周围啥都没有 / 荒无人烟",
+    "examples": ["The hotel is in the middle of nowhere, 40 km from the nearest town. 那酒店荒得很，离最近的镇子 40 公里。",
+      "We broke down in the middle of nowhere with no signal. 我们在荒郊野岭抛锚了，还没信号。",
+      "Why did you buy a house in the middle of nowhere? 你怎么在那种偏僻地方买房子？",
+      "It's not the middle of nowhere — there's a station nearby. 那不算荒郊野岭，附近有个车站。",
+      "They built a data center in the middle of nowhere for cheap power. 为了便宜电，他们把数据中心建在荒郊野岭。"
+    ],
+    "explanation": "【概要】字面「在哪儿都不在的中间」，夸张表示「远离城镇、四周空无一人」，带吐槽或浪漫两种色彩。\n【结构】固定介词短语 in the middle of nowhere；也可说 out in the sticks（更俚）、the back of beyond（英式）。\n【语用】口语中常用；吐槽基础设施差，或强调「远离喧嚣」。\n【易错】① 介词 in，不是 at；② 必须带 the；③ 不表示「在正中」——那个意思用 right in the middle。",
+    "synonym_points": ["out in the sticks — 乡下、荒僻处（俚语）",
+      "the back of beyond — 极偏远的地方（英式）",
+      "off the beaten path — 远离主路、非热门（偏褒）",
+      "godforsaken place — 荒凉被遗忘的地方（带情绪）"
+    ],
+    "antonym_points": ["in the heart of the city — 市中心",
+      "downtown — 闹市区",
+      "on the beaten path — 热门路线上",
+      "a stone's throw from — 一步之遥、很近"
+    ],
+    "extended_points": ["middle of nowhere 也用于口语抱怨路况：We're stuck in the middle of nowhere.",
+      "the sticks — 乡下（the boonies 美式俚语）",
+      "off the grid — 不通电网、与世隔绝"
+    ],
+    "key_point": "【速记】in the middle of nowhere = 荒郊野岭、极其偏僻。\n介词 in + the；同义 out in the sticks。\n对照：right in the middle 才是「正中间」。"
+  },
+  {
+    "point_content": "I'm on top of it",
+    "tag": ["职场口语", "负责", "掌控", "可靠", "回应"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我在管着呢；尽在掌握；这事我盯着\n自然译法：这活我盯着 / 我心里有数 / 已经在我掌控里",
+    "examples": ["Don't worry about the invoice — I'm on top of it. 发票别担心，我盯着呢。",
+      "She's on top of every deadline in the project. 项目里每个截止期她都盯得死死的。",
+      "\"Has anyone called the client?\" \"I'm on top of it.\" 「有人给客户打过电话了吗？」「我已经在办了。」",
+      "You need to stay on top of the maintenance schedule. 维护计划你得一直盯着。",
+      "He wasn't on top of the details, and it showed. 他对细节没抓牢，一看就露馅。"
+    ],
+    "explanation": "【概要】be on top of sth = 对该事务掌握、跟进到位、不会拖延，是职场里让人放心的表态。\n【结构】be / stay / keep on top of sth；直接宾语是事项（work, emails, schedule）。近义结构 get on top of sth（把积压的事处理掉）。\n【语用】中性偏褒、有效率感；主动回应任务时很有说服力，但说了就要做到。\n【易错】① 别与 on top（在上面、领先）混；② 介词 of 不能省；③ 说人「压着别人」用 be on sb's back，不是 on top of。",
+    "synonym_points": ["I've got it covered — 我来搞定（口语）",
+      "it's under control — 已在掌控中",
+      "I'm handling it — 我在处理",
+      "I'm staying on top of it — 我一直在跟进"
+    ],
+    "antonym_points": ["drop the ball — 掉链子、失手",
+      "let it slide — 放着不管、放任",
+      "be behind on sth — 落后、拖欠",
+      "fall through the cracks — 被遗漏、无人处理"
+    ],
+    "extended_points": ["get on top of sth — 把积压的事理顺",
+      "on top of things — 事事跟得上（人）",
+      "keep sb in the loop — 让人知情（与跟进配套）"
+    ],
+    "key_point": "【速记】I'm on top of it = 这事我盯着，尽在掌握。\n搭配：be / stay on top of sth；介词 of 必留。\n反面：drop the ball（掉链子）。"
+  }
+]

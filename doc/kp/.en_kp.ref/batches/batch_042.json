@@ -1,0 +1,610 @@
+[
+  {
+    "point_content": "You are a lifesaver.",
+    "tag": ["致谢口语", "你真是救星", "正面", "求助/答谢", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你真是我的救星；你救了命了；多亏你帮忙\n自然译法：你真是大救星 / 救了我一命 / 太及时了",
+    "examples": [
+      "You are a lifesaver — I'd have missed the deadline. 你真是救星，不然我就错过截止了。\n",
+      "Thanks, you're a lifesaver. 谢谢，你可帮了大忙。\n",
+      "Lifesaver is figurative unless literal rescue. 除真实救援外均为比喻。\n",
+      "Warmer than \"thanks.\" 比 thanks 更有分量。\n",
+      "Formal version: \"I'm very grateful for your help.\" 正式版：非常感谢你的帮助。"
+    ],
+    "explanation": "【概要】口语致谢，把对方比作「救生员」，强调其帮助及时、关键；语气热情，适合急事、临门一脚的解围。\n【结构】be a lifesaver（可数名词短语，a 不可省）；近义 you saved me、you're a godsend。\n【语用】正面，同事救急、朋友帮忙；重大救助场合应另作正式致谢。\n【易错】① 用 a（可数）；② 与 lifeguard（泳池救生员）不同；③ 小事使用会显夸张。",
+    "synonym_points": [
+      "you saved me — 你救了我",
+      "you're a godsend — 你真是天降救兵",
+      "I owe you one — 我欠你一个人情",
+      "much appreciated — 非常感谢"
+    ],
+    "antonym_points": [
+      "you made it worse — 你越帮越忙",
+      "no help at all — 没帮上忙",
+      "you let me down — 你让我失望了",
+      "unhelpful — 帮不上忙"
+    ],
+    "extended_points": [
+      "lifesaver vs lifeguard",
+      "godsend",
+      "gratitude register"
+    ],
+    "key_point": "【速记】You are a lifesaver = 你是救星。\n比喻多；用 a 不可省。\n近义 you saved me。"
+  },
+  {
+    "point_content": "Apples and oranges.",
+    "tag": ["比较逻辑", "两类不可比的东西", "中性", "论证/评审", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "风马牛不相及的两类事物；不可相提并论（比喻没法直接比较）\n自然译法：这是两码事 / 根本没法比 / 苹果跟橘子比什么",
+    "examples": [
+      "Comparing them is apples and oranges. 拿它们比就是两类东西。\n",
+      "Remote work and office work aren't apples and oranges exactly. 远程与坐班并非完全不可比。\n",
+      "The idiom blocks an invalid comparison. 用于否定不成立的比较。\n",
+      "Often: that's comparing apples to oranges. 常见说法：comparing apples to oranges。\n",
+      "Neutral version: \"not comparable on the same basis.\" 中性版：不在同一基准上比较。"
+    ],
+    "explanation": "【概要】比喻两类事物性质不同、无法直接比较；用于指出对方比较方式有误。中文常译「风马牛不相及」，但英文侧重「不可比」而非「毫无关系」。\n【结构】apples and oranges / compare apples to oranges；近义 not comparable、different categories。\n【语用】中性，评审、辩论、数据分析；有时被滥用来回避合理比较。\n【易错】① 与中文「风马牛不相及」侧重不同；② 常用复数形式；③ 不能与具体单位比较混用（如价格与质量）。",
+    "synonym_points": [
+      "not comparable — 不可比较",
+      "different categories — 不同类别",
+      "chalk and cheese — 截然不同",
+      "not in the same league — 不在一个量级"
+    ],
+    "antonym_points": [
+      "comparable — 可比较",
+      "like for like — 同口径对比",
+      "apples to apples — 同基准比较",
+      "on par — 相当"
+    ],
+    "extended_points": [
+      "apples to apples comparison（同口径）",
+      "false equivalence（错误等同）",
+      "like-for-like 财务用法"
+    ],
+    "key_point": "【速记】Apples and oranges = 不可相提并论。\n侧重「不可比」，非「毫无关系」。\n同口径说 apples to apples。"
+  },
+  {
+    "point_content": "My two cents.",
+    "tag": ["谦逊表态", "一点拙见", "中性偏谦", "会议/建议", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "（谦辞）一点拙见；我的浅见；我说两句\n自然译法：我提一点看法 / 一点小建议 / 我随便说两句",
+    "examples": [
+      "Just my two cents: ship the smaller version first. 一点拙见：先发小版本。\n",
+      "Here's my two cents on the design. 设计上我说两句。\n",
+      "It lowers the stakes of an opinion. 降低主张的分量，显得谦逊。\n",
+      "Also written my 2 cents. 也写作 my 2 cents。\n",
+      "Confident version: \"my recommendation is…\" 自信版：我的建议是……"
+    ],
+    "explanation": "【概要】谦辞，表示自己只是提供一点不成熟的意见；常用于会议讨论、评论留言，缓冲主张的强硬感。\n【结构】my two cents (worth) / put in one's two cents；近义 my take、for what it's worth。\n【语用】中性偏谦，会议、论坛；过多使用会削弱专业可信度。\n【易错】① 用 two cents（美分），非 two sense；② 与 give my two cents worth 变体；③ 不必每句都加，否则显没底气。",
+    "synonym_points": [
+      "my take — 我的看法",
+      "for what it's worth — 仅供参考",
+      "just a suggestion — 只是建议",
+      "in my humble opinion — 恕我直言（略正式）"
+    ],
+    "antonym_points": [
+      "my firm recommendation — 我的明确建议",
+      "I'm certain — 我确定",
+      "this is the right call — 这是正确决定",
+      "no doubt — 毫无疑问"
+    ],
+    "extended_points": [
+      "two cents worth",
+      "hedging language（模糊限制语）",
+      "IMHO"
+    ],
+    "key_point": "【速记】My two cents = 一点拙见。\n谦辞缓冲；过度使用削弱可信度。\n近义 my take。"
+  },
+  {
+    "point_content": "Tread lightly.",
+    "tag": ["谨慎提醒", "谨言慎行/小心处理", "中性偏正", "敏感话题/职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "小心行事；说话办事都得留神；别踩雷\n自然译法：说话小心点 / 别踩坑 / 这事得绕着走",
+    "examples": [
+      "Tread lightly when you raise the layoff topic. 提裁员的事得小心。\n",
+      "He treaded lightly around the divorce question. 他绕开了离婚话题。\n",
+      "Tread means step; lightly means cautiously. tread 是「踩」，lightly 指轻。\n",
+      "Often about sensitive personal or legal matters. 多用于敏感人事与法律议题。\n",
+      "Neutral version: \"proceed carefully.\" 中性版：谨慎推进。"
+    ],
+    "explanation": "【概要】原指行走时脚步放轻，引申为在敏感话题或高风险环境中谨慎言行、避免触雷。\n【结构】tread lightly（动词 + 副词；过去式 treaded 或 trod）；近义 proceed carefully、watch your step。\n【语用】中性偏正，人事谈话、法律合规、跨文化沟通；过度谨慎会错失表达机会。\n【易错】① 过去式有 treaded / trod 两种；② 与 walk lightly（脚步轻）本义区分；③ 与 tread water（原地踏步）不同。",
+    "synonym_points": [
+      "watch your step — 小心行事",
+      "proceed carefully — 谨慎推进",
+      "handle with care — 小心处理",
+      "be diplomatic — 措辞圆滑"
+    ],
+    "antonym_points": [
+      "throw caution to the wind — 完全不顾",
+      "speak bluntly — 直言不讳",
+      "go all in — 全力压上",
+      "no filter — 口无遮拦"
+    ],
+    "extended_points": [
+      "tread water（原地踏步）",
+      "sensitive topics",
+      "diplomatic language"
+    ],
+    "key_point": "【速记】Tread lightly = 谨言慎行。\ntread＝踩；用于敏感议题。\n近义 watch your step。"
+  },
+  {
+    "point_content": "What goes around comes around.",
+    "tag": ["谚语/因果", "善有善报恶有恶报", "中性", "因果/道德", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "善有善报，恶有恶报；因果循环；你怎么对别人，别人就怎么对你\n自然译法：种什么因得什么果 / 报应迟早会来 / 出来混总要还",
+    "examples": [
+      "He cheated clients — what goes around comes around. 他坑客户，报应迟早来。\n",
+      "Be kind; what goes around comes around. 对人好点，因果会回来。\n",
+      "It asserts moral causation, not proof. 是道德信念，不是证据。\n",
+      "Karma is the shorter loanword. karma 是更简短的借词。\n",
+      "Neutral version: \"actions have consequences.\" 中性版：行为必有后果。"
+    ],
+    "explanation": "【概要】谚语，主张行为会以相似方式回到行为者身上，用于劝善或评论因果；属道德判断而非事实陈述。\n【结构】What goes around comes around.（主语从句 + 主句）；近义 you reap what you sow、karma。\n【语用】中性，日常评论、劝诫；用于解释他人不幸时可能被视为冷漠。\n【易错】① 语序固定（goes around / comes around）；② 与 karma（借词）语域不同；③ 不宜当作解释复杂事件的因果论。",
+    "synonym_points": [
+      "you reap what you sow — 种瓜得瓜",
+      "karma — 因果报应（借词）",
+      "actions have consequences — 行为有后果",
+      "what you give is what you get — 给什么得什么"
+    ],
+    "antonym_points": [
+      "no consequences — 没有后果",
+      "crime pays — 作恶得利",
+      "life is unfair — 世事不公",
+      "random chance — 纯属偶然"
+    ],
+    "extended_points": [
+      "karma 用法",
+      "reap what you sow",
+      "moral causation（道德因果）"
+    ],
+    "key_point": "【速记】What goes around comes around = 因果循环。\n语序固定；道德信念非事实。\n近义 karma。"
+  },
+  {
+    "point_content": "All nighter.",
+    "tag": ["作息描述", "熬通宵", "中性偏负", "学习/交付", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "通宵；熬一整夜（学习、工作或玩）\n规范形式也可写 all-nighter\n自然译法：熬个通宵 / 干到天亮 / 一夜不睡",
+    "examples": [
+      "We pulled an all nighter to finish the release. 我们熬通宵赶完发版。\n",
+      "He wrote the paper in one all nighter. 他通宵写完了论文。\n",
+      "Usually with pull / do an all-nighter. 搭配 pull、do an all-nighter。\n",
+      "It implies poor planning or urgency. 常暗示计划不周或紧急。\n",
+      "Neutral version: \"worked through the night.\" 中性版：干了一整夜。"
+    ],
+    "explanation": "【概要】指整夜不睡地学习、工作或娱乐；常与 pull、do 连用，隐含赶工与计划不当的意味。\n【结构】an all-nighter（可数名词；定语形式 all-nighter）；近义 pull an all-nighter、work through the night。\n【语用】中性偏负，学生、开发者赶交付；反复使用会被视为管理问题。\n【易错】① 规范拼写带连字符 all-nighter；② 与 overnight（过夜/一夜之间）不同；③ 不可数误用（不说 an all nighters）。",
+    "synonym_points": [
+      "pull an all-nighter — 熬通宵",
+      "work through the night — 干一整夜",
+      "burn the midnight oil — 挑灯夜战",
+      "stay up all night — 一夜不睡"
+    ],
+    "antonym_points": [
+      "get an early night — 早点睡",
+      "sleep in — 睡懒觉",
+      "nine-to-five — 朝九晚五",
+      "good sleep hygiene — 良好睡眠习惯"
+    ],
+    "extended_points": [
+      "burn the midnight oil",
+      "overnight（易混）",
+      "sleep debt（睡眠债）"
+    ],
+    "key_point": "【速记】All nighter = 熬通宵。\n规范 all-nighter；配 pull/do。\n近义 burn the midnight oil。"
+  },
+  {
+    "point_content": "Godspeed.",
+    "tag": ["祝语（略古雅）", "一路顺风/祝你成功", "正面", "送行/告别", "文化词"],
+    "translation_lang": "zh-CN",
+    "translation_content": "祝你成功；一路顺风；愿上帝保佑你（古雅送行语）\n自然译法：一路顺风 / 祝顺利 / 前程似锦",
+    "examples": [
+      "Godspeed on your new venture. 祝你新事业顺利。\n",
+      "The crew said godspeed as the ship left. 船离港时船员祝一路顺风。\n",
+      "It is archaic and slightly literary. 属古雅文学用语。\n",
+      "Common in historical or ceremonial texts. 多用于历史或仪式文本。\n",
+      "Neutral version: \"good luck.\" 中性版：good luck。"
+    ],
+    "explanation": "【概要】源自「God speed you」的祝语，意为「愿上帝使你顺利」，现用于送行、启程、创业等场合，语体古雅。\n【结构】Godspeed.（名词化感叹，可作主语句 Godspeed to you）；近义 good luck、safe travels。\n【语用】正面偏文学，演讲、历史叙事、正式送行；日常告别用 good luck。\n【易错】① 非宗教场合使用仍可，但语体偏古；② 拼写单词一体 godspeed；③ 与 godsend（意外之喜）不同。",
+    "synonym_points": [
+      "good luck — 祝好运",
+      "safe travels — 一路平安",
+      "bon voyage — 一路顺风（法语借词）",
+      "all the best — 一切顺利"
+    ],
+    "antonym_points": [
+      "farewell forever — 永别",
+      "good riddance — 走了正好",
+      "may you fail — 愿你失败",
+      "don't come back — 别回来"
+    ],
+    "extended_points": [
+      "bon voyage",
+      "godsend（形近不同义）",
+      "archaic register"
+    ],
+    "key_point": "【速记】Godspeed = 祝你顺利（古雅）。\n送行/启程用；日常说 good luck。\n勿混 godsend。"
+  },
+  {
+    "point_content": "First come first served.",
+    "tag": ["规则表述", "先到先得", "中性", "排队/分配", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "先到先得；按到达顺序服务；谁先来谁先得\n规范写法常加连字符：first-come, first-served\n自然译法：先来先得 / 排队按顺序 / 到得早的优先",
+    "examples": [
+      "Seats are first come first served. 座位先到先得。\n",
+      "It's first come, first served — no reservations. 先到先得，不预约。\n",
+      "It states an allocation rule. 表述资源分配规则。\n",
+      "Attributive form: first-come, first-served basis. 定语形式加连字符。\n",
+      "Alternative: \"by order of arrival.\" 另一种表述：按到达顺序。"
+    ],
+    "explanation": "【概要】资源分配规则，按到达先后顺序处理，不设优先权；常见于餐饮、注册、售票、停车。\n【结构】first come, first served（并列短句，常作表语）；定语 first-come, first-served + 名词。\n【语用】中性，规则告示、活动说明；正式文件建议加连字符并配 the basis。\n【易错】① 正式写法需连字符；② 与 first come first serve（动词误用）区分；③ 不适用于有资格审核的场景。",
+    "synonym_points": [
+      "by order of arrival — 按到达顺序",
+      "no reservations — 不接受预约",
+      "while supplies last — 售完即止",
+      "on a first-come basis — 按先到原则"
+    ],
+    "antonym_points": [
+      "by appointment — 需预约",
+      "priority access — 优先通道",
+      "invitation only — 仅限受邀",
+      "lottery system — 抽签制"
+    ],
+    "extended_points": [
+      "hyphenation of attributives",
+      "queue discipline（排队规则）",
+      "while supplies last"
+    ],
+    "key_point": "【速记】First come first served = 先到先得。\n定语加连字符；配 basis。\n反义 by appointment。"
+  },
+  {
+    "point_content": "Can't catch a break.",
+    "tag": ["倒霉吐槽", "总走霉运", "负面", "生活/工作", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "霉运不断；连喘口气的机会都没有；怎么也等不来一次好运\n自然译法：真是倒霉透顶 / 一件接一件 / 就没顺过",
+    "examples": [
+      "Car broke down, then it rained — I can't catch a break. 车坏了又下雨，我真是没顺过。\n",
+      "She can't catch a break at work this quarter. 这季度她在工作上霉运不断。\n",
+      "Catch a break means get a lucky pause. catch a break 指得到一次喘息/好运。\n",
+      "It expresses frustration, not literal rest. 表沮丧，不是字面「休息」。\n",
+      "Neutral version: \"a series of setbacks.\" 中性版：一连串挫折。"
+    ],
+    "explanation": "【概要】表示接连遭遇不顺、得不到喘息机会；catch a break 原指「获得一次间歇/好运」，否定义即「连好运都碰不上」。\n【结构】can't catch a break（catch a break 固定搭配）；近义 down on one's luck、one thing after another。\n【语用】负面，生活吐槽、项目复盘；连续使用会强化消极心态。\n【易错】① 与 give me a break（别逗了/饶了我）不同；② break 此处非「休息」；③ 属主观感受，非客观结论。",
+    "synonym_points": [
+      "one thing after another — 一件接一件",
+      "down on one's luck — 时运不济",
+      "if it weren't for bad luck… — 运气差到极点",
+      "a run of bad luck — 一连串霉运"
+    ],
+    "antonym_points": [
+      "everything's coming up roses — 一切顺遂",
+      "on a roll — 连着顺",
+      "lucky streak — 好运连连",
+      "catch a break — 终于喘口气"
+    ],
+    "extended_points": [
+      "give me a break（不同义）",
+      "luck streak",
+      "resilience framing"
+    ],
+    "key_point": "【速记】Can't catch a break = 霉运不断。\nbreak＝好运/喘息；勿混 give me a break。\n中性版 series of setbacks。"
+  },
+  {
+    "point_content": "You chicken.",
+    "tag": ["怯懦指责", "你怂了", "强负面", "游戏/争执", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你怂了；你胆小；你这胆小鬼（挑衅式）\n自然译法：你怂了 / 你怕了 / 胆小鬼",
+    "examples": [
+      "You chicken — you won't even try. 你怂了，连试都不敢试。\n",
+      "Calling someone chicken is a dare tactic. 用「chicken」是激将法。\n",
+      "Chicken here means coward, not the bird. chicken 此处指胆小鬼。\n",
+      "It pressures people into risky choices. 会推人做冒险决定。\n",
+      "Neutral version: \"are you comfortable with the risk?\" 中性版：你能接受这个风险吗。"
+    ],
+    "explanation": "【概要】用 chicken（鸡）骂人胆小的挑衅语，常见于青少年与竞技场景，本质是激将，可能推动他人冒险。\n【结构】You chicken. / call sb chicken / chicken out（临阵退缩）；近义 coward、scaredy-cat。\n【语用】强负面，朋友激将、游戏；职场使用属不当施压，且可能造成安全风险。\n【易错】① chicken 此处为「胆小鬼」，非家禽；② 与 chicken out（退缩）是动词短语；③ pressure 之下做决定可能带来危险。",
+    "synonym_points": [
+      "you coward — 你这懦夫",
+      "scaredy-cat — 胆小鬼（更轻）",
+      "chicken out — 临阵退缩",
+      "you're afraid — 你怕了"
+    ],
+    "antonym_points": [
+      "you're brave — 你很勇敢",
+      "bold move — 大胆之举",
+      "go for it — 上吧",
+      "fearless — 无所畏惧"
+    ],
+    "extended_points": [
+      "dare culture（激将文化）",
+      "chicken out",
+      "risk pressure"
+    ],
+    "key_point": "【速记】You chicken = 你怂了。\n激将式挑衅；勿用来施压冒险。\n动词版 chicken out。"
+  },
+  {
+    "point_content": "Rock your world.",
+    "tag": ["夸张表达", "让你震撼/爽翻天", "中性偏口语", "情感/体验", "语域提示"],
+    "translation_lang": "zh-CN",
+    "translation_content": "让你震撼；彻底改变你的体验；（俚语）让你爽翻天\n语域提示：在亲密关系语境中可指性体验，公共场合宜改用「blow your mind」「amaze you」等中性说法\n自然译法：让你大开眼界 / 震到你 / 把你爽到（俚语）",
+    "examples": [
+      "This album will rock your world. 这张专辑会让你震撼。\n",
+      "Traveling alone rocked my world. 独自旅行彻底改变了我。\n",
+      "Literally: shake your world. 字面「晃动你的世界」。\n",
+      "Keep it neutral in professional writing. 商务写作要用中性版。\n",
+      "Neutral version: \"it will change how you see things.\" 中性版：这会改变你的看法。"
+    ],
+    "explanation": "【概要】夸张口语，表示某事物带来巨大冲击或改变体验；在私密语境中也可能暗示性意味，正式场合宜用中性替代。\n【结构】rock one's world（物主代词随对象）；近义 blow one's mind、turn sth upside down。\n【语用】中性偏口语，音乐、旅行、产品评价；商务与他人关系语境慎用。\n【易错】① 有性暗示可能，需标语域；② rock 此处非「摇滚」；③ 与 rock the boat（惹麻烦）不同。",
+    "synonym_points": [
+      "blow your mind — 让你震撼",
+      "change your life — 改变你的人生",
+      "knock your socks off — 让你惊叹",
+      "turn your world upside down — 天翻地覆"
+    ],
+    "antonym_points": [
+      "leave you cold — 让你无感",
+      "no big deal — 没什么大不了",
+      "underwhelming — 差强人意",
+      "put you to sleep — 让你犯困"
+    ],
+    "extended_points": [
+      "rock the boat（不同义）",
+      "blow one's mind",
+      "innuendo risk（暗示风险）"
+    ],
+    "key_point": "【速记】Rock your world = 让你震撼。\n可能有性暗示；商务用变更看法。\n勿混 rock the boat。"
+  },
+  {
+    "point_content": "Listen up.",
+    "tag": ["集合指令", "听好了/注意听", "中性偏强", "团队/课堂", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "听好了；都注意听；把注意力集中过来\n自然译法：大家听我说 / 注意了啊 / 都听着",
+    "examples": [
+      "Listen up — we have five minutes left. 听好了，只剩五分钟。\n",
+      "Listen up, everyone: new safety rules. 大家注意，新安全规定。\n",
+      "It's an attention-getting command. 用于集中注意力的指令。\n",
+      "Can sound brusque to adults. 对成人使用会显得命令式。\n",
+      "Polite version: \"may I have your attention, please.\" 客气版：请大家注意一下。"
+    ],
+    "explanation": "【概要】要求众人集中注意的指令语，常用于团队训话、课堂、紧急说明；语气直接，略带命令色彩。\n【结构】Listen up.（动词 + 副词 up，表「集中」）；近义 pay attention、heads up（提醒）。\n【语用】中性偏强，教练、领队、家长；对平级同事用 may I have your attention。\n【易错】① 与 listen in（偷听）不同；② 与 heads up（提前告知）语义不同；③ 反复使用会被认为态度强硬。",
+    "synonym_points": [
+      "pay attention — 注意听",
+      "heads up — 提醒一下",
+      "hear me out — 先听我说完",
+      "focus, everyone — 大家集中"
+    ],
+    "antonym_points": [
+      "never mind — 算了",
+      "carry on — 继续（不必听）",
+      "tune out — 走神",
+      "ignore it — 别管"
+    ],
+    "extended_points": [
+      "listen in（偷听）",
+      "heads up vs listen up",
+      "attention signals"
+    ],
+    "key_point": "【速记】Listen up = 听好了。\n集中注意力指令；语气偏命令。\n礼貌版 may I have your attention。"
+  },
+  {
+    "point_content": "Die well.",
+    "tag": ["文学/影视表达", "死得其所", "中性偏文学", "生死话题", "低频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "死得其所；有尊严地死去；（祝愿）好好走完最后一程\n自然译法：走得体面 / 死得其所 / 好好告别",
+    "examples": [
+      "The old warrior told his son: die well. 老战士对儿子说：要死得其所。\n",
+      "In hospice care, dying well means dying with dignity. 临终关怀里指有尊严地离世。\n",
+      "It's literary, not everyday speech. 属文学表达，不是日常口语。\n",
+      "Handle the topic with care and consent. 谈生死需体谅与征得同意。\n",
+      "Neutral version: \"pass away peacefully.\" 中性版：安详离世。"
+    ],
+    "explanation": "【概要】文学与影视用语，意为「有尊严、有意义地死去」，或作为对临终者的祝愿；现代医学语境常指「善终（dying well）」。\n【结构】die + 副词（die well / die happy）；近义 die with dignity、a good death。\n【语用】中性偏文学，历史叙事、临终关怀讨论；日常玩笑使用极不合宜。\n【易错】① 不宜用于安慰刚失去亲人的对象；② 与 die down（减弱）无关；③ 文化差异大，须谨慎。",
+    "synonym_points": [
+      "die with dignity — 有尊严地离世",
+      "a good death — 善终",
+      "pass away peacefully — 安详离世",
+      "go out with honor — 带着荣誉离开"
+    ],
+    "antonym_points": [
+      "die badly — 惨死",
+      "a painful end — 痛苦的结局",
+      "die in vain — 白白死去",
+      "linger in suffering — 长期受苦"
+    ],
+    "extended_points": [
+      "hospice care（临终关怀）",
+      "dying well（善终概念）",
+      "death taboo（死亡禁忌）"
+    ],
+    "key_point": "【速记】Die well = 死得其所/善终。\n文学与临终关怀用语；日常禁用。\n中性说 pass away peacefully。"
+  },
+  {
+    "point_content": "Die happy.",
+    "tag": ["文学/口语夸张", "死而无憾", "正面偏文学", "满足/感慨", "低频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "死而无憾；心满意足到死都可以；此生无憾\n自然译法：这辈子值了 / 死也甘心 / 无憾了",
+    "examples": [
+      "I've seen the Grand Canyon — I could die happy. 我看过大峡谷，此生无憾了。\n",
+      "She said she'd die happy after the concert. 她说听完这场音乐会死而无憾。\n",
+      "It's hyperbole for satisfaction. 属满足感的夸张说法。\n",
+      "Not literal, but death imagery needs care. 非字面，但涉死亡意象需注意场合。\n",
+      "Neutral version: \"I'm completely satisfied.\" 中性版：我完全满足了。"
+    ],
+    "explanation": "【概要】夸张表达，表示已获得极大满足、此生无憾；多用于演唱会、旅行、人生成就等喜悦时刻。\n【结构】die + 形容词（die happy 作谓语补足）；近义 die and go to heaven（更俏皮）。\n【语用】正面偏文学口语，庆祝、感慨；不适合正式场合或丧亲语境。\n【易错】① 属夸张，非真实意愿；② 与 die of happiness（无此搭配）区分；③ 文化差异需注意。",
+    "synonym_points": [
+      "I could die happy — 我此生无憾",
+      "that's all I ever wanted — 这就是我想要的",
+      "I can rest easy — 我可以安心了",
+      "life complete — 人生圆满（网络语）"
+    ],
+    "antonym_points": [
+      "I'll die trying — 死不瞑目（不同义）",
+      "unfulfilled — 未竟所愿",
+      "never satisfied — 永不满足",
+      "regret it forever — 永远后悔"
+    ],
+    "extended_points": [
+      "hyperbole（夸张）",
+      "die happy 的影视用例",
+      "satisfaction language"
+    ],
+    "key_point": "【速记】Die happy = 死而无憾。\n夸张表达满足；丧亲语境禁用。\n中性说 completely satisfied。"
+  },
+  {
+    "point_content": "Whatever happens, happens.",
+    "tag": ["宿命式接受", "顺其自然", "中性", "安慰/决断", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "顺其自然；该怎样就怎样；不管发生什么都接受\n自然译法：随它去吧 / 走一步看一步 / 该来的躲不掉",
+    "examples": [
+      "We've done our best — whatever happens, happens. 尽力了，接下来随它。\n",
+      "Whatever happens, happens; I'm not going to worry. 该怎样就怎样，我不操心。\n",
+      "It echoes que sera sera. 与 que sera sera 同调。\n",
+      "It can sound passive in a project review. 项目复盘里说会显得消极。\n",
+      "Action version: \"we'll adapt as needed.\" 行动版：按情况调整。"
+    ],
+    "explanation": "【概要】表示接受任何结果、不再干预的宿命式态度；可用于舒缓焦虑，也可能被视为放弃控制。\n【结构】Whatever happens, happens.（主语从句 + 主句同词）；近义 que sera sera、come what may。\n【语用】中性，安慰、个人决定；项目与风险管理中应改说「备好预案」。\n【易错】① 重复同词结构固定；② 与 whatever（随便）单用语气不同；③ 不宜用于需担责的场合。",
+    "synonym_points": [
+      "come what may — 无论发生什么",
+      "que sera sera — 该怎样就怎样",
+      "let it ride — 顺其自然",
+      "whatever will be, will be — 命中注定"
+    ],
+    "antonym_points": [
+      "prepare for every case — 每种情况都准备",
+      "control the outcome — 掌控结果",
+      "contingency plan — 应急预案",
+      "intervene now — 现在就干预"
+    ],
+    "extended_points": [
+      "come what may",
+      "contingency planning",
+      "fatalism vs agency"
+    ],
+    "key_point": "【速记】Whatever happens, happens = 顺其自然。\n同词重复结构；风险管理中慎用。\n行动版 adapt as needed。"
+  },
+  {
+    "point_content": "Hang on.",
+    "tag": ["口头打断", "等一下/稍等", "中性", "电话/对话", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "等一下；稍等；先别挂（电话中）；也有「坚持住」义\n自然译法：等一下 / 先等等 / 别挂",
+    "examples": [
+      "Hang on — let me check the file. 等一下，我查下文件。\n",
+      "Hang on a second, I'll transfer you. 稍等，我给你转过去。\n",
+      "Also means endure or hold tight. 也可表「坚持住」。\n",
+      "Telephone version: hold on. 电话里常说 hold on。\n",
+      "Formal version: \"one moment, please.\" 正式版：请稍等。"
+    ],
+    "explanation": "【概要】口语打断语，请对方暂停或稍等；在电话中意为「先别挂」，也可表「坚持住、挺住」。\n【结构】hang on (a second / a moment)（动词短语）；近义 hold on、just a moment。\n【语用】中性，电话、当场对话；正式服务用语用 one moment please。\n【易错】① 与 hang up（挂断）相反；② 与 hang out（闲逛）不同；③ 语气过短会显唐突。",
+    "synonym_points": [
+      "hold on — 稍等（电话常用）",
+      "just a second — 等一下",
+      "wait up — 等等我（口语）",
+      "stand by — 待命/稍候（正式）"
+    ],
+    "antonym_points": [
+      "go ahead — 说吧",
+      "carry on — 继续",
+      "never mind, continue — 算了你继续",
+      "hang up — 挂断（相反动作）"
+    ],
+    "extended_points": [
+      "hang up vs hang on",
+      "hold the line（电话）",
+      "stand by"
+    ],
+    "key_point": "【速记】Hang on = 等一下/别挂。\n也可表坚持住；相反动作 hang up。\n正式说 one moment please。"
+  },
+  {
+    "point_content": "Easy, easy, easy.",
+    "tag": ["安抚语", "别紧张/慢点来", "正面", "安抚/训练", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别紧张；别激动；慢慢来；轻点（安抚人或动物）\n自然译法：放松放松 / 慢点儿 / 别急别急",
+    "examples": [
+      "Easy, easy, easy — the horse is nervous. 轻点轻点，马有点紧张。\n",
+      "Easy, easy — nobody's blaming you. 别急别急，没人怪你。\n",
+      "It's a soothing repetition. 叠用表示安抚、放慢。\n",
+      "Also \"easy does it.\" 同义：easy does it。\n",
+      "Formal version: \"let's take it slowly.\" 正式版：我们慢慢来。"
+    ],
+    "explanation": "【概要】重复式安抚语，用于让对方放松、放慢或动作轻一些；对人和动物都可用，语气温和。\n【结构】Easy, easy(, easy).（形容词作独立感叹）；近义 easy does it、take it easy、slow down。\n【语用】正面，安抚情绪、训练动物、指导操作；对专业人士反复说可能显轻视。\n【易错】① 与 take it easy（放轻松/别太拼）近义但场景不同；② 与 easy（容易的）形容词义区分；③ 重复次数视语速调节。",
+    "synonym_points": [
+      "easy does it — 轻点慢点",
+      "take it easy — 放轻松",
+      "calm down — 冷静点",
+      "steady now — 稳住"
+    ],
+    "antonym_points": [
+      "hurry up — 快点",
+      "push harder — 再加把劲",
+      "go faster — 加快",
+      "no time to waste — 没时间了"
+    ],
+    "extended_points": [
+      "easy does it",
+      "animal handling cues",
+      "de-escalation"
+    ],
+    "key_point": "【速记】Easy, easy = 别紧张/慢点。\n安抚叠用；也对动物用。\n近义 easy does it。"
+  },
+  {
+    "point_content": "Play hooky.",
+    "tag": ["旷课/溜号", "逃学/翘班", "中性偏负", "学校/工作", "美式口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "逃学；旷课；（引申）翘班、偷偷不去\n自然译法：翘课 / 溜号 / 装病不去",
+    "examples": [
+      "They played hooky to see the game. 他们翘课去看比赛。\n",
+      "I played hooky from work yesterday. 我昨天翘班了。\n",
+      "Hooky comes from Dutch spelen hooky. 源自荷兰语「逃学」。\n",
+      "It's informal and slightly self-indulgent. 口语化，略带「偷懒」意味。\n",
+      "Neutral version: \"took an unauthorized day off.\" 中性版：未经批准休假。"
+    ],
+    "explanation": "【概要】美式口语，指学生逃学，也引申为成人翘班；带轻微「偷着乐」的调侃色彩，但制度上属违规。\n【结构】play hooky (from sth)（固定搭配，不加 a）；近义 skip class、skip work、call in sick（借口版）。\n【语用】中性偏负，学生玩笑、成人自嘲；职场需按请假流程，用 unauthorized absence 表述。\n【易错】① 固定 play hooky（非 play hookey 亦可拼）；② 与 hook（钩子）无关；③ 与 take a day off（合规请假）性质不同。",
+    "synonym_points": [
+      "skip class — 翘课",
+      "skip work — 翘班",
+      "cut class — 逃课（美式）",
+      "bunk off — 逃学（英式）"
+    ],
+    "antonym_points": [
+      "attend class — 到课",
+      "show up — 到场",
+      "take leave properly — 正常请假",
+      "clock in — 打卡上班"
+    ],
+    "extended_points": [
+      "bunk off（英式）",
+      "unauthorized absence（HR 术语）",
+      "truancy（法律表述）"
+    ],
+    "key_point": "【速记】Play hooky = 翘课/翘班。\n固定搭配；口语调侃。\n正式说 unauthorized absence。"
+  },
+  {
+    "point_content": "Fight the good fight.",
+    "tag": ["理想主义表达", "为正义而战", "正面", "公益/职场", "文学引用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "为正义而战；坚持做正确的事；为值得的事业奋斗到底\n自然译法：做正确的事 / 守住该守的 / 为对的事死磕",
+    "examples": [
+      "She keeps fighting the good fight for clean water. 她一直为清洁水源奔走。\n",
+      "Fight the good fight, even if you lose. 就算输，也要为对的事去争。\n",
+      "It implies a worthy but hard struggle. 指值得却艰难的长期斗争。\n",
+      "Often used in nonprofit and advocacy. 常见于公益与倡导语境。\n",
+      "Neutral version: \"keep advocating for the right thing.\" 中性版：继续为正确的立场发声。"
+    ],
+    "explanation": "【概要】表示为正义、正当的事业持续奋斗，即使艰难也不放弃；带理想主义色彩，源自宗教书信与文学作品。\n【结构】fight the good fight (of faith)；近义 stand up for what's right、keep up the struggle。\n【语用】正面，公益、维权、团队士气；商业语境过度使用会显空泛。\n【易错】① 固定 the good fight（非 a good fight）；② 与 fight for one's life（抢救生命）不同；③ 需与具体目标配套才不空。",
+    "synonym_points": [
+      "stand up for what's right — 为正确的事挺身",
+      "keep up the struggle — 坚持斗争",
+      "champion the cause — 为事业奔走",
+      "hold the line — 守住阵线"
+    ],
+    "antonym_points": [
+      "give up the cause — 放弃事业",
+      "sell out — 变节/妥协",
+      "go along to get along — 随波逐流",
+      "turn a blind eye — 视而不见"
+    ],
+    "extended_points": [
+      "advocacy（倡导）",
+      "civil society",
+      "moral courage"
+    ],
+    "key_point": "【速记】Fight the good fight = 为正义而战。\n固定 the good fight；理想主义。\n配具体目标才不空。"
+  }
+]

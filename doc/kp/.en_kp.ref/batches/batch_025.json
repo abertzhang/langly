@@ -1,0 +1,642 @@
+[
+  {
+    "point_content": "Says who",
+    "tag": ["口语反驳", "质疑依据", "中性偏强", "冲突", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "谁说的？；凭什么这么说？；有依据吗\n自然译法：谁说的 / 谁定的规矩 / 口说无凭",
+    "examples": [
+      "You can't park here. Says who? 这儿不能停车。谁说的？",
+      "Says who — is it company policy or your opinion? 谁说的，公司规定还是你自己想的？",
+      "He said the deadline was Friday; I asked, \"Says who?\" 他说截止周五，我问「谁说的」。",
+      "Says who is blunt; try \"where does that come from?\" in a meeting. 有点冲，会上可问「依据是什么」。",
+      "If nobody can answer \"says who,\" the claim is weak. 没人答得出「谁说的」，那这说法就站不住。"
+    ],
+    "explanation": "【概要】反问对方所言依据何在，语气直白不客气，可作强烈质疑或玩笑式斗嘴。\n【结构】Says who?（口语省略 does，固定语序）；正式版 According to whom? / Who says so?。\n【语用】中性偏强，朋友斗嘴、争论；对上级或客户使用会显冒犯。\n【易错】① 口语固定 says who（不是 who says，虽也说）；② 与 say what（你说什么）不同；③ 正式场合用 who says so。",
+    "synonym_points": [
+      "who says so — 谁说的（中性些）",
+      "according to whom — 依据谁的说法（正式）",
+      "where's that from — 哪来的说法",
+      "since when — 从什么时候开始的（更冲）"
+    ],
+    "antonym_points": [
+      "fair enough — 有道理",
+      "point taken — 我接受",
+      "you're right — 你说得对",
+      "that's the rule — 这是规定（顺从式）"
+    ],
+    "extended_points": [
+      "since when — 从何时起（质疑语）",
+      "according to — 依据（正式）",
+      "source check — 核实来源"
+    ],
+    "key_point": "【速记】Says who? = 谁说的？\n口语省略 does；正式版 According to whom。\n对上级客户慎用。"
+  },
+  {
+    "point_content": "Put it on speaker",
+    "tag": ["电话场景", "免提", "中性", "职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "开免提；放到免提上；让大家一起听\n自然译法：开免提吧 / 放出来一起听 / 用扬声器",
+    "examples": [
+      "Put it on speaker so the team can hear. 开免提，让团队一起听。",
+      "Can you put it on speaker? I'm driving. 能开免提吗？我在开车。",
+      "She put it on speaker and everyone went quiet. 她开了免提，全场安静。",
+      "Put it on speaker only if the other side agrees. 只有在对方同意时才开免提。",
+      "In a shared room, always announce that it's on speaker. 公共场合要说明已开免提。"
+    ],
+    "explanation": "【概要】要求把通话切到免提/扬声器模式，便于多人收听或解放双手；涉及隐私时需先征得同意。\n【结构】put sth on speaker（speaker 单数，指免提模式）；也可说 on loudspeaker（英式）。\n【语用】中性，家庭驾驶、团队会议；未经同意公开他人通话属失礼甚至违规。\n【易错】① 用 speaker（非 speakers）；② 英式常用 loudspeaker；③ 与 speaker（演讲者/音箱）歧义，靠语境。",
+    "synonym_points": [
+      "put it on loudspeaker — 开免提（英式）",
+      "switch to speakerphone — 切到免提（美式）",
+      "let everyone hear — 让大家听",
+      "can we all hear this — 大家能听到吗"
+    ],
+    "antonym_points": [
+      "take it off speaker — 关掉免提",
+      "hold on, this is private — 等一下，这是私事",
+      "I'll call you back — 我回头打给你",
+      "use headphones — 用耳机"
+    ],
+    "extended_points": [
+      "speakerphone / loudspeaker 的英美差异",
+      "on mute — 静音",
+      "call privacy — 通话隐私"
+    ],
+    "key_point": "【速记】Put it on speaker = 开免提。\nspeaker 单数；未获同意勿公开通话。\n英式 loudspeaker。"
+  },
+  {
+    "point_content": "It's now or never",
+    "tag": ["决心表达", "机不可失", "强正面", "激励/决定", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "机不可失，时不再来；现在不做就没机会了\n自然译法：就这一次 / 错过就没了 / 现在不干以后别后悔",
+    "examples": [
+      "It's now or never — the offer expires tonight. 现在不答应就没机会了，offer 今晚到期。",
+      "It's now or never, so let's book the tickets. 就这一次，赶紧订票。",
+      "He quit his job: it was now or never. 他辞了职——此时不做再无机会。",
+      "Now or never can pressure people into bad decisions. 这句也可能逼人做出糟糕决定。",
+      "It's now or never, but a rushed call is still a call. 机会不等人，但仓促决定也是决定。"
+    ],
+    "explanation": "【概要】强调机会只有一次、必须立即行动；语气决绝，可用于自我激励或施压。\n【结构】It's now or never.（固定对举，now/night 类时间词）；也可说 use it or lose it。\n【语用】强正面，销售关单、人生抉择；诱导他人时应提示风险。\n【易错】① 固定 now or never（无冠词）；② 与 sooner or later（迟早）不同；③ 不可用来制造虚假紧迫（不道德）。",
+    "synonym_points": [
+      "use it or lose it — 不用就没了",
+      "this is the last chance — 最后一次机会",
+      "strike while the iron's hot — 趁热打铁",
+      "no time like the present — 就趁现在"
+    ],
+    "antonym_points": [
+      "there's always tomorrow — 还有明天",
+      "plenty of time — 时间充裕",
+      "let's wait — 先等等",
+      "next time — 下次吧"
+    ],
+    "extended_points": [
+      "use it or lose it — 不用则失",
+      "scarcity play — 制造稀缺（营销手法）",
+      "false urgency — 虚假紧迫（不道德）"
+    ],
+    "key_point": "【速记】now or never = 机不可失。\n固定对举，无冠词；可施压。\n勿制造虚假紧迫。"
+  },
+  {
+    "point_content": "He's a mama's boy",
+    "tag": ["评价用语", "妈宝男", "负面", "关系/性别话题", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "他是个妈宝男；什么都听妈妈的；离不开母亲\n自然译法：典型妈宝 / 离不开妈 / 妈妈说什么都照做",
+    "examples": [
+      "He calls his mom before every decision — he's a mama's boy. 每个决定前都先打给妈，典型妈宝。",
+      "She doesn't want to date a mama's boy. 她不想跟妈宝男约会。",
+      "Being close to your mother isn't the same as being a mama's boy. 跟母亲亲近不等于妈宝。",
+      "The label can be unfair and dismissive. 这标签有时不公平、带贬损。",
+      "His friends joke that he's a mama's boy, but he pays his own rent. 朋友笑他妈宝，可他自己交房租。"
+    ],
+    "explanation": "【概要】mama's boy 指过度依赖母亲、缺乏独立性的男性，带贬义与性别刻板色彩。\n【结构】a mama's boy（可数，需 a；英式 mummy's boy）；对应女性说法 daddy's girl（贬义较轻）。\n【语用】负面，情感评价；轻率使用会贬损他人与家庭关系。\n【易错】① 需冠词 a；② 与 close to his mother（中性）不同；③ 注意性别刻板印象的传递。",
+    "synonym_points": [
+      "a mummy's boy — 妈宝（英式）",
+      "overly dependent on his mother — 过度依赖母亲（中性描述）",
+      "a mamma's boy — 拼写变体",
+      "can't leave the nest — 离不开家（口语）"
+    ],
+    "antonym_points": [
+      "independent — 独立",
+      "a self-made man — 自立的人",
+      "daddy's girl — 爸宝女（对应说法）",
+      "close to his family — 与家人亲近（中性）"
+    ],
+    "extended_points": [
+      "daddy's girl — 对应女版",
+      "emotional dependency — 情感依赖",
+      "gender stereotype — 性别刻板印象"
+    ],
+    "key_point": "【速记】mama's boy = 妈宝男（贬义）。\n需冠词 a；英式 mummy's boy。\n勿与「孝顺/亲近」混为一谈。"
+  },
+  {
+    "point_content": "You're pulling my leg",
+    "tag": ["习语", "开玩笑", "中性", "口语", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你在耍我吧；你在逗我玩吗；你在开玩笑\n自然译法：你骗我吧 / 逗我呢 / 别糊弄我",
+    "examples": [
+      "You're pulling my leg — that can't be true. 你逗我吧，这不可能。",
+      "Are you pulling my leg? You won the lottery? 你在耍我吗？你中彩票了？",
+      "He was pulling my leg about the meeting being cancelled. 他骗我会议取消了。",
+      "Pulling someone's leg is harmless teasing, not deception. 这是善意逗趣，不是真欺骗。",
+      "She pulled his leg and then admitted it was a joke. 她逗了他一下，然后承认是玩笑。"
+    ],
+    "explanation": "【概要】pull sb's leg 指开玩笑地骗对方、逗对方玩，语气轻松，通常随后会澄清。\n【结构】pull sb's leg（代词用所有格，leg 单数）；也可说 you're kidding me、you're joking。\n【语用】中性，朋友同事间；严肃话题（疾病、丧事）中开玩笑会显得不敬。\n【易错】① leg 用单数、需所有格；② 与 break a leg（祝好运，演出用语）无关；③ 与 pull sb around（摆布）不同。",
+    "synonym_points": [
+      "you're kidding — 你在开玩笑",
+      "you're teasing me — 你在逗我",
+      "are you serious — 你说真的？",
+      "you're having me on — 你在逗我（英式）"
+    ],
+    "antonym_points": [
+      "I'm serious — 我是认真的",
+      "I'm not joking — 我没开玩笑",
+      "no word of a lie — 一点假话都没有",
+      "believe it — 相信吧"
+    ],
+    "extended_points": [
+      "break a leg — 祝好运（形似义异）",
+      "have sb on — 逗某人（英式）",
+      "just kidding — 开个玩笑"
+    ],
+    "key_point": "【速记】pull sb's leg = 逗你玩（善意骗）。\nleg 单数；勿混 break a leg。\n严肃话题慎用。"
+  },
+  {
+    "point_content": "Take a knee",
+    "tag": ["动作指令", "单膝跪地", "中性", "体育/仪式", "语境敏感"],
+    "translation_lang": "zh-CN",
+    "translation_content": "单膝跪地；蹲下；跪下（教练布置时）休息一下\n自然译法：单膝蹲下 / 都蹲下听我说 / 跪下（视语境）",
+    "examples": [
+      "The coach told the team to take a knee. 教练让全队单膝跪地听他讲。",
+      "Everyone take a knee — we need a minute. 都蹲下，我们讲两句。",
+      "Players took a knee before the game. 球员在比赛前单膝跪地。",
+      "Take a knee has been used in protests, so context matters. 这动作也被用于抗议，所以要看语境。",
+      "In some contexts it means resting; in others it's symbolic. 有时是休息动作，有时具象征意义。"
+    ],
+    "explanation": "【概要】指单膝下跪或蹲下，常用于体育暂停集合；在公共议题中亦被用作象征性抗议姿态，需结合语境理解。\n【结构】take a knee（可数，需 a）；也可说 kneel down（双膝/单膝，较泛）。\n【语用】中性但语境敏感：体育、训练多为「集合/休息」；公共场合可能被解读为政治象征，描述时应客观、不臆测意图。\n【易错】① take a knee 侧重单膝；② 与 kneel（常指双膝跪）不同；③ 描述公共场合动作时避免推断立场。",
+    "synonym_points": [
+      "kneel down — 跪下（较泛）",
+      "get down on one knee — 单膝跪地（求婚常用）",
+      "squat down — 蹲下（不同动作）",
+      "take a breather — 歇一下（近义目的）"
+    ],
+    "antonym_points": [
+      "stand up — 站起来",
+      "get to your feet — 起身",
+      "stay on your feet — 保持站立",
+      "stand at attention — 立正"
+    ],
+    "extended_points": [
+      "get down on one knee — 求婚动作",
+      "symbolic gesture — 象征性姿态（描述要点）",
+      "squat — 蹲下（不同）"
+    ],
+    "key_point": "【速记】take a knee = 单膝跪地/蹲下集合。\ntake a + 单数；语境敏感，描述勿臆测立场。\n别混 kneel（双膝）。"
+  },
+  {
+    "point_content": "Show me the money",
+    "tag": ["影视流行语", "谈钱", "中性偏强", "商务/谈判", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "拿钱来说话；让我看到钱；先把报酬谈清楚\n自然译法：先谈钱 / 钱到位再说 / 别空口画饼",
+    "examples": [
+      "Before I sign, show me the money. 签之前先把钱谈清楚。",
+      "He said \"show me the money\" when the recruiter promised bonuses. 招聘方说奖金，他回「先看到钱」。",
+      "Show me the money — how much is the retainer? 说钱吧，预付多少？",
+      "It's blunt but effective in negotiations. 谈生意虽直白但有效。",
+      "Show me the money is a movie line that became a bargaining phrase. 这句电影台词后来成了谈判用语。"
+    ],
+    "explanation": "【概要】要求先明确报酬或资金到位再推进，源自电影台词，现为谈判与销售中的直白说法。\n【结构】show sb sth（双宾语，固定 the money）；也可说 let's talk numbers。\n【语用】中性偏强，商务谈判、自由职业报价；对客户说要注意语气，宜用 let's confirm the budget。\n【易错】① 固定 the money；② 不是「展示你的财富」的炫耀义；③ 语域直白，正式场合换说法。",
+    "synonym_points": [
+      "let's talk numbers — 谈谈数字（商务）",
+      "put your money where your mouth is — 拿钱兑现承诺",
+      "cash first — 先付款（口语）",
+      "what's the budget — 预算多少"
+    ],
+    "antonym_points": [
+      "we'll sort out payment later — 付款回头再说",
+      "payment on delivery — 交付后付款",
+      "pro bono — 免费做",
+      "let's focus on scope first — 先谈范围"
+    ],
+    "extended_points": [
+      "retainer — 预付顾问费",
+      "put your money where your mouth is — 兑现承诺",
+      "scope creep — 范围蔓延（与钱相关）"
+    ],
+    "key_point": "【速记】Show me the money = 先把钱谈明白。\n固定 the money；出自电影台词。\n对客户改说 let's confirm the budget。"
+  },
+  {
+    "point_content": "Give me a break",
+    "tag": ["口语感叹", "别扯了/饶了我", "中性偏强", "非正式", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "饶了我吧；别扯了；给我留点余地\n自然译法：得了吧 / 你也太夸张 / 放过我吧",
+    "examples": [
+      "Give me a break — that excuse again? 得了吧，又是这套借口？",
+      "Give me a break, I've been working since six. 饶了我吧，我六点就开始干了。",
+      "He said he'd finish by noon; give me a break. 他说中午能完成，别扯了。",
+      "Give me a break can mean \"don't be so hard on me\" too. 也可表示「别这么苛刻」。",
+      "In a meeting, \"give me a break\" reads as annoyed and unprofessional. 会上说这句会显得情绪化、不专业。"
+    ],
+    "explanation": "【概要】多义口语：① 不信/轻蔑（得了吧）；② 请求宽容（放我一马）；③ 表达疲惫或委屈；语气随语调变化。\n【结构】Give me a break.（祈使句，固定 a break）；也可说 cut me some slack、come on。\n【语用】中性偏强，朋友间；职场与书面慎用。\n【易错】① 需冠词 a；② 与 take a break（休息）不同；③ 两个义项靠语境区分。",
+    "synonym_points": [
+      "come on — 得了吧（口语）",
+      "cut me some slack — 放我一马",
+      "you can't be serious — 你不是认真的吧",
+      "enough already — 够了"
+    ],
+    "antonym_points": [
+      "fair enough — 有道理",
+      "I believe you — 我信你",
+      "no problem — 没问题",
+      "take your time — 慢慢来"
+    ],
+    "extended_points": [
+      "take a break — 休息（形似义异）",
+      "cut sb some slack — 宽容",
+      "give me strength — 让我省省心吧（类似感叹）"
+    ],
+    "key_point": "【速记】Give me a break = 得了吧/饶了我。\n需 a；三义看语境。\n勿混 take a break（休息）。"
+  },
+  {
+    "point_content": "Shut your pie hole",
+    "tag": ["粗俗语", "闭嘴", "强负面", "警告慎用", "攻击性"],
+    "translation_lang": "zh-CN",
+    "translation_content": "闭上你的臭嘴（粗俗无礼）\n注意：攻击性表达，正式与职场禁用；得体替代 Please stop talking / Let me finish\n自然译法：闭嘴 / 把嘴闭上（粗鲁版）",
+    "examples": [
+      "He told his brother to shut his pie hole. 他让他弟闭嘴。",
+      "Shut your pie hole — nobody asked you. 闭嘴，没人问你。",
+      "The phrase is crude and usually starts a fight. 这句很粗，通常直接引战。",
+      "In a professional setting, say \"let me finish, please.\" 职场上说「请让我说完」。",
+      "Even joking, it can offend people quickly. 即使是玩笑也容易冒犯人。"
+    ],
+    "explanation": "【概要】粗俗俚语，粗暴地让对方闭嘴，pie hole 指「嘴」，带侮辱性与攻击性。\n【结构】Shut your pie hole.（祈使句）；同义 shut up（仍不礼貌）、zip it。\n【语用】强负面；家庭斗嘴可偶见，职场、客服、公开文本禁用；写作中应标注语域并给替代。\n【易错】① pie hole 为俚语，不是「派饼洞」；② 属攻击性语言，可能被视为骚扰；③ 替代：please let me finish。",
+    "synonym_points": [
+      "shut up — 闭嘴（同样无礼）",
+      "zip it — 闭嘴（口语）",
+      "button it — 闭嘴（英式俚语）",
+      "keep quiet — 保持安静（中性）"
+    ],
+    "antonym_points": [
+      "speak up — 大声说",
+      "go on — 继续说",
+      "tell me more — 详细说",
+      "let me finish — 让我说完（替代语）"
+    ],
+    "extended_points": [
+      "得体替代：Please let me finish.",
+      "verbal abuse — 言语攻击（边界）",
+      "zip it — 闭嘴（口语）"
+    ],
+    "key_point": "【速记】Shut your pie hole = 闭嘴（粗俗攻击性）。\n职场公开场合禁用。\n替代：Please let me finish。"
+  },
+  {
+    "point_content": "Cry me a river",
+    "tag": ["口语讽刺", "别抱怨", "强负面", "非正式", "略刻薄"],
+    "translation_lang": "zh-CN",
+    "translation_content": "哭去吧；别在这儿抱怨；我才不同情\n自然译法：少来卖惨 / 哭有用吗 / 爱哭回家哭",
+    "examples": [
+      "You worked late? Cry me a river. 你加班了？少来卖惨。",
+      "Cry me a river — everyone here works late. 哭去吧，这儿人人加班。",
+      "He complained about the traffic and she said, \"Cry me a river.\" 他抱怨堵车，她说「哭去吧」。",
+      "It's sarcastic and dismissive — avoid with someone in real distress. 这句讽刺又冷漠，对方真难受时别说。",
+      "The phrase comes from a song title. 这说法来自一首歌名。"
+    ],
+    "explanation": "【概要】讽刺性回应他人抱怨，意为「你的苦不值一提」，态度轻蔑，源自流行歌曲《Cry Me a River》。\n【结构】Cry me a river.（祈使 + 双宾语）；也可说 boo hoo（更幼稚的嘲讽）。\n【语用】强负面略刻薄；朋友调侃可，但对方真受伤时使用属二次伤害。\n【易错】① 固定双宾语；② 与 cry over spilled milk（为无法挽回的事懊悔）不同；③ 语域很口语。",
+    "synonym_points": [
+      "boo hoo — 呜呜（幼稚嘲讽）",
+      "get over it — 翻篇吧（略冷）",
+      "nobody cares — 没人关心（更狠）",
+      "suck it up — 忍着吧（口语）"
+    ],
+    "antonym_points": [
+      "that sounds hard — 听起来很难受",
+      "I'm sorry to hear that — 听到这我很遗憾",
+      "I can relate — 我能理解",
+      "let it out — 哭出来吧（支持式）"
+    ],
+    "extended_points": [
+      "cry over spilled milk — 为无可挽回的事懊悔",
+      "boo hoo — 嘲讽哭声",
+      "empathy vs dismissal — 共情与冷漠"
+    ],
+    "key_point": "【速记】Cry me a river = 哭去吧（讽刺抱怨）。\n双宾语固定；对方真难受时禁用。\n勿混 cry over spilled milk。"
+  },
+  {
+    "point_content": "You snooze you lose",
+    "tag": ["口语谚语", "先下手为强", "中性偏强", "竞争/机会", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你打盹就输了；犹豫就错过；先下手为强\n自然译法：慢了就没了 / 手快有手慢无 / 别磨叽",
+    "examples": [
+      "The tickets sold out — you snooze, you lose. 票卖光了，慢了就没了。",
+      "You snooze you lose in this industry. 这行业手慢就没有。",
+      "He waited a day and the apartment was gone: you snooze, you lose. 他等了一天房子就没了。",
+      "It can sound harsh when someone had no real chance. 对没有真正机会的人说，会显得冷酷。",
+      "You snooze, you lose — so set an alarm. 手快有手慢无，设个闹钟。"
+    ],
+    "explanation": "【概要】口语谚语，指机会不等人，行动迟缓就会失去；常用于抢购、竞争、拍卖。\n【结构】You snooze, you lose.（两个分句并列，可加逗号）；也可说 first come, first served。\n【语用】中性偏强，销售抢单、同事玩笑；对资源匮乏者使用会显不体谅。\n【易错】① 两个 you 均为泛指；② 与 lose sleep over（为某事失眠）无关；③ 语域口语。",
+    "synonym_points": [
+      "first come, first served — 先到先得",
+      "the early bird catches the worm — 早起的鸟儿有虫吃",
+      "hesitate and you lose — 犹豫就输",
+      "act fast — 快点行动"
+    ],
+    "antonym_points": [
+      "take your time — 慢慢来",
+      "better late than never — 晚做总比不做好",
+      "wait and see — 观望",
+      "patience pays — 耐心有回报"
+    ],
+    "extended_points": [
+      "the early bird catches the worm — 近义谚语",
+      "FOMO — 错失恐惧（相关心理）",
+      "scarcity — 稀缺性"
+    ],
+    "key_point": "【速记】You snooze, you lose = 慢了就没了。\n泛指 you；竞争抢购常用。\n近义 first come, first served。"
+  },
+  {
+    "point_content": "You're breaking up",
+    "tag": ["电话用语", "信号差", "中性", "日常", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你信号不好；听不清，你那边断了；声音断断续续\n自然译法：你那边信号差 / 断断续续的 / 你声音卡了",
+    "examples": [
+      "You're breaking up — can you hear me? 你信号不好，能听到吗？",
+      "Sorry, you're breaking up; I'll call you back. 抱歉你那边断了，我回给你。",
+      "He said \"you're breaking up\" and hung up. 他说「你信号不好」就挂了。",
+      "You're breaking up means the audio is cutting out, not the relationship. 指通话断续，不是分手。",
+      "If the call keeps breaking up, switch to another app. 老断就换个软件。"
+    ],
+    "explanation": "【概要】通话中对方声音断续、信号不稳的提示语；break up 在此指音频中断，与「分手」义无冠词差异。\n【结构】break up（此处不及物，指信号中断）；也可说 the line is bad、you're cutting out。\n【语用】中性，电话、视频会议；正式会议可说 your audio is cutting out。\n【易错】① 与 break up（分手，用于情侣）同名异义；② 用进行时最常见；③ cutting out 更准确表达「断续」。",
+    "synonym_points": [
+      "you're cutting out — 你声音断续",
+      "the line is bad — 线路不好",
+      "the connection is unstable — 连接不稳",
+      "I'm losing you — 听不清你了"
+    ],
+    "antonym_points": [
+      "loud and clear — 很清楚",
+      "you're coming through fine — 你那边很清楚",
+      "great connection — 连接很好",
+      "no lag — 不卡"
+    ],
+    "extended_points": [
+      "break up（分手）同形异义",
+      "cutting out — 音频中断",
+      "lag — 延迟"
+    ],
+    "key_point": "【速记】You're breaking up = 你信号不好。\n与「分手」同形异义；正式说 audio is cutting out。\n近义 the line is bad。"
+  },
+  {
+    "point_content": "I'm on the clock",
+    "tag": ["职场口语", "上班时间", "中性", "工作", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我在上班；我在工作时间里；我正被计时\n自然译法：我这会儿在上班 / 我上班时间呢 / 别耽误我工时",
+    "examples": [
+      "I can't chat — I'm on the clock. 不能聊，我在上班。",
+      "I'm on the clock until six, then I'm free. 我上班到六点，之后就自由了。",
+      "As a contractor, every hour I'm on the clock is billed. 做外包，我在计时的每一小时都要计费。",
+      "Being on the clock doesn't mean you can't take a break. 上班时间不等于不能休息。",
+      "He answered the call because he was on the clock. 因为在上班时间，他接了电话。"
+    ],
+    "explanation": "【概要】指处于计薪/计时的工作时间内，也用于按小时计费的自由职业者；含「时间受限」之意。\n【结构】be on the clock（固定 the clock）；反义 off the clock。\n【语用】中性，职场、外包、体育选秀（引申）；说法直白，不必对客户解释。\n【易错】① 固定 the clock；② 与 against the clock（赶时间）不同；③ 与 clock in/out（打卡）相关但不同。",
+    "synonym_points": [
+      "I'm at work — 我在上班（通用）",
+      "I'm working hours — 我在工作时间",
+      "I'm on duty — 我在值班",
+      "I'm billing hours — 我在计费工时（外包）"
+    ],
+    "antonym_points": [
+      "I'm off the clock — 我下班了",
+      "I'm off duty — 我不值班",
+      "on my own time — 用我私人时间",
+      "after hours — 下班后"
+    ],
+    "extended_points": [
+      "off the clock — 下班/不计时",
+      "against the clock — 赶工期",
+      "clock in / clock out — 打卡"
+    ],
+    "key_point": "【速记】on the clock = 在上班时间内。\n固定 the clock；反义 off the clock。\n外包含义为「计费工时」。"
+  },
+  {
+    "point_content": "I'm an open book",
+    "tag": ["自我描述", "坦率", "正面", "关系", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我没什么秘密；我很坦率；你问什么我都答\n自然译法：我透明得很 / 我不藏事 / 有话直说",
+    "examples": [
+      "Ask me anything — I'm an open book. 随便问，我没什么秘密。",
+      "She's an open book about her finances. 她的财务状况毫不隐瞒。",
+      "I'm an open book, but I still have boundaries. 我坦率，但也有边界。",
+      "He said he was an open book, then dodged every question. 他说自己坦率，然后每个问题都躲。",
+      "Being an open book builds trust faster. 坦率能更快建立信任。"
+    ],
+    "explanation": "【概要】形容自己透明、毫不隐瞒、易于了解；也可形容某事「一目了然」。\n【结构】be an open book（可数，需 an）；也可说 I wear my heart on my sleeve（情感外露）。\n【语用】正面，自我介绍、关系沟通；过度自述隐私仍有风险，宜保留边界。\n【易错】① 需冠词 an；② 与 read sb like a book（看透某人）不同；③ 与 closed book（完全不懂/守口如瓶）相反。",
+    "synonym_points": [
+      "I'm transparent — 我很透明",
+      "what you see is what you get — 表里如一",
+      "I wear my heart on my sleeve — 我情绪都写在脸上",
+      "no secrets here — 没什么秘密"
+    ],
+    "antonym_points": [
+      "I'm a closed book — 我守口如瓶/看不透",
+      "I play my cards close to my chest — 我不露底",
+      "I keep things private — 我注重隐私",
+      "hard to read — 看不透"
+    ],
+    "extended_points": [
+      "read sb like a book — 看透某人",
+      "closed book — 一窍不通/守口如瓶",
+      "wear your heart on your sleeve — 情感外露"
+    ],
+    "key_point": "【速记】I'm an open book = 我没什么秘密。\n需 an；反义 closed book。\n坦率也要留边界。"
+  },
+  {
+    "point_content": "A promise is a promise",
+    "tag": ["承诺表达", "守信", "正面", "教育/关系", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "承诺就是承诺；答应了就得做到；一言既出驷马难追\n自然译法：说好的不能反悔 / 答应的事就得办 / 别拿承诺当儿戏",
+    "examples": [
+      "You said you'd come — a promise is a promise. 你说要来的，答应了就得做到。",
+      "A promise is a promise, even if it's inconvenient. 就算不方便，承诺还是承诺。",
+      "She reminded her son that a promise is a promise. 她提醒儿子「说了就得算」。",
+      "A promise is a promise doesn't apply to coerced commitments. 被迫的承诺不适用这条（伦理辨析）。",
+      "He kept his word: a promise is a promise. 他守信了，承诺就是承诺。"
+    ],
+    "explanation": "【概要】强调承诺必须履行，常作对失信者的温和责备或自我要求。\n【结构】A promise is a promise.（同词重复强化）；也可说 a deal is a deal。\n【语用】正面，家庭教育、合作约定；不应用于被迫或显失公平的承诺。\n【易错】① 两处均需冠词 a；② 与 promises are meant to be broken（反调）对立；③ 与 promise（许诺）动词区别。",
+    "synonym_points": [
+      "a deal is a deal — 说好的就是说好的",
+      "you gave your word — 你答应了（口语）",
+      "keep your word — 守信",
+      "my word is my bond — 一诺千金"
+    ],
+    "antonym_points": [
+      "promises are meant to be broken — 承诺本就是用来违背的（反调）",
+      "empty promises — 空头承诺",
+      "break your word — 食言",
+      "all talk — 光说不做"
+    ],
+    "extended_points": [
+      "a deal is a deal — 同构表达",
+      "promises are meant to be broken — 反调成语",
+      "keep one's word — 守信"
+    ],
+    "key_point": "【速记】A promise is a promise = 承诺就得兑现。\n两处 a；不适用被迫承诺。\n近义 a deal is a deal。"
+  },
+  {
+    "point_content": "You have a tell",
+    "tag": ["心理/扑克术语", "破绽", "中性", "观察", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你有个破绽；你有露馅的小动作；你的习惯出卖了你\n自然译法：你一说谎就摸鼻子 / 你有小动作 / 你藏不住",
+    "examples": [
+      "You have a tell — you touch your ear when you lie. 你有破绽，说谎就摸耳朵。",
+      "Poker players look for a tell in their opponents. 扑克玩家会找对手的破绽。",
+      "Everyone has a tell; the trick is noticing it. 人人都有破绽，关键是发现它。",
+      "A tell isn't proof of lying, just a signal to check. 破绽不等于证据，只是提示。",
+      "She caught his tell and asked him directly. 她看出他的小动作，直接问他。"
+    ],
+    "explanation": "【概要】tell 在此为名词，指不自觉暴露真实状态的小动作或语言习惯，源自扑克术语。\n【结构】have a tell（可数，需 a）；也可说 give sth away、a giveaway。\n【语用】中性，谈判、面试、亲密关系观察；据此断言对方撒谎有风险，宜作核实线索。\n【易错】① tell 作名词表「破绽」，不是「讲述」；② 需冠词 a；③ 与 tell on sb（告发）不同。",
+    "synonym_points": [
+      "a giveaway — 露馅之处",
+      "a giveaway sign — 暴露的信号",
+      "body language cue — 肢体线索",
+      "a nervous habit — 紧张习惯"
+    ],
+    "antonym_points": [
+      "a poker face — 面不改色",
+      "unreadable — 看不透",
+      "stone-faced — 面无表情",
+      "no sign at all — 毫无迹象"
+    ],
+    "extended_points": [
+      "poker face — 面无表情",
+      "microexpression — 微表情",
+      "baseline behavior — 基线行为（识别方法）"
+    ],
+    "key_point": "【速记】have a tell = 有破绽/露馅小动作。\ntell 作名词；源自扑克。\n破绽≠证据，仍需核实。"
+  },
+  {
+    "point_content": "Thanks, but no, thanks",
+    "tag": ["礼貌拒绝", "婉拒", "中性偏正", "社交/商务", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "谢谢，但不用了；好意我心领，但不接受\n自然译法：谢谢，不过真不用 / 心领了 / 客气了，我不需要",
+    "examples": [
+      "Thanks, but no, thanks — I already have a ride. 谢谢，不过不用，我有车了。",
+      "Thanks, but no thanks, I'm not interested in the offer. 谢了，不过这个报价我不感兴趣。",
+      "He offered dessert; she said thanks, but no, thanks. 他递甜点，她说「谢谢，不用」。",
+      "Repeating \"thanks\" softens the no. 重复 thanks 能让拒绝更柔和。",
+      "Thanks, but no, thanks can still sound curt in writing. 写成文字仍可能显得生硬。"
+    ],
+    "explanation": "【概要】标准婉拒句式：先谢意再明确拒绝，比直接 no 更礼貌，但重复 thanks 也带一点干脆。\n【结构】Thanks, but no, thanks.（固定三重节奏）；也可说 I appreciate it, but I'll pass。\n【语用】中性偏正，拒推销、拒好意、拒邀约；书面使用可加一句理由更柔。\n【易错】① 两个 thanks 是固定节奏，非重复错误；② 与 no thanks（更直接）程度不同；③ 商务拒绝宜补一句解释。",
+    "synonym_points": [
+      "I'll pass — 我就不了",
+      "I appreciate it, but no — 心领了，但不用",
+      "that's kind of you, but no — 你太客气，不过不用",
+      "I'm good, thanks — 我不需要，谢谢"
+    ],
+    "antonym_points": [
+      "yes, please — 好的，谢谢",
+      "I'd love to — 我很乐意",
+      "count me in — 算我一个",
+      "sign me up — 我报名"
+    ],
+    "extended_points": [
+      "softening a refusal — 婉拒策略",
+      "I'll pass — 口语拒绝",
+      "polite no — 礼貌说不"
+    ],
+    "key_point": "【速记】Thanks, but no, thanks = 谢了但不用。\n两处 thanks 是固定节奏；书面补理由。\n更直接版 no thanks。"
+  },
+  {
+    "point_content": "Perfect timing",
+    "tag": ["口语评价", "来得正好", "正面", "社交/职场", "可反讽"],
+    "translation_lang": "zh-CN",
+    "translation_content": "来得正好；时机正好；（反讽）来得真是时候\n自然译法：刚好赶上 / 时间卡得真准 / 你可真会挑时候（反讽）",
+    "examples": [
+      "Perfect timing — I just finished the slides. 来得正好，我刚做完幻灯片。",
+      "Your call was perfect timing; I was about to email you. 电话来得正好，我正要发邮件给你。",
+      "Perfect timing — the meeting just ended. 真会挑时候，会刚结束。（反讽）",
+      "He arrived with perfect timing and saved the demo. 他来得刚好，救了演示。",
+      "Tone decides: perfect timing can be sincere or sarcastic. 语气决定是真心还是反讽。"
+    ],
+    "explanation": "【概要】评价某件事恰好发生在合适（或不合适）的时刻；语气可真心称赞，也可反讽批评。\n【结构】perfect timing（名词短语作感叹）；也可说 good timing、right on cue。\n【语用】正面偏多，但反讽用法常见；书写时可加表情或说明避免误解。\n【易错】① 不用冠词 a（作感叹）；② 与 on time（准时）不同；③ 反讽需语气配合。",
+    "synonym_points": [
+      "right on cue — 恰好在点上",
+      "just in time — 及时赶到",
+      "good timing — 时机好",
+      "impeccable timing — 时机绝佳（夸张）"
+    ],
+    "antonym_points": [
+      "bad timing — 时机不对",
+      "wrong moment — 不合适的时候",
+      "too late — 太晚了",
+      "just missed it — 刚好错过"
+    ],
+    "extended_points": [
+      "on time 与 in time 的区别",
+      "right on cue — 恰在此时",
+      "sarcasm cues — 反讽提示"
+    ],
+    "key_point": "【速记】Perfect timing = 来得正好（也可反讽）。\n感叹不加 a；勿混 on time。\n语气决定褒贬。"
+  },
+  {
+    "point_content": "Bring it in",
+    "tag": ["口语邀请", "拥抱", "正面", "关系/团队", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "来抱一下；过来抱抱；围过来（团队集合）\n自然译法：过来抱一个 / 来，抱抱 / 都围过来",
+    "examples": [
+      "Bring it in — you did great today. 来抱一个，你今天干得不错。",
+      "After the win, the coach shouted, \"Bring it in!\" 赢了之后教练喊「都围过来」。",
+      "She opened her arms: \"Bring it in.\" 她张开手臂说「来抱抱」。",
+      "Bring it in means hug or gather close, depending on context. 可指拥抱，也可指集合靠拢。",
+      "In a team huddle, bring it in signals unity. 团队抱团时这词表示团结。"
+    ],
+    "explanation": "【概要】口语中邀请对方拥抱或让大家靠拢集合，常见于运动队 huddle 与亲密关系。\n【结构】bring it in（固定短语，it 指「拥抱/圈」）；也可说 come here、group hug。\n【语用】正面，团队激励、家人重逢；职场使用需看关系亲疏。\n【易错】① 固定 it in；② 与 bring it on（放马过来）完全不同；③ 与 bring in（引入/带来）不同。",
+    "synonym_points": [
+      "come here — 过来（拥抱前）",
+      "group hug — 集体拥抱",
+      "let's huddle up — 围过来（团队）",
+      "give me a hug — 抱一下"
+    ],
+    "antonym_points": [
+      "hands off — 别碰",
+      "keep your distance — 保持距离",
+      "break it up — 散开",
+      "step back — 退后"
+    ],
+    "extended_points": [
+      "bring it on — 放马过来（形似义异）",
+      "huddle — 抱团/战术圈",
+      "group hug — 集体拥抱"
+    ],
+    "key_point": "【速记】Bring it in = 来抱抱/围过来。\n固定 it in；勿混 bring it on（挑衅）。\n团队激励常用。"
+  },
+  {
+    "point_content": "Don't think less of me",
+    "tag": ["关系表达", "怕被看轻", "中性", "坦诚/脆弱", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别因此看轻我；不要因此瞧不起我；别降低对我的评价\n自然译法：别因为这个看不起我 / 希望你别觉得我差 / 别把我看扁",
+    "examples": [
+      "I failed the exam — don't think less of me. 我考试没过，别因此看轻我。",
+      "Don't think less of me for quitting; it was the right call. 别因为我辞职就看不起我，那是对的选择。",
+      "She said it quietly: \"Don't think less of me.\" 她低声说「别因此看轻我」。",
+      "Asking people not to think less of you is vulnerable and honest. 这句很坦诚，也露出脆弱。",
+      "A good friend answers, \"I don't — if anything, more.\" 好朋友会说「不会，反而更敬你」。"
+    ],
+    "explanation": "【概要】承认自己做了可能被负面评价的事，请求对方不要因此降低对自己的看法；语气脆弱坦诚。\n【结构】think less of sb（固定搭配，less 不可换 lower）；也可说 don't judge me。\n【语用】中性，亲密关系与自我披露；职场过度使用会显得缺乏安全感。\n【易错】① 固定 think less of；② 与 think little of（评价很低）近义但语用不同；③ 回应宜真诚，不宜敷衍「嗯」。",
+    "synonym_points": [
+      "don't judge me — 别评判我",
+      "don't look down on me — 别看不起我",
+      "I hope this doesn't change your view of me — 希望这不会改变你对我的看法",
+      "don't hold it against me — 别因此记我的过"
+    ],
+    "antonym_points": [
+      "think highly of me — 高看我一眼",
+      "I don't care what you think — 我不在乎你怎么想",
+      "judge away — 随便评判吧（不在乎）",
+      "I'm proud of this — 我为这事骄傲"
+    ],
+    "extended_points": [
+      "think little of — 评价低",
+      "hold sth against sb — 记恨/计较",
+      "vulnerability — 示弱的力量（心理）"
+    ],
+    "key_point": "【速记】Don't think less of me = 别因此看轻我。\n固定 think less of；语气脆弱坦诚。\n回应宜真诚（I don't）。"
+  }
+]

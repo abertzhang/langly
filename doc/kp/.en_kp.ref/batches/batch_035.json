@@ -1,0 +1,642 @@
+[
+  {
+    "point_content": "Life gives you lemons.",
+    "tag": ["习语（省略式）", "化苦为甜", "正面", "逆境/心态", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "生活给你柠檬（酸苦）时，就做成柠檬水；化苦难为甘甜\n完整谚语：When life gives you lemons, make lemonade.\n自然译法：苦中作乐 / 逆境也要找出路 / 把烂牌打好",
+    "examples": [
+      "Lost the job? Life gives you lemons — make lemonade. 丢工作？生活给你酸柠檬，就做成甜柠檬水。\n",
+      "When life gives you lemons, make lemonade is the full saying. 完整版是 When life gives you lemons, make lemonade。\n",
+      "The metaphor means turning adversity into opportunity. 比喻把逆境转为机会。\n",
+      "It can sound glib to someone in real pain. 对正受苦的人说会显轻飘。\n",
+      "Practical version: \"here's one small next step.\" 实操版：给出一个小的下一步。"
+    ],
+    "explanation": "【概要】源自英语谚语 when life gives you lemons, make lemonade，以「酸柠檬→甜柠檬水」比喻把不利条件转化为可用资源；索引只取前半，语义仍需按完整谚语理解。\n【结构】When life gives you lemons, (make lemonade).（条件句 + 祈使句）；近义 turn adversity into advantage。\n【语用】正面，励志、创业复盘；对刚受创的人使用易被视为说教。\n【易错】① 索引为省略式，须补后半句才完整；② lemon 另有「次品/烂车」义；③ 别说成 life gives you lemonade（颠倒因果）。",
+    "synonym_points": [
+      "make lemonade — 化苦为甜（省略版）",
+      "turn adversity into advantage — 转逆境为优势",
+      "make the best of it — 尽量做好",
+      "find the silver lining — 看到好的一面"
+    ],
+    "antonym_points": [
+      "give up — 认输",
+      "wallow in it — 沉溺其中",
+      "it's hopeless — 没希望了",
+      "nothing good can come of this — 不会有好事"
+    ],
+    "extended_points": [
+      "lemon 的「次品」义（a lemon = 烂车）",
+      "silver lining — 一线希望",
+      "resilience — 韧性"
+    ],
+    "key_point": "【速记】Life gives you lemons = 生活给你酸柠檬。\n省略式，完整为 make lemonade。\n对受苦者别说教。"
+  },
+  {
+    "point_content": "I'll rephrase.",
+    "tag": ["沟通修正", "我换个说法", "中性", "解释/澄清", "正式口语通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我换个说法；我重新表述一下；我改个措辞\n自然译法：我重说一遍 / 换个说法 / 我表述得不清楚，重来",
+    "examples": [
+      "I'll rephrase — the deadline is Friday, not Thursday. 我重说：截止是周五，不是周四。\n",
+      "That came out wrong; I'll rephrase. 说得不对，我换个说法。\n",
+      "Rephrase means say the same thing differently. 指同义换表达，不是改内容。\n",
+      "It signals self-correction and keeps dialogue moving. 表示自我修正，保持对话顺畅。\n",
+      "If the point itself was wrong, say \"I'll correct that.\" 若观点本身错，说 I'll correct that。"
+    ],
+    "explanation": "【概要】表示要把刚才的话换一种说法重述，通常因为表述不清或引起误解；语气平和，是沟通中的自我修正。\n【结构】rephrase（及物动词，可省宾语）；近义 let me put it differently、I'll clarify。\n【语用】中性，会议、教学、跨文化沟通；若内容本身有误，应用 correct 而非 rephrase。\n【易错】① rephrase 只换说法，不改事实；② 与 repeat（重复）不同；③ 与 reword（更书面）。",
+    "synonym_points": [
+      "let me put it differently — 我换种说法",
+      "I'll clarify — 我澄清一下",
+      "let me reword that — 我改个措辞",
+      "in other words — 换句话说"
+    ],
+    "antonym_points": [
+      "I stand by what I said — 我不改口",
+      "that's exactly right — 就是这样",
+      "no need to explain — 不用解释",
+      "I'll repeat it verbatim — 我原话再说一遍"
+    ],
+    "extended_points": [
+      "rephrase vs correct",
+      "paraphrase — 释义（学术）",
+      "clarification — 澄清"
+    ],
+    "key_point": "【速记】I'll rephrase = 我换个说法。\n只换表达不改事实；内容错用 correct。\n近义 in other words。"
+  },
+  {
+    "point_content": "Go figure.",
+    "tag": ["口语感叹", "真搞不懂", "中性偏负", "无奈/讽刺", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "真搞不懂；你说怪不怪；（讽刺）自己琢磨去吧\n自然译法：谁知道呢 / 真奇怪 / 无法理解（带无奈）",
+    "examples": [
+      "He earns more and complains more — go figure. 他赚得更多却抱怨更多，真搞不懂。\n",
+      "The system crashed again. Go figure. 系统又崩了，你说怪不怪。\n",
+      "Go figure expresses resignation, not an instruction to calculate. 表无奈，不是让人去算。\n",
+      "It's informal and slightly sarcastic. 非正式，略讽刺。\n",
+      "Neutral version: \"it's hard to explain.\" 中性版：这很难解释。"
+    ],
+    "explanation": "【概要】口语感叹语，表示某事反常、难以理解，带无奈或讽刺；字面「去算算吧」已被习语化，不是让人真的计算。\n【结构】Go figure.（祈使句，固定短语）；近义 beats me、your guess is as good as mine。\n【语用】中性偏负，日常吐槽、职场无奈；正式分析要写原因假设。\n【易错】① 不表示「去计算」；② 与 figure out（弄明白）不同；③ 反复使用会显得消极。",
+    "synonym_points": [
+      "beats me — 我也搞不懂",
+      "your guess is as good as mine — 我也说不准",
+      "who knows — 谁知道呢",
+      "it's a mystery — 是个谜"
+    ],
+    "antonym_points": [
+      "that's obvious — 很明显",
+      "it makes sense — 说得通",
+      "I know why — 我知道原因",
+      "here's the explanation — 原因如下"
+    ],
+    "extended_points": [
+      "figure out — 弄明白（不同义）",
+      "beats me — 我不知道",
+      "irony markers — 讽刺标记"
+    ],
+    "key_point": "【速记】Go figure = 真搞不懂（无奈/讽刺）。\n不是「去算」；正式分析要写假设。\n近义 beats me。"
+  },
+  {
+    "point_content": "Out of left field.",
+    "tag": ["习语", "出乎意料", "中性偏负", "棒球来源/讨论", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "出乎意料；来得突然、莫名其妙；不按常理\n自然译法：哪冒出来的 / 完全没征兆 / 太突兀了",
+    "examples": [
+      "Her question came out of left field. 她那个问题来得毫无征兆。\n",
+      "That proposal is out of left field — where did it come from? 那个提案太突然，哪来的？\n",
+      "The phrase comes from baseball's left field. 源自棒球左外野（球突然从那侧飞来）。\n",
+      "It can mean surprising or irrelevant. 可指意外，也可指不相关。\n",
+      "Formal version: \"unexpected and off-topic.\" 正式版：unexpected and off-topic。"
+    ],
+    "explanation": "【概要】习语，源自棒球「左外野」方向来的球，喻指话题、提议或事件来得突然、不相关；中性偏负，常含「不合场合」的批评。\n【结构】out of left field（介词短语作表语/状语，left field 不加 the 也可）；近义 out of nowhere、a bolt from the blue。\n【语用】中性偏负，会议讨论、评论；正式文本写 unexpected/unrelated。\n【易错】① 固定 left field（棒球术语）；② 与 out of the blue（突然，无贬义）语感不同；③ 别误写 right field。",
+    "synonym_points": [
+      "out of nowhere — 突然冒出来",
+      "a bolt from the blue — 晴天霹雳",
+      "completely unexpected — 完全没预料",
+      "off-topic — 跑题（强调不相关）"
+    ],
+    "antonym_points": [
+      "right on cue — 恰如其时",
+      "as expected — 如预期",
+      "on topic — 切题",
+      "predictable — 可预见"
+    ],
+    "extended_points": [
+      "left field 棒球来源",
+      "out of the blue 差异",
+      "non sequitur — 不连贯的推论"
+    ],
+    "key_point": "【速记】out of left field = 出乎意料/突兀。\n源自棒球；含不合场合之意。\n近义 out of the blue（无贬）。"
+  },
+  {
+    "point_content": "I let you live.",
+    "tag": ["戏谑威胁（影视）", "饶你一命", "中性偏负", "玩笑/对抗", "慎用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我饶你一命；（戏谑）我放过你；这次就算了\n语域提示：字面带死亡威吓，多用于影视台词或朋友夸张玩笑，真实冲突中不宜使用\n自然译法：放过你了 / 这次算你运气 / 留你一条命（玩梗）",
+    "examples": [
+      "He lost the game and joked, \"I let you live.\" 他输了比赛开玩笑说「我饶你一命」。\n",
+      "In films, the line signals mock mercy from a villain. 影视里常是反派式的假慈悲。\n",
+      "Say it only where the exaggeration is obvious. 只在夸张明显时使用。\n",
+      "In real disputes, it reads as a threat. 真实冲突里会被当成威胁。\n",
+      "Neutral version: \"I'll let this one slide.\" 中性版：这次我不计较。"
+    ],
+    "explanation": "【概要】字面「我让你活下来」，属影视化的戏谑威胁语，用来夸张地表示「放过你/不追究」；因含死亡暗示，只能在明显玩笑语境使用。\n【结构】let sb + 动词原形（let you live）；近义 I'll let it slide、you get a pass。\n【语用】中性偏负，朋友游戏玩笑、影视对白；职场、陌生人间使用会被视作威胁。\n【易错】① let 后接动词原形（非 to live）；② 与 let live（宽容待人）成语不同；③ 慎在书面沟通使用。",
+    "synonym_points": [
+      "I'll let it slide — 这次不计较（中性）",
+      "you get a pass — 放你一次",
+      "I'll spare you — 我放过你（夸张）",
+      "consider yourself lucky — 算你走运"
+    ],
+    "antonym_points": [
+      "you're done — 你完了",
+      "no mercy — 不留情",
+      "I won't let this go — 这事我不放过",
+      "you're out — 你出局"
+    ],
+    "extended_points": [
+      "let sb do 使役结构",
+      "live and let live — 宽容相处（成语）",
+      "mock threats — 戏谑威胁"
+    ],
+    "key_point": "【速记】I let you live = 我饶你一命（戏谑）。\nlet + 原形；仅限明显玩笑。\n中性版 let it slide。"
+  },
+  {
+    "point_content": "I'll make it up to you.",
+    "tag": ["补偿承诺", "我会补偿你", "正面", "道歉/关系", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我会补偿你；我会弥补你；下次我补上\n自然译法：我补给你 / 我欠你一次，会还 / 下次我一定补",
+    "examples": [
+      "I missed your birthday — I'll make it up to you. 我错过了你生日，我会补偿你。\n",
+      "I'll make it up to you with dinner this weekend. 这周末我请你吃饭补上。\n",
+      "Make it up to sb means compensate for a loss or hurt. 指弥补损失或伤害。\n",
+      "A promise needs a concrete action and a date. 承诺要配具体行动与时间。\n",
+      "Formal version: \"I'll ensure you're compensated.\" 正式版：我会确保补偿到位。"
+    ],
+    "explanation": "【概要】承诺补偿因自己造成的失望、损失或不便；语气真诚，多用于关系修复、客户服务；需具体行动支撑，否则成空话。\n【结构】make it up to sb（固定 to）；近义 I owe you one、I'll compensate you。\n【语用】正面，道歉、客服、朋友之间；反复承诺不兑现会严重损伤信任。\n【易错】① 介词固定 to；② 与 make up（和好/编造）不同；③ 承诺须带时间与方式。",
+    "synonym_points": [
+      "I owe you one — 我欠你一次",
+      "I'll compensate you — 我会补偿你（正式）",
+      "let me make it right — 让我弥补一下",
+      "I'll pay you back — 我会还你"
+    ],
+    "antonym_points": [
+      "too bad — 那没办法（冷漠）",
+      "not my problem — 不关我事",
+      "get over it — 别计较了",
+      "no compensation — 不补偿"
+    ],
+    "extended_points": [
+      "make up for sth — 弥补某事",
+      "make up（和好/编造）多义",
+      "service recovery — 服务补救"
+    ],
+    "key_point": "【速记】I'll make it up to you = 我会补偿你。\n介词 to；须配行动与时间。\n近义 I owe you one。"
+  },
+  {
+    "point_content": "I told you so.",
+    "tag": ["事后断言", "我早说过", "中性偏负", "争执/验证", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我早就跟你说过了；看吧，我说对了吧；（略得意）我提醒过你\n自然译法：早说了吧 / 我提醒过 / 你看，果然",
+    "examples": [
+      "The app crashed — I told you so. 应用崩了，我早说过。\n",
+      "I told you so is satisfying to say and annoying to hear. 说着痛快，听着刺耳。\n",
+      "He resisted saying \"I told you so\" and helped instead. 他忍住没说「早说过」，先去帮忙。\n",
+      "Past tense told is fixed in this phrase. 固定用 told（过去式）。\n",
+      "Softer version: \"that's what we worried about.\" 柔和版：这正是我们担心的。"
+    ],
+    "explanation": "【概要】事后声明自己早有预警，含「我说对了吧」的验证感；语气常带得意，容易让对方更难堪，是关系中的高风险表达。\n【结构】I told you (so).（固定 so）；近义 see, I was right。\n【语用】中性偏负，争吵、复盘；团队协作中宜改为讨论原因。\n【易错】① 固定 told（非 tell）；② 与 I said it before（较中性）语气不同；③ 说之前先问对方是否需要听。",
+    "synonym_points": [
+      "see, I was right — 看吧，我说对了",
+      "I warned you — 我警告过你",
+      "that's what I said — 我就是这么说的",
+      "didn't I tell you — 我不是说了吗"
+    ],
+    "antonym_points": [
+      "I was wrong — 我错了",
+      "you were right — 你对",
+      "my mistake — 我的错",
+      "let's not dwell on it — 别再纠结"
+    ],
+    "extended_points": [
+      "hindsight bias — 后视偏差",
+      "gloating — 幸灾乐祸",
+      "validation — 验证感"
+    ],
+    "key_point": "【速记】I told you so = 我早说过了。\n固定 told；易伤人，协作中改用复盘。\n近义 I warned you。"
+  },
+  {
+    "point_content": "Pull over.",
+    "tag": ["驾驶指令", "靠边停车", "中性", "交通/执法", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "靠边停车；把车停到路边；（警察）请停车\n自然译法：停边上 / 靠右停一下 / 请靠边",
+    "examples": [
+      "Pull over — I need to check the map. 靠边停，我要看地图。\n",
+      "The officer signaled him to pull over. 警官示意他靠边停车。\n",
+      "Pull over means move to the side of the road, not brake hard. 指移到路边，不是急刹。\n",
+      "It's a phrasal verb with over as particle. 短语动词，over 为副词小品词。\n",
+      "For parking in a lot, say \"pull in.\" 停进车位用 pull in。"
+    ],
+    "explanation": "【概要】驾驶指令，指把车驶向路边停下；可由司机自己、乘客或执法人员发出，语气直接。\n【结构】pull over（不及物短语动词，代词宾语置于中间：pull it over）；近义 pull in（驶入）、stop by the curb。\n【语用】中性，自驾、执法、乘车；正式规范文件用 please stop at the curb。\n【易错】① over 为副词（不加 to）；② 与 pull up（停下）近义但也可指「拉起来」；③ 与 turn over（翻车）不同。",
+    "synonym_points": [
+      "pull up — 停下",
+      "stop by the curb — 路边停车",
+      "pull in — 驶入停车",
+      "park on the shoulder — 停到路肩"
+    ],
+    "antonym_points": [
+      "keep driving — 继续开",
+      "drive on — 往前开",
+      "merge back — 并回车道",
+      "floor it — 全速冲（口语）"
+    ],
+    "extended_points": [
+      "pull up / pull in / pull out 区别",
+      "shoulder（路肩）",
+      "traffic stop（执法拦停）"
+    ],
+    "key_point": "【速记】pull over = 靠边停车。\nover 为副词；代词宾语放中间。\n停进车位用 pull in。"
+  },
+  {
+    "point_content": "You have a good eye.",
+    "tag": ["赞美", "有眼光", "正面", "审美/鉴定", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你很有眼光；你眼力好；你很会挑\n自然译法：眼光不错 / 你真会选 / 眼力真好",
+    "examples": [
+      "You have a good eye — that's a real antique. 你很有眼光，那是真古董。\n",
+      "You have a good eye for color. 你对配色很有眼光。\n",
+      "A good eye means spotting quality or detail. 指能看出品质与细节。\n",
+      "For photography, say \"a good eye for composition.\" 摄影说 a good eye for composition。\n",
+      "Neutral praise: \"you notice details.\" 中性版：你注意到细节。"
+    ],
+    "explanation": "【概要】称赞对方在审美、鉴定或细节上有敏锐判断力；可加 for 说明具体领域（for design/color/talent）。\n【结构】have a good eye (for sth)（需 a）；近义 you've got great taste。\n【语用】正面，购物、设计、招聘评价；单纯说 eye 也可指摄影眼光。\n【易错】① 需 a（不说 have good eye）；② 与 keep an eye on（照看）不同；③ 与 good eyesight（视力）不同。",
+    "synonym_points": [
+      "you have great taste — 你品味很好",
+      "you know quality — 你识货",
+      "you spot details — 你抓得住细节",
+      "sharp eye — 眼力敏锐"
+    ],
+    "antonym_points": [
+      "you have no eye for it — 你完全看不出来",
+      "poor taste — 品味差",
+      "can't tell the difference — 分不出好坏",
+      "easily fooled — 容易被骗"
+    ],
+    "extended_points": [
+      "an eye for detail — 注重细节",
+      "eye vs eyesight",
+      "taste（品味）"
+    ],
+    "key_point": "【速记】have a good eye = 有眼光。\n需 a；可接 for；≠ 视力好。\n近义 great taste。"
+  },
+  {
+    "point_content": "You're a peach.",
+    "tag": ["口语赞美", "你人真好", "正面", "帮助/感谢", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你人真好；你太贴心了；（旧式）你真是个好姑娘/好人\n自然译法：你人真好 / 你太好了 / 太谢谢你了，真贴心",
+    "examples": [
+      "Thanks for covering my shift — you're a peach. 谢谢你替我班，你人真好。\n",
+      "She helped me move and I said, \"You're a peach.\" 她帮我搬家，我说「你真好」。\n",
+      "You're a peach is warm but slightly old-fashioned. 温暖但略老派。\n",
+      "In modern usage it's friendly, rarely romantic. 现代多用于友情与感谢。\n",
+      "Neutral version: \"you're so kind.\" 中性版：你真好心。"
+    ],
+    "explanation": "【概要】口语赞美，指对方亲切、乐于助人；peach 在此指「可人儿」，语气温暖，略老派，多用于感谢帮忙的场景。\n【结构】be a peach（可数名词，需 a）；近义 you're a sweetheart、you're so kind。\n【语用】正面偏口语，朋友、邻里互助；商务书面语用 much appreciated。\n【易错】① 需 a（非 you're peach）；② 不代表「桃子味」；③ 语域略老，年轻人较少用。",
+    "synonym_points": [
+      "you're a sweetheart — 你真是个好人",
+      "you're so kind — 你真好心",
+      "you're a gem — 你太可贵了（英式）",
+      "you're a lifesaver — 你救了我"
+    ],
+    "antonym_points": [
+      "you're a pain — 你真烦人",
+      "you're so rude — 你太无礼",
+      "you're no help — 你帮不上忙",
+      "what a jerk — 真不是东西（粗）"
+    ],
+    "extended_points": [
+      "peach 的比喻义（可人儿）",
+      "a gem（可贵的人）",
+      "old-fashioned praise — 老派赞美"
+    ],
+    "key_point": "【速记】You're a peach = 你人真好。\n需 a；略老派，商务改用 much appreciated。\n近义 a gem。"
+  },
+  {
+    "point_content": "The pot calling the kettle black.",
+    "tag": ["谚语", "五十步笑百步", "贬义", "虚伪指责", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "锅笑壶黑；五十步笑百步；自己有问题还指责别人\n自然译法：乌鸦笑猪黑 / 你自己不也这样 / 贼喊捉贼",
+    "examples": [
+      "He called me messy — that's the pot calling the kettle black. 他说我邋遢，真是五十步笑百步。\n",
+      "The pot calling the kettle black applies when both share the flaw. 双方都有同样毛病时用这句。\n",
+      "It comes from both pots being blackened by soot. 源自锅与壶都被烟灰熏黑。\n",
+      "It's pointed and can end a conversation. 尖锐，常用于终止对话。\n",
+      "Neutral version: \"we both do that, to be fair.\" 中性版：公平说我们都这样。"
+    ],
+    "explanation": "【概要】谚语，源自「锅与壶都被熏黑」，指有明显同样缺点的人却去指责别人，即「五十步笑百步」；带讽刺意味。\n【结构】the pot calling the kettle black（固定搭配，pots/kettles 变体少见）；近义 look who's talking。\n【语用】贬义，争论中反击虚伪指责；商务沟通中直说会激化矛盾。\n【易错】① 固定 pot/kettle 两个意象；② 与 two wrongs don't make a right（不能以错纠错）不同；③ 使用时需能指出共同缺点。",
+    "synonym_points": [
+      "look who's talking — 你还好意思说",
+      "you're one to talk — 你也没资格说",
+      "hypocrisy — 虚伪（正式）",
+      "tu quoque — 你也一样（逻辑谬误名）"
+    ],
+    "antonym_points": [
+      "physician, heal thyself — 先管好自己（近义警示）",
+      "practice what you preach — 言行一致",
+      "set an example — 树立榜样",
+      "fair criticism — 公正批评"
+    ],
+    "extended_points": [
+      "tu quoque（拉丁，逻辑谬误）",
+      "look who's talking — 同义",
+      "hypocrisy vs double standard"
+    ],
+    "key_point": "【速记】the pot calling the kettle black = 五十步笑百步。\n讽刺虚伪指责；需指出共同缺点。\n近义 look who's talking。"
+  },
+  {
+    "point_content": "Nothing comes from nothing.",
+    "tag": ["谚语", "天下没有免费午餐", "中性偏正", "因果/资源", "书面口语通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "无中不能生有；天下没有免费的午餐；什么都要有投入\n自然译法：凭空出不来东西 / 哪有白来的 / 一分投入一分产出",
+    "examples": [
+      "Nothing comes from nothing — quality needs funding. 天下没有免费午餐，质量需要投入。\n",
+      "The phrase traces back to philosophy and Shakespeare. 该说法可追至哲学与莎士比亚。\n",
+      "Nothing comes from nothing is about causation, not greed. 讲因果与投入，不是贪婪。\n",
+      "In budgeting, it means free options are rarely free. 预算语境里指「免费方案往往不免费」。\n",
+      "Modern version: \"there's no free lunch.\" 现代版：there's no free lunch。"
+    ],
+    "explanation": "【概要】表示「无来源则无结果」，即一切产出都需要投入与成本；与英语谚语 there's no such thing as a free lunch 语义接近。\n【结构】Nothing comes from nothing.（双 nothing 强调对称）；近义 no free lunch、you get what you pay for。\n【语用】中性偏正，预算讨论、质量论证；不适合用来否定公益与无偿帮助。\n【易错】① 双 nothing 结构固定；② 与 nothing ventured, nothing gained（不冒险无所得）语感不同；③ 别用它否定善意。",
+    "synonym_points": [
+      "there's no free lunch — 天下没有免费午餐",
+      "you get what you pay for — 一分钱一分货",
+      "no input, no output — 无投入无产出",
+      "everything has a cost — 凡事有成本"
+    ],
+    "antonym_points": [
+      "something for nothing — 白得（幻想）",
+      "free ride — 搭便车",
+      "it's totally free — 完全免费（少见）",
+      "money grows on trees — 钱从天上掉（讽刺）"
+    ],
+    "extended_points": [
+      "there's no such thing as a free lunch",
+      "nothing ventured, nothing gained",
+      "opportunity cost — 机会成本"
+    ],
+    "key_point": "【速记】Nothing comes from nothing = 无中不能生有。\n双 nothing 固定；≈ 没有免费午餐。\n别用来否定善意。"
+  },
+  {
+    "point_content": "It's in my blood.",
+    "tag": ["自我描述", "与生俱来", "正面", "家族/天赋", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这（本事/习惯）在我血液里；与生俱来；天生就喜欢\n自然译法：骨子里就有 / 天生的 / 这是我家传的",
+    "examples": [
+      "Music is in my blood — my whole family plays. 音乐在我血液里，全家都玩乐器。\n",
+      "Running is in my blood; I can't sit still. 跑步是我的天性，我坐不住。\n",
+      "It suggests inherited trait or lifelong passion. 指遗传特质或终身热爱。\n",
+      "For a learned skill, say \"I grew up doing it.\" 学来的技能说 I grew up doing it。\n",
+      "Don't use it to excuse bad habits. 别用它为坏习惯开脱。"
+    ],
+    "explanation": "【概要】表示某项能力、爱好或性格仿佛天生、家族相传，无法割舍；褒义常用，也可作宿命式解释。\n【结构】be in one's blood（固定 in + 物主代词 + blood，不加冠词）；近义 born with it、runs in the family。\n【语用】正面，家族传统、天赋叙述；用于坏习惯时会被当成推责。\n【易错】① 用 in my blood（非 on）；② blood 不可数、不加 a；③ 与 runs in the family（家族遗传）近义但主语不同。",
+    "synonym_points": [
+      "runs in the family — 家族相传",
+      "I was born with it — 我天生就有",
+      "it's second nature to me — 对我像本能",
+      "it's part of who I am — 这是我的一部分"
+    ],
+    "antonym_points": [
+      "I picked it up later — 我后来才学的",
+      "it's not for me — 这不是我的菜",
+      "I have no talent for it — 我没那天赋",
+      "I'm new to this — 我刚接触"
+    ],
+    "extended_points": [
+      "second nature — 第二天性",
+      "runs in the family — 家族遗传",
+      "nature vs nurture — 先天与后天"
+    ],
+    "key_point": "【速记】It's in my blood = 与生俱来。\nin my blood 不加冠词；褒义常用。\n近义 runs in the family。"
+  },
+  {
+    "point_content": "Text me.",
+    "tag": ["联络习惯", "发短信给我", "中性", "日常/恋爱", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "给我发短信；（泛指）发消息给我；微信/短信联系我\n自然译法：给我发消息 / 微信联系我 / 短信我一下",
+    "examples": [
+      "Text me when you land. 落地给我发消息。\n",
+      "Text me instead of calling — I'm in a meeting. 发消息别打电话，我在开会。\n",
+      "Text is a verb now; the noun is a text (message). 现可作动词，名词指一条短信。\n",
+      "In China, people usually say \"message me on WeChat.\" 国内常说 message me on WeChat。\n",
+      "For email, say \"drop me an email.\" 邮件说 drop me an email。"
+    ],
+    "explanation": "【概要】口语指令，让对方用短信/即时消息联系自己；text 在现代英语中已动词化，泛指发短消息。\n【结构】text sb（及物动词，可 text me / text me at this number）；名词 a text（一条消息）。\n【语用】中性，朋友、恋人、同事；正式沟通用 email、message me。\n【易错】① text 作动词及物（不说 text to me）；② 与 call（打电话）区分；③ 商务场合避免用 text 表正式通知。",
+    "synonym_points": [
+      "message me — 发消息给我",
+      "drop me a line — 给我留言（略旧）",
+      "shoot me a text — 发我短信（口语）",
+      "ping me — 联系我（职场口语）"
+    ],
+    "antonym_points": [
+      "call me — 给我打电话",
+      "don't contact me — 别联系我",
+      "let's talk in person — 当面谈",
+      "email me instead — 改用邮件"
+    ],
+    "extended_points": [
+      "text 的动词化（名转动）",
+      "ping me — 职场动词",
+      "DM（direct message）"
+    ],
+    "key_point": "【速记】Text me = 发消息给我。\ntext 及物动词；正式改用 email。\n职场口语版 ping me。"
+  },
+  {
+    "point_content": "The walls have ears.",
+    "tag": ["谚语", "隔墙有耳", "中性", "保密/提醒", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "隔墙有耳；说话要小心；隔墙有人听\n自然译法：小心隔墙有耳 / 别乱说 / 这里说话不保险",
+    "examples": [
+      "Let's discuss it outside — the walls have ears. 出去谈，隔墙有耳。\n",
+      "The walls have ears in this office; rumors travel fast. 这办公室消息传得快，隔墙有耳。\n",
+      "It warns against careless talk in shared spaces. 提醒别在公共空间乱说。\n",
+      "Digital version: \"assume everything is logged.\" 数字版：默认一切有记录。\n",
+      "Formal warning: \"please keep this confidential.\" 正式提醒用 keep this confidential。"
+    ],
+    "explanation": "【概要】谚语，字面「墙有耳朵」，意指谈话可能被旁人听到，提醒注意保密与场合；也常引申到数字环境。\n【结构】The walls have ears.（复数主语 + have）；近义 be careful who's listening。\n【语用】中性，办公室政治、敏感谈判；正式沟通用 confidentiality 条款表述。\n【易错】① 固定复数 walls + ears；② 与 walls have eyes（不存在此谚）区分；③ 数字场景宜补「消息会留痕」。",
+    "synonym_points": [
+      "someone might be listening — 可能有人在听",
+      "be careful who hears this — 小心被听到",
+      "loose lips sink ships — 口风不严会坏事",
+      "keep it confidential — 保密（正式）"
+    ],
+    "antonym_points": [
+      "speak freely — 畅所欲言",
+      "this stays between us — 只在我们之间（也算保密）",
+      "no one's listening — 没人听",
+      "it's public — 这是公开的"
+    ],
+    "extended_points": [
+      "loose lips sink ships（二战宣传语）",
+      "confidentiality — 保密",
+      "off the record — 非正式不记录"
+    ],
+    "key_point": "【速记】The walls have ears = 隔墙有耳。\n复数固定；数字场面默认留痕。\n正式版 keep this confidential。"
+  },
+  {
+    "point_content": "You're faking.",
+    "tag": ["质疑指责", "你是装的", "中性偏负", "冲突/怀疑", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你是装的；你在假装；你别演了\n自然译法：你是装的吧 / 别演了 / 你在糊弄人",
+    "examples": [
+      "You're faking — you didn't really hurt your leg. 你是装的，腿根本没伤。\n",
+      "You're faking surprise, but you already knew. 你在假装惊讶，其实你早知道。\n",
+      "Faking means pretending, often to avoid work. 指假装，常为逃避。\n",
+      "Accusing someone of faking needs evidence. 指控装病装傻需要证据。\n",
+      "Neutral question: \"are you feeling okay, honestly?\" 中性问法：你到底还好吗。"
+    ],
+    "explanation": "【概要】指控对方假装（情绪、伤病、无知）；语气直接，带不信任，用于冲突或怀疑场景；无证据时属伤害性指控。\n【结构】fake sth / be faking（及物或进行时）；近义 you're pretending、you're putting it on（英式）。\n【语用】中性偏负，家庭、职场、医疗怀疑；医疗与心理议题下应交给专业评估。\n【易错】① fake 可及物（fake illness）；② 与 liar（撒谎者）不同；③ 与 faker（骗子，名词）区分。",
+    "synonym_points": [
+      "you're pretending — 你在假装",
+      "you're putting it on — 你在装（英式）",
+      "that's an act — 那是演的",
+      "you're faking it — 你在硬装"
+    ],
+    "antonym_points": [
+      "you're being honest — 你说实话",
+      "that's genuine — 那是真的",
+      "I believe you — 我信你",
+      "it's real — 这是真的"
+    ],
+    "extended_points": [
+      "fake it till you make it（假装直到成真）",
+      "malingering（装病，医学用语）",
+      "gaslighting（反向否认，勿混）"
+    ],
+    "key_point": "【速记】You're faking = 你是装的。\n需证据；医疗议题交专业评估。\n近义 you're putting it on。"
+  },
+  {
+    "point_content": "I overslept.",
+    "tag": ["日常说明", "睡过头", "中性偏负", "迟到/道歉", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我睡过头了；我起晚了\n自然译法：我睡晚了 / 闹钟没听见 / 一觉睡过去了",
+    "examples": [
+      "Sorry I'm late — I overslept. 抱歉迟到，我睡过头了。\n",
+      "I overslept and missed the bus. 我起晚了，错过了公交。\n",
+      "Oversleep means sleep past the intended time. 指睡过了预定时间。\n",
+      "It's a simple explanation, not an excuse for repeated lateness. 是解释，不是反复迟到的借口。\n",
+      "Add a fix: \"I'll set two alarms.\" 补个改进：我定两个闹钟。"
+    ],
+    "explanation": "【概要】表示睡过了原定起床时间，导致迟到或误事；属常见日常说明，语气中性，可作为简短道歉的一部分。\n【结构】oversleep（不及物动词，过去式 overslept）；近义 sleep in（有意多睡，非负面）、wake up late。\n【语用】中性偏负，上班迟到、误车；反复使用会被视为时间管理问题。\n【易错】① 不规则动词 oversleep–overslept；② sleep in 指故意睡到自然醒，不带歉意；③ 与 stay up late（熬夜）不同。",
+    "synonym_points": [
+      "I woke up late — 我起晚了",
+      "I slept through my alarm — 闹钟没吵醒我",
+      "I slept in — 我多睡了（中性）",
+      "my alarm didn't go off — 闹钟没响"
+    ],
+    "antonym_points": [
+      "I woke up early — 我起得早",
+      "I was up before dawn — 我天亮前就起了",
+      "right on time — 准点",
+      "wide awake early — 早早清醒"
+    ],
+    "extended_points": [
+      "oversleep vs sleep in",
+      "slept through（睡过去没听见）",
+      "time management — 时间管理"
+    ],
+    "key_point": "【速记】I overslept = 我睡过头了。\noversleep–overslept；sleep in 是故意多睡。\n反复发生要改机制。"
+  },
+  {
+    "point_content": "Don't take it personally.",
+    "tag": ["职场/社交缓冲", "别往心里去", "中性偏正", "反馈/拒绝", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别往心里去；别把它当成针对你；不是说你个人\n自然译法：别多心 / 对事不对人 / 这不是冲你",
+    "examples": [
+      "We rejected the proposal — don't take it personally. 方案被否了，别往心里去。\n",
+      "Don't take it personally, but the slides need work. 别多心，但幻灯片要改。\n",
+      "Saying it doesn't erase the impact. 说了这句也不代表就不伤人。\n",
+      "Take sth personally means treat criticism as personal attack. 指把批评当人身攻击。\n",
+      "Better version: \"this is about the work, not you.\" 更好说法：这是对事不对人。"
+    ],
+    "explanation": "【概要】在给出负面反馈或拒绝时，提示对方不要把内容理解为针对个人；职场高频，但本身也可能显得敷衍。\n【结构】take sth personally（固定搭配）；祈使否定 Don't take it personally。\n【语用】中性偏正，绩效反馈、评审、拒绝邀约；频繁使用会让「对事不对人」变成口头禅。\n【易错】① personally 为副词（非 person）；② 与 no offense（我要说难听话了，前置）不同；③ 先共情再给反馈。",
+    "synonym_points": [
+      "no offense — 无意冒犯（前置）",
+      "it's not about you — 这不是针对你",
+      "this is about the work — 对事不对人",
+      "don't read too much into it — 别过度解读"
+    ],
+    "antonym_points": [
+      "this is about you — 这就是针对你",
+      "take it personally — 你该在意（反调）",
+      "yes, it's personal — 确实是私怨",
+      "I mean you specifically — 我说的就是你"
+    ],
+    "extended_points": [
+      "take sth personally — 往心里去",
+      "no offense 的双刃性",
+      "feedback sandwich（反馈三明治法）"
+    ],
+    "key_point": "【速记】Don't take it personally = 别往心里去。\ntake sth personally；先共情再反馈。\n更好说法：about the work。"
+  },
+  {
+    "point_content": "You asked for it.",
+    "tag": ["事后归因", "你自找的", "强负面", "冲突/后果", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "是你自找的；活该；这是你要求的后果\n自然译法：自找的 / 你非要这样 / 怪谁呢",
+    "examples": [
+      "You asked for it — I warned you twice. 你自找的，我提醒过两次。\n",
+      "He provoked the argument, so you asked for it. 是他挑起的争吵，自找的。\n",
+      "You asked for it can be playful or cruel. 可玩笑，也可刻薄。\n",
+      "Literal reading: you requested this outcome. 字面义：这结果是你要求的。\n",
+      "Compassionate version: \"let's see what we can fix.\" 有同理心的说法：看看能补救什么。"
+    ],
+    "explanation": "【概要】指对方的不幸由自身行为招致，带「活该」意味；可作玩笑互怼，也可能在对方受挫时显得冷酷。\n【结构】ask for it（固定「招致」义，非字面「请求」）；近义 you brought this on yourself。\n【语用】强负面，冲突归因；安慰场景中不宜使用。\n【易错】① ask for it 为固定习语义「招致」；② 与 you requested it（字面请求）不同；③ 慎用于事故与伤害。",
+    "synonym_points": [
+      "you brought this on yourself — 你自己招的",
+      "that's on you — 这算你的",
+      "it's your own fault — 是你自己的错",
+      "serves you right — 活该（更冲）"
+    ],
+    "antonym_points": [
+      "that wasn't your fault — 不是你的错",
+      "no one could see it coming — 没人能预料",
+      "it was bad luck — 只是运气差",
+      "let's help fix it — 一起补救"
+    ],
+    "extended_points": [
+      "ask for it 的习语义",
+      "serves you right — 活该",
+      "victim blaming（受害者有责论）"
+    ],
+    "key_point": "【速记】You asked for it = 你自找的。\nask for it＝招致（非请求）；事故勿用。\n近义 serves you right。"
+  },
+  {
+    "point_content": "Don't freak out.",
+    "tag": ["安抚指令", "别慌", "中性偏正", "危机/情绪", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别慌；别抓狂；淡定一点\n自然译法：冷静点 / 别炸 / 先稳住",
+    "examples": [
+      "Don't freak out, but I dented the car. 别慌，我把车刮了。\n",
+      "Don't freak out — we have a backup. 别炸，我们有备份。\n",
+      "Freak out means panic or lose control. 指惊慌失控。\n",
+      "Telling someone not to panic can increase panic. 直接叫别慌有时反让人更慌。\n",
+      "Better: \"here's what we know and what we'll do.\" 更好：说清已知与下一步。"
+    ],
+    "explanation": "【概要】安抚性指令，要求对方保持冷静、不要惊慌失控；在坏消息前置使用，但单纯命令常适得其反。\n【结构】freak out（不及物短语动词）；近义 calm down（易激怒）、take it easy。\n【语用】中性偏正，突发状况、坏消息；对正恐慌者宜先给信息与行动方案。\n【易错】① freak out 为短语动词（非 freak）；② calm down 在愤怒场景会被视为轻视；③ 别用它压住合理担忧。",
+    "synonym_points": [
+      "stay calm — 保持冷静",
+      "take it easy — 放轻松",
+      "don't panic — 别惊慌",
+      "keep it together — 稳住"
+    ],
+    "antonym_points": [
+      "panic — 慌吧",
+      "lose it — 崩了",
+      "freak out — 抓狂（反义动作）",
+      "this is a crisis — 这是危机"
+    ],
+    "extended_points": [
+      "freak out 的语域",
+      "panic attack（惊恐发作，医学）",
+      "crisis communication — 危机沟通"
+    ],
+    "key_point": "【速记】Don't freak out = 别慌。\n短语动词；命令式易反效。\n更好：给信息+下一步。"
+  }
+]

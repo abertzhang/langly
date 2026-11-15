@@ -1,0 +1,562 @@
+[
+  {
+    "point_content": "Don't judge a book by its cover",
+    "tag": ["谚语", "以貌取人", "判断", "中性偏正", "人际"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别以貌取人；别只看外表；不能光看包装\n自然译法：不能只看表面 / 别凭第一印象判断 / 人不可貌相",
+    "examples": ["Don't judge a book by its cover — he's shy but brilliant. 别以貌取人，他内向但非常聪明。",
+      "The restaurant looks rough, but don't judge a book by its cover. 这家店看着简陋，可别只看外表。",
+      "She judged him by his cheap shoes and was wrong — don't judge a book by its cover. 她看他鞋便宜就下了判断，错了——人不可貌相。",
+      "Don't judge a book by its cover, especially in hiring. 别只看表面，招聘时尤其如此。",
+      "The plain packaging hides great coffee; don't judge a book by its cover. 包装朴素，咖啡很好——别只看包装。"
+    ],
+    "explanation": "【概要】谚语：书皮不能代表内容，比喻不能仅凭外表或第一印象评价人或物。\n【结构】Don't judge a book by its cover.（祈使句）；也可说 you can't judge a book by its cover。\n【语用】中性偏正，劝人客观；用于评价招聘、产品、初见者都合适。\n【易错】① 介词 by；② 用 its，不是 it's（常见拼写错）；③ 别改成 judging a book by cover（缺 the/its）。",
+    "synonym_points": ["looks can be deceiving — 外表会骗人",
+      "appearances are deceptive — 表象具有欺骗性（书面）",
+      "first impressions can be wrong — 第一印象会出错",
+      "beauty is only skin deep — 美貌只是表面（多指人）"
+    ],
+    "antonym_points": ["judge by appearances — 以貌取人",
+      "first impressions count — 第一印象很重要（相反视角）",
+      "you are what you wear — 穿什么就是什么（夸张）",
+      "superficial judgment — 表面判断"
+    ],
+    "extended_points": ["its 与 it's 的区别在写作中高频出错",
+      "a rough diamond — 未经雕琢的宝贝（英式）」",
+      "hidden gem — 宝藏小店/隐藏好物"
+    ],
+    "key_point": "【速记】Don't judge a book by its cover = 别以貌取人。\n介词 by + its（不是 it's）。\n同义：looks can be deceiving。"
+  },
+  {
+    "point_content": "My hands are tied",
+    "tag": ["习语", "无能为力", "受限", "职场", "中性偏无奈"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我也无能为力；我受规则/权限限制，做不了\n自然译法：这事我真帮不上 / 上面有规定 / 我没权限",
+    "examples": ["I'd love to refund it, but my hands are tied by policy. 我很想给你退款，但政策不允许。",
+      "My hands are tied — only the board can approve it. 我也没办法，只有董事会能批。",
+      "He said his hands were tied on the deadline. 他说截止期的事他做不了主。",
+      "Don't blame me; my hands are tied here. 别怪我，我在这儿做不了主。",
+      "Our hands are tied until the contract expires. 合同到期前我们无能为力。"
+    ],
+    "explanation": "【概要】字面「双手被绑」，比喻受规则、权限或外部条件限制，无法自由行动。\n【结构】one's hands are tied（物主代词随主语变）；可加 by policy / by the contract。\n【语用】中性偏无奈，客服、政府窗口、职场常用；也可能被当作推责借口。\n【易错】① 用复数 hands；② 是被动式 are tied，不用 tying；③ 与 have one's hands full（忙不过来）不同。",
+    "synonym_points": ["there's nothing I can do — 我无能为力",
+      "it's out of my hands — 不在我掌控中",
+      "I'm bound by the rules — 我受规则约束",
+      "my hands are full — 我忙不过来（易混，另义）"
+    ],
+    "antonym_points": ["I have a free hand — 我有自主权",
+      "it's up to me — 由我决定",
+      "I can make it happen — 我能办成",
+      "discretion — 自由裁量权"
+    ],
+    "extended_points": ["have one's hands full — 忙得不可开交（勿混）",
+      "tie sb's hands — 束缚某人（主动式）",
+      "red tape — 繁文缛节（限制来源）"
+    ],
+    "key_point": "【速记】my hands are tied = 我无能为力、受限制。\n复数 hands + 被动 tied；介 by 说明原因。\n易混：hands full 是「忙不过来」。"
+  },
+  {
+    "point_content": "I'm a man of my word",
+    "tag": ["承诺表达", "守信", "人格", "中性偏正", "正式口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我说话算话；我言出必行\n自然译法：说过就一定做到 / 我讲信用 / 我不会食言",
+    "examples": ["I said I'd pay you back Friday — I'm a man of my word. 我说周五还钱就周五还，我说话算话。",
+      "He's a man of his word; the deal will hold. 他说话算数，这笔交易稳。",
+      "You can trust her — she's a woman of her word. 你可以信她，她言出必行。",
+      "I'm a man of my word, so don't worry about the deadline. 我说话算话，截止期不用担心。",
+      "Being a man of your word matters more than charisma. 守信比个人魅力更重要。"
+    ],
+    "explanation": "【概要】强调自己守承诺、说到做到，属人格背书式表达，常用于安抚或谈判。\n【结构】be a man/woman of one's word（性别与物主代词随主语变）；否定 a man of few words 是「话少」，别混。\n【语用】中性偏正，商务承诺、私人约定都可用；说别人时是褒奖。\n【易错】① 介词 of；② 是 word（单数，指「诺言」）；③ 与 man of few words（寡言的人）结构相似但意思不同。",
+    "synonym_points": ["I keep my promises — 我守承诺",
+      "my word is my bond — 我的话就是保证（更正式）",
+      "you can count on me — 你可以信我",
+      "I'll deliver — 我说到做到"
+    ],
+    "antonym_points": ["break one's word — 食言",
+      "go back on a promise — 违背承诺",
+      "empty promises — 空头承诺",
+      "all talk — 光说不做"
+    ],
+    "extended_points": ["a man of few words — 沉默寡言的人（形似义异）",
+      "give one's word — 给出承诺",
+      "one's word is one's bond — 一诺千金（正式）"
+    ],
+    "key_point": "【速记】a man of one's word = 说话算话的人。\n介词 of + 单数 word；性别/代词随主语。\n易混：a man of few words 是「话少」。"
+  },
+  {
+    "point_content": "What do you want from me?",
+    "tag": ["口语质问", "压力", "无奈", "冲突", "强情绪"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你到底要我怎样？；你想从我这儿得到什么？\n自然译法：你还想我怎么样 / 我还能做什么 / 你到底图什么",
+    "examples": ["I've done everything you asked — what do you want from me? 你要求的我都做了，还要我怎样？",
+      "What do you want from me, an apology? 你要我怎样，道歉吗？",
+      "He kept pushing until she snapped: \"What do you want from me?\" 他一直逼，她终于爆发：「你到底要我怎样？」",
+      "What do you want from me — my time, my money, or both? 你想从我这儿要什么，时间、钱，还是都要？",
+      "She asked what he wanted from her, and he had no answer. 她问他想从自己这儿得到什么，他答不上来。"
+    ],
+    "explanation": "【概要】在压力或疲惫下的质问句：既可能是「我已尽力，别逼我」，也可能是直白问对方诉求。\n【结构】What do you want from me?（固定问句）；也可说 What more do you want from me?（更委屈）。\n【语用】强情绪，冲突中常见；商务场景改用 What exactly are you asking for? 更专业。\n【易错】① 介词 from；② 不是「你想从我这里要什么人」；③ 语气很冲，慎对上级。",
+    "synonym_points": ["what more do you want — 你还想要什么",
+      "what are you asking for — 你到底要求什么（中性）",
+      "what's your ask — 你的诉求是什么（商务）",
+      "what are you after — 你想要什么、图什么"
+    ],
+    "antonym_points": ["I need nothing from you — 我什么都不需要",
+      "no demands — 没要求",
+      "I'm here to help — 我是来帮忙的",
+      "what can I do for you — 我能为你做什么"
+    ],
+    "extended_points": ["what are you after? — 你图什么（略带怀疑）",
+      "at the end of one's rope — 无计可施",
+      "I've had it — 我受够了"
+    ],
+    "key_point": "【速记】What do you want from me? = 你到底要我怎样。\n介词 from；强情绪，慎对上级。\n商务版：What exactly are you asking for?"
+  },
+  {
+    "point_content": "Watch your mouth",
+    "tag": ["口语警告", "脏话", "无礼", "强负面", "冲突"],
+    "translation_lang": "zh-CN",
+    "translation_content": "嘴巴干净点；注意你的言辞；别乱说话\n自然译法：说话客气点 / 别在我面前说这种话 / 嘴巴放干净",
+    "examples": ["Watch your mouth — there are kids here. 嘴巴干净点，这儿有孩子。",
+      "He told his teammate to watch his mouth after the insult. 被骂之后他让队友说话注意点。",
+      "Watch your mouth when you talk to my mother. 跟我妈说话注意点。",
+      "She warned him: watch your mouth or leave. 她警告他：说话干净点，不然就走。",
+      "You can disagree without telling me to watch my mouth. 你可以不同意，但别教训我说话。"
+    ],
+    "explanation": "【概要】警告对方言辞无礼、粗鲁或越界，语气强硬，常见于冲突与长辈训示。\n【结构】祈使句 Watch your mouth!；也可说 watch your language（更缓和）、watch your tone。\n【语用】强负面，家庭、球场、争吵中常见；职场使用易升级为对抗。\n【易错】① 是 mouth（单数）；② 不是「看你的嘴」字面；③ 与 Watch your step（小心脚下/当心点）不同。",
+    "synonym_points": ["watch your language — 注意用词（略缓和）",
+      "mind your manners — 注意礼貌",
+      "that's out of line — 你这话过界了",
+      "don't talk to me like that — 别这么跟我说话"
+    ],
+    "antonym_points": ["speak freely — 畅所欲言",
+      "say what you like — 想说什么就说",
+      "no filter — 口无遮拦（中性偏贬）",
+      "mind your own business — 少管闲事（角度不同）"
+    ],
+    "extended_points": ["potty mouth — 满嘴脏话的人（口语）",
+      "swear word — 脏话",
+      "watch your tone — 注意语气（更针对态度）"
+    ],
+    "key_point": "【速记】Watch your mouth = 嘴巴干净点。\nmouth 单数；强负面警告。\n缓和版：watch your language。"
+  },
+  {
+    "point_content": "Why the long face?",
+    "tag": ["口语关心", "情绪低落", "习语", "略带玩笑", "日常"],
+    "translation_lang": "zh-CN",
+    "translation_content": "怎么板着脸？；为什么不高兴？；谁惹你了？\n自然译法：脸色怎么这么沉 / 怎么一脸不高兴 / 出啥事了，脸拉那么长",
+    "examples": ["Why the long face? Did the interview go badly? 怎么一脸不高兴？面试不顺利？",
+      "He walked in with a long face, so I asked, \"Why the long face?\" 他拉着脸进来，我就问「怎么了？」",
+      "Why the long face — you won, didn't you? 怎么还板着脸，你不是赢了吗？",
+      "Don't ask him why the long face; he'll snap. 别问他为什么不高兴，他会炸。",
+      "She smiled: \"Why the long face? It's just rain.\" 她笑着说「脸拉那么长干嘛，不就下雨嘛」。"
+    ],
+    "explanation": "【概要】long face 指拉长的、沮丧的脸；整句是关心兼打趣的问候，asking 对方为何情绪低落。\n【结构】Why the long face?（省略句，完整为 Why do you have a long face?）；也可说 What's with the long face?。\n【语用】中性偏轻松，熟人之间合适；对刚遭重大打击的人说会显得轻慢。\n【易错】① 不是「为什么脸这么长」（字面也会被理解成玩笑）；② 用 long face，不说 long face 之外的表达（sad face 也可但少）；③ 场合需判断。",
+    "synonym_points": ["what's wrong — 怎么了",
+      "you look down — 你看着情绪低",
+      "what's got you down — 什么事让你不开心",
+      "cheer up — 振作点（回应式）"
+    ],
+    "antonym_points": ["you look happy — 你看着挺开心",
+      "what's the good news — 有什么好消息",
+      "all smiles — 满脸笑容",
+      "in high spirits — 情绪高涨"
+    ],
+    "extended_points": ["long face 也可说 pull a long face（拉长脸）",
+      "face like thunder — 一脸怒气（英式）",
+      "down in the dumps — 情绪低落"
+    ],
+    "key_point": "【速记】Why the long face? = 怎么不开心、脸拉那么长。\nlong face 指沮丧表情；熟人场合用。\n对重创者慎用，易显轻慢。"
+  },
+  {
+    "point_content": "I can't take it anymore",
+    "tag": ["情绪表达", "崩溃边缘", "口语", "强负面", "压力"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我再也受不了了；我快撑不住了\n自然译法：我真扛不住了 / 再这样我要崩了 / 受够了",
+    "examples": ["The noise, the deadlines, the meetings — I can't take it anymore. 噪音、截止期、会议，我受不了了。",
+      "She said she couldn't take it anymore and resigned. 她说实在撑不住，辞职了。",
+      "I can't take it anymore — we need to talk about the workload. 我扛不住了，得谈谈工作量。",
+      "He kept yelling until she shouted, \"I can't take it anymore!\" 他一直吼，她终于喊「我受不了了」。",
+      "If you can't take it anymore, ask for help — that's not weakness. 撑不住就求助，这不是软弱。"
+    ],
+    "explanation": "【概要】表达已到承受极限：压力、噪音、关系或工作让人无法继续忍受。\n【结构】can't take it anymore（take 后接 it，不能用 take it more）；也可说 can't take sth anymore（接具体事物）。\n【语用】强负面、情绪化；职场说出口往往是求助或离职前兆，需留意表达方式。\n【易错】① anymore 一个词（表「再也」）；② 是 take it，不是 take anymore；③ 与 I've had enough（受够了）语气相近。",
+    "synonym_points": ["I've had enough — 我受够了",
+      "I'm at breaking point — 我到临界点了",
+      "I'm done — 我不干了（口语）",
+      "I can't handle it — 我应付不了"
+    ],
+    "antonym_points": ["I can handle it — 我能应付",
+      "I'm fine with it — 我没问题",
+      "bring it on — 来吧（迎战语气）",
+      "I've got this — 我能搞定"
+    ],
+    "extended_points": ["at the end of one's rope/tether — 无计可施",
+      "burnout — 职业倦怠",
+      "the last straw — 压垮骆驼的最后一根稻草"
+    ],
+    "key_point": "【速记】I can't take it anymore = 我受不了了。\nanymore 连写；常是求助信号。\n近义：I've had enough / I'm done。"
+  },
+  {
+    "point_content": "You can count on me",
+    "tag": ["承诺表达", "可靠", "职场", "正面", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你可以信赖我；这事交给我放心\n自然译法：靠得住我 / 放心交给我 / 我肯定办到",
+    "examples": ["You can count on me to finish the report by Friday. 周五前完成报告，你可以信我。",
+      "When things get hard, you can count on me. 遇到难处，你可以靠我。",
+      "She told the team, \"You can count on me.\" 她对团队说「可以信我」。",
+      "Can I count on you for the presentation? 演示这块我能指望你吗？",
+      "You can count on me — I've never missed a deadline. 你可以信我，我从没拖过截止期。"
+    ],
+    "explanation": "【概要】count on = 依靠、指望；整句是可靠承诺，常用于接受任务或安抚他人。\n【结构】count on sb (for sth / to do sth)；也可说 rely on me / depend on me。\n【语用】正面、职场与私人承诺都自然；说了就要做到，否则失信成本高。\n【易错】① 介词 on，不用 in/with；② 后接 to do 或 for + 名词；③ 与 count me in（算我一个）不同。",
+    "synonym_points": ["you can rely on me — 你可以依靠我",
+      "I've got your back — 我挺你（口语）",
+      "leave it to me — 交给我",
+      "I won't let you down — 我不会让你失望"
+    ],
+    "antonym_points": ["don't count on me — 别指望我",
+      "I can't promise — 我不敢保证",
+      "you're on your own — 你自己来吧",
+      "I might flake — 我可能会放鸽子（口语）"
+    ],
+    "extended_points": ["count on it — 肯定会发生（You can count on it.）",
+      "count me in — 算我一个",
+      "a reliable pair of hands — 可靠的人手"
+    ],
+    "key_point": "【速记】count on sb = 依靠某人。\n介词 on；后接 to do / for sth。\n易混：count me in 是「算我一个」。"
+  },
+  {
+    "point_content": "Absence makes the heart grow fonder",
+    "tag": ["谚语", "思念", "感情", "中性偏暖", "关系"],
+    "translation_lang": "zh-CN",
+    "translation_content": "小别胜新婚；距离让感情更深；不在一起时反而更想念\n自然译法：分开一阵更想对方 / 思念会加深感情 / 小别更亲",
+    "examples": ["Absence makes the heart grow fonder — three months apart and they're closer than ever. 小别胜新婚，分开三个月他们反而更亲。",
+      "He says absence makes the heart grow fonder, so he travels alone. 他说距离产生思念，所以一个人旅行。",
+      "Absence makes the heart grow fonder, but only up to a point. 距离生思念，不过也有限度。",
+      "After a week away, she missed him — absence makes the heart grow fonder. 离开一周她就开始想他，果然小别胜新婚。",
+      "Some couples find absence makes the heart grow fonder; others drift apart. 有的情侣越分越亲，有的越分越远。"
+    ],
+    "explanation": "【概要】谚语：分离会加深思念与感情；也常被反用——「out of sight, out of mind」与其观点相反。\n【结构】Absence makes the heart grow fonder.（独立成句）；用于解释久别后的亲近感。\n【语用】中性偏暖，感情话题常用；长期分离未必适用，需谨慎引用。\n【易错】① fonder 是比较级，不能改 fond；② 是 the heart（定冠词）；③ 与 out of sight, out of mind 正好相反，注意语境。",
+    "synonym_points": ["distance makes the heart grow fonder — 同义变体",
+      "you don't know what you've got till it's gone — 失去才懂珍惜",
+      "I miss you more each day — 我越来越想你（日常表达）",
+      "absence sharpens love — 分离使爱更浓（书面）"
+    ],
+    "antonym_points": ["out of sight, out of mind — 眼不见心不烦（反义谚语）",
+      "long distance doesn't work — 异地恋长不了（观点相反）",
+      "familiarity breeds contempt — 太熟反而轻视",
+      "drift apart — 渐行渐远"
+    ],
+    "extended_points": ["与 out of sight, out of mind 可对照记忆，两谚语观点冲突",
+      "fond of sb — 喜欢某人",
+      "long-distance relationship — 异地恋"
+    ],
+    "key_point": "【速记】Absence makes the heart grow fonder = 小别胜新婚。\nfonder 比较级；与 out of sight, out of mind 正相反。\n长期分离未必适用。"
+  },
+  {
+    "point_content": "You make me sick",
+    "tag": ["情绪斥责", "厌恶", "强负面", "口语", "冲突"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你真让我恶心；我受够你了\n自然译法：你真让人反胃 / 看到你就烦 / 恶心死了",
+    "examples": ["You lied to her and then smiled — you make me sick. 你骗了她还笑得出来，真让我恶心。",
+      "The way he treats people makes me sick. 他那样待人让我反胃。",
+      "You make me sick with that fake act. 你那套假样子让我恶心。",
+      "She said he made her sick and walked out. 她说他让她恶心，转身就走。",
+      "Violence in those videos makes me sick. 那些视频里的暴力内容让我反胃。"
+    ],
+    "explanation": "【概要】强烈表达厌恶或道德反感；也可字面指「让人身体不适」（晕船、气味）。\n【结构】make sb sick（sb 用宾格）；也可说 sth makes me sick to my stomach（字面恶心）。\n【语用】强负面，人际冲突中属重话；对同事说等同撕破脸。\n【易错】① sick 不加 -ly；② 与 I'm sick of you（我受够你了）语义相近但结构不同；③ 医学语境慎用，避免与「生病」混淆。",
+    "synonym_points": ["I'm sick of you — 我受够你了",
+      "you disgust me — 你让我厌恶（更书面、更重）",
+      "I can't stand you — 我受不了你",
+      "you turn my stomach — 你让我反胃"
+    ],
+    "antonym_points": ["you make me happy — 你让我开心",
+      "I adore you — 我很喜欢你",
+      "you're my favorite — 你是我的最爱",
+      "you warm my heart — 你让我心里暖暖的"
+    ],
+    "extended_points": ["sick to one's stomach — 胃里难受、恶心",
+      "sickening — 令人作呕的（形容词）",
+      "make sb sick to death — 让某人烦透了"
+    ],
+    "key_point": "【速记】You make me sick = 你真让我恶心。\nmake sb sick（宾格）；也可指身体不适。\n语气极重，职场慎用。"
+  },
+  {
+    "point_content": "Long time no see",
+    "tag": ["问候语", "久别重逢", "口语", "中式英语来源", "友好"],
+    "translation_lang": "zh-CN",
+    "translation_content": "好久不见；好久没见了\n自然译法：好久不见啊 / 很久没见了 / 真是久违",
+    "examples": ["Long time no see! How have you been? 好久不见！最近怎么样？",
+      "She hugged him: \"Long time no see.\" 她抱住他说「好久不见」。",
+      "Long time no see — you look great. 好久没见，你状态真好。",
+      "We ran into each other at the airport: \"Long time no see!\" 在机场碰上，两人都说「好久不见」。",
+      "Long time no see, but it feels like yesterday. 好久不见，可好像还是昨天。"
+    ],
+    "explanation": "【概要】极常用的口语问候，表示久别重逢；语法上不合标准英语，但已被广泛接受。\n【结构】独立问候句，可加感叹号；后面常接 How have you been? / You look great.。\n【语用】友好、随意，朋友间与熟人重逢最自然；正式场合用 It's been a long time。\n【易错】① 属固定口语，不要改成 Long time not see；② 不说 Long time no seeing；③ 不能用于初次见面。",
+    "synonym_points": ["It's been a long time — 好久不见了（更标准）",
+      "It's been ages — 好久没见了（英式口语）",
+      "How long has it been? — 多久没见了？",
+      "Fancy seeing you here — 真没想到在这儿碰到你"
+    ],
+    "antonym_points": ["nice to meet you — 初次见面很高兴",
+      "see you soon — 回头见（即将再见）",
+      "just saw you yesterday — 昨天才见过（相反情形）",
+      "good to see you again — 很高兴又见到你（较中性）"
+    ],
+    "extended_points": ["Long time no see 常被认为源自中文「好久不见」的直译，现已成为英语惯用语",
+      "catch up — 叙旧",
+      "It's been a while — 有一阵子了"
+    ],
+    "key_point": "【速记】Long time no see = 好久不见（固定口语）。\n不可改成 not see / no seeing；仅用于重逢。\n正式版：It's been a long time。"
+  },
+  {
+    "point_content": "I'm going to go",
+    "tag": ["口语告别", "离场", "礼貌", "中性", "日常"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我得走了；我准备走了；（委婉）我先告辞\n自然译法：我该走了 / 那我先撤 / 时候不早，我走了",
+    "examples": ["It's late — I'm going to go. 很晚了，我得走了。",
+      "I'm going to go now; thanks for dinner. 我先走了，谢谢你的晚饭。",
+      "She stood up and said, \"I'm going to go.\" 她站起来说「我先走了」。",
+      "I'm going to go before the traffic gets bad. 我趁堵车前先走。",
+      "He kept saying he was going to go, but stayed another hour. 他一直说要走，结果又坐了一小时。"
+    ],
+    "explanation": "【概要】礼貌宣布离场，比 I'm leaving 更委婉，也常用于聚会中提前告退。\n【结构】be going to + go（口语常缩为 I'm gonna go）；也可说 I'd better go / I should get going。\n【语用】中性礼貌，聚会、会议、饭局收尾都自然。\n【易错】① going to go 结构重复但不错误；② 正式场合用 I should be going；③ 与 I'm going（正在去某地）区分。",
+    "synonym_points": ["I should get going — 我该走了（更礼貌）",
+      "I'd better go — 我得走了",
+      "I'm off — 我走了（英式口语）",
+      "I'll head out — 我先撤了"
+    ],
+    "antonym_points": ["I'll stay a bit longer — 我再待会儿",
+      "I just got here — 我才刚到",
+      "stick around — 再留一会儿",
+      "not going anywhere — 不走"
+    ],
+    "extended_points": ["I'm gonna go — gonna 为口语缩写",
+      "make one's exit — 离场（较正式/戏剧化）",
+      "take one's leave — 告辞（正式）"
+    ],
+    "key_point": "【速记】I'm going to go = 我得走了。\n口语可缩为 I'm gonna go；礼貌版 I should get going。\n区分：I'm going 是「正在去」。"
+  },
+  {
+    "point_content": "I'm just saying",
+    "tag": ["口语缓冲", "委婉", "辩解", "非正式", "中性"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我只是说说而已；我没别的意思；我只是提一句\n自然译法：我就随口一说 / 别多想 / 我只是把话放这儿",
+    "examples": ["I'm just saying — the numbers don't add up. 我就是提一句，这些数字对不上。",
+      "\"Are you criticizing me?\" \"I'm just saying.\" 「你是在批评我吗？」「我没那意思，就说说。」",
+      "I'm just saying you might want to check the contract. 我就是提醒你，或许该看看合同。",
+      "He said he was just saying, but everyone heard the jab. 他说没别的意思，可谁都听出那话带刺。",
+      "I'm just saying — don't shoot the messenger. 我就说说，别怪我多嘴。"
+    ],
+    "explanation": "【概要】给自己刚说的话加缓冲，表示「不是指责、只是提醒/随口」，常用于化解对方的防御反应。\n【结构】独立插入句 I'm just saying.；也可说 I'm just saying that… + 从句。\n【语用】非正式，朋友、同事间常用；说多了会被视为「嘴欠又装无辜」。\n【易错】① 用进行时固定；② 不是真正的道歉（不替代 sorry）；③ 与 just kidding（开玩笑）不同。",
+    "synonym_points": ["no offense — 无意冒犯（缓冲语）",
+      "just my two cents — 只是我的看法",
+      "don't take this the wrong way — 别误会我的意思",
+      "for what it's worth — 仅供参考"
+    ],
+    "antonym_points": ["I mean it — 我是认真的",
+      "take it seriously — 请认真对待",
+      "this is a warning — 这是警告",
+      "I'm not joking — 我没开玩笑"
+    ],
+    "extended_points": ["don't shoot the messenger — 别怪传话的人",
+      "read between the lines — 听话外音",
+      "passive-aggressive — 隐性攻击（此类话常被如此解读）"
+    ],
+    "key_point": "【速记】I'm just saying = 我只是说说，没别的意思。\n缓冲语，非道歉；频繁使用易显嘴欠。\n同类：no offense / for what it's worth。"
+  },
+  {
+    "point_content": "Don't push me",
+    "tag": ["口语警告", "边界", "情绪", "强负面", "冲突"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别逼我；别得寸进尺；别再逼下去（否则后果自负）\n自然译法：你别逼我发火 / 别再逼了 / 适可而止",
+    "examples": ["Don't push me — I've been patient all morning. 别逼我，我忍了一上午。",
+      "She warned him, \"Don't push me.\" 她警告他「别逼我」。",
+      "Don't push me, or I'll walk out of this meeting. 别逼我，不然我退出这个会。",
+      "He kept pushing until she said, \"Don't push me.\" 他一直逼，直到她说「别逼我」。",
+      "Don't push me on this; I've already said no. 这事别再逼了，我已经拒绝。"
+    ],
+    "explanation": "【概要】警告对方不要继续施压，暗示再逼就会爆发或翻脸；是情绪临界点上的表态。\n【结构】祈使句 Don't push me.；也可说 don't push it（别得寸进尺，更口语）。\n【语用】强负面，家庭、职场冲突中常见；说出口意味着关系已紧张。\n【易错】① 是 push me（宾格）；② 与 don't push（别推，字面）区分；③ don't push your luck 语义是「别得寸进尺」。",
+    "synonym_points": ["don't push your luck — 别得寸进尺",
+      "back off — 退后、别逼",
+      "enough — 够了（制止）",
+      "you're crossing the line — 你越界了"
+    ],
+    "antonym_points": ["go ahead, ask — 你问吧",
+      "take your time — 慢慢来",
+      "I'm open to discussing it — 我愿意谈",
+      "no pressure — 别有压力"
+    ],
+    "extended_points": ["push sb too far — 把某人逼急了",
+      "push one's buttons — 戳中某人痛点",
+      "push comes to shove — 到了紧要关头"
+    ],
+    "key_point": "【速记】Don't push me = 别逼我（情绪临界警告）。\npush 接宾格；近义 don't push your luck。\n出现即关系紧张，注意后果。"
+  },
+  {
+    "point_content": "Let's get started",
+    "tag": ["会议用语", "开场", "中性", "协作", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我们开始吧；那就开始吧\n自然译法：开始吧 / 那咱们走起 / 会议开始",
+    "examples": ["Everyone's here — let's get started. 人都到齐了，我们开始吧。",
+      "Let's get started on the report before lunch. 午饭前把报告开个头。",
+      "She clapped her hands: \"Let's get started!\" 她拍手说「开始吧！」",
+      "We're running late, so let's get started immediately. 时间紧了，马上开始。",
+      "Let's get started — who wants to present first? 开始吧，谁先讲？"
+    ],
+    "explanation": "【概要】宣布开始工作的常用句，get started 表示「进入状态、着手干」，比 let's start 更口语。\n【结构】Let's get started (on sth)；也可说 let's begin / shall we start?（更正式）。\n【语用】中性，会议、课堂、项目启动都自然。\n【易错】① get started 是固定搭配，不用 get start；② 后接 on + 事务；③ 与 let's start（同义）语域略不同。",
+    "synonym_points": ["let's begin — 我们开始（正式）",
+      "shall we start — 可以开始了吗",
+      "let's get going — 走起、开始干",
+      "kick off — 启动、开场（活动/项目）"
+    ],
+    "antonym_points": ["let's wrap up — 收尾吧",
+      "hold on — 等一下",
+      "let's pause here — 先停一下",
+      "we're done for today — 今天就到这儿"
+    ],
+    "extended_points": ["get going — 出发、开始（口语）",
+      "kick off a meeting — 开会启动",
+      "wrap up — 结束、收尾"
+    ],
+    "key_point": "【速记】Let's get started = 我们开始吧。\nget started 固定搭配；可接 on sth。\n正式版：let's begin。"
+  },
+  {
+    "point_content": "Are you mad at me?",
+    "tag": ["口语关心", "生气", "关系修复", "中性", "情感"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你在生我气吗？；我惹你生气了？\n自然译法：你是不是生我气了 / 我哪儿惹到你了 / 还气着呢？",
+    "examples": ["You've been quiet — are you mad at me? 你一直不说话，是生我气了吗？",
+      "Are you mad at me for missing dinner? 我错过晚饭，你生气了吗？",
+      "She asked if he was mad at her, and he said no. 她问他是不是生她气，他说没有。",
+      "Are you mad at me or just tired? 你是气我，还是只是累了？",
+      "I'd rather you tell me straight: are you mad at me? 你直接说比较好：你在生我气吗？"
+    ],
+    "explanation": "【概要】be mad at sb 指对某人生气，整句用于确认关系状态、及时修复。\n【结构】be mad at sb（介词 at，不用 with）；也可说 are you upset with me（更轻）。\n【语用】中性，亲密关系与朋友间很自然；职场用 annoyed/upset 更合适。\n【易错】① 介词 at（美式常用），英式也见 with；② mad 在英式口语常指「疯」，语境需辨；③ 不表示「你疯了吗」。",
+    "synonym_points": ["are you upset with me — 你对我有意见吗（更轻）",
+      "did I do something wrong — 我做错什么了吗",
+      "are you still angry — 你还在生气吗",
+      "have I offended you — 我冒犯到你了吗"
+    ],
+    "antonym_points": ["I'm not mad — 我没生气",
+      "we're good — 我们没事",
+      "no hard feelings — 没有芥蒂",
+      "water under the bridge — 都过去了"
+    ],
+    "extended_points": ["mad at sb 与 mad about sth（为某事生气）搭配不同",
+      "hold a grudge — 记仇",
+      "clear the air — 把话说开、消除误会"
+    ],
+    "key_point": "【速记】be mad at sb = 生某人的气。\n介词 at；英式 mad 也指「疯」，看语境。\n更轻版本：upset with me。"
+  },
+  {
+    "point_content": "What's your first clue?",
+    "tag": ["口语反讽", "显而易见", "挖苦", "非正式", "习语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "（反讽）你才看出来？；这还不明显吗？（字面：你的第一个线索是什么）\n自然译法：这么明显你才反应过来？/ 用脚趾头想也知道 / 线索还不够多吗",
+    "examples": ["\"Is he upset?\" \"What's your first clue — the slammed door?\" 「他生气了吗？」「门都摔了，你才看出来？」",
+      "You finally noticed the leak? What was your first clue — the flood? 你才发现漏水？水都漫了还看不出来？",
+      "What's your first clue, genius? 天才，你第一线索是什么？（挖苦）",
+      "She asked if the meeting went badly; he said, \"What's your first clue?\" 她问会议是不是不顺利，他说「这还用问？」",
+      "What was your first clue — the silence or the tears? 是沉默还是眼泪让你看出来的？"
+    ],
+    "explanation": "【概要】固定反讽问句（常用 What was your first clue?），针对显而易见到极点的事，暗示对方反应太慢。\n【结构】What's / What was your first clue?（独立反问）；常与 obviously / genius 搭配加强讽刺。\n【语用】挖苦、非正式，朋友间玩笑；对同事或上级使用相当冒犯。\n【易错】① 用于讽刺，不是真的询问线索；② 常用过去式 was；③ 与 What's the catch?（有什么猫腻）完全不同。",
+    "synonym_points": ["no kidding — 可不是嘛（反讽）",
+      "you don't say — 真的吗（反讽）",
+      "tell me something I don't know — 说点我不知道的",
+      "obviously — 明摆着（可反讽）"
+    ],
+    "antonym_points": ["how could you tell — 你怎么看出来的（真问）",
+      "what gave it away — 哪里露馅了（中性好奇）",
+      "good observation — 观察得不错",
+      "I had no idea — 我完全没察觉"
+    ],
+    "extended_points": ["sarcasm — 讽刺（语气决定含义）",
+      "state the obvious — 说废话",
+      "Captain Obvious — 专说显而易见话的人（玩笑称呼）"
+    ],
+    "key_point": "【速记】What's your first clue? = 反讽「你才看出来？」\n常用过去式 was；不是真问线索。\n对上级勿用，属冒犯。"
+  },
+  {
+    "point_content": "Strike while the iron's hot",
+    "tag": ["谚语", "把握时机", "行动", "中性偏正", "商务"],
+    "translation_lang": "zh-CN",
+    "translation_content": "趁热打铁；抓住时机马上行动\n自然译法：趁现在赶紧办 / 机会来了就上 / 别等凉了再动手",
+    "examples": ["The market loves the product — strike while the iron's hot. 市场反响好，趁热打铁。",
+      "Strike while the iron is hot and send the offer today. 趁热打铁，今天就发 offer。",
+      "She pitched the idea while the boss was in a good mood — strike while the iron's hot. 她趁老板心情好提了想法，正是趁热打铁。",
+      "Interest is high; strike while the iron's hot. 关注度正高，赶紧推进。",
+      "He waited too long and lost the deal; you have to strike while the iron's hot. 他等太久丢了单子，机会就得趁热打铁。"
+    ],
+    "explanation": "【概要】打铁要趁红热时锤打，比喻机会窗口短暂，应立刻行动。\n【结构】Strike while the iron is hot.（谚语，可缩 the iron's hot）；也可作建议句 You should strike while the iron's hot。\n【语用】中性偏正，商务、销售、创作推广常用。\n【易错】① iron 前加 the；② 动词用 strike；③ 与 make hay while the sun shines（同义谚语）可对照。",
+    "synonym_points": ["make hay while the sun shines — 趁晴晒草（同义谚语）",
+      "seize the moment — 抓住时机",
+      "carpe diem — 及时行乐/把握当下（拉丁语）",
+      "act now — 现在就行动"
+    ],
+    "antonym_points": ["let the opportunity slip — 让机会溜走",
+      "miss the boat — 错过时机",
+      "wait and see — 观望",
+      "procrastinate — 拖延"
+    ],
+    "extended_points": ["a window of opportunity — 机会窗口",
+      "strike a deal — 达成交易（strike 另一搭配）",
+      "time-sensitive — 时效性强"
+    ],
+    "key_point": "【速记】strike while the iron is hot = 趁热打铁。\niron 加 the；谚语可缩 the iron's hot。\n同义：make hay while the sun shines。"
+  },
+  {
+    "point_content": "Good for you",
+    "tag": ["口语回应", "称赞", "认可", "中性偏正", "可带冷意"],
+    "translation_lang": "zh-CN",
+    "translation_content": "真有你的；不错嘛；为你高兴（也可带敷衍或酸意）\n自然译法：行啊你 / 恭喜恭喜 / 挺好的（语气冷淡时＝随便吧）",
+    "examples": ["You passed the exam? Good for you! 你考过了？真棒！",
+      "Good for you — quitting smoking is hard. 真有你的，戒烟不容易。",
+      "\"I got the promotion.\" \"Good for you.\" 「我升职了。」「恭喜啊。」（语气平＝敷衍）",
+      "Good for you for speaking up in that meeting. 你在会上敢发声，挺好。",
+      "She said \"good for you\" with a smile that wasn't warm. 她说了句「好啊」，笑得很冷。"
+    ],
+    "explanation": "【概要】回应他人好消息或值得肯定的行为；语气真诚时是称赞，语调平淡时可能带敷衍或酸味。\n【结构】Good for you.（独立成句）；也可说 good for you for doing sth。\n【语用】中性偏正，朋友同事间常用；注意语调，文字中易被误解。\n【易错】① 与 It's good for you（对你有好处）不同；② 不是「为了你」；③ 冷嘲时常用「Good for you.」平调。",
+    "synonym_points": ["well done — 干得好",
+      "nice work — 不错（口语）",
+      "that's great — 太好了",
+      "happy for you — 为你高兴"
+    ],
+    "antonym_points": ["good for nothing — 一无是处（骂人）",
+      "tough luck — 真倒霉（对坏消息）",
+      "who cares — 谁在乎",
+      "big deal — 有什么了不起（轻蔑）"
+    ],
+    "extended_points": ["good for you 与 for your own good（为你好）不同",
+      "pat on the back — 表扬、肯定",
+      "hats off to you — 向你致敬（更正式）"
+    ],
+    "key_point": "【速记】Good for you = 真有你的、为你高兴。\n真诚或敷衍看语调；勿混 It's good for you（对你有益）。\n轻蔑版：big deal。"
+  },
+  {
+    "point_content": "Leave me alone",
+    "tag": ["口语请求", "独处", "边界", "中性偏强", "冲突"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别烦我；让我一个人待着；离我远点\n自然译法：别管我 / 让我静静 / 别跟着我",
+    "examples": ["Leave me alone — I need to think. 别烦我，我需要想想。",
+      "The kids wouldn't leave me alone for five minutes. 孩子们五分钟都不让我清静。",
+      "He told his brother to leave him alone. 他让弟弟别烦他。",
+      "Leave me alone, please — I'm not in the mood. 请让我静一静，我没心情。",
+      "She closed the door to leave the noise alone outside. 她关上门把噪音挡在外面。"
+    ],
+    "explanation": "【概要】要求对方停止打扰、给自己空间；语气可从请求到强硬，取决于语调与 please。\n【结构】祈使句 Leave me alone.；也可说 leave sb alone（别管某人/别碰某物）。\n【语用】中性偏强，情绪低落或需要专注时用；对上级说需加缓冲（I need a moment）。\n【易错】① alone 是「独自」，不是 lonely（孤独感）；② 是 leave，不是 let；③ 与 let me be（让我静静，文学味）近义。",
+    "synonym_points": ["give me some space — 给我点空间",
+      "let me be — 让我静静",
+      "I need some time alone — 我需要独处",
+      "back off — 退后、别管（更冲）"
+    ],
+    "antonym_points": ["stay with me — 陪着我",
+      "keep me company — 陪陪我",
+      "don't go — 别走",
+      "talk to me — 跟我说说"
+    ],
+    "extended_points": ["leave sth alone — 别碰某物、别管某事",
+      "leave sb be — 别打扰某人（英式）",
+      "me time — 独处时间（现代说法）"
+    ],
+    "key_point": "【速记】Leave me alone = 别烦我、让我静静。\nalone 不等于 lonely；语气看语调。\n同义：give me some space。"
+  }
+]

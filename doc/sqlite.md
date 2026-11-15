@@ -720,24 +720,27 @@ ORDER BY a.created_at ASC;
 
 
 
-# sqlite: langle
+# sqlite: langly
+
+> 字段列 = SQLite 列名（`snake_case`）；显示值列 = 界面上给用户的字段名（中英对照）。
+> 下表按「含义」列补全字段与显示值；`lang` / `tag` 两张表按本文 §5.1 / §5.3 的既有设计补齐，命名与正文一致。
 
 ### Table-en_kp-知识点
 
 | 字段  | 显示值   | 含义   |
 | ---- | ---- | ---- |
-| id |      | 系统自动递增id |
-| point_id |      |      |
+| id | ID | 系统自动递增id |
+| point_id | Point ID/知识点编号 |      |
 | point_content | Knowledge Point/知识点 | 知识点内容 |
 | tag | Tag | 相关主题[''] |
-| translation_lang |      | 翻译语言, |
-| translation_content |      | 翻译内容 |
+| translation_lang | Translation Language/翻译语言 | 翻译语言, |
+| translation_content | Translation/翻译内容 | 翻译内容 |
 | examples | 举例 | 至少5句子举例 |
-|  |      | 知识点讲解 |
-|  |      | 近义知识点 |
-|  |      | 反义知识点 |
-|  |      | 扩展知识点 |
-|key_point||关键知识点|
+| explanation | Explanation/知识点讲解 | 知识点讲解 |
+| synonym_points | Synonym Points/近义知识点 | 近义知识点 |
+| antonym_points | Antonym Points/反义知识点 | 反义知识点 |
+| extended_points | Extended Points/扩展知识点 | 扩展知识点 |
+| key_point | Key Point/关键知识点 | 关键知识点 |
 
 
 
@@ -745,7 +748,14 @@ ORDER BY a.created_at ASC;
 ### 表 lang
 | 字段  | 显示值   | 含义   |
 | ---- | ---- | ---- |
-| id |      | 系统自动递增id |
+| id | ID | 系统自动递增id |
+| lang_code | Language Code/语言代码 | BCP-47 简码：`en` / `ja` / `zh-CN` / `es`，对应 `en_kp.translation_lang` |
+| name_zh | 中文名 | 界面显示中文名「英语」「日语」 |
+| name_native | 本地名称 | 本地写法 `English` / `日本語` |
+| is_active | 是否在学 | 1/0；停用后整门语言不进待复习队列 |
+| sort_order | 排序 | 语言切换 chip 的显示顺序 |
+| created_at | 创建时间 | 毫秒时间戳 |
+| updated_at | 更新时间 | 毫秒时间戳 |
 
 
 
@@ -753,4 +763,8 @@ ORDER BY a.created_at ASC;
 ### 表  tag
 | 字段  | 显示值   | 含义   |
 | ---- | ---- | ---- |
-| id |      | 系统自动递增id |
+| id | ID | 系统自动递增id |
+| name | Tag/标签名 | 标签名，如「过去时」「易错」「旅行场景」，对应 `en_kp.tag` |
+| color | 颜色 | `#RRGGBB`，界面标签底色 |
+| language_id | 所属语言 | NULL = 全局通用标签；否则为某语言专属 |
+| created_at | 创建时间 | 毫秒时间戳 |

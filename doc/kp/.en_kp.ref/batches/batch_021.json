@@ -1,0 +1,642 @@
+[
+  {
+    "point_content": "Say when",
+    "tag": ["餐叙用语", "斟酒/加料", "中性", "家庭/餐饮", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "够了就告诉我；（斟酒、加调料时）说要多少\n自然译法：够了你说 / 到量喊停 / 你示意我就停",
+    "examples": [
+      "I'm pouring — say when. 我倒了，够了你说。",
+      "Say when — I don't want to overfill your cup. 够了就说，别倒满了。",
+      "He kept pouring until she said \"when.\" 她喊停之前他一直倒。",
+      "Say when for sugar, and I'll stop. 糖要多少你说。",
+      "\"Say when.\" \"When.\" 「说停就停。」「停。」"
+    ],
+    "explanation": "【概要】用餐时主人为客人斟酒/加调料时说，请对方在适量时示意停止。\n【结构】Say when.（祈使句）；回答通常直接说 when（或 that's enough / stop）。\n【语用】中性，家庭餐桌、餐厅服务；也可比喻「你定到哪一步」。\n【易错】① 固定 say when（不是 tell when）；② 回答 when 是口语简答，不是疑问；③ 与 say when to start（说明开始时间）不同。",
+    "synonym_points": [
+      "tell me when to stop — 让我停就说",
+      "that's enough — 够了（回答式）",
+      "just a splash — 一点点（回答式）",
+      "when — 停（口语简答）"
+    ],
+    "antonym_points": [
+      "keep it coming — 继续倒",
+      "fill it up — 加满",
+      "more please — 再来点",
+      "top it off — 加满到边"
+    ],
+    "extended_points": [
+      "a splash — 少许（酒/奶）",
+      "top up — 续杯加满（英式）",
+      "help yourself — 自己拿"
+    ],
+    "key_point": "【速记】Say when = 够了就说。\n回答直接说 when；餐桌/斟酒用。\n勿混说明开始时间。"
+  },
+  {
+    "point_content": "Cat got your tongue?",
+    "tag": ["习语", "沉默", "中性偏调侃", "口语", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你怎么不说话了？；舌头被猫吃了？；（调侃）哑巴了？\n自然译法：怎么，说不出话了？/ 傻了吧 / 沉默是金？（玩笑）",
+    "examples": [
+      "I asked three times — cat got your tongue? 我问了三遍，怎么不说话了？",
+      "Cat got your tongue? You usually can't stop talking. 哑巴了？平时你可停不下来。",
+      "He went quiet, so she teased, \"Cat got your tongue?\" 他不吭声，她打趣「舌头被猫吃了？」",
+      "Don't use \"cat got your tongue\" with a grieving friend. 对正悲伤的朋友别说这句。",
+      "In interviews, \"cat got your tongue\" is never appropriate. 面试里这句绝对不合适。"
+    ],
+    "explanation": "【概要】熟人调侃某人突然沉默、无话可说，源自不明（有说法与鞭刑/猫有关），语气轻松带揶揄。\n【结构】Has the cat got your tongue?（完整式常用 has）；口语常省略主语。\n【语用】中性偏调侃，家人朋友；对悲伤者、紧张者、正式场合不当。\n【易错】① 完整疑问需 has（Has the cat got…）；② 带揶揄，非中性询问；③ 语境不合会显刻薄。",
+    "synonym_points": [
+      "lost for words — 说不出话",
+      "speechless — 哑口无言",
+      "you've gone quiet — 你不说话了",
+      "what, no comeback — 没话回我了？"
+    ],
+    "antonym_points": [
+      "talkative — 话很多",
+      "can't stop talking — 停不下来",
+      "outspoken — 直言不讳",
+      "never at a loss for words — 从不缺话"
+    ],
+    "extended_points": [
+      "lost for words — 一时语塞",
+      "speechless — 无语",
+      "a conversational tease — 口语揶揄，非质问"
+    ],
+    "key_point": "【速记】Cat got your tongue? = 怎么不说话了（调侃）。\n完整式用 has；正式与悲伤场景禁用。\n近义 lost for words。"
+  },
+  {
+    "point_content": "You look familiar",
+    "tag": ["社交开场", "似曾相识", "中性", "搭话", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你看起来很眼熟；我是不是见过你？\n自然译法：好像在哪见过你 / 你挺面熟的 / 我们见过吗",
+    "examples": [
+      "You look familiar — have we met? 你挺眼熟，我们见过吗？",
+      "Your face looks familiar, but I can't place it. 你的脸很熟，但想不起在哪。",
+      "He said I looked familiar and asked where I worked. 他说我眼熟，问我在哪儿工作。",
+      "You look familiar; are you from the gym? 你眼熟，是健身房那边的吗？",
+      "Familiar is safer than \"I know you\" when you're not sure. 不确定时用 familiar 比「我认识你」安全。"
+    ],
+    "explanation": "【概要】搭话开场白，表示对方面孔似曾相识，可自然引出「我们在哪见过」的对话。\n【结构】look familiar（形容词表语）；也可说 you look like someone I know。\n【语用】中性，社交场合常用；对异性使用可能被当作搭讪，需注意语气。\n【易错】① familiar 表示「熟悉的、眼熟的」，不是「随便的」（familiar 的贬义用法是「过于随便」）；② 与 I'm familiar with it（我熟悉它）结构不同；③ 不确定时勿断言「我认识你」。",
+    "synonym_points": [
+      "have we met before — 我们之前见过吗",
+      "you look like someone I know — 你像某个我认识的人",
+      "your face rings a bell — 你的脸有点印象",
+      "I've seen you somewhere — 我在哪见过你"
+    ],
+    "antonym_points": [
+      "I don't recognize you — 我没认出来",
+      "never seen you before — 没见过你",
+      "you look totally new — 你看着完全是新人",
+      "no idea who you are — 完全不认识"
+    ],
+    "extended_points": [
+      "ring a bell — 有点印象",
+      "can't place sb — 想不起在哪见过",
+      "familiar 的双面含义（眼熟／过于随便）"
+    ],
+    "key_point": "【速记】You look familiar = 你挺眼熟。\nfamiliar＝眼熟；异性间易被当搭讪。\n近义 rings a bell。"
+  },
+  {
+    "point_content": "I was wrong about you",
+    "tag": ["关系表达", "改观", "中性偏正", "坦诚", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我看错你了；我以前对你有误解；我错估了你\n自然译法：是我看走眼了 / 我误会你了 / 之前小看你了",
+    "examples": [
+      "I was wrong about you — you're actually reliable. 我看错你了，你其实很可靠。",
+      "I was wrong about you, and I'm sorry. 是我看错你了，对不起。",
+      "He admitted he was wrong about me after the project. 项目结束后他承认看错了我。",
+      "I was wrong about you — you handled that well. 我错估你了，你处理得很好。",
+      "Saying \"I was wrong about you\" can rebuild trust. 说「我看错你了」能修复信任。"
+    ],
+    "explanation": "【概要】承认此前对某人的判断有误，多用于改观、道歉或关系修复；可褒可贬，看后文评价。\n【结构】be wrong about sb（介词 about 固定）；也可说 I misjudged you。\n【语用】中性偏正，坦承错误；若后半句仍是批评，则带「你果然不行」的隐含。\n【易错】① 介词 about（不是 on/for）；② 与 I was wrong（我错了，泛指）不同；③ 褒贬由后续内容决定，需说清。",
+    "synonym_points": [
+      "I misjudged you — 我错判了你（正式）",
+      "I had the wrong impression — 我印象弄错了",
+      "I underestimated you — 我低估了你",
+      "my mistake about you — 是我看错你了"
+    ],
+    "antonym_points": [
+      "I was right about you — 我没看错你",
+      "you're exactly as I thought — 和我以为的一样",
+      "no surprises — 没出意外",
+      "still the same — 还是老样子"
+    ],
+    "extended_points": [
+      "misjudge — 误判",
+      "underestimate — 低估",
+      "first impressions can mislead — 第一印象会误导"
+    ],
+    "key_point": "【速记】I was wrong about you = 我看错你了。\n介词 about；褒贬由后文定。\n正式版 I misjudged you。"
+  },
+  {
+    "point_content": "You had me at hello",
+    "tag": ["影视流行语", "一见倾心", "正面", "浪漫", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你一开口我就沦陷了；第一句话就把我打动；一见钟情\n自然译法：你一开口我就服了 / 见第一面就心动 / 瞬间被拿下",
+    "examples": [
+      "You had me at hello — no need for the sales pitch. 你一开口我就答应了，不用推销了。",
+      "She said he had her at hello. 她说他第一句话就打动了她。",
+      "You had me at hello, and I stopped reading the proposal. 我看到开头就动心了，后面都懒得看。",
+      "The phrase comes from a famous movie line. 这句出自一部著名电影台词。",
+      "You had me at hello works for pitches too, not just romance. 这句也能用于提案，不只用于恋爱。"
+    ],
+    "explanation": "【概要】表示对方一开口（或一开始）就已说服/打动自己，源自 1990 年代电影台词，现被广泛借用。\n【结构】have sb at hello（固定 at hello）；也可说 you had me at the first line。\n【语用】正面，浪漫表白也用于提案、投缘；正式文本中作为引语需注明出处。\n【易错】① 固定 at hello；② 不是「在打招呼时拥有我」；③ 借用时注意场合，商务可表「秒被说服」。",
+    "synonym_points": [
+      "you had me from the start — 一开始就打动我",
+      "love at first sight — 一见钟情",
+      "I was sold immediately — 我立刻被说服了",
+      "instant connection — 一见如故（中性）"
+    ],
+    "antonym_points": [
+      "you lost me at hello — 一开口就把我劝退了",
+      "it was over before it started — 还没开始就结束",
+      "no chemistry — 没感觉",
+      "hard pass — 直接拒绝（口语）"
+    ],
+    "extended_points": [
+      "love at first sight — 一见钟情",
+      "you lost me — 你没说服我（反义变体）",
+      "a pitch that lands — 一击即中的提案"
+    ],
+    "key_point": "【速记】You had me at hello = 一开口就被打动。\n固定 at hello；源自电影台词。\n反义 you lost me at hello。"
+  },
+  {
+    "point_content": "You cracked me up",
+    "tag": ["口语评价", "逗笑", "正面", "社交", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你把我笑死了；你真逗；让我笑了半天\n自然译法：笑死我了 / 你太搞笑了 / 我笑到不行",
+    "examples": [
+      "That story cracked me up. 那个故事把我笑死了。",
+      "You cracked me up with that impression. 你那模仿把我笑翻了。",
+      "She cracked everyone up at dinner. 晚饭时她把大家都逗笑了。",
+      "He's quiet, but he cracks me up when he speaks. 他平时安静，一开口就笑死人。",
+      "Cracking someone up is a compliment, not an insult. 这句是夸人幽默，不是贬义。"
+    ],
+    "explanation": "【概要】crack sb up 指把某人逗得大笑，美式口语，语气轻松亲密。\n【结构】crack sb up（代词放中间）；也可说 make sb laugh、have sb in stitches。\n【语用】正面，朋友、同事闲聊；正式场合可用 it made everyone laugh。\n【易错】① 代词必须放中间（crack me up，不是 crack up me）；② 与 crack up（精神崩溃）不同义；③ 属口语。",
+    "synonym_points": [
+      "you made me laugh — 你让我笑了",
+      "you had me in stitches — 你笑死我了（英式）",
+      "you're a riot — 你太逗了（口语）",
+      "you kill me — 你笑死我了（口语）"
+    ],
+    "antonym_points": [
+      "you bored me — 你让我无聊透顶",
+      "that fell flat — 那个梗没笑点",
+      "not funny — 不好笑",
+      "you annoyed me — 你让我烦"
+    ],
+    "extended_points": [
+      "crack up — 崩溃大笑/精神崩（歧义）",
+      "in stitches — 笑到不行",
+      "a riot — 特别搞笑的人/事"
+    ],
+    "key_point": "【速记】crack sb up = 把人笑死。\n代词放中间；勿混 crack up（崩溃）。\n英式近义 in stitches。"
+  },
+  {
+    "point_content": "Stop selling",
+    "tag": ["商务口语", "别推销", "中性偏强", "销售/谈判", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别再推销了；别忽悠了；别硬推\n自然译法：别卖关子了 / 别推销了 / 说点实在的",
+    "examples": [
+      "I'm already interested — stop selling. 我已经有兴趣了，别推销了。",
+      "Stop selling and just tell me the price. 别忽悠，直接给价格。",
+      "He said \"stop selling\" when the rep kept repeating features. 销售反复讲功能，他说「别推销了」。",
+      "Stop selling the idea; we need evidence. 别硬推这个想法，我们要证据。",
+      "In interviews, stop selling means talk substance, not slogans. 面试里这句意思是「说实在的，别喊口号」。"
+    ],
+    "explanation": "【概要】让对方停止推销、不要再夸大说服，常含「我已经被说服／我在意的是实质」两种意思。\n【结构】stop selling（不及物用法，宾语可省）；也可说 stop pitching、cut the sales talk。\n【语用】中性偏强，销售场景、内部讨论；对客户说会显失礼，宜用 let's focus on facts。\n【易错】① selling 为动词 -ing 形式；② 与 stop sale（停止销售，语法错）区分；③ 语气硬，注意对象。",
+    "synonym_points": [
+      "stop pitching — 别推销了（商务）",
+      "cut the sales talk — 别讲销售话术",
+      "just give me the facts — 直接说事实",
+      "no more hype — 别吹了"
+    ],
+    "antonym_points": [
+      "sell me on it — 说服我",
+      "pitch away — 继续推销",
+      "make your case — 陈述你的理由",
+      "convince me — 让我信服"
+    ],
+    "extended_points": [
+      "pitch — 推销陈述",
+      "hype — 夸大宣传",
+      "substance over slogans — 实质重于口号"
+    ],
+    "key_point": "【速记】Stop selling = 别再推销/忽悠。\nselling 为 -ing；对客户改说 focus on facts。\n近义 cut the sales talk。"
+  },
+  {
+    "point_content": "Another day another dollar",
+    "tag": ["口语谚语", "打工常态", "中性偏无奈", "职场", "略老派"],
+    "translation_lang": "zh-CN",
+    "translation_content": "又一天又一块钱；日子还得过、钱还得挣\n自然译法：混一天赚一天 / 打工人日常 / 又是搬砖的一天",
+    "examples": [
+      "Monday again — another day, another dollar. 又到周一，又是搬砖的一天。",
+      "He shrugged, \"Another day, another dollar.\" 他耸耸肩：「混一天算一天。」",
+      "Another day another dollar, but at least the team is good. 打工日常，好在团队不错。",
+      "She says it every morning as a joke. 她每天早晨都拿这句开玩笑。",
+      "It's a tired phrase, but it fits repetitive work. 这说法有点旧，但很配重复性工作。"
+    ],
+    "explanation": "【概要】表达「工作重复、为钱奔波」的无奈心态，源自水平不高的日常劳作语境，语气自嘲。\n【结构】独立谚语式短句，可加逗号；也作 Another day, another dollar.。\n【语用】中性偏无奈，职场自嘲、朋友间；正式汇报不宜。\n【易错】① 固定语序；② 与 make a dollar（挣钱）不同；③ 含消极色彩，勿在客户面前用。",
+    "synonym_points": [
+      "same old grind — 老一套的苦活",
+      "back to the grind — 回去搬砖",
+      "just another day at the office — 又一天上班（幽默）",
+      "work, rinse, repeat — 工作循环（口语）"
+    ],
+    "antonym_points": [
+      "living the dream — 活得很爽（反讽或真心）",
+      "a fresh start — 全新开始",
+      "day off — 休息日",
+      "worth every minute — 每分钟都值得"
+    ],
+    "extended_points": [
+      "the daily grind — 日常苦活",
+      "living the dream — 反讽常用",
+      "9-to-5 — 常规上班"
+    ],
+    "key_point": "【速记】Another day another dollar = 又是打工的一天。\n自嘲语；正式场合勿用。\n近义 the daily grind。"
+  },
+  {
+    "point_content": "Quit while we're ahead",
+    "tag": ["策略表达", "见好就收", "中性", "决策", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "见好就收；趁占优势赶紧停手；别贪\n自然译法：趁赢着收手 / 别贪最后一把 / 赢了就走",
+    "examples": [
+      "We're up 20% — quit while we're ahead. 涨了 20%，见好就收。",
+      "Let's quit while we're ahead and ship the version we have. 趁现在能打住，先把现有版本发了。",
+      "He kept negotiating and lost the deal; he should have quit while he was ahead. 他一路谈下去把单子谈黄了，本该见好就收。",
+      "Quitting while you're ahead is a strategy, not cowardice. 见好就收是策略，不是胆小。",
+      "We quit while we were ahead — before the market turned. 市场转向之前我们就收了。"
+    ],
+    "explanation": "【概要】建议在仍有优势时主动停止，避免贪多导致损失，常用于投资、谈判、赌局与产品发布。\n【结构】quit while one is ahead（ahead 前不加 the）；也可说 cash out、stop while you're winning。\n【语用】中性，决策讨论；劝人放弃额外收益时需说清风险依据。\n【易错】① ahead 固定；② 时态随语境（quit while we were ahead）；③ 与 don't push your luck（警告对方）视角不同。",
+    "synonym_points": [
+      "cash out — 及时套现离场",
+      "stop while you're winning — 赢了就停",
+      "know when to fold — 知道何时收手（牌桌）",
+      "take the win — 接受这次胜利（口语）"
+    ],
+    "antonym_points": [
+      "push your luck — 得寸进尺",
+      "go for more — 再要更多",
+      "double down — 加倍下注",
+      "ride it out — 一直持有到顶"
+    ],
+    "extended_points": [
+      "cash out — 套现",
+      "know when to fold 'em — 知道何时收手（歌词语）",
+      "risk-reward — 风险收益权衡"
+    ],
+    "key_point": "【速记】quit while we're ahead = 见好就收。\nahead 固定；决策/投资常用。\n反义 push your luck。"
+  },
+  {
+    "point_content": "That's more like it",
+    "tag": ["口语评价", "满意", "正面", "反馈", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这还差不多；这才对嘛；这样就好多了\n自然译法：这才像话 / 有进步 / 对，就该这样",
+    "examples": [
+      "That's more like it — now the numbers match. 这还差不多，数字对上了。",
+      "He fixed the layout: \"That's more like it.\" 他改了排版，我说「这才像话」。",
+      "That's more like it! Keep that energy. 这才对，保持这股劲。",
+      "That's more like it, but the tone is still too casual. 好多了，不过语气还是太随意。",
+      "Saying \"that's more like it\" implies previous attempts were weak. 这句暗含「之前几次不行」。"
+    ],
+    "explanation": "【概要】表示对改进后的表现或结果满意，语气轻松带鼓励，也隐含对先前的保留评价。\n【结构】That's more like it.（独立句）；也可说 now you're talking（更兴奋）、that's better。\n【语用】正面，教练、家长、同事反馈；对上级使用不合宜。\n【易错】① 固定 more like it（不是 more likely）；② 隐含比较，注意别让人觉得被贬；③ 与 that's it（就这些/对了）语气不同。",
+    "synonym_points": [
+      "now you're talking — 这才像话（更兴奋）",
+      "that's better — 好一些了",
+      "much improved — 大有进步（正式）",
+      "that's the spirit — 就该这样"
+    ],
+    "antonym_points": [
+      "that's not it — 不对",
+      "still not good enough — 还不够",
+      "way off — 差远了",
+      "back to the drawing board — 重来吧"
+    ],
+    "extended_points": [
+      "that's the spirit — 就该这样",
+      "now you're talking — 这才对（兴奋）",
+      "back to the drawing board — 推倒重来"
+    ],
+    "key_point": "【速记】That's more like it = 这还差不多。\n固定 more like it；隐含比较。\n近义 now you're talking。"
+  },
+  {
+    "point_content": "Carpe diem",
+    "tag": ["拉丁语", "及时行乐", "正面", "书面/演讲", "文化"],
+    "translation_lang": "zh-CN",
+    "translation_content": "抓住今天；及时行乐；把握当下（拉丁语，源自贺拉斯）\n自然译法：趁现在 / 该享受就享受 / 别等明天",
+    "examples": [
+      "Carpe diem — book the trip now. 抓住当下，现在就把行程订了。",
+      "His tattoo says carpe diem. 他纹身写着「抓住今天」。",
+      "Carpe diem is often paired with memento mori. 这句常与「记住你终将一死」并用。",
+      "Carpe diem can justify spending, but not overspending. 这句可为消费辩护，但不是超支的借口。",
+      "In the film, the teacher whispers \"carpe diem.\" 电影里老师低声说「抓住今天」。"
+    ],
+    "explanation": "【概要】拉丁语格言（贺拉斯《颂歌》），字面「采摘这一天」，意为把握当下、勿虚度；英语中作引用语保留原形。\n【结构】Carpe diem.（拉丁语，不作变位）；英译 seize the day。\n【语用】正面，演讲、纹身、励志；引语需说明含义，避免只当装饰。\n【易错】① 拉丁语固定，勿强加复数；② 与 seize the day 同源，但语域更书面；③ 被误读为「及时行乐」，原意更偏「抓住时机」。",
+    "synonym_points": [
+      "seize the day — 把握当下（英译）",
+      "live for today — 为今天而活",
+      "make the most of the moment — 珍惜此刻",
+      "enjoy the here and now — 享受当下"
+    ],
+    "antonym_points": [
+      "there's always tomorrow — 还有明天（拖延）",
+      "wait and see — 先观望",
+      "save it for later — 留着以后",
+      "procrastinate — 拖延"
+    ],
+    "extended_points": [
+      "memento mori — 记住终将一死（常搭配）",
+      "seize the day — 英译对应",
+      "carpe noctem — 抓住夜晚（戏仿变体）"
+    ],
+    "key_point": "【速记】Carpe diem = 抓住今天（拉丁语）。\n原形不变；英译 seize the day。\n常配 memento mori。"
+  },
+  {
+    "point_content": "Go easy on me",
+    "tag": ["口语请求", "求宽容", "中性", "关系/评价", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别为难我；对我宽容点；手下留情\n自然译法：别太严格 / 给我留点面子 / 轻点批评",
+    "examples": [
+      "It's my first day — go easy on me. 我第一天来，别太为难我。",
+      "Go easy on me with the feedback; I'm still learning. 给反馈手下留情，我还在学。",
+      "The coach said he'd go easy on us in the first session. 教练说第一节课会松一点。",
+      "Go easy on the chili — the kids are eating. 辣椒少放点，孩子在吃。（另有「用量少」义）",
+      "She asked him to go easy on her brother. 她请他别太为难她弟弟。"
+    ],
+    "explanation": "【概要】请求对方在批评、要求或用量上温和一些，语气客气，也可用于「少放调料」等具体场景。\n【结构】go easy on sb/sth（介词 on 固定）；也可说 cut me some slack（更口语）。\n【语用】中性，新人、评审、家庭餐桌；正式场合可说 please be lenient。\n【易错】① 介词 on；② 与 take it easy（放松）不同；③ 与 go easy（慢慢来）不同。",
+    "synonym_points": [
+      "cut me some slack — 放我一马（口语）",
+      "take it easy on me — 对我温和点",
+      "be gentle — 轻点（通用）",
+      "give me a break — 别太苛刻"
+    ],
+    "antonym_points": [
+      "be strict — 严格点",
+      "no mercy — 不留情",
+      "full marks or nothing — 要么满分要么白搭",
+      "tough love — 硬爱（严厉但为你好）"
+    ],
+    "extended_points": [
+      "cut sb some slack — 放一马",
+      "take it easy — 放松（形似）",
+      "go easy on the salt — 少放盐（同构用法）"
+    ],
+    "key_point": "【速记】go easy on me = 别为难我。\n介词 on；也可指「少放（调料）」。\n口语近义 cut me some slack。"
+  },
+  {
+    "point_content": "Beggars can't be choosers",
+    "tag": ["谚语", "没得挑", "中性偏现实", "生活/职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "要饭的哪能挑三拣四；白给的东西不能挑；没条件就别挑\n自然译法：白拿还挑什么 / 有就不错了 / 没得选就别嫌",
+    "examples": [
+      "The free ticket is for Tuesday — beggars can't be choosers. 免费票只有周二，白拿还挑什么。",
+      "It's a small apartment, but beggars can't be choosers. 房子小，但没得挑。",
+      "He complained about the free meal; I reminded him beggars can't be choosers. 他抱怨免费餐，我提醒他别挑。",
+      "When you're desperate for a job, beggars can't be choosers. 急着找工作时，没得挑。",
+      "The phrase can sound harsh when someone's situation is dire. 对方处境艰难时，这句会显得刻薄。"
+    ],
+    "explanation": "【概要】谚语，指在没有选择余地时不应挑剔，常用于劝人接受次优方案；含现实甚至刻薄色彩。\n【结构】Beggars can't be choosers.（名词复数 + can't）；也可说 don't look a gift horse in the mouth。\n【语用】中性偏现实，住房、求职、赠品；对困境中的人说会显不体谅。\n【易错】① 复数 beggars、choosers；② 用于纯赠礼场景更合适的是 gift horse 谚语；③ 注意语气，可能伤自尊。",
+    "synonym_points": [
+      "don't look a gift horse in the mouth — 别挑赠品的毛病",
+      "take what you can get — 能拿到就不错",
+      "half a loaf is better than none — 半块面包总比没有强",
+      "something is better than nothing — 有总比没有好"
+    ],
+    "antonym_points": [
+      "hold out for the best — 坚持要最好的",
+      "you can afford to be picky — 你有资格挑",
+      "demand better — 要求更好的",
+      "quality over convenience — 质量优先"
+    ],
+    "extended_points": [
+      "don't look a gift horse in the mouth — 别挑赠品",
+      "half a loaf is better than none — 有胜于无",
+      "compromise — 妥协（概念）"
+    ],
+    "key_point": "【速记】Beggars can't be choosers = 没得挑。\n复数形式固定；对困境者慎用。\n赠礼场景用 gift horse 谚语。"
+  },
+  {
+    "point_content": "You are so naive",
+    "tag": ["评价用语", "天真", "负面", "关系", "易伤人"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你太天真了；你太单纯（不懂世故）；你好傻好天真\n自然译法：你太理想化了 / 你想得太简单 / 社会经验太少",
+    "examples": [
+      "You are so naive if you think they'll keep their promise. 你以为他们会守信，那太天真了。",
+      "He called me naive for trusting the email. 我信了那封邮件，他说我太天真。",
+      "You are so naive — nobody works for free. 你太单纯了，没人白干活。",
+      "Naive isn't the same as stupid; it means lacking experience. naive 不等于笨，是缺经验。",
+      "Saying \"you are so naive\" often ends the conversation. 这句常把对话聊死。"
+    ],
+    "explanation": "【概要】naive 指天真、缺乏社会经验或对风险估计不足，属负面评价但程度轻于 stupid。\n【结构】be naive（形容词）；也可说 gullible（易受骗）、green（新手没经验）。\n【语用】负面，易伤人；亲近关系可直言，职场宜改成 that assumption may be optimistic。\n【易错】① naive 与 childish（幼稚，贬更重）不同；② 发音 /naɪˈiːv/；③ 与 innocent（无辜/纯洁，多中性）不同。",
+    "synonym_points": [
+      "gullible — 容易上当",
+      "green — 没经验的（口语）",
+      "too trusting — 太容易相信人",
+      "idealistic — 太理想化（中性些）"
+    ],
+    "antonym_points": [
+      "street-smart — 社会经验丰富",
+      "cynical — 看透世事（另一极端）",
+      "savvy — 精明",
+      "worldly — 阅历丰富"
+    ],
+    "extended_points": [
+      "gullible — 易受骗",
+      "street-smart — 街头智慧",
+      "innocent vs naive 的差别"
+    ],
+    "key_point": "【速记】so naive = 太天真（缺经验）。\n≠ stupid；发音 /naɪˈiːv/。\n职场改说 assumption may be optimistic。"
+  },
+  {
+    "point_content": "Ignorance is bliss",
+    "tag": ["谚语", "不知为福", "中性", "哲思", "略反讽"],
+    "translation_lang": "zh-CN",
+    "translation_content": "无知是福；傻有傻福；不知道反而轻松\n自然译法：不知道最好 / 知道了反添烦恼 / 眼不见心不烦",
+    "examples": [
+      "Ignorance is bliss — I didn't check the bill until Monday. 不知为福，我周一看账单前一直很轻松。",
+      "For a while, ignorance is bliss; then the invoice arrives. 一时不知为福，账单来了就完了。",
+      "He prefers not to know the odds: ignorance is bliss. 他宁愿不知道胜率，无知也是福。",
+      "Ignorance is bliss isn't a defense in court. 「不知者无罪」在法庭上不成立。",
+      "Parents sometimes keep kids in the dark — ignorance is bliss. 家长有时不告诉孩子，图个清净。"
+    ],
+    "explanation": "【概要】谚语（源自蒲柏诗句），指不知情可免烦恼；常带反讽，因为无知也可能带来风险。\n【结构】Ignorance is bliss.（抽象名词 + is）；对应中文「傻有傻福」。\n【语用】中性偏反讽，生活调侃；不可作为法律或道德免责依据。\n【易错】① ignorance 为不可数、无冠词；② 与 innocent（无辜）不同；③ 反讽使用需语境配合。",
+    "synonym_points": [
+      "what you don't know can't hurt you — 不知道就不受伤",
+      "out of sight, out of mind — 眼不见心不烦",
+      "blissful ignorance — 无知而快乐",
+      "better not to know — 还是不知道好"
+    ],
+    "antonym_points": [
+      "knowledge is power — 知识就是力量",
+      "forewarned is forearmed — 有备无患",
+      "better safe than sorry — 有备无患/宁可防着",
+      "know the risks — 了解风险"
+    ],
+    "extended_points": [
+      "blissful ignorance — 开心地不知情",
+      "knowledge is power — 反义谚语",
+      "willful blindness — 故意视而不见（法律概念）"
+    ],
+    "key_point": "【速记】Ignorance is bliss = 无知是福（常反讽）。\nignorance 不可数；不可作免责依据。\n反义 knowledge is power。"
+  },
+  {
+    "point_content": "Just a hunch",
+    "tag": ["口语表达", "直觉", "中性", "判断", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "直觉而已；只是感觉；说不清依据\n自然译法：全凭感觉 / 我也说不上理由 / 就是觉得",
+    "examples": [
+      "I think he's lying — just a hunch. 我觉得他在撒谎，纯凭直觉。",
+      "It's just a hunch, but the numbers look off. 只是直觉，但这数字不对劲。",
+      "She followed a hunch and checked the backup file. 她凭着感觉去查了备份文件。",
+      "Just a hunch doesn't win arguments — bring data. 光凭感觉说服不了人，拿数据来。",
+      "My hunch was right: the client had already left. 我的直觉对了，客户已经走了。"
+    ],
+    "explanation": "【概要】hunch 指基于直觉的猜测，无明确证据；just a hunch 属免责式表达，语气谦逊。\n【结构】a hunch（可数，需冠词）；也可说 gut feeling、intuition。\n【语用】中性，商务判断、私人猜测；决策场景需补证据，不可只凭 hunch。\n【易错】① 可数名词，需 a；② hunch 另有「弓背」义；③ 与 have a feeling（感觉，更模糊）近义。",
+    "synonym_points": [
+      "a gut feeling — 直觉（更强调身体感）",
+      "intuition — 直觉（正式）",
+      "a feeling — 一种感觉",
+      "an educated guess — 有依据的推测"
+    ],
+    "antonym_points": [
+      "hard evidence — 确凿证据",
+      "proven fact — 已证事实",
+      "data-backed conclusion — 有数据支撑的结论",
+      "certainty — 确定"
+    ],
+    "extended_points": [
+      "gut feeling — 直觉",
+      "educated guess — 内行推测",
+      "hunch（弓背）另一词义"
+    ],
+    "key_point": "【速记】just a hunch = 全凭直觉。\n可数需 a；决策要补证据。\n正式版 intuition。"
+  },
+  {
+    "point_content": "Old habits die hard",
+    "tag": ["谚语", "改不掉的习惯", "中性", "行为/心理", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "旧习难改；江山易改本性难移；老毛病改不掉\n自然译法：习惯成自然，改起来难 / 老毛病又犯了 / 积习难除",
+    "examples": [
+      "He still smokes at the window — old habits die hard. 他还在窗边抽烟，旧习难改。",
+      "Old habits die hard, especially after twenty years. 二十年养成的习惯最难改。",
+      "She checks her phone at red lights; old habits die hard. 她红灯也要看手机，陋习难改。",
+      "Old habits die hard, but systems can help. 旧习难改，但制度能帮忙。",
+      "The team kept the old process: old habits die hard. 团队沿用旧流程，积习难除。"
+    ],
+    "explanation": "【概要】谚语，指长期形成的习惯或性格难以迅速改变，常用于自我解嘲或解释组织惯性。\n【结构】Old habits die hard.（复数主语 + die 原形）；单数版 an old habit dies hard。\n【语用】中性，解释行为持续性；作借口时会削弱改进意愿。\n【易错】① habits 复数配 die（不是 dies）；② 与 a leopard can't change its spots（本性难移）近义；③ 不是「习惯会致死」的字面义。",
+    "synonym_points": [
+      "a leopard can't change its spots — 本性难移",
+      "you can't teach an old dog new tricks — 老狗学不了新招",
+      "set in one's ways — 固守老习惯",
+      "change is hard — 改变很难"
+    ],
+    "antonym_points": [
+      "turn over a new leaf — 重新开始",
+      "break the habit — 改掉习惯",
+      "change one's ways — 改变作风",
+      "new year, new me — 新我（玩笑）"
+    ],
+    "extended_points": [
+      "turn over a new leaf — 改过自新",
+      "organizational inertia — 组织惯性（商务）",
+      "a leopard can't change its spots — 本性难移"
+    ],
+    "key_point": "【速记】Old habits die hard = 旧习难改。\n复数 habits 配 die；勿当字面义。\n别拿来当借口。"
+  },
+  {
+    "point_content": "I make my own luck",
+    "tag": ["励志表达", "自主", "正面", "口语", "行动"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我命由我不由天；我的运气我自己造；靠自己争取\n自然译法：我不靠运气 / 我靠自己搏出来 / 机会自己找",
+    "examples": [
+      "I make my own luck — I applied to fifty companies. 我运气靠自己造，投了五十家。",
+      "She doesn't wait for breaks; she makes her own luck. 她不等着机遇，自己造机会。",
+      "He said talent matters, but he makes his own luck. 他说天赋重要，但运气靠自己挣。",
+      "Making your own luck means preparation meeting opportunity. 自己造运气，就是准备遇上机会。",
+      "I make my own luck — and I also accept that some things are chance. 我自造运气，也接受有些事是偶然。"
+    ],
+    "explanation": "【概要】强调运气可通过主动准备与行动创造，态度积极、略带自信；源自「好运是准备遇上机会」的观念。\n【结构】make one's own luck（不加 the）；也可说 fortune favors the prepared。\n【语用】正面，面试、创业叙事；过度强调会显得忽视结构性不平等。\n【易错】① 用 make（不是 do）；② 物主代词随主语；③ 与 lucky（形容词）词性不同。",
+    "synonym_points": [
+      "fortune favors the prepared — 好运眷顾有准备的人",
+      "create your own opportunities — 自己造机会",
+      "earn your breaks — 机会靠挣",
+      "self-made — 白手起家（形容人）"
+    ],
+    "antonym_points": [
+      "wait for a lucky break — 等运气",
+      "leave it to chance — 听天由命",
+      "hope for the best — 只能祈祷",
+      "beggars can't be choosers — 无奈接受（对照）"
+    ],
+    "extended_points": [
+      "fortune favors the prepared — 好运眷顾有准备者",
+      "self-made man — 白手起家者",
+      "luck surface area — 提高遇见机会的概率（概念）"
+    ],
+    "key_point": "【速记】I make my own luck = 运气自己造。\n用 make；正面自信。\n别忽略结构性因素。"
+  },
+  {
+    "point_content": "Early bird catches the worm",
+    "tag": ["谚语", "趁早行动", "正面", "生活/职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "早起的鸟儿有虫吃；先下手为强；趁早行动收益大\n自然译法：早动手占先机 / 早一步就有 / 越早越好",
+    "examples": [
+      "Flights are cheaper at 6 a.m. — the early bird catches the worm. 早上六点机票便宜，早起的鸟儿有虫吃。",
+      "He applied on day one: the early bird catches the worm. 他第一天就申请，抢了先机。",
+      "The early bird catches the worm, but it also gets tired by noon. 早起有好处，中午也困。",
+      "When hiring, the early bird catches the worm. 招聘时先到先得。",
+      "It's not always true — sometimes the second mouse gets the cheese. 也不全对，有时第二只老鼠才吃到奶酪。"
+    ],
+    "explanation": "【概要】谚语，指早行动者获得优势或机会；常鼓励尽早开始，后半句偶有反例版本。\n【结构】The early bird catches the worm.（第三人称单数 catches）；衍生 the early bird gets the worm。\n【语用】正面，求职、抢票、市场先机；对习惯晚睡者说会显说教。\n【易错】① catches 三单；② 与 first come, first served（先到先得，规则）不同；③ 反例：the second mouse gets the cheese。",
+    "synonym_points": [
+      "the early bird gets the worm — 同义变体",
+      "first come, first served — 先到先得",
+      "get a head start — 抢得先机",
+      "strike while the iron's hot — 趁热打铁"
+    ],
+    "antonym_points": [
+      "better late than never — 晚做总比不做好",
+      "the second mouse gets the cheese — 后来者得利（反例）",
+      "haste makes waste — 欲速则不达",
+      "sleep in — 睡懒觉"
+    ],
+    "extended_points": [
+      "the second mouse gets the cheese — 反例谚语",
+      "head start — 先发优势",
+      "haste makes waste — 欲速则不达（相反取向）"
+    ],
+    "key_point": "【速记】Early bird catches the worm = 早行动占优。\n三单 catches；也可说 gets。\n反例：second mouse gets the cheese。"
+  },
+  {
+    "point_content": "The lesser of two evils",
+    "tag": ["决策表达", "两害相权", "中性", "权衡", "书面/口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "两害相权取其轻；两个坏选项中较好的那个\n自然译法：两害相权取其轻 / 只能选个不那么糟的 / 都不好，选轻的",
+    "examples": [
+      "Layoffs or pay cuts? It's the lesser of two evils. 裁员还是降薪？两害相权取其轻。",
+      "I chose the lesser of two evils and took the later flight. 我两害相权，选了晚一班飞机。",
+      "Neither option is good — we're picking the lesser of two evils. 两个方案都不好，只能选轻的。",
+      "Voters often see it as the lesser of two evils. 选民常把它看作「不那么糟的那个」。",
+      "The lesser of two evils is still an evil. 两害取其轻，也还是害。"
+    ],
+    "explanation": "【概要】指在两个都不理想的选项中选择伤害较小者，源自拉丁语 minus malum；语域中性偏正式。\n【结构】the lesser of two evils（固定 the lesser，不用 less）；也可说 the lesser evil。\n【语用】中性，选举、商业决策；说完应说明衡量标准。\n【易错】① 用 lesser（比较级形容词）而非 less；② 复数 evils 固定；③ 与 the best of both worlds（两全其美）相反。",
+    "synonym_points": [
+      "the lesser evil — 较轻的害（简说）",
+      "pick the least bad option — 选最不糟的",
+      "damage control — 控制损害（近似思路）",
+      "between a rock and a hard place — 进退两难（情境近义）"
+    ],
+    "antonym_points": [
+      "the best of both worlds — 两全其美",
+      "a win-win — 双赢",
+      "the greater good — 更大善（对照概念）",
+      "have your cake and eat it — 两样都要"
+    ],
+    "extended_points": [
+      "between a rock and a hard place — 进退两难",
+      "the best of both worlds — 两全其美",
+      "trade-off — 权衡取舍"
+    ],
+    "key_point": "【速记】the lesser of two evils = 两害取其轻。\nlesser（非 less）+ 复数 evils。\n反义 the best of both worlds。"
+  }
+]

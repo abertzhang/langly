@@ -1,0 +1,642 @@
+[
+  {
+    "point_content": "Read the room",
+    "tag": ["社交能力", "察言观色", "中性", "职场/社交", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "察言观色；看点气氛；识时务\n自然译法：你得有点眼力见儿 / 看下气氛啊 / 别不分场合",
+    "examples": [
+      "Nobody's laughing — read the room. 没人笑，你看看气氛。",
+      "He kept joking at the funeral; he can't read the room. 葬礼上他还开玩笑，完全不会看场合。",
+      "Read the room before you bring up salary. 提薪水前先看看气氛。",
+      "She reads the room better than anyone on the team. 团队里她最会察言观色。",
+      "Reading the room is a skill, not luck. 会看气氛是能力，不是运气。"
+    ],
+    "explanation": "【概要】read the room 指根据在场者的情绪与氛围调整言行，是社交智商的核心表现。\n【结构】read the room（固定 the room，不加 a）；也可说 pick up on the vibe。\n【语用】中性，职场与社交批评；指责式使用（you can't read the room）会让人难堪。\n【易错】① 固定 the room；② 不是「读房间里的文字」；③ 与 read sb like a book（看透某人）不同。",
+    "synonym_points": [
+      "pick up on the vibe — 感受气氛",
+      "know the room — 了解现场氛围",
+      "be socially aware — 有社交意识（正式）",
+      "check the temperature — 试探气氛（口语）"
+    ],
+    "antonym_points": [
+      "be tone-deaf — 完全不会看场合",
+      "misread the situation — 误判形势",
+      "put your foot in it — 说错话踩雷",
+      "clueless — 一点眼力见儿都没有"
+    ],
+    "extended_points": [
+      "tone-deaf — 不会看气氛（引申）",
+      "social awareness — 社交意识",
+      "put your foot in your mouth — 说错话"
+    ],
+    "key_point": "【速记】read the room = 察言观色。\n固定 the room；反义 tone-deaf。\n指责式用法易伤人。"
+  },
+  {
+    "point_content": "What do you do for a living?",
+    "tag": ["寒暄提问", "职业", "中性", "社交/商务", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你做什么工作？；你靠什么谋生？\n自然译法：你是做什么的 / 你在哪儿上班 / 你干哪行",
+    "examples": [
+      "So, what do you do for a living? 那么，你是做什么工作的？",
+      "He asked what I did for a living within five minutes. 他五分钟内就问我是干什么的。",
+      "What do you do for a living — freelance or full-time? 你是做什么的，自由职业还是全职？",
+      "Instead of \"what do you do,\" some ask \"what do you do for a living.\" 有人用这个更完整的问法。",
+      "Asking that at a party is small talk, not interrogation. 聚会上这么问是闲聊，不是审问。"
+    ],
+    "explanation": "【概要】询问职业的标准寒暄句，比 What do you do 更完整、更明确；用于社交与商务初识。\n【结构】do sth for a living（以…为生）；回答可用 I work in / I'm a…。\n【语用】中性，聚会、商务社交；对不熟者连问会显冒失，宜搭配自我介绍。\n【易错】① 介词 for（不是 as）；② 回答不用 I do engineer（应为 I'm an engineer）；③ 与 What do you do（可能被理解为「你现在在干嘛」）区分。",
+    "synonym_points": [
+      "What do you do — 你做什么的（更短）",
+      "What's your line of work — 你从事什么行业",
+      "What line are you in — 你干哪行（英式）",
+      "Where do you work — 你在哪儿工作"
+    ],
+    "antonym_points": [
+      "I'm between jobs — 我目前待业",
+      "I'm retired — 我退休了",
+      "I'm a student — 我是学生",
+      "I'd rather not say — 我不太想说"
+    ],
+    "extended_points": [
+      "for a living — 以…为生",
+      "line of work — 行业/职业",
+      "small talk — 寒暄"
+    ],
+    "key_point": "【速记】What do you do for a living? = 你做什么工作。\n介词 for；回答用 I'm a…。\n社交寒暄标准句。"
+  },
+  {
+    "point_content": "Come off it",
+    "tag": ["英式口语", "不信", "强负面", "非正式", "英式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别胡扯了；别来这套；少来\n自然译法：得了吧 / 你就吹吧 / 别瞎说",
+    "examples": [
+      "Come off it — you've never been to Mars. 得了吧，你根本没去过火星。",
+      "Come off it, nobody believes that excuse. 少来，没人信那借口。",
+      "He said he'd pay me back tomorrow. I told him to come off it. 他说 明天还钱，我让他别扯了。",
+      "Come off it! You can't be serious. 别来这套！你不是认真的吧。",
+      "Come off it is blunt but not obscene — still informal. 这句直白但不脏，仍属非正式。"
+    ],
+    "explanation": "【概要】英式口语，用于否定明显不实的说法，语气直白轻蔑，相当于「少来这套」。\n【结构】Come off it!（独立感叹）；同义美式 get out of here / no way。\n【语用】强负面，朋友斗嘴；对上级或客户使用极不礼貌。\n【易错】① 固定 come off it（不是 come off）；② 与 come off（成功/脱落）完全不同；③ 语域非正式。",
+    "synonym_points": [
+      "get out of here — 别扯了（美式）",
+      "give me a break — 得了吧",
+      "yeah, right — 才怪（反讽）",
+      "pull the other one — 少骗我（英式）"
+    ],
+    "antonym_points": [
+      "fair enough — 有道理",
+      "I believe you — 我信你",
+      "that's plausible — 说得通",
+      "point taken — 我接受"
+    ],
+    "extended_points": [
+      "come off — 成功/脱落（形似义异）",
+      "yeah, right — 反讽否定",
+      "pull the other one — 英式「别骗我」"
+    ],
+    "key_point": "【速记】Come off it = 别胡扯了（英式直白）。\n勿混 come off（脱落/成功）。\n对上级客户禁用。"
+  },
+  {
+    "point_content": "It's all in your head",
+    "tag": ["心理安慰", "臆想", "中性", "关系", "略轻率"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这都是你想出来的；别自己瞎想；是你心理作用\n自然译法：你想多了 / 是你心里在作怪 / 没那么多事",
+    "examples": [
+      "The noise isn't real — it's all in your head. 那声音不存在，是你自己想出来的。",
+      "It's all in your head; the test says you're fine. 你想多了，检查结果显示没事。",
+      "Telling someone it's all in their head can feel dismissive. 对别人说「你想多了」有时显得不尊重。",
+      "The fear was all in my head, but it felt real. 恐惧是我自己造的，但感觉很真实。",
+      "Pain isn't \"all in your head\" — it's real even without a cause. 疼痛不是「想出来的」，即使查不出原因也是真的。"
+    ],
+    "explanation": "【概要】all in one's head 指某感受、担忧或问题只存在于主观想象，客观上不存在；既可安慰也可轻视。\n【结构】be all in one's head（不加 the）；也可说 it's in your mind、you're imagining it。\n【语用】中性偏轻率，亲密关系安慰；对焦虑、慢性疼痛者使用可能造成伤害。\n【易错】① 固定 all in one's head；② 与 in my head（脑子里想的事）语气不同；③ 医学场景慎用。",
+    "synonym_points": [
+      "you're imagining it — 你在臆想",
+      "it's in your mind — 是心理作用",
+      "you're overthinking it — 你想太多",
+      "it's psychological — 是心理层面的（正式）"
+    ],
+    "antonym_points": [
+      "it's real — 这是真实存在的",
+      "there's evidence — 有证据",
+      "it's measurable — 可测量",
+      "your feelings are valid — 你的感受是正当的"
+    ],
+    "extended_points": [
+      "psychosomatic — 心因性的（医学）",
+      "overthink — 想太多",
+      "gaslighting — 否定他人感受（警示概念）"
+    ],
+    "key_point": "【速记】all in your head = 你想出来的/心理作用。\n固定 head 前物主代词；对病痛者慎用。\n可被视作否定他人感受。"
+  },
+  {
+    "point_content": "First things first",
+    "tag": ["做事方法", "轻重缓急", "中性", "职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "要事优先；先处理最重要的；一件一件来\n自然译法：先办要紧的 / 先把第一步做了 / 按轻重缓急来",
+    "examples": [
+      "First things first — let's confirm the budget. 先办要紧的：确认预算。",
+      "First things first, are you okay? 先说重要的，你还好吗？",
+      "Before planning the party, first things first: book the venue. 筹备聚会前先订场地。",
+      "She reminded the team: first things first. 她提醒团队：要事优先。",
+      "First things first doesn't mean ignoring small details. 要事优先不等于忽略细节。"
+    ],
+    "explanation": "【概要】表示应按重要性顺序推进事务，先解决最关键项，常作会议开场与流程引导语。\n【结构】First things first.（独立句或状语）；也可说 let's prioritize、one thing at a time。\n【语用】中性，职场与项目管理；也用于关切问候（先说重要的：你好吗）。\n【易错】① 固定复数 things（两个 things）；② 不加 the；③ 与 first of all（首先，次序）近义但更强调优先级。",
+    "synonym_points": [
+      "business before pleasure — 正事优先（谚语）",
+      "prioritize — 排优先级（正式）",
+      "let's tackle the big one first — 先解决大的",
+      "one step at a time — 一步一步来"
+    ],
+    "antonym_points": [
+      "cart before the horse — 本末倒置",
+      "sweat the small stuff — 纠结小事",
+      "all at once — 一拥而上",
+      "later, not now — 先放一边"
+    ],
+    "extended_points": [
+      "triage — 分级处置（医疗/项目管理）",
+      "prioritize — 排优先级",
+      "business before pleasure — 正事优先"
+    ],
+    "key_point": "【速记】First things first = 要事优先。\n复数 things 固定；会议开场常用。\n反义 cart before the horse。"
+  },
+  {
+    "point_content": "I've heard so much about you",
+    "tag": ["社交客套", "久仰", "正面", "商务/社交", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "久仰大名；我早就听说过你；听人提起过你很多次\n自然译法：久仰久仰 / 早有耳闻 / 常听人说起你",
+    "examples": [
+      "I've heard so much about you from Anna. 我从安娜那儿听了很多你的事。",
+      "I've heard so much about you — all good, I promise. 久仰，都是好话，我保证。",
+      "He greeted me with \"I've heard so much about you.\" 他用「久仰大名」跟我打招呼。",
+      "I've heard so much about you, but let's start from the basics. 早听说过，不过我们从基础开始。",
+      "It's a friendly opener, but vague — follow with a real question. 这是友好开场，但空泛，后面要接真问题。"
+    ],
+    "explanation": "【概要】社交客套开场语，表示通过第三方对对方已有了解，含恭维意味，常用于初次见面与商务引荐。\n【结构】hear about sb（听说某人）；也可说 I've heard great things about you。\n【语用】正面，正式社交；若随后说不出具体内容会显敷衍。\n【易错】① 用 hear about/of，不用 hear from（收到某人来信）；② 与 I've heard of you（知道有这么个人）程度不同；③ 口语可省 I've。",
+    "synonym_points": [
+      "I've heard great things about you — 我听了很多你的好话",
+      "your reputation precedes you — 你名声在外（更文雅）",
+      "I know you by reputation — 久闻大名",
+      "people speak highly of you — 大家对你评价很高"
+    ],
+    "antonym_points": [
+      "I don't know you at all — 我完全不了解你",
+      "never heard of you — 没听说过你",
+      "who are you again — 你是谁来着",
+      "no idea who you are — 不知道你是谁"
+    ],
+    "extended_points": [
+      "hear about 与 hear from 的区别",
+      "reputation precedes you — 名声在外",
+      "name-dropping — 提人名攀关系"
+    ],
+    "key_point": "【速记】I've heard so much about you = 久仰大名。\nhear about/of 而非 from；空泛客套。\n文雅版 reputation precedes you。"
+  },
+  {
+    "point_content": "Are you hitting on me?",
+    "tag": ["社交质问", "搭讪", "敏感", "关系", "中性偏负"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你在撩我吗？；你在追我吗？；（不悦）你这是在勾搭我？\n自然译法：你这是在撩我？/ 你什么意思，想约我？/ 别来这套",
+    "examples": [
+      "Are you hitting on me, or just being friendly? 你在撩我，还是只是友善？",
+      "She asked if he was hitting on her, and he said yes. 她问是不是在撩她，他说是。",
+      "Are you hitting on me? I'm here to work. 你在撩我吗？我是来工作的。",
+      "He wasn't hitting on her; he just wanted the report. 他不是在撩她，只是想要报告。",
+      "Asking \"are you hitting on me\" can be playful or a warning. 这句可以俏皮，也可以是警告。"
+    ],
+    "explanation": "【概要】hit on sb 指对某人有意搭讪、示好、提出邀约，疑问句用于确认意图或表达不适。\n【结构】hit on sb（及物，非正式）；名词 a hit-on 极少；正式说 show romantic interest。\n【语用】敏感话题：朋友间可玩笑，职场中该句多带拒绝与警告意味；对方否认时给台阶。\n【易错】① 介词 on 固定；② 与 hit sb（打人）完全不同；③ 语境与语气决定是玩笑还是投诉。",
+    "synonym_points": [
+      "are you flirting with me — 你在跟我调情吗",
+      "are you asking me out — 你在约我吗",
+      "are you making a move — 你在示好吧（口语）",
+      "are you coming on to me — 你在勾搭我吗（更直白）"
+    ],
+    "antonym_points": [
+      "I'm just being friendly — 我只是友善",
+      "I'm not interested — 我没兴趣",
+      "I'm here to work — 我是来工作的",
+      "no strings attached — 没别的意思"
+    ],
+    "extended_points": [
+      "hit on sb — 搭讪（非正式）",
+      "flirt — 调情",
+      "harassment policy — 职场骚扰规定（边界）"
+    ],
+    "key_point": "【速记】hit on sb = 搭讪/撩。\n介词 on；职场中多为警告。\n勿混 hit sb（打人）。"
+  },
+  {
+    "point_content": "Right as rain",
+    "tag": ["英式习语", "健康正常", "正面", "口语", "英式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "身体很好；一切正常；完好如初\n自然译法：好着呢 / 一点事没有 / 恢复正常了",
+    "examples": [
+      "After a day's rest, he was right as rain. 休息一天后他完全好了。",
+      "The car's engine is right as rain now. 车发动机现在一点问题没有。",
+      "\"How's your back?\" \"Right as rain.\" 「你背怎么样？」「好得很。」",
+      "She felt right as rain after the surgery. 手术后她感觉一切正常。",
+      "Right as rain is British and slightly old-fashioned. 这是英式说法，稍显老派。"
+    ],
+    "explanation": "【概要】英式习语，表示健康、运转或状态完全正常，语气轻松积极，也可形容物品。\n【结构】be (as) right as rain（as 可省）；也可说 fit as a fiddle（更强调强壮）。\n【语用】正面，健康问候、设备状态；美式口语较少用。\n【易错】① 固定 rain（不可换 weather）；② 与 right as rain 的 as 可省略；③ 与 right on（正确/继续）不同。",
+    "synonym_points": [
+      "fit as a fiddle — 身体很棒",
+      "in perfect shape — 状态完美",
+      "good as new — 完好如新",
+      "tip-top — 状态极好（英式口语）"
+    ],
+    "antonym_points": [
+      "under the weather — 身体不适",
+      "feeling awful — 难受得很",
+      "in bad shape — 状况很差",
+      "falling apart — 快散架了"
+    ],
+    "extended_points": [
+      "fit as a fiddle — 同义强调版",
+      "good as new — 修好如新",
+      "tip-top condition — 极佳状态"
+    ],
+    "key_point": "【速记】right as rain = 身体好、一切正常（英式）。\n固定 rain；美式少用。\n近义 fit as a fiddle。"
+  },
+  {
+    "point_content": "Bury the hatchet",
+    "tag": ["习语", "和解", "正面", "关系/外交", "书面口语通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "化干戈为玉帛；言归于好；放下旧怨\n自然译法：握手言和 / 过去的就过去 / 把仇了了",
+    "examples": [
+      "The brothers buried the hatchet after ten years. 兄弟俩十年后言归于好。",
+      "Let's bury the hatchet and focus on the project. 咱们别翻旧账，专注项目。",
+      "They buried the hatchet at the reunion. 他们在同学会上和解了。",
+      "Burying the hatchet doesn't erase the past. 和解不代表过去没发生。",
+      "The two countries agreed to bury the hatchet. 两国同意化解旧怨。"
+    ],
+    "explanation": "【概要】bury the hatchet 指停止敌对、达成和解，源北美原住民议和时埋藏武器的习俗，语域中性偏正式。\n【结构】bury the hatchet（固定 the hatchet，单数）；也可说 make peace、let bygones be bygones。\n【语用】正面，家庭、团队、外交和解；并不等于责任清零（语用提醒）。\n【易错】① 固定 the hatchet（不是 a）；② 与 bury the past（更泛）不同；③ 不表示「藏起工具」。",
+    "synonym_points": [
+      "make peace — 讲和",
+      "let bygones be bygones — 过去就让它过去",
+      "clear the air — 把话说开",
+      "patch things up — 修补关系"
+    ],
+    "antonym_points": [
+      "hold a grudge — 记仇",
+      "keep score — 记旧账",
+      "pick a fight — 找架吵",
+      "reopen old wounds — 揭旧伤"
+    ],
+    "extended_points": [
+      "let bygones be bygones — 既往不咎",
+      "hold a grudge — 记仇",
+      "clear the air — 消除隔阂"
+    ],
+    "key_point": "【速记】bury the hatchet = 化干戈为玉帛。\n固定 the hatchet；语域中性偏正式。\n近义 let bygones be bygones。"
+  },
+  {
+    "point_content": "Take a leap of faith",
+    "tag": ["激励语", "冒险信任", "正面", "书面/口语", "决定"],
+    "translation_lang": "zh-CN",
+    "translation_content": "放手一搏；豁出去相信一次；凭信念跳出舒适区\n自然译法：信一把 / 赌一次 / 闭着眼跳",
+    "examples": [
+      "She took a leap of faith and started her own company. 她豁出去开了自己的公司。",
+      "Sometimes you have to take a leap of faith. 有时就得凭信念赌一把。",
+      "He took a leap of faith and moved abroad without a job. 他没工作就出国了，全靠一股信念。",
+      "Taking a leap of faith isn't the same as being reckless. 放手一搏不等于不顾后果。",
+      "I took a leap of faith and called her. 我鼓起勇气给她打了电话。"
+    ],
+    "explanation": "【概要】指在没有十足把握时，凭信念或勇气做出重大决定或投入，常用于人生转折叙述。\n【结构】take a leap of faith（可数，需 a）；也可说 take the plunge（偏具体决定）。\n【语用】正面，创业、感情、转行叙事；作为建议时应同时提示风险。\n【易错】① 需冠词 a；② 与 leap at（抓住机会）不同；③ 与 take the plunge（下决心做，常指结婚/买房）近义。",
+    "synonym_points": [
+      "take the plunge — 下决心干（常指结婚/开工）",
+      "go for it — 去争取",
+      "bite the bullet — 硬着头皮做",
+      "trust the process — 相信过程"
+    ],
+    "antonym_points": [
+      "play it safe — 稳妥为上",
+      "stick to the plan — 按原计划",
+      "hedge your bets — 两头下注",
+      "stay in your comfort zone — 待在舒适区"
+    ],
+    "extended_points": [
+      "take the plunge — 下决心（近义）",
+      "comfort zone — 舒适区",
+      "risk assessment — 风险评估（对照）"
+    ],
+    "key_point": "【速记】take a leap of faith = 放手一搏。\n需冠词 a；不等于 reckless。\n近义 take the plunge。"
+  },
+  {
+    "point_content": "Don't be a stranger",
+    "tag": ["告别语", "常联系", "正面", "社交", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "常联系；别断了来往；有空常来\n自然译法：别不联系啊 / 常回来看看 / 有事就找我",
+    "examples": [
+      "Call me sometime — don't be a stranger. 有空打给我，别断了联系。",
+      "Don't be a stranger, okay? 别不联系啊，好吗？",
+      "He hugged her and said, \"Don't be a stranger.\" 他抱着她说「常联系」。",
+      "Don't be a stranger — you're always welcome here. 常来，这儿随时欢迎你。",
+      "It's a warm goodbye, not a literal warning. 这是温暖的告别语，不是真的警告。"
+    ],
+    "explanation": "【概要】告别时的温暖套语，希望对方保持联系、不要因疏远而断了往来。\n【结构】Don't be a stranger.（祈使句）；也可说 stay in touch / keep in touch。\n【语用】正面，朋友搬走、聚会结束、离职告别；对客户可用 keep in touch（更专业）。\n【易错】① 与 stranger danger（陌生人危险）无关；② 不含责怪意味；③ 商务场合改用 let's stay in touch。",
+    "synonym_points": [
+      "stay in touch — 保持联系",
+      "keep in touch — 常联系（略正式）",
+      "come by anytime — 随时来",
+      "drop me a line — 给我写个信/发个消息"
+    ],
+    "antonym_points": [
+      "good riddance — 走了正好（贬）",
+      "don't call me — 别打给我",
+      "we're done — 到此为止",
+      "lose my number — 别联系了（玩笑/负气）"
+    ],
+    "extended_points": [
+      "stay in touch — 商务温和版",
+      "keep in touch — 常联系",
+      "drop sb a line — 给某人发消息"
+    ],
+    "key_point": "【速记】Don't be a stranger = 常联系、别断来往。\n温暖告别语；商务用 stay in touch。\n无责怪意味。"
+  },
+  {
+    "point_content": "Not my call",
+    "tag": ["职场表达", "权限", "中性", "责任边界", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我说了不算；这不是我能决定的；不归我拍板\n自然译法：这不是我决定的 / 得问上面 / 我没这个权限",
+    "examples": [
+      "Whether we hire him isn't my call. 招不招他不是我决定的。",
+      "Not my call — take it to the director. 我决定不了，去找总监。",
+      "She said the budget cut wasn't her call. 她说砍预算不是她定的。",
+      "It's not my call, but I can pass it along. 我说了不算，但我可以转达。",
+      "Saying \"not my call\" is honest but can sound like dodging. 说「我说了不算」很诚实，但也像推事。"
+    ],
+    "explanation": "【概要】说明某项决定超出自己的权限，属职场划清责任边界的表达。\n【结构】sth is not one's call（call 表「决定」）；也可说 above my pay grade、that's for someone else to decide。\n【语用】中性，职场分工说明；频繁使用会显得推诿，应补上「我能做什么」。\n【易错】① call 在此为名词「决定」；② 物主代词随人变（not my/ his call）；③ 与 not my thing（不是我的兴趣/专长）不同。",
+    "synonym_points": [
+      "above my pay grade — 超出我权限（口语）",
+      "that's not up to me — 不由我决定",
+      "I don't have the authority — 我没权限（正式）",
+      "that's someone else's decision — 那是别人的决定"
+    ],
+    "antonym_points": [
+      "that's my call — 我说了算",
+      "I'll decide — 我来定",
+      "on my authority — 由我批准",
+      "I have the final say — 我有最终决定权"
+    ],
+    "extended_points": [
+      "make the call — 做决定",
+      "escalate — 上报（补一句我能转达）",
+      "above my pay grade — 超出权限"
+    ],
+    "key_point": "【速记】Not my call = 我说了不算。\ncall 为名词「决定」；须补「我能做什么」。\n近义 above my pay grade。"
+  },
+  {
+    "point_content": "So be it",
+    "tag": ["书面/口语", "接受结果", "中性", "决断", "略宿命"],
+    "translation_lang": "zh-CN",
+    "translation_content": "那就这样吧；随它去；也就罢了\n自然译法：那就这样 / 既然这样就算了 / 认了",
+    "examples": [
+      "If they refuse, so be it — we'll proceed alone. 他们拒绝就拒绝吧，我们自己干。",
+      "So be it. I've said everything I needed. 那就这样吧，我该说的都说了。",
+      "He resigned, and the board said, \"So be it.\" 他辞职，董事会说「那就这样」。",
+      "So be it sounds resigned but firm. 这句听着无奈，但态度坚定。",
+      "So be it — but remember the consequences. 那就这样，但后果自负。"
+    ],
+    "explanation": "【概要】表示接受某个不受欢迎的结果、不再争辩，语气平静而带决断，略正式/宿命感。\n【结构】So be it.（独立句）；也可说 so be it then、have it your way（更口语）。\n【语用】中性，谈判收尾、正式表态；口语中显冷静而非热情。\n【易错】① 固定 so be it（不倒装）；② 与 so it is（那就这样，确认事实）略不同；③ 不表示同意内容，只表示接受结果。",
+    "synonym_points": [
+      "so it goes — 就这样吧（宿命感）",
+      "have it your way — 随你便（略不满）",
+      "fine, let it be — 行吧，随它",
+      "I accept that — 我接受（正式）"
+    ],
+    "antonym_points": [
+      "no way — 不行",
+      "I won't accept that — 我不接受",
+      "let's push back — 我们反驳",
+      "not so fast — 慢着"
+    ],
+    "extended_points": [
+      "so it goes — 库尔特·冯内古特式宿命语",
+      "have it your way — 随你便",
+      "accept the outcome — 接受结果"
+    ],
+    "key_point": "【速记】So be it = 那就这样吧（接受结果）。\n固定语序；平静而坚定。\n近义 so it goes。"
+  },
+  {
+    "point_content": "Are you expecting someone?",
+    "tag": ["社交提问", "等约", "中性", "场合判断", "礼貌"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你在等人吗？；你有约吗？\n自然译法：你在等人？/ 有人要来吗 / 你约了人？",
+    "examples": [
+      "You keep checking the door — are you expecting someone? 你老看门口，在等人吗？",
+      "Are you expecting someone, or can I join you? 你在等人吗，还是我能坐这儿？",
+      "She asked if he was expecting someone before sitting down. 她坐下前问他是不是在等人。",
+      "Are you expecting someone? The extra chair confused me. 你在等人吗？多出把椅子我有点疑惑。",
+      "In hotels, \"are you expecting someone\" can be a security question. 酒店里这句话也可能是安保询问。"
+    ],
+    "explanation": "【概要】询问对方是否在等某位特定的人，用于判断能否加入、是否有约或场合安排。\n【结构】expect sb（等某人，不是「期待」情绪）；也可说 are you waiting for someone。\n【语用】中性礼貌，餐厅、共享座位、社交场合；也可作安保核实。\n【易错】① expect sb 在此为「等待某人到来」；② 与 expect sth（预期某事）区别明显；③ 与 are you with someone（有人陪你吗）略不同。",
+    "synonym_points": [
+      "are you waiting for someone — 你在等人吗（更直白）",
+      "do you have company coming — 有人要来吗",
+      "is someone joining you — 有人跟你一起吗",
+      "are you here alone — 你一个人来的吗（不同侧重）"
+    ],
+    "antonym_points": [
+      "I'm here alone — 我一个人来的",
+      "nobody's coming — 没人来",
+      "I'm meeting someone here — 我在这儿见人（肯定式）",
+      "the seat's free — 座位空着"
+    ],
+    "extended_points": [
+      "expect sb 与 wait for sb 的差别",
+      "expecting a baby — 怀孕（易混搭配）",
+      "are you with someone — 有人陪你吗"
+    ],
+    "key_point": "【速记】Are you expecting someone? = 你在等人吗。\nexpect sb＝等某人到来。\n勿混 expecting a baby（怀孕）。"
+  },
+  {
+    "point_content": "the more the merrier",
+    "tag": ["谚语/口语", "人越多越热闹", "正面", "社交", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "人越多越热闹；多多益善；来的人越多越好\n自然译法：人多才热闹 / 都叫上吧 / 越多越好",
+    "examples": [
+      "Bring your friends — the more the merrier. 叫上你朋友吧，人多热闹。",
+      "The more the merrier, as long as we have enough chairs. 人多热闹，只要椅子够。",
+      "She invited the whole class: the more the merrier. 她把全班都叫上了，人多才好玩。",
+      "The more the merrier doesn't work for a private dinner. 私密晚宴可不适用「人越多越好」。",
+      "For a potluck, the more the merrier. 自带菜聚会，人越多越好。"
+    ],
+    "explanation": "【概要】谚语式表达，指参与人数增多会更好（更热闹、分担更多），常用于邀请与人数讨论。\n【结构】the more the merrier（固定 the…the… 结构，作独立句）；也可说 the more, the better。\n【语用】正面，聚会邀请、众筹；不适用于需要私密或成本敏感的场景。\n【易错】① 两个 the 固定；② 与 the more the better（通用比较结构）区分；③ 不适用于正式会议人数。",
+    "synonym_points": [
+      "the more, the better — 越多越好",
+      "everyone's welcome — 欢迎所有人",
+      "come one, come all — 都来吧（招揽语）",
+      "the more hands the lighter the work — 人多好办事"
+    ],
+    "antonym_points": [
+      "the fewer the better — 越少越好",
+      "keep it small — 控制规模",
+      "invitation only — 仅限受邀者",
+      "too many cooks spoil the broth — 人多反而坏事"
+    ],
+    "extended_points": [
+      "too many cooks spoil the broth — 反义谚语",
+      "the…the… 比较结构（语法点）",
+      "come one, come all — 都欢迎"
+    ],
+    "key_point": "【速记】the more the merrier = 人越多越热闹。\n两个 the 固定；聚会邀请常用。\n反义 too many cooks…"
+  },
+  {
+    "point_content": "The night is young",
+    "tag": ["习语", "时间还早", "正面", "社交", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "夜色尚早；时间还早呢；别急着走\n自然译法：还早呢 / 夜才刚开始 / 别这么早散",
+    "examples": [
+      "Don't leave yet — the night is young. 别走啊，还早呢。",
+      "The night is young; let's take a walk. 时间还早，逛逛吧。",
+      "He yawned, but she said the night was young. 他打哈欠，她说夜才刚开始。",
+      "The night is young, but I have work tomorrow. 时间还早，不过我明天要上班。",
+      "Saying \"the night is young\" invites more plans, not more hours. 这句是在邀你继续玩，不是真的时间多。"
+    ],
+    "explanation": "【概要】指夜晚刚开始、还有充足时间继续活动，常用于挽留或提议继续玩，语气轻松。\n【结构】The night is young.（独立句）；反义 the night is young 的对应是 it's getting late。\n【语用】正面，聚会、约会；对第二天要上班者说会形成压力。\n【易错】① 固定 the night is young（不加 a night）；② 与 the night is still young 同义；③ 不用于清晨。",
+    "synonym_points": [
+      "it's still early — 还早呢",
+      "the evening has just begun — 晚上才刚开始",
+      "let's keep going — 继续玩",
+      "we've got all night — 整晚都有时间"
+    ],
+    "antonym_points": [
+      "it's getting late — 时间不早了",
+      "let's call it a night — 今天就到这儿",
+      "time to go home — 该回家了",
+      "the night is over — 夜已结束"
+    ],
+    "extended_points": [
+      "call it a night — 收工睡觉",
+      "the evening has just begun — 同义变体",
+      "curfew — 门禁/宵禁（对照）"
+    ],
+    "key_point": "【速记】The night is young = 天还早、别急着走。\n固定 the night；反义 it's getting late。\n挽留/邀约用。"
+  },
+  {
+    "point_content": "Don't jinx it",
+    "tag": ["口语提醒", "别触霉头", "中性", "迷信色彩", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别乌鸦嘴；别说晦气话；别把它说坏了\n自然译法：别乱说，说坏就坏 / 别提，怕不吉利 / 嘴上留点德",
+    "examples": [
+      "We're 2-0 up — don't jinx it. 我们领先两球，别乌鸦嘴。",
+      "Don't jinx it by saying we've won. 别说什么「我们赢了」，一说就坏。",
+      "She knocked on wood — don't jinx it. 她敲了敲木头，别触霉头。",
+      "Don't jinx it; the deal isn't signed. 别说不吉利的话，合同还没签。",
+      "Whether or not jinxes exist, people still say don't jinx it. 有没有这种事不好说，大家还是照说。"
+    ],
+    "explanation": "【概要】提醒对方别用言语「诅咒」了好结果，源于对言语魔力的迷信，口语高频，也常配 knock on wood。\n【结构】jinx（动词/名词）；Don't jinx it.（也可 be quiet, don't jinx it）。\n【语用】中性，体育、考试、交易场景；正式场合可用 let's not tempt fate。\n【易错】① jinx 及物，宾语常用 it；② 与 hex（施咒）近义但更口语；③ 不算脏话，但含迷信。",
+    "synonym_points": [
+      "don't tempt fate — 别招厄运（略正式）",
+      "knock on wood — 敲木头（消灾动作）",
+      "don't speak too soon — 别过早断言",
+      "touch wood — 摸木头（英式）"
+    ],
+    "antonym_points": [
+      "it's in the bag — 稳了（自信断言）",
+      "count on it — 放心，必成",
+      "guaranteed — 保证成功",
+      "we've already won — 我们已经赢了"
+    ],
+    "extended_points": [
+      "knock on wood / touch wood — 消灾习俗",
+      "tempt fate — 招厄运",
+      "count your chickens before they hatch — 过早乐观"
+    ],
+    "key_point": "【速记】Don't jinx it = 别乌鸦嘴（带迷信色彩）。\n可配 knock on wood；正式版 tempt fate。\n体育/交易场景高频。"
+  },
+  {
+    "point_content": "cold feet",
+    "tag": ["习语", "临阵退缩", "中性偏负", "情绪", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "临阵退缩；事到临头怯场；打退堂鼓\n自然译法：到跟前就怂了 / 临时不敢了 / 关键时候掉链子",
+    "examples": [
+      "He got cold feet and cancelled the wedding. 他临阵退缩，取消了婚礼。",
+      "Investors got cold feet when the market dropped. 市场一跌，投资者就怯了。",
+      "She had cold feet about moving abroad alone. 要独自出国她心里打退堂鼓。",
+      "Getting cold feet before a big decision is normal. 重大决定前怯场很正常。",
+      "Don't let cold feet cost you the chance. 别因为临阵害怕错过机会。"
+    ],
+    "explanation": "【概要】get/have cold feet 指在关键时刻因恐惧或犹豫而退缩、放弃原计划。\n【结构】get cold feet（不带冠词，固定复数 feet）；也可说 back out、chicken out（更贬）。\n【语用】中性偏负，婚姻、投资、跳槽；自述时多为坦诚，指责时则含轻蔑。\n【易错】① 不加 a；② 与 cold shoulder（冷落）不同；③ 与 have cold feet about sth 搭配 about。",
+    "synonym_points": [
+      "back out — 退出、反悔",
+      "chicken out — 临阵脱逃（更贬）",
+      "have second thoughts — 又犹豫了",
+      "get the jitters — 心慌（口语）"
+    ],
+    "antonym_points": [
+      "go through with it — 硬着头皮完成",
+      "commit fully — 全力投入",
+      "bite the bullet — 咬牙做了",
+      "see it through — 坚持到底"
+    ],
+    "extended_points": [
+      "cold shoulder — 冷落（形似义异）",
+      "chicken out — 怯场退出",
+      "sunk cost — 沉没成本（相关决策概念）"
+    ],
+    "key_point": "【速记】cold feet = 临阵退缩。\n固定复数、不加冠词；搭配 about。\n勿混 cold shoulder（冷落）。"
+  },
+  {
+    "point_content": "Two wrongs don't make a right",
+    "tag": ["谚语", "以德报怨", "正面", "道德", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "两个错误不等于一个正确；以错报错解决不了问题；不要错上加错\n自然译法：他错你也不能错 / 别以牙还牙 / 报复不解决问题",
+    "examples": [
+      "He was rude, but two wrongs don't make a right. 他无礼，但你也不能跟着无礼。",
+      "Two wrongs don't make a right — report it, don't retaliate. 别错上加错，去举报，不要报复。",
+      "She wanted revenge, but her mother said two wrongs don't make a right. 她想报复，她妈妈说以错报错不行。",
+      "Two wrongs don't make a right, and lawsuits prove it. 以错报错没用，诉讼就是例子。",
+      "It's a cliché, but two wrongs really don't make a right. 这话虽老套，但确实如此。"
+    ],
+    "explanation": "【概要】谚语，劝人不要用同样错误的方式回应他人的错，主张通过正当途径解决。\n【结构】Two wrongs don't make a right.（独立谚语，动词用 don't）；相关 two negatives make a positive（语法/逻辑，非道德）。\n【语用】正面，冲突调解、教育；被滥用时可能压制正当维权，需区分「报复」与「维权」。\n【易错】① make 用 don't（主语 two wrongs 复数）；② 与两个否定表肯定（语言学规则）不要混淆；③ 不等于要求一味忍让。",
+    "synonym_points": [
+      "an eye for an eye leaves everyone blind — 以眼还眼，大家都瞎",
+      "turn the other cheek — 打左脸给右脸",
+      "don't stoop to their level — 别降到他那水平",
+      "rise above it — 高姿态处理"
+    ],
+    "antonym_points": [
+      "an eye for an eye — 以眼还眼",
+      "tit for tat — 一报还一报",
+      "get even — 报复",
+      "fight fire with fire — 以火攻火"
+    ],
+    "extended_points": [
+      "tit for tat — 一报还一报",
+      "turn the other cheek — 容忍",
+      "retaliation vs accountability — 报复与追责的区别"
+    ],
+    "key_point": "【速记】Two wrongs don't make a right = 不要错上加错。\ndon't 搭配复数主语；但别压制正当维权。\n反义 tit for tat。"
+  },
+  {
+    "point_content": "The tables have turned",
+    "tag": ["习语", "形势逆转", "中性", "叙事", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "形势逆转了；风水轮流转；局面反过来了\n自然译法：现在倒过来了 / 轮到我们了 / 强弱易位",
+    "examples": [
+      "The tables have turned — now they need us. 形势逆转了，现在他们需要我们。",
+      "After the merger, the tables turned completely. 合并之后局面彻底反过来。",
+      "He used to bully me; now the tables have turned. 他以前欺负我，现在反过来了。",
+      "The tables have turned, but gloating won't help. 局面反转了，但得意也没用。",
+      "In sports, the tables can turn in one minute. 体育比赛中形势一分钟就能翻。"
+    ],
+    "explanation": "【概要】the tables turn/turned 指双方地位、优势完全颠倒，常用于叙事与政治、商业评论。\n【结构】turn the tables (on sb)（主动版：扭转局面）；the tables have turned（完成版）。\n【语用】中性，叙事与评论；用于宣泄报复快感时略显小人得志。\n【易错】① tables 复数固定；② turn the tables 与 tables have turned 主语不同；③ 不表示「翻桌子」。",
+    "synonym_points": [
+      "the tide has turned — 潮流转向",
+      "roles have reversed — 角色互换",
+      "now the shoe is on the other foot — 现在换另一边了",
+      "the worm has turned — 弱者翻身（含报复味）"
+    ],
+    "antonym_points": [
+      "same as always — 一如既往",
+      "status quo — 维持现状",
+      "no change — 没变化",
+      "business as usual — 照常进行"
+    ],
+    "extended_points": [
+      "turn the tables on sb — 反制某人",
+      "the shoe is on the other foot — 位置对调",
+      "the tide has turned — 大势转向"
+    ],
+    "key_point": "【速记】the tables have turned = 形势逆转。\ntables 复数固定；主动版 turn the tables on sb。\n近义 shoe on the other foot。"
+  }
+]

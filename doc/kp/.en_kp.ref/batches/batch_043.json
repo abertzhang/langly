@@ -1,0 +1,450 @@
+[
+  {
+    "point_content": "You are on fire.",
+    "tag": ["称赞口语", "状态火热", "正面", "竞技/工作", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你状态火热；你太猛了；你简直停不下来（表现极佳）\n注意：与 I'm on fire 同源，第二人称用于称赞他人\n自然译法：你今天太猛了 / 手感火热 / 状态爆棚",
+    "examples": [
+      "Three goals in a half — you are on fire. 半场三球，你太猛了。\n",
+      "You are on fire today; keep going. 你今天状态火热，继续。\n",
+      "On fire means performing excellently. 指表现出色、势不可挡。\n",
+      "It can also mean literally burning — context decides. 也可指真的着火，看语境。\n",
+      "Neutral version: \"you're performing brilliantly.\" 中性版：你表现非常出色。"
+    ],
+    "explanation": "【概要】口语称赞，指对方连续表现出色、势不可挡；源自 on fire（着火）的比喻。字面义（真的起火）也存在，需靠语境判断。\n【结构】be on fire（介词短语作表语）；近义 on a roll、crushing it、in the zone。\n【语用】正面，体育、销售、创作；在安全语境（火灾）中勿使用以免混淆。\n【易错】① 与 I'm on fire 人称不同；② 字面义与比喻义并用需语境；③ 与 catch fire（开始着火）不同。",
+    "synonym_points": [
+      "on a roll — 连着顺",
+      "in the zone — 进入状态",
+      "crushing it — 干得漂亮",
+      "unstoppable — 挡不住"
+    ],
+    "antonym_points": [
+      "off your game — 不在状态",
+      "in a slump — 状态低迷",
+      "cold streak — 手感冰凉",
+      "struggling — 苦苦挣扎"
+    ],
+    "extended_points": [
+      "in the zone（运动心理）",
+      "on a roll",
+      "literal vs figurative"
+    ],
+    "key_point": "【速记】You are on fire = 你状态火热。\n第二人称称赞；注意字面「着火」义。\n近义 in the zone。"
+  },
+  {
+    "point_content": "Boom and bust.",
+    "tag": ["经济术语", "繁荣与萧条", "中性", "经济/周期", "专业词"],
+    "translation_lang": "zh-CN",
+    "translation_content": "繁荣与萧条；暴涨暴跌的周期；兴衰循环\n自然译法：一波繁荣一波萧条 / 大起大落 / 兴衰交替",
+    "examples": [
+      "The crypto market is known for boom and bust. 加密市场以暴涨暴跌著称。\n",
+      "Boom and bust cycles hurt small towns. 繁荣-萧条周期伤及小城镇。\n",
+      "Boom means rapid growth; bust means collapse. boom 为快速扩张，bust 为崩塌。\n",
+      "Often hyphenated as boom-and-bust. 定语形式加连字符。\n",
+      "Neutral version: \"cyclical volatility.\" 中性版：周期性波动。"
+    ],
+    "explanation": "【概要】经济学常用表达，指经济或行业在快速扩张（繁荣）与急剧下滑（萧条）之间反复循环。\n【结构】boom and bust（并列名词短语；定语 boom-and-bust + 名词）；近义 cyclical swings、bubble and crash。\n【语用】中性，宏观经济、房地产、加密资产讨论；描述个人收入波动时可作比喻。\n【易错】① 定语加连字符；② 与 boom（轰鸣声）本义区分；③ 与 recession（衰退）程度不同。",
+    "synonym_points": [
+      "cyclical swings — 周期波动",
+      "bubble and crash — 泡沫与崩盘",
+      "peaks and troughs — 高峰与低谷",
+      "ups and downs — 起起落落（口语）"
+    ],
+    "antonym_points": [
+      "steady growth — 稳定增长",
+      "sustained expansion — 持续扩张",
+      "stable market — 稳定市场",
+      "flatline — 长期持平"
+    ],
+    "extended_points": [
+      "business cycle（商业周期）",
+      "bubble economy",
+      "boom town（因繁荣兴起的小镇）"
+    ],
+    "key_point": "【速记】Boom and bust = 繁荣与萧条。\n经济周期用语；定语加连字符。\n近义 bubble and crash。"
+  },
+  {
+    "point_content": "Your move.",
+    "tag": ["棋类/博弈用语", "该你走了/轮到你", "中性", "谈判/对峙", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "该你走了；（比喻）轮到你出招、你先表态\n自然译法：该你了 / 你先出招 / 你说怎么办吧",
+    "examples": [
+      "Your move — I've already placed my bet. 该你了，我已经下注了。\n",
+      "The ball is in their court — your move, actually theirs. 球在他们那边（注意主语）。\n",
+      "It comes from board games. 源自棋类。\n",
+      "As metaphor it pressures the other side to act. 比喻义是逼对方行动。\n",
+      "Neutral version: \"the next step is yours.\" 中性版：下一步由你定。"
+    ],
+    "explanation": "【概要】棋类用语「该你走了」，引申为谈判或对峙中把行动主动权交给对方，暗示「我等你的决定」。\n【结构】Your move.（名词短语独立成句）；近义 the ball is in your court、over to you。\n【语用】中性，谈判、博弈、家庭协商；语气过冷会显得咄咄逼人。\n【易错】① 与 move（搬家/移动）本义区分；② 与 you're moved（被感动，无此搭配）无关；③ 注意 the ball is in your court 主语对应。",
+    "synonym_points": [
+      "the ball is in your court — 球在你那边/该你了",
+      "over to you — 交给你了",
+      "your turn — 轮到你了",
+      "the next step is yours — 下一步你定"
+    ],
+    "antonym_points": [
+      "my move — 我来走这一步",
+      "I'll go first — 我先来",
+      "we're waiting on you — 我们在等你（同向施压）",
+      "hold — 先停"
+    ],
+    "extended_points": [
+      "the ball is in your court",
+      "board game metaphors",
+      "negotiation turns"
+    ],
+    "key_point": "【速记】Your move = 该你走了/轮到你。\n源自棋类；比喻逼对方表态。\n近义 over to you。"
+  },
+  {
+    "point_content": "Belle of the ball.",
+    "tag": ["社交称谓", "舞会之花/全场焦点", "正面", "舞会/聚会", "文化词"],
+    "translation_lang": "zh-CN",
+    "translation_content": "舞会上最出众的女子；全场焦点人物\n自然译法：全场最亮的那位 / 舞会之花 / 万众瞩目",
+    "examples": [
+      "She was the belle of the ball in that red dress. 她穿红裙成了全场焦点。\n",
+      "He joked that he was the belle of the ball. 他开玩笑说自己是全场焦点（男性自嘲用法）。\n",
+      "Belle means beautiful woman in French. belle 在法语中指美人。\n",
+      "Originally refers to a debutante ball. 原指社交舞会。\n",
+      "Neutral version: \"the center of attention.\" 中性版：全场焦点。"
+    ],
+    "explanation": "【概要】源自欧洲社交舞会文化，指当晚最受瞩目、最受欢迎的女子；现代也幽默地用于任何「全场焦点」的人。\n【结构】the belle of the ball（固定 the + belle of the ball）；近义 the star of the show、center of attention。\n【语用】正面，舞会、年会、婚礼；用于男性时多为玩笑。\n【易错】① 原指女性，男性使用需幽默语境；② belle 与 bell（铃）不同；③ 现代更常用 center of attention。",
+    "synonym_points": [
+      "the star of the show — 全场主角",
+      "center of attention — 全场焦点",
+      "the life of the party — 聚会灵魂人物",
+      "the guest of honor — 主宾"
+    ],
+    "antonym_points": [
+      "wallflower — 舞会上落单的人",
+      "a wallflower at the party — 无人问津",
+      "in the background — 在角落",
+      "overlooked — 被忽略"
+    ],
+    "extended_points": [
+      "wallflower（对照词）",
+      "debutante ball（名媛舞会）",
+      "social spotlight"
+    ],
+    "key_point": "【速记】Belle of the ball = 舞会之花/全场焦点。\n原指女性；男性用多为玩笑。\n反义 wallflower。"
+  },
+  {
+    "point_content": "Home wrecker.",
+    "tag": ["贬义称谓", "第三者/破坏家庭的人", "强负面（道德评判）", "婚恋/伦理", "语域提示"],
+    "translation_lang": "zh-CN",
+    "translation_content": "破坏别人家庭的人；（多指）第三者\n语域提示：该词带强烈道德评判与性别倾向（多用于指女性），公开使用易造成人身攻击与名誉伤害；讨论关系问题时宜用中性描述「a third party in the relationship」并就事实核实\n自然译法：第三者 / 插足的人 / 搅散别人家庭的人",
+    "examples": [
+      "The tabloids called her a home wrecker. 小报称她为第三者。\n",
+      "The label usually targets women unfairly. 这个标签多不公平地指向女性。\n",
+      "Neutral: \"a third party in the marriage.\" 中性：a third party in the marriage。\n",
+      "Avoid moral labels when facts are unclear. 事实不明时别贴道德标签。\n",
+      "Discuss behavior and responsibility, not epithets. 谈行为与责任，而非骂名。"
+    ],
+    "explanation": "【概要】字面「家庭破坏者」，指介入他人婚姻或伴侣关系的人，多用于指责女性第三者；属带道德审判与性别偏见的贬义标签。\n【结构】a home wrecker（可数名词）；近义（中性）a third party、an affair partner。\n【语用】强负面，八卦、影视；公开指认可能构成名誉侵害，宜用中性表述。\n【易错】① 性别倾向明显，非中性；② 与 housebreaker（入室盗窃者）不同；③ 事实未明时使用属污名化。",
+    "synonym_points": [
+      "a third party — 第三方（中性）",
+      "an affair partner — 婚外情对象（中性）",
+      "the other woman — 那个女人（口语，含偏见）",
+      "marriage breaker — 破坏婚姻者（贬）"
+    ],
+    "antonym_points": [
+      "faithful partner — 忠诚的伴侣",
+      "the wronged spouse — 被背叛的一方",
+      "loyalty — 忠诚",
+      "commitment — 承诺"
+    ],
+    "extended_points": [
+      "defamation risk（名誉风险）",
+      "affair terminology",
+      "gender bias in labels"
+    ],
+    "key_point": "【速记】Home wrecker = 第三者（带道德与性别偏见）。\n公开指认有风险；中性说 third party。\n事实不明勿贴标签。"
+  },
+  {
+    "point_content": "Roll the dice.",
+    "tag": ["风险决策比喻", "赌一把/冒险一试", "中性", "投资/决策", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "掷骰子赌一把；冒险一试；承担不确定的结果\n自然译法：赌一把 / 冒个险 / 试了才知道",
+    "examples": [
+      "We rolled the dice on the new market. 我们在新市场赌了一把。\n",
+      "Sometimes you have to roll the dice. 有时只能赌一把。\n",
+      "It accepts uncertainty rather than predicting it. 强调接受不确定，而非预测。\n",
+      "Softer: \"take a calculated risk.\" 缓和版：take a calculated risk。\n",
+      "Neutral version: \"make a high-uncertainty bet.\" 中性版：做一次高不确定下注。"
+    ],
+    "explanation": "【概要】以掷骰子比喻做结果不确定的决定，语气带赌博色彩；可用于创业、投资、换工作等场景。\n【结构】roll the dice (on sth)（动词短语）；近义 take a chance、take a risk、bet on sth。\n【语用】中性，商业决策、人生选择；重大资金决策宜说 calculated risk 并量化风险。\n【易错】① 固定 dice（复数形式单用）；② 与 gamble away（赌光）不同；③ 用此语不代表已做风险评估。",
+    "synonym_points": [
+      "take a chance — 冒个险",
+      "take a calculated risk — 承担可控风险",
+      "bet on it — 押注",
+      "gamble on it — 赌一把"
+    ],
+    "antonym_points": [
+      "play it safe — 稳妥行事",
+      "hedge your bets — 分散风险",
+      "do nothing — 按兵不动",
+      "wait and see — 观望"
+    ],
+    "extended_points": [
+      "calculated risk",
+      "hedge one's bets",
+      "risk appetite"
+    ],
+    "key_point": "【速记】Roll the dice = 冒险赌一把。\n接受不确定；重大决策要说 calculated risk。\n近义 take a chance。"
+  },
+  {
+    "point_content": "Meet sb. halfway.",
+    "tag": ["协商让步", "各退一步", "正面", "谈判/关系", "高频（含缩写 sb.）"],
+    "translation_lang": "zh-CN",
+    "translation_content": "各让一步；折中；双方各自妥协（sb. = somebody 某人）\n规范写法：meet somebody halfway\n自然译法：各让一步 / 双方都退点 / 你退一步我退一步",
+    "examples": [
+      "Meet me halfway and I'll sign today. 你让一步，我今天就签。\n",
+      "We met halfway on the price. 价格上我们各让一步。\n",
+      "It requires both sides to move. 强调双方都要动。\n",
+      "Index uses sb. abbreviation for somebody. 索引中的 sb. 指 somebody。\n",
+      "Neutral version: \"find a compromise.\" 中性版：达成妥协。"
+    ],
+    "explanation": "【概要】表示双方各自向对方靠拢、达成折中；用于谈判、关系修复、合作条件协商。注：索引使用 sb.（somebody）缩写，正式写作应写全。\n【结构】meet sb halfway（代词放中间：meet me halfway）；近义 split the difference、compromise。\n【语用】中性偏正，商务谈判、家庭矛盾；一方先让步可作善意信号。\n【易错】① 代词放中间；② sb. 为词典缩写，正式文本写 somebody；③ 与 meet halfway（在途中会合）字面义区分。",
+    "synonym_points": [
+      "split the difference — 各让一半",
+      "find a compromise — 达成妥协",
+      "give a little — 让一点",
+      "come to terms — 谈妥"
+    ],
+    "antonym_points": [
+      "hold the line — 寸步不让",
+      "take it or leave it — 不容商量",
+      "dig in one's heels — 咬住不放",
+      "refuse to budge — 不动摇"
+    ],
+    "extended_points": [
+      "sb./sth. 词典缩写",
+      "split the difference",
+      "negotiation give-and-take"
+    ],
+    "key_point": "【速记】Meet sb. halfway = 各退一步。\n代词放中间；sb. 指 somebody。\n近义 split the difference。"
+  },
+  {
+    "point_content": "Attagirl.",
+    "tag": ["称赞口语（性别化）", "好姑娘/真棒", "正面", "鼓励/家庭", "语域提示"],
+    "translation_lang": "zh-CN",
+    "translation_content": "好姑娘；真棒（对女性的口语称赞，= that's a girl）\n语域提示：attagirl 带性别化与「像对小孩/宠物鼓励」的意味，对成年女性在职场使用可能显轻慢；中性替代可用「well done」「nice work」\n自然译法：姑娘真棒 / 好样的（对女孩）/ 不错不错",
+    "examples": [
+      "She fixed the bike herself — attagirl. 她自己修好了车，好样的。\n",
+      "Coaches say attagirl to young athletes. 教练常用它鼓励小女孩。\n",
+      "Male counterpart: attaboy. 男性对应：attaboy。\n",
+      "At work, prefer \"well done.\" 职场更宜说 well done。\n",
+      "It can sound condescending to adults. 对成年女性可能显得居高临下。"
+    ],
+    "explanation": "【概要】that's a girl 的口语连读式，用于称赞女性（多为女孩）；语气亲昵，但对成年女性尤其在职场使用可能显得轻慢、居高临下。\n【结构】Attagirl.（感叹词化），对应 attaboy；近义 good girl（对宠物/小孩）。\n【语用】正面偏亲密，家庭、青少年体育；职场对同事用 well done 更专业。\n【易错】① 性别与年龄预设强，需语境；② 用于成年女性可能被视为 patronizing；③ 与 girl（女孩）字面称呼不同。",
+    "synonym_points": [
+      "attaboy — 好小子（男性对应）",
+      "well done — 做得好（中性）",
+      "good job — 干得好（中性）",
+      "nice work — 干得漂亮"
+    ],
+    "antonym_points": [
+      "bad girl — 不听话（对小孩）",
+      "that's disappointing — 令人失望",
+      "not good enough — 不够好",
+      "no praise — 不表扬"
+    ],
+    "extended_points": [
+      "patronizing language（居高临下）",
+      "attaboy / attagirl",
+      "workplace praise norms"
+    ],
+    "key_point": "【速记】Attagirl = 好姑娘（性别化称赞）。\n对成年女性可能显轻慢。\n中性用 well done。"
+  },
+  {
+    "point_content": "A stone's throw",
+    "tag": ["距离比喻", "一箭之遥/很近", "中性", "位置/出行", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "很近；一箭之遥；几步路的距离\n说明：索引中文为视频标题式描述，实际词义为「距离很近」\n自然译法：走两步就到 / 就在旁边 / 一箭地",
+    "examples": [
+      "The station is a stone's throw from here. 车站离这里很近。\n",
+      "They live a stone's throw away. 他们住得很近。\n",
+      "It's an idiom, not a precise distance. 是习语，不是精确距离。\n",
+      "Often with from / away. 常搭 from、away。\n",
+      "Neutral version: \"within walking distance.\" 中性版：步行可达。"
+    ],
+    "explanation": "【概要】比喻距离很近，源自掷一块石头的距离，属模糊表达而非精确计量；索引中文为标题文案，不代表词义。\n【结构】a stone's throw (from / away)（固定 a + stone's）；近义 within walking distance、a short walk away。\n【语用】中性，房产、出行、位置描述；法律或工程文件需精确米数。\n【易错】① 固定 stone's（所有格）；② 不适用于很远或需精确数据场合；③ 与 throw stones（攻击）无关。",
+    "synonym_points": [
+      "within walking distance — 步行可达",
+      "a short walk away — 走一小段",
+      "just around the corner — 就在拐角",
+      "nearby — 附近"
+    ],
+    "antonym_points": [
+      "a long way off — 很远",
+      "miles away — 好几英里外",
+      "out in the sticks — 在偏远地区",
+      "remote — 偏远"
+    ],
+    "extended_points": [
+      "within walking distance",
+      "idiomatic distance expressions",
+      "property listings 用语"
+    ],
+    "key_point": "【速记】A stone's throw = 很近。\n所有格 stone's；模糊表达。\n精确场合用 walking distance。"
+  },
+  {
+    "point_content": "Cut both ways.",
+    "tag": ["辩证表达", "利弊兼具/两头都能伤人", "中性", "论证/评论", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "有利也有弊；两面都能起作用（也指「这话反过来也适用于你」）\n自然译法：双刃剑 / 好坏都有 / 这话反过来也说得通",
+    "examples": [
+      "Remote work cuts both ways — freedom and isolation. 远程办公是双刃剑，自由也孤立。\n",
+      "That criticism cuts both ways. 那批评反过来也适用于他自己。\n",
+      "It marks a reciprocal effect. 强调对等反作用。\n",
+      "Often: \"it cuts both ways.\" 常用句式：it cuts both ways。\n",
+      "Neutral version: \"it has pros and cons.\" 中性版：有利有弊。"
+    ],
+    "explanation": "【概要】表示某事物或某说法具有双向效果：既能带来好处也会带来坏处，或将同样的评判反施于提出者。\n【结构】cut both ways（动词 + 副词性短语）；近义 a double-edged sword、pros and cons。\n【语用】中性，分析论证、辩论反驳；需要具体列出两面内容才有说服力。\n【易错】① 固定 both ways；② 与 cut corners（偷工减料）不同；③ 与 have it both ways（两头占便宜）不同。",
+    "synonym_points": [
+      "a double-edged sword — 双刃剑",
+      "it has pros and cons — 有利有弊",
+      "it works in both directions — 双向成立",
+      "the same applies to you — 反过来也一样"
+    ],
+    "antonym_points": [
+      "one-sided — 单向的",
+      "purely beneficial — 只有好处",
+      "no downside — 没有坏处",
+      "straightforward — 单向明确"
+    ],
+    "extended_points": [
+      "double-edged sword",
+      "have it both ways（不同义）",
+      "reciprocal argument"
+    ],
+    "key_point": "【速记】Cut both ways = 利弊兼具/反过来也成立。\n固定 both ways；需举两面。\n近义 double-edged sword。"
+  },
+  {
+    "point_content": "Peckish.",
+    "tag": ["状态描述（英式）", "有点饿", "中性", "饮食/闲聊", "英式口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "有点饿；略感饥饿（不严重）；也指挑剔/爱挑食（较少用）\n自然译法：有点饿了 / 垫吧一口的饿 / 稍微想吃点",
+    "examples": [
+      "I'm a bit peckish — got any snacks? 我有点饿，有零食吗？\n",
+      "Feeling peckish around four is normal. 四点左右有点饿很正常。\n",
+      "It's milder than starving or hungry. 比 starving、hungry 程度轻。\n",
+      "Chiefly British and informal. 主要为英式非正式用法。\n",
+      "Neutral version: \"a little hungry.\" 中性版：有点饿。"
+    ],
+    "explanation": "【概要】英式口语形容词，表示「有点饿、还能忍」，程度轻于 hungry；另有「挑食、爱挑剔」的罕用义。\n【结构】be/feel peckish（形容词作表语，不用 very much）；近义 a bit hungry、could eat。\n【语用】中性，英式日常、下午茶语境；美式更常说 a little hungry。\n【易错】① 程度轻，不表示「饿坏了」；② 拼写 peckish（非 pecky）；③ 美式不常用。",
+    "synonym_points": [
+      "a bit hungry — 有点饿",
+      "could eat — 能吃得下（口语）",
+      "slightly hungry — 略饿",
+      "in need of a snack — 想来点零食"
+    ],
+    "antonym_points": [
+      "starving — 饿死了",
+      "full — 吃饱了",
+      "stuffed — 撑了",
+      "no appetite — 没胃口"
+    ],
+    "extended_points": [
+      "BrE vs AmE food words",
+      "hungry 程度阶梯",
+      "afternoon snack culture"
+    ],
+    "key_point": "【速记】Peckish = 有点饿（英式）。\n程度轻于 hungry；美式少用。\n反义 stuffed。"
+  },
+  {
+    "point_content": "Meal ticket.",
+    "tag": ["贬义/现实比喻", "长期饭票/摇钱树", "负面（物化）", "婚恋/商业", "语域提示"],
+    "translation_lang": "zh-CN",
+    "translation_content": "长期饭票；摇钱树；赖以谋生的依靠（把人或项目当收入来源）\n语域提示：用于指人时带物化与贬义（如把伴侣视为经济来源），宜改用中性表述「a source of income」「financial support」\n自然译法：长期饭票 / 摇钱树 / 靠它吃饭",
+    "examples": [
+      "The old hit song is still his meal ticket. 那首老歌至今是他的摇钱树。\n",
+      "Don't treat your partner as a meal ticket. 别把伴侣当长期饭票。\n",
+      "It reduces a person to income. 把人简化为收入来源。\n",
+      "Neutral: \"a reliable source of income.\" 中性：可靠收入来源。\n",
+      "In business, call it a cash cow. 商业里对应 cash cow。"
+    ],
+    "explanation": "【概要】字面「饭票」，指某人或某事物成为稳定收入来源；用于指人时含物化与贬义，商业语境常换成 cash cow（现金牛）。\n【结构】a meal ticket（可数名词）；近义 cash cow、bread and butter、gravy train（贬）。\n【语用】负面（指人）／中性（指业务），婚恋讨论、商业分析；指伴侣应改用中性表述。\n【易错】① 指人有物化意味；② 与 meal voucher（餐券）不同；③ 商业语境 cash cow 更专业。",
+    "synonym_points": [
+      "cash cow — 现金牛（商业）",
+      "bread and butter — 主要收入来源",
+      "gravy train — 肥差（贬）",
+      "a source of income — 收入来源（中性）"
+    ],
+    "antonym_points": [
+      "a money pit — 无底洞",
+      "loss-making — 亏损的",
+      "a drain on resources — 消耗资源",
+      "financially independent — 经济独立"
+    ],
+    "extended_points": [
+      "cash cow（产品组合）",
+      "bread and butter（英式习语）",
+      "objectifying language"
+    ],
+    "key_point": "【速记】Meal ticket = 长期饭票/摇钱树。\n指人带贬义；商业用 cash cow。\n中性说 source of income。"
+  },
+  {
+    "point_content": "When it's all said and done.",
+    "tag": ["总结收束", "尘埃落定之后/说到底", "中性", "总结/评论", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "当一切尘埃落定；说到底、归根结底（考虑所有因素之后）\n规范形式常作 when all is said and done\n自然译法：说到底 / 一切结束之后 / 归根结底",
+    "examples": [
+      "When it's all said and done, family matters most. 说到底，家人最重要。\n",
+      "When all is said and done, we still lost money. 尘埃落定，我们还是亏了。\n",
+      "It introduces a final judgment. 用于引出最终判断。\n",
+      "Standard form uses all is, not it's. 规范用 when all is said and done。\n",
+      "Neutral version: \"in the end.\" 中性版：最终。"
+    ],
+    "explanation": "【概要】表示在所有讨论与过程结束之后、给出最终结论；索引写作 When it's all said and done，规范常见形式为 when all is said and done。\n【结构】when all is said and done（固定从句，常作句首状语）；近义 in the end、at the end of the day。\n【语用】中性，复盘总结、演讲收尾；频繁使用会显套话。\n【易错】① 规范主语为 all（非 it's，虽口语常见）；② 与 after all（毕竟）语气不同；③ 不宜用于尚未结束的事态。",
+    "synonym_points": [
+      "at the end of the day — 说到底",
+      "in the end — 最终",
+      "ultimately — 归根结底",
+      "when push comes to shove — 关键时刻见分晓"
+    ],
+    "antonym_points": [
+      "at this stage — 现阶段",
+      "premature to conclude — 结论过早",
+      "still up in the air — 尚未确定",
+      "in the meantime — 与此同时"
+    ],
+    "extended_points": [
+      "at the end of the day（口语高频）",
+      "after all（不同义）",
+      "concluding adverbials"
+    ],
+    "key_point": "【速记】When it's all said and done = 说到底/尘埃落定。\n规范 all is said and done；用于总结。\n近义 in the end。"
+  },
+  {
+    "point_content": "Coming right up.",
+    "tag": ["服务应答", "马上就来", "中性偏正", "餐饮/交付", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "马上就来；立刻给您上；稍等片刻就好\n自然译法：马上来 / 立刻给您上 / 这就好",
+    "examples": [
+      "Your coffee is coming right up. 您的咖啡马上就来。\n",
+      "\"One more thing?\" \"Coming right up.\" 「还有一件？」「马上办。」\n",
+      "It's service language, not a promise of instant delivery. 是服务用语，不保证瞬间完成。\n",
+      "Said by staff to customers. 通常由服务人员对顾客说。\n",
+      "Neutral version: \"I'll get that for you right away.\" 中性版：我马上给您拿。"
+    ],
+    "explanation": "【概要】餐饮与服务场景的标准应答，表示所点或所需之物即刻送到；语气体贴，属服务话术。\n【结构】coming right up（进行时表即将，省略主语 it is）；近义 I'll be right with you、right away。\n【语用】中性偏正，餐厅、客服、快递；不宜作为无把握的承诺使用。\n【易错】① 常省略主语（It's coming right up）；② 与 come up（出现/上楼）不同；③ 不可用于「正在处理但要很久」的情况。",
+    "synonym_points": [
+      "I'll get that right away — 我马上去拿",
+      "right away — 马上",
+      "I'll be right with you — 马上为您服务",
+      "on its way — 在路上/这就到"
+    ],
+    "antonym_points": [
+      "we're out of it — 卖完了",
+      "it'll take a while — 要等一会儿",
+      "sorry, closed — 抱歉打烊了",
+      "not available — 暂时没有"
+    ],
+    "extended_points": [
+      "service scripts（服务话术）",
+      "on its way",
+      "ellipsis in speech（口语省略）"
+    ],
+    "key_point": "【速记】Coming right up = 马上就来。\n服务应答；常省略主语。\n近义 right away。"
+  }
+]

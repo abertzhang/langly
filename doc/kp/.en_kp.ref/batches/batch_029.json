@@ -1,0 +1,514 @@
+[
+  {
+    "point_content": "I hear you.",
+    "tag": ["共情回应", "我懂", "正面", "沟通", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我懂你的意思；我听到了；我理解你的感受\n自然译法：我明白 / 我听到了 / 你说得在理（未必全同意）",
+    "examples": [
+      "I hear you — the deadline is unrealistic. 我懂你意思，截止期确实不合理。",
+      "I hear you, but we still need to ship on Friday. 我理解，但周五还得发版。",
+      "She just wanted someone to say, \"I hear you.\" 她只想有人说句「我懂你」。",
+      "I hear you signals listening, not necessarily agreement. 表示在听，不等于同意。",
+      "In Chinese-influenced English, avoid \"I know your meaning\" — say I hear you. 别用中式直译，说 I hear you。"
+    ],
+    "explanation": "【概要】表示已听见并理解对方的立场或情绪，是共情式回应；不等于认同或承诺改变。\n【结构】I hear you.（hear 为及物动词，无需介词）；也可说 I get it、that makes sense。\n【语用】正面，冲突缓解、客户抱怨、绩效沟通；关键是后半句别立刻否定对方。\n【易错】① 不加 about/from；② 与 I agree（同意）不同；③ 与 hear about（听说）不同。",
+    "synonym_points": [
+      "I get it — 我明白",
+      "I understand — 我理解（正式）",
+      "that makes sense — 说得通",
+      "point taken — 我接受你的观点"
+    ],
+    "antonym_points": [
+      "I don't follow — 我没听懂",
+      "that makes no sense — 说不通",
+      "I disagree — 我不同意",
+      "you're not listening — 你没在听"
+    ],
+    "extended_points": [
+      "point taken — 你的观点我收到",
+      "active listening — 积极倾听",
+      "acknowledge vs agree — 承认与同意的区别"
+    ],
+    "key_point": "【速记】I hear you = 我懂/我在听。\n不等于同意；别立刻反驳。\n正式版 I understand。"
+  },
+  {
+    "point_content": "I think therefore I am.",
+    "tag": ["哲学名言", "我思故我在", "中性", "哲学/引用", "书面"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我思故我在（笛卡尔名言）；因思考而确认自身存在\n自然译法：我思故我在 / 会思考就证明我存在",
+    "examples": [
+      "Descartes said, \"I think, therefore I am.\" 笛卡尔说「我思故我在」。",
+      "I think therefore I am is the starting point of his doubt. 这句是他怀疑的起点。",
+      "He quoted \"I think therefore I am\" in a seminar on consciousness. 他在意识研讨会上引用了这句。",
+      "The original Latin is cogito ergo sum. 拉丁原文为 cogito ergo sum。",
+      "Using it casually can sound pretentious. 日常随口引用会显得卖弄。"
+    ],
+    "explanation": "【概要】笛卡尔（René Descartes）的名言，拉丁文 cogito ergo sum，意为「我在思考，因此我确定自己存在」，是近代哲学「确定性的起点」。\n【结构】正式书写常带逗号：I think, therefore I am.；拉丁原文 cogito, ergo sum。\n【语用】中性，哲学讨论、引言；日常闲聊引用易显故作高深。\n【易错】① 常被误写为 I think so I am（省 therefore 不地道）；② 逻辑是「怀疑本身证明思考者在」；③ 与日常 I think so（我认为）无关。",
+    "synonym_points": [
+      "cogito ergo sum — 拉丁原文",
+      "I doubt, therefore I exist — 怀疑故我在（意译）",
+      "existence precedes essence — 存在先于本质（萨特，不同命题）",
+      "the thinking self — 思考的主体"
+    ],
+    "antonym_points": [
+      "I am, therefore I think — 倒置（非原句）",
+      "existence without proof — 未经证明的存在",
+      "I feel therefore I am — 戏仿说法",
+      "nothing is certain — 一切皆不确定"
+    ],
+    "extended_points": [
+      "Descartes 的普遍怀疑方法",
+      "cogito ergo sum 的拉丁语源",
+      "心身二元论（Cartesian dualism）"
+    ],
+    "key_point": "【速记】I think, therefore I am = 我思故我在。\n笛卡尔；拉丁 cogito ergo sum。\n日常引用易显卖弄。"
+  },
+  {
+    "point_content": "You got this.",
+    "tag": ["鼓励口号", "你一定行", "正面", "口语/社媒", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你一定行；你能搞定；你没问题的\n自然译法：稳的 / 你可以的 / 上吧，没问题",
+    "examples": [
+      "You got this — just breathe and start. 你一定行，深呼吸就开始。",
+      "Before the exam, her mom texted: \"You got this.\" 考试前她妈发消息「你一定行」。",
+      "You got this, and we'll cover if anything slips. 你能搞定，出问题我们兜底。",
+      "It's informal encouragement, often in sports and social media. 多用于体育与社媒的 Informal 打气。",
+      "Don't say it when the person genuinely lacks preparation. 对方确实没准备时，别空喊这句。"
+    ],
+    "explanation": "【概要】口语鼓励语，literally「你掌握了这个局面」，表达对对方能力的信心；语气轻松有力，多用于赛前、面试前。\n【结构】You got this.（口语省略 have）；也可说 you've got this、you can do it。\n【语用】正面，朋友打气、社媒口号；正式场合与对方明显准备不足时不宜。\n【易错】① 口语用 got（书面 you have got it）；② 不加 to；③ 与 you got it（我照办/明白了）义异，注意区分。",
+    "synonym_points": [
+      "you can do it — 你能做到",
+      "you've got this — 完整口语版",
+      "you're all set — 你都准备好了",
+      "go get 'em — 上吧（口语）"
+    ],
+    "antonym_points": [
+      "you're not ready — 你还没准备好",
+      "this is beyond you — 这超出你能力",
+      "don't bother — 别费劲了",
+      "you'll fail — 你会失败"
+    ],
+    "extended_points": [
+      "you got it（我照办）与 you got this（你能行）的区别",
+      "pep talk — 打气动员",
+      "self-efficacy — 自我效能感"
+    ],
+    "key_point": "【速记】You got this = 你一定行。\n口语省略 have；勿混 you got it（照办）。\n对方无准备则别空喊。"
+  },
+  {
+    "point_content": "What's the point?",
+    "tag": ["反问", "有什么意义", "中性偏负", "消极/讨论", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "有什么意义呢？意义何在？何必呢？\n自然译法：图什么呢 / 有什么用 / 这有啥意义",
+    "examples": [
+      "What's the point of arguing with him? 跟他吵有什么意义？",
+      "What's the point? Nobody reads the report anyway. 何必呢，反正没人看报告。",
+      "She asked what the point was, and no one answered. 她问意义何在，没人回答。",
+      "What's the point can be genuine inquiry or resignation. 可真心追问，也可消极放弃。\n",
+      "For inquiry, ask \"what's the goal here?\" 追问目的用 what's the goal here。"
+    ],
+    "explanation": "【概要】字面「要点/意义是什么」，实际常表质疑价值或消极放弃，语气可挑衅也可无力。\n【结构】What's the point (of doing sth)?；也可说 what's the use、why bother。\n【语用】中性偏负，团队讨论中易打击士气；真诚追问用 what's the goal。\n【易错】① 用 of + doing（非 to do 更常见）；② 与 what's the point of that?（带轻蔑）语气差异；③ 别在动员场合说。",
+    "synonym_points": [
+      "what's the use — 有什么用",
+      "why bother — 何必呢",
+      "what's the goal here — 目的是什么（中性追问）",
+      "does it even matter — 这还有意义吗"
+    ],
+    "antonym_points": [
+      "it's worth it — 值得",
+      "there's a good reason — 有充分理由",
+      "let's do it — 干吧",
+      "this matters — 这有意义"
+    ],
+    "extended_points": [
+      "point 的「要点/意义」义",
+      "pointless — 毫无意义",
+      "purpose vs point"
+    ],
+    "key_point": "【速记】What's the point? = 有什么意义。\n可追问也可消极；of + doing。\n中性追问用 what's the goal。"
+  },
+  {
+    "point_content": "The joke is on you.",
+    "tag": ["反讽", "打脸", "中性偏负", "口语", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "该被笑的是你；打脸了吧；你自己才可笑\n自然译法：尴尬的是你 / 结果打自己脸 / 你才是笑话",
+    "examples": [
+      "You laughed at my old car — the joke is on you, it just sold for double. 你笑我那辆旧车，尴尬的是你，它卖了两倍价。",
+      "He mocked her plan, but the joke was on him. 他嘲笑她的方案，结果打脸的是他。",
+      "The joke is on you: the event was moved, not canceled. 打脸了吧，活动是改期不是取消。",
+      "It's said after someone's mockery backfires. 用于嘲笑别人反被打脸时。",
+      "Avoid it at work — it reads as gloating. 职场别用，显得幸灾乐祸。"
+    ],
+    "explanation": "【概要】指原本想嘲笑别人的人自己出丑/判断错误，带「幸灾乐祸」色彩；常作事后反击。\n【结构】The joke is on sb（固定 on + 人）；也可说 who's laughing now。\n【语用】中性偏负，朋友互怼；职场与正式场合显得不厚道。\n【易错】① 介词固定 on；② 与 it's a joke（开玩笑）不同；③ 与 no joke（不是玩笑）相反。",
+    "synonym_points": [
+      "who's laughing now — 现在谁在笑",
+      "the laugh is on you — 该笑的是你（变体）",
+      "that backfired on you — 反噬到你身上了",
+      "look who's talking — 你还好意思说"
+    ],
+    "antonym_points": [
+      "I was wrong — 我错了",
+      "you were right — 你是对的",
+      "fair enough — 有道理",
+      "my mistake — 我的错"
+    ],
+    "extended_points": [
+      "backfire — 反噬/适得其反",
+      "gloating — 幸灾乐祸",
+      "who's laughing now — 同义反击句"
+    ],
+    "key_point": "【速记】The joke is on you = 打脸的是你。\n介词 on；带幸灾乐祸。\n职场勿用于嘲人。"
+  },
+  {
+    "point_content": "Are you up?",
+    "tag": ["口语问候", "醒了吗", "中性", "早晨/深夜", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你醒了吗？你起床了吗？（深夜）你还醒着吗？\n自然译法：起了吗 / 睡着没 / 你还在吗（线上）",
+    "examples": [
+      "Are you up? It's already eight. 你起了吗？都八点了。",
+      "Text me when you're up. 你醒了给我发消息。",
+      "Are you up? I need to talk. 你还醒着吗？我有事说。",
+      "Late at night, are you up means \"still awake.\" 深夜时意为「还醒着」。",
+      "For \"are you available,\" say are you free. 问是否有空要说 are you free。"
+    ],
+    "explanation": "【概要】up 在此指「已经起床」或「还醒着」，视时间而定；短问句语气随意，多用于家人朋友之间。\n【结构】be up（形容词性补语）；也可说 you awake?、still up?。\n【语用】中性，清晨喊人、深夜联系；正式邮件用 are you available。\n【易错】① up 不表示「高兴」；② 与 are you up for it（你想不想做）不同；③ 深夜勿误作「起床」。",
+    "synonym_points": [
+      "are you awake — 你醒着吗",
+      "are you still up — 你还醒着吗",
+      "are you free — 你有空吗",
+      "you up — 口语省略版"
+    ],
+    "antonym_points": [
+      "are you asleep — 你睡了吗",
+      "you're out cold — 你睡死了（口语）",
+      "you're in bed — 你躺床上了",
+      "lights out — 熄灯了"
+    ],
+    "extended_points": [
+      "up for it — 愿意做（不同义）",
+      "stay up — 熬夜",
+      "wake up vs get up"
+    ],
+    "key_point": "【速记】Are you up? = 醒了吗/还醒着吗。\n看时段定含义；勿混 up for it。\n正式版 are you available。"
+  },
+  {
+    "point_content": "You make me want to be a better man.",
+    "tag": ["浪漫表达", "电影台词", "正面", "恋爱", "文艺"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你让我想成为更好的人；你让我愿意变得更好\n自然译法：因为你，我想变得更好 / 你让我想努力变好",
+    "examples": [
+      "You make me want to be a better man — that's the whole truth. 你让我想成为更好的人，这是实话。",
+      "He told her she made him want to be a better man. 他跟她说，她让他想变成更好的人。",
+      "You make me want to be a better man, not because I'm broken. 你让我想变好，不是因为我差劲。",
+      "The line is famously from a 1970s film. 这句著名台词出自 1970 年代电影《As Good as It Gets》。",
+      "Say it sincerely; otherwise it sounds like a script. 要真诚地说，否则像念台词。"
+    ],
+    "explanation": "【概要】浪漫示爱句，表示对方的存在激励自己变得更好；语体偏文艺，因电影台词（As Good as It Gets, 1997）而流行。\n【结构】make sb do sth（使役结构，不带 to 的 make 后接动词原形）；也可说 you bring out the best in me。\n【语用】正面，恋爱与求婚；套用太顺会显得像背台词。\n【易错】① make 后接动词原形（want，不加 to）；② 用 a better man 时注意性别（对女性对象可改 person）；③ 与 you complete me（你让我完整）语感不同。",
+    "synonym_points": [
+      "you bring out the best in me — 你让我变得更好",
+      "you make me a better person — 你让我成为更好的人",
+      "I want to be better for you — 我想为你变好",
+      "you inspire me — 你激励我"
+    ],
+    "antonym_points": [
+      "you bring out the worst in me — 你让我变得最糟",
+      "you make me want to give up — 你让我想放弃",
+      "you hold me back — 你拖住我",
+      "I was better without you — 没你的时候我更好"
+    ],
+    "extended_points": [
+      "As Good as It Gets（1997）台词来源",
+      "make sb do 的使役结构",
+      "you complete me — 你让我完整"
+    ],
+    "key_point": "【速记】You make me want to be a better man = 你让我想变得更好。\nmake + 原形；出自电影台词。\n对女性对象可用 person。"
+  },
+  {
+    "point_content": "Fire away.",
+    "tag": ["口语许可", "尽管问", "中性偏正", "提问/射击", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "尽管问；（可以）开始吧；说吧\n自然译法：你问吧 / 请讲 / 放开了问",
+    "examples": [
+      "\"Can I ask you something?\" \"Fire away.\" 「我能问你件事吗？」「尽管问。」",
+      "Fire away — I've got twenty minutes. 尽管问，我有二十分钟。",
+      "The reporter fired away with questions. 记者连珠炮般提问。",
+      "Fire away literally comes from \"start shooting.\" 字面源于「开始射击」。",
+      "In a job interview, \"go ahead\" is safer. 面试里用 go ahead 更稳妥。"
+    ],
+    "explanation": "【概要】口语许可语，让对方「开始提问/开讲」，字面来自开枪指令 fire（开火），语气爽快。\n【结构】Fire away.（不及物动词 fire + 副词 away）；也可说 go ahead、shoot（美式口语）。\n【语用】中性偏正，非正式问答、访谈；正式面试与公文用 please go ahead。\n【易错】① 无宾语（不说 fire away your questions，正式用 ask away）；② 与 fire sb（解雇）无关；③ 军事语境另有实弹义。",
+    "synonym_points": [
+      "go ahead — 请讲",
+      "ask away — 尽管问",
+      "shoot — 你问吧（美式口语）",
+      "I'm all ears — 我洗耳恭听"
+    ],
+    "antonym_points": [
+      "hold your questions — 先别问",
+      "not now — 现在不行",
+      "later — 待会儿",
+      "no questions — 不接受提问"
+    ],
+    "extended_points": [
+      "shoot — 你问吧（同义口语）",
+      "fire sb — 解雇（形似义异）",
+      "ask away — 尽管问"
+    ],
+    "key_point": "【速记】Fire away = 尽管问/请讲。\n无宾语；源自射击指令。\n正式场合用 go ahead。"
+  },
+  {
+    "point_content": "You will be sorry.",
+    "tag": ["警告", "你会后悔", "强负面", "威胁", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你会后悔的；（警告）你会为此付出代价\n自然译法：你等着后悔吧 / 别怪我没提醒 / 有你哭的时候",
+    "examples": [
+      "Ignore the warning and you will be sorry. 无视警告，你会后悔。",
+      "You will be sorry if you sign that contract. 签那份合同你会后悔。",
+      "\"You'll be sorry!\" he shouted as she left. 她走时他喊「你会后悔的」。",
+      "It can be a genuine warning or an empty threat. 可真是提醒，也可只是空威胁。\n",
+      "At work, say \"this could cost us the account\" instead. 职场改成「这可能导致丢客户」。"
+    ],
+    "explanation": "【概要】警告对方若不改变行为将后悔/承担后果；语气强硬，常带情绪化威胁色彩。\n【结构】sb will be sorry (for/if…)；也可说 you'll regret this、don't say I didn't warn you。\n【语用】强负面，争执与警告；职场与谈判宜改为具体风险陈述。\n【易错】① be sorry 在此为「后悔」而非「抱歉」；② 与 you'll be sorry for yourself（自怜）不同；③ 空威胁会削弱可信度。",
+    "synonym_points": [
+      "you'll regret this — 你会后悔的",
+      "don't say I didn't warn you — 别说我没提醒你",
+      "you'll pay for this — 你会为此付出代价",
+      "mark my words — 记住我的话"
+    ],
+    "antonym_points": [
+      "no harm done — 没造成伤害",
+      "you'll be fine — 你会没事的",
+      "it's your call — 你自己决定",
+      "I'm not warning you — 我不是在威胁你"
+    ],
+    "extended_points": [
+      "mark my words — 记住我的话",
+      "empty threat — 空头威胁",
+      "consequences — 后果"
+    ],
+    "key_point": "【速记】You will be sorry = 你会后悔的。\nsorry 在此为后悔；属强硬警告。\n职场改述具体风险。"
+  },
+  {
+    "point_content": "Been there done that.",
+    "tag": ["口语习语", "经历过", "中性偏淡", "共情/嫌弃", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "那事我经历过；我早干过了；（引申）不新鲜了\n规范书写：been there, done that\n自然译法：我经历过了 / 老套了 / 早玩腻了",
+    "examples": [
+      "Been there, done that — the first year is always the hardest. 我经历过，第一年总是最难。",
+      "\"Try working night shifts.\" \"Been there, done that.\" 「试试上夜班。」「我干过了。」",
+      "Been there done that gets old fast as a reply. 拿它当回应很快会显得敷衍。\n",
+      "It can signal empathy or boredom. 可表共情，也可表「没意思」。\n",
+      "Use a comma in writing: been there, done that. 书面要加逗号。"
+    ],
+    "explanation": "【概要】口语四词短语（规范带逗号），表示「我经历过/做过，因此懂或不再感兴趣」；语气可共情也可轻慢。\n【结构】Been there, done that.（省略主语 I've）；也可说 been there, done that, got the T-shirt（戏谑加强）。\n【语用】中性，朋友安慰或对老套建议不屑；对方真诚求助时用会显敷衍。\n【易错】① 书面对称结构要加逗号；② 省略的是 I have；③ 与 I've been through this（强调挺过去）语感不同。",
+    "synonym_points": [
+      "I've been there — 我经历过（口语）",
+      "old news — 老消息了",
+      "nothing new — 没什么新鲜的",
+      "tell me something I don't know — 说点我不知道的"
+    ],
+    "antonym_points": [
+      "that's new to me — 这我没听过",
+      "first time for me — 我第一次",
+      "I've never done that — 我没做过",
+      "teach me — 教教我"
+    ],
+    "extended_points": [
+      "got the T-shirt — 全套经历过了（戏谑）",
+      "old hat — 老一套",
+      "fatigue vs empathy — 敷衍与共情的界线"
+    ],
+    "key_point": "【速记】Been there, done that = 我经历过/不新鲜。\n书面对称加逗号；勿用于真诚求助。\n戏谑加强 got the T-shirt。"
+  },
+  {
+    "point_content": "Any day now.",
+    "tag": ["口语时间", "随时/指日可待", "中性", "等待/催促", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "随时就会（发生）；马上就好；（反讽）你说「快了」说多久了\n自然译法：随时就出 / 这两天吧 / 马上就（一直马上）",
+    "examples": [
+      "The package should arrive any day now. 包裹这两天就到。",
+      "Any day now, the results will be out. 结果随时会公布。",
+      "\"It's almost ready.\" \"Any day now, you said that last month.\" 「快好了。」「你上月就说快了。」",
+      "Any day now can be reassurance or sarcasm. 可安慰，也可反讽拖延。\n",
+      "For a firm date, don't say any day now. 需要确定日期时别用这句。"
+    ],
+    "explanation": "【概要】表示某事将在「这几天内/随时」发生，常用于等待中的预期；重复对方说法时可作反讽，暗示一直拖着。\n【结构】any day now（时间副词短语，置于句末或句首）；也可说 in the coming days。\n【语用】中性，物流、发布、结果等待；给承诺时用具体日期取代。\n【易错】① 不加 in/on；② 与 any day（任何一天，用于选择）不同；③ 反讽靠语调。",
+    "synonym_points": [
+      "in the coming days — 未来几天内",
+      "any minute now — 随时（更近）",
+      "soon — 很快",
+      "just around the corner — 即将到来"
+    ],
+    "antonym_points": [
+      "not for a while — 还得等一阵",
+      "months away — 还有几个月",
+      "no ETA — 没有时间表",
+      "never — 不会有"
+    ],
+    "extended_points": [
+      "ETA — 预计到达时间",
+      "in the pipeline — 在推进中",
+      "any minute now — 更近的「随时」"
+    ],
+    "key_point": "【速记】any day now = 随时/这几天。\n不加介词；给承诺要换具体日期。\n近义 any minute now。"
+  },
+  {
+    "point_content": "I didn't mean it.",
+    "tag": ["道歉澄清", "不是有意的", "中性偏正", "冲突修复", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我不是有意的；我不是那个意思；（话）不是真心的\n自然译法：我不是故意的 / 我没那个意思 / 话说重了",
+    "examples": [
+      "I didn't mean it — I was just angry. 我不是有意的，我只是一时生气。",
+      "I didn't mean it that way. 我不是那个意思。",
+      "He apologized: \"I didn't mean it.\" 他道歉说「我不是故意的」。",
+      "I didn't mean it addresses intent, not impact. 这句讲的是意图，不代表伤害不存在。\n",
+      "Follow it with an acknowledgment: \"but it still hurt you.\" 后面要接「但还是伤到你了」。"
+    ],
+    "explanation": "【概要】用于澄清「话/行为并非有意」，是冲突修复的第一步；但只讲意图、不认后果，会显得在开脱。\n【结构】mean it（真心/有意）；否定式 I didn't mean it / I didn't mean to do that。\n【语用】中性偏正，道歉与和解；应与承担影响搭配使用。\n【易错】① mean it 与 mean to do 都可，注意后者要接 to；② 与 I'm sorry（道歉）不同；③ 别单独用它当完整道歉。",
+    "synonym_points": [
+      "it came out wrong — 我说错话了",
+      "I wasn't thinking — 我当时没多想",
+      "that's not what I meant — 我不是那个意思",
+      "no offense intended — 无意冒犯"
+    ],
+    "antonym_points": [
+      "I meant every word — 我说的每个字都算数",
+      "I said it on purpose — 我是故意的",
+      "I stand by it — 我不收回",
+      "it was intentional — 是有意的"
+    ],
+    "extended_points": [
+      "intent vs impact — 意图与影响",
+      "non-apology — 假道歉",
+      "no offense — 恕我直言（常引出冒犯）"
+    ],
+    "key_point": "【速记】I didn't mean it = 我不是有意的。\n承认意图≠消除影响，要接道歉。\n反向：I meant every word。"
+  },
+  {
+    "point_content": "That's awesome.",
+    "tag": ["口语评价", "太棒了", "正面", "社媒/日常", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "真是太棒了；太厉害了；太好了\n自然译法：太赞了 / 牛啊 / 绝了",
+    "examples": [
+      "You got the scholarship? That's awesome. 你拿到奖学金了？太棒了。",
+      "That's awesome news — congratulations. 真是好消息，恭喜。",
+      "He said \"that's awesome\" about a mediocre result. 他对一个普通结果说「太棒了」（可能只是礼貌）。\n",
+      "Awesome is overused and sometimes means just \"fine.\" 用得太滥，有时只等于「还行」。\n",
+      "For formal praise, say \"that's impressive.\" 正式表扬用 that's impressive。"
+    ],
+    "explanation": "【概要】口语高度正面评价，表示赞叹；因使用过度，有时退化为礼貌性的「不错」。\n【结构】That's awesome.（形容词作表语）；近义 amazing、fantastic、sick（俚语）。\n【语用】正面，朋友分享、社媒评论；正式汇报用 impressive、outstanding。\n【易错】① awesome 原义「令人敬畏」，现多口语化；② 与 awful（糟糕）形近义反；③ 过度使用会贬值。",
+    "synonym_points": [
+      "that's amazing — 太惊人了",
+      "that's fantastic — 太好了",
+      "that's impressive — 令人印象深刻（略正式）",
+      "that rocks — 太赞了（口语）"
+    ],
+    "antonym_points": [
+      "that's awful — 太糟了",
+      "that's disappointing — 令人失望",
+      "not impressed — 不怎么样",
+      "that's a shame — 真可惜"
+    ],
+    "extended_points": [
+      "awesome vs awful 形近义反",
+      "semantic bleaching（词义淡化）",
+      "overused intensifiers — 滥用的程度词"
+    ],
+    "key_point": "【速记】That's awesome = 太棒了。\n口语高频、易贬值；正式用 impressive。\n勿混 awful。"
+  },
+  {
+    "point_content": "I'm in the zone.",
+    "tag": ["状态表达", "进入状态", "正面", "运动/工作", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我进入状态了；我正专注；我手感正热\n自然译法：我正上头 / 状态正好 / 别打断我",
+    "examples": [
+      "Don't interrupt — I'm in the zone. 别打断我，我正进入状态。",
+      "She was in the zone and finished the draft in one sitting. 她进入状态，一口气写完初稿。",
+      "The shooter said he was in the zone all night. 射手说他整晚手感火热。",
+      "Being in the zone means full absorption, not just busy. 指完全沉浸，不只是「忙」。\n",
+      "Flow state is the psychology term for it. 心理学术语是 flow state（心流）。"
+    ],
+    "explanation": "【概要】指进入高度专注、表现顺畅的心理状态（体育称「手感火热」），对应心理学的心流（flow）。\n【结构】be in the zone（固定 the zone）；也可说 on a roll、in flow。\n【语用】正面，运动、创作、编程；注意它是状态而非「忙碌」。\n【易错】① 固定 in the zone（非 on）；② 与 in the office（在办公室）无关；③ 别用来回避沟通。",
+    "synonym_points": [
+      "in flow — 处于心流",
+      "on a roll — 势头正顺（口语）",
+      "dialed in — 完全对准状态（口语）",
+      "firing on all cylinders — 全速运转（习语）"
+    ],
+    "antonym_points": [
+      "off my game — 状态不佳",
+      "out of it — 心不在焉",
+      "distracted — 分心",
+      "burned out — 累垮了"
+    ],
+    "extended_points": [
+      "flow state — 心流（Csikszentmihalyi）",
+      "on a roll — 连胜势头",
+      "deep work — 深度工作"
+    ],
+    "key_point": "【速记】in the zone = 进入专注状态。\n固定 the zone；对应 flow state。\n反义 off my game。"
+  },
+  {
+    "point_content": "I can't help it.",
+    "tag": ["口语辩解", "情不自禁", "中性", "习惯/情绪", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我控制不住；我没办法；我情不自禁\n自然译法：我忍不住 / 我也没办法 / 我这人就这样",
+    "examples": [
+      "I can't help it — I always cry at weddings. 我控制不住，婚礼上总哭。",
+      "I can't help laughing when he does that. 他那样做我忍不住笑。",
+      "You can't help how you feel, but you can help what you do. 感受控制不了，行为可以。\n",
+      "Saying I can't help it too often becomes an excuse. 常说这句就成了借口。\n",
+      "For habits, say \"I'm trying to stop.\" 讲习惯改成「我在努力改」。"
+    ],
+    "explanation": "【概要】help 在此意为「避免/控制」，can't help it 表示无法自控（情绪、反应、习惯）；也可作免责式借口。\n【结构】can't help it / can't help doing sth（后接动名词）；也可说 it's out of my control。\n【语用】中性，自嘲与辩解；反复使用会被视为推责。\n【易错】① help 后接 doing（非 to do）；② 与 can't help sb（帮不了某人）不同；③ 与 couldn't help myself（一时冲动）近似。",
+    "synonym_points": [
+      "I can't control it — 我控制不住",
+      "I couldn't help myself — 我忍不住（一时）",
+      "it's a reflex — 是条件反射",
+      "it just happens — 就是会这样"
+    ],
+    "antonym_points": [
+      "I can control it — 我能控制",
+      "that's on me — 这是我的问题",
+      "I chose to do it — 是我选的",
+      "I'll work on it — 我会改"
+    ],
+    "extended_points": [
+      "can't help doing — 忍不住做",
+      "can't help sb — 帮不了某人（易混）",
+      "learned helplessness — 习得性无助"
+    ],
+    "key_point": "【速记】I can't help it = 我控制不住。\nhelp 接 doing；常被当借口。\n承担版 that's on me。"
+  },
+  {
+    "point_content": "Thank you for everything.",
+    "tag": ["致谢", "感谢一切", "正面", "告别/演讲", "正式口语通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "谢谢你做的一切；感谢你所有的付出；千言万语谢谢你\n自然译法：谢谢你帮了我这么多 / 一切都谢谢你 / 感谢一路照顾",
+    "examples": [
+      "Thank you for everything you did for my family. 谢谢你为我们家做的一切。",
+      "Before leaving, she said, \"Thank you for everything.\" 离职前她说「谢谢你做的一切」。",
+      "Thank you for everything — I mean it. 感谢你的一切，我是认真的。",
+      "It's broad gratitude, often at endings. 是宽泛的感谢，多用于告别与收尾。\n",
+      "In a speech, add one concrete detail to avoid sounding generic. 演讲里补一个具体细节，别太空泛。"
+    ],
+    "explanation": "【概要】笼统而郑重的致谢，涵盖对方的多方面帮助，常用于告别、离职、演讲结尾；需具体细节支撑才不空泛。\n【结构】Thank you for everything.（for + 名词）；也可说 I appreciate everything you've done。\n【语用】正面，告别、典礼、长期关系收束；日常小事用具体 thanks for + 事。\n【易错】① for 后接名词（everything），不接从句；② 与 thank you for coming（感谢到场）不同；③ 空泛使用会显得客套。",
+    "synonym_points": [
+      "thanks for all your help — 谢谢你所有帮助",
+      "I appreciate everything — 我很感激这一切",
+      "I couldn't have done it without you — 没你做不到",
+      "thanks a million — 万分感谢（口语）"
+    ],
+    "antonym_points": [
+      "no thanks — 不用谢",
+      "I owe you nothing — 我不欠你",
+      "forget it — 算了别提",
+      "don't mention it — 不用客气（回应感谢）"
+    ],
+    "extended_points": [
+      "appreciate 的正式用法",
+      "farewell speech — 告别致辞",
+      "specific gratitude — 具体化致谢"
+    ],
+    "key_point": "【速记】Thank you for everything = 谢谢你做的一切。\n宽泛致谢，多用于告别；补细节更真。\n正式版 I appreciate everything。"
+  }
+]

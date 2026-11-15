@@ -2,20 +2,25 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil_plus/flutter_screenutil_plus.dart';
 
+import '../../core/storage/kp_en.dart';
 import '../../core/theme/theme_mode_provider.dart';
+import 'first_kp_provider.dart';
 
-/// 首页（当前是主题 / 适配能力的验收样例页）。
+/// 首页（知识点读取 + 主题 / 适配能力的验收样例页）。
 ///
-/// 三块内容分别对应这次接进来的三件事：
-/// 1. 外观模式卡片 —— Riverpod 管状态，三档切换 + Hive 持久化；
-/// 2. 屏幕适配卡片 —— 真实使用 .w / .h / .r / .sp，并打印当前设备尺寸；
-/// 3. 底部提示 —— 说明偏好已落盘。
+/// 四块内容：
+/// 1. 知识点卡片 —— 从 asset/langly.db 的 kp_en 表读第一条数据（sqflite）；
+/// 2. 外观模式卡片 —— Riverpod 管状态，三档切换 + Hive 持久化；
+/// 3. 屏幕适配卡片 —— 真实使用 .w / .h / .r / .sp，并打印当前设备尺寸；
+/// 4. 底部提示 —— 说明偏好已落盘。
 /// 所有颜色都取自 ColorScheme，不写死黑白，深浅模式才不会漏。
 class HomePage extends ConsumerWidget {
   const HomePage({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
+    // watch：知识点数据（FutureProvider），加载 / 失败 / 成功三态都在卡片里处理。
+    final firstKp = ref.watch(firstKpProvider);
     // watch：模式一变，这里就重建，MaterialApp 里的 themeMode 随之刷新。
     final mode = ref.watch(themeModeProvider);
     // read：只在按钮回调里用，不参与重建。
@@ -54,6 +59,8 @@ class HomePage extends ConsumerWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
+            _firstKpCard(scheme: scheme, state: firstKp),
+            SizedBox(height: 16.h),
             _themeCard(
               scheme: scheme,
               mode: mode,
@@ -69,6 +76,164 @@ class HomePage extends ConsumerWidget {
       ),
     );
   }
+
+  /// 知识点卡片：把 kp_en 表第一条数据读出来展示。
+  ///
+  /// AsyncValue 三态都给可见反馈：
+  /// - loading：首次复制 1.7 MB 种子库时给进度圈；
+  /// - error  ：数据库 / asset 不可用时给降级文案，不红屏、不影响下面三张卡；
+  /// - data   ：编号、原文、释义、标签、例句、要点速记 + 库内总数。
+  Widget _firstKpCard({
+    required ColorScheme scheme,
+    required AsyncValue<FirstKpSnapshot> state,
+  }) {
+    return _card(
+      scheme: scheme,
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              Icon(Icons.storage_rounded, size: 18.sp, color: scheme.primary),
+              SizedBox(width: 8.w),
+              Expanded(
+                child: Text('SQLite 读取 · kp_en 表', style: _titleStyle(scheme)),
+              ),
+            ],
+          ),
+          SizedBox(height: 12.h),
+          state.when(
+            loading: () => Padding(
+              padding: EdgeInsets.symmetric(vertical: 12.h),
+              child: Row(
+                children: [
+                  SizedBox(
+                    width: 16.w,
+                    height: 16.w,
+                    child: const CircularProgressIndicator(strokeWidth: 2),
+                  ),
+                  SizedBox(width: 10.w),
+                  Text('正在打开 langly.db…', style: _bodyStyle(scheme)),
+                ],
+              ),
+            ),
+            error: (error, _) => Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Icon(Icons.error_outline_rounded, size: 16.sp, color: scheme.error),
+                SizedBox(width: 8.w),
+                Expanded(
+                  child: Text(
+                    '数据库暂不可用，已跳过知识点卡片：$error',
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
+                    style: _bodyStyle(scheme),
+                  ),
+                ),
+              ],
+            ),
+            data: (snapshot) => _kpContent(scheme, snapshot),
+          ),
+        ],
+      ),
+    );
+  }
+
+  /// data 分支的实际内容：一条知识点的关键字段。
+  Widget _kpContent(ColorScheme scheme, FirstKpSnapshot snapshot) {
+    final KpEn? kp = snapshot.point;
+    if (kp == null) {
+      return _statusRow(
+        scheme: scheme,
+        icon: Icons.inbox_rounded,
+        text: 'kp_en 表为空（共 ${snapshot.total} 条）',
+      );
+    }
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Row(
+          children: [
+            _tagChip(scheme: scheme, text: kp.pointId),
+            SizedBox(width: 6.w),
+            _tagChip(scheme: scheme, text: kp.translationLang),
+            const Spacer(),
+            Text('共 ${snapshot.total} 条', style: _bodyStyle(scheme)),
+          ],
+        ),
+        SizedBox(height: 12.h),
+        Text(
+          kp.pointContent,
+          style: TextStyle(
+            fontSize: 22.sp,
+            fontWeight: FontWeight.w700,
+            color: scheme.onSurface,
+          ),
+        ),
+        SizedBox(height: 8.h),
+        Text(kp.translationContent.split('\n').first, style: _bodyStyle(scheme)),
+        if (kp.tags.isNotEmpty) ...[
+          SizedBox(height: 12.h),
+          Wrap(
+            spacing: 6.w,
+            runSpacing: 6.h,
+            children: kp.tags
+                .take(4)
+                .map((tag) => _tagChip(scheme: scheme, text: tag))
+                .toList(),
+          ),
+        ],
+        if (kp.examples.isNotEmpty) ...[
+          SizedBox(height: 14.h),
+          Text('例句（前 3 条）', style: _sectionStyle(scheme)),
+          SizedBox(height: 6.h),
+          ...kp.examples.take(3).map(
+                (example) => Padding(
+                  padding: EdgeInsets.only(bottom: 6.h),
+                  child: Text('• $example', style: _bodyStyle(scheme)),
+                ),
+              ),
+        ],
+        if (kp.keyPoint.isNotEmpty) ...[
+          SizedBox(height: 6.h),
+          Text(
+            kp.keyPoint.split('\n').first,
+            maxLines: 2,
+            overflow: TextOverflow.ellipsis,
+            style: _bodyStyle(scheme),
+          ),
+        ],
+        SizedBox(height: 10.h),
+        _statusRow(
+          scheme: scheme,
+          icon: Icons.check_circle_outline_rounded,
+          text: 'asset/langly.db → 应用文档目录 → sqflite 查询',
+        ),
+      ],
+    );
+  }
+
+  /// 小标签：用 primaryContainer / onPrimaryContainer，避免品牌橙底配白字。
+  Widget _tagChip({required ColorScheme scheme, required String text}) {
+    return Container(
+      padding: EdgeInsets.symmetric(horizontal: 8.w, vertical: 3.h),
+      decoration: BoxDecoration(
+        color: scheme.primaryContainer,
+        borderRadius: BorderRadius.circular(8.r),
+      ),
+      child: Text(
+        text,
+        style: TextStyle(fontSize: 11.sp, color: scheme.onPrimaryContainer),
+      ),
+    );
+  }
+
+  TextStyle _sectionStyle(ColorScheme scheme) => TextStyle(
+    fontSize: 13.sp,
+    fontWeight: FontWeight.w600,
+    color: scheme.onSurface,
+  );
 
   /// 外观模式卡片：三档 SegmentedButton + 当前状态说明。
   Widget _themeCard({

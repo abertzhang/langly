@@ -1,0 +1,514 @@
+[
+  {
+    "point_content": "You dog.",
+    "tag": ["戏谑称呼", "你这坏家伙", "中性偏调侃", "朋友互怼", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "（戏谑）你这家伙；你真狡猾；你个花心鬼（视语境）\n自然译法：你这老狐狸 / 你个坏东西 / 你真行啊你",
+    "examples": [
+      "You got the last ticket — you dog. 你把最后一张票弄到手，真行啊你。\n",
+      "You dog, you never told me. 你这家伙，居然没告诉我。\n",
+      "Among friends it's playful teasing. 朋友间多为玩笑。\n",
+      "Dog can also imply womanizing. dog 也可暗指花心。\n",
+      "Neutral version: \"you sneaky one.\" 中性版：你真滑头。"
+    ],
+    "explanation": "【概要】用 dog 作称呼，语气取决于关系与语境：熟人之间是「你真滑头/真行」的玩笑，也可能暗指拈花惹草。\n【结构】You dog.（名词作称呼语，可叠用 you dog, you）；近义 you sly dog、you rascal。\n【语用】中性偏调侃，朋友打趣；对女性或上级使用易冒犯。\n【易错】① 并非真正骂人「狗」，语气多为戏谑；② 与 dog（狗）字面义区分；③ 语境不明时可能被误解为侮辱。",
+    "synonym_points": [
+      "you sly dog — 你这滑头",
+      "you rascal — 你这捣蛋鬼",
+      "you sneaky one — 你真会钻空子",
+      "you lucky devil — 你真走运"
+    ],
+    "antonym_points": [
+      "you're too honest — 你太实诚",
+      "goody two-shoes — 乖宝宝（含讽）",
+      "straight shooter — 直来直去的人",
+      "no tricks — 没耍花招"
+    ],
+    "extended_points": [
+      "sly dog（俗语）",
+      "teasing register",
+      "性别化用法风险"
+    ],
+    "key_point": "【速记】You dog = 你这坏家伙（戏谑）。\n看关系定语气；对女性/上级慎用。\n近义 you sly dog。"
+  },
+  {
+    "point_content": "Peace out.",
+    "tag": ["道别俚语", "我走了/拜拜", "中性", "朋友告别", "高频口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "（俚语）我先走了；拜拜；撤了\n自然译法：我撤了 / 拜拜 / 溜了",
+    "examples": [
+      "Peace out — see you tomorrow. 我撤了，明天见。\n",
+      "He grabbed his bag: \"Peace out, everyone.\" 他拿起包：「拜了各位。」\n",
+      "It comes from peace + sign-off. 源自 peace 加告别语。\n",
+      "Casual, mostly younger speakers. 很随意，多为年轻人用。\n",
+      "Formal version: \"I'm heading off now.\" 正式版：I'm heading off now。"
+    ],
+    "explanation": "【概要】青少年与年轻人口语告别语，意为「我走了、拜拜」，语体轻松，不适合正式场合。\n【结构】Peace out.（感叹/独立句，可加 to sb）；近义 catch you later、later。\n【语用】中性，朋友告别、群聊退场；对客户与长辈用 goodbye / take care。\n【易错】① 属俚语，正式邮件不宜；② 与 peace（和平）本义区分；③ 有些场合显得敷衍。",
+    "synonym_points": [
+      "catch you later — 回头见",
+      "later — 先走了（口语）",
+      "I'm out — 我走了（俚语）",
+      "take care — 保重"
+    ],
+    "antonym_points": [
+      "hello there — 你好",
+      "welcome aboard — 欢迎加入",
+      "stay a while — 多待会儿",
+      "see you soon — 很快见（不同）"
+    ],
+    "extended_points": [
+      "sign-offs（告别语层级）",
+      "youth slang",
+      "register in email"
+    ],
+    "key_point": "【速记】Peace out = 我先走了（俚语）。\n年轻人口语；正式用 goodbye。\n近义 catch you later。"
+  },
+  {
+    "point_content": "I stand corrected.",
+    "tag": ["承认错误", "我收回/我更正", "正面（有风度）", "讨论/纠错", "略正式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我接受更正；是我说错了，我更正；谢谢指出\n自然译法：是我搞错了 / 我说错了，认 / 这个我更正一下",
+    "examples": [
+      "The deadline is Friday? I stand corrected. 截止是周五？那我搞错了。\n",
+      "I stand corrected — the figure was 12%, not 21%. 我更正，数字是 12% 不是 21%。\n",
+      "It admits a factual error gracefully. 体面地承认事实错误。\n",
+      "Slightly formal, common in meetings. 略正式，会议常见。\n",
+      "Casual version: \"my bad.\" 口语版：my bad。"
+    ],
+    "explanation": "【概要】在被指出错误后承认并接受更正，语气体面、克制；属正式程度中等，适用于会议与专业讨论。\n【结构】stand corrected（被动意味的固定搭配，不加 was）；近义 I was wrong、my mistake。\n【语用】正面，学术与职场讨论；用得过快会显得没认真核对。\n【易错】① 固定 stand corrected（非 stand correct）；② 与 correct（纠正别人）主客不同；③ 不必附长篇辩解。",
+    "synonym_points": [
+      "I was wrong — 我错了",
+      "my mistake — 我的错",
+      "point taken — 说得对，我接受",
+      "I'll correct that — 我更正一下"
+    ],
+    "antonym_points": [
+      "I'm still right — 我还是对的",
+      "that's not true — 那不对",
+      "double down — 死不认错",
+      "I disagree — 我不同意"
+    ],
+    "extended_points": [
+      "stand corrected 语法",
+      "intellectual honesty",
+      "double down（反义行为）"
+    ],
+    "key_point": "【速记】I stand corrected = 我接受更正。\n固定搭配；体面认错。\n口语版 my bad。"
+  },
+  {
+    "point_content": "Gotcha.",
+    "tag": ["口语回应", "明白了/懂了", "中性", "对话确认", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "明白了；知道了；懂了（= got you 的连读写法）；也有「上当了/被我逮到」义\n自然译法：懂了 / 明白了 / 懂了懂了",
+    "examples": [
+      "Gotcha — so we meet at nine. 明白了，九点见。\n",
+      "Ah, gotcha. That explains it. 哦懂了，难怪。\n",
+      "It is the phonetic spelling of \"got you.\" 是 got you 的连写。\n",
+      "Also means \"I caught you.\" 也可表「逮到你了」。\n",
+      "In writing, use \"understood\" for formal. 书面正式用 understood。"
+    ],
+    "explanation": "【概要】got you 的口语连写，表示「我懂了/我明白了」，也可表示「我逮到你了、你上当了」；非正式拼写，正式文本不宜。\n【结构】Gotcha.（独立句）；近义 got it、understood、I see。\n【语用】中性，日常对话、聊天；书面报告用 understood / noted。\n【易错】① 属口语拼写，不是标准词形；② 语义双关（理解 / 抓到）；③ 对客户回复用 understood。",
+    "synonym_points": [
+      "got it — 明白了",
+      "understood — 收到（正式）",
+      "I see — 我明白了",
+      "noted — 已记录"
+    ],
+    "antonym_points": [
+      "I don't follow — 我没跟上",
+      "say that again — 再说一遍",
+      "still confused — 还是不懂",
+      "lost me — 我没听懂"
+    ],
+    "extended_points": [
+      "got you 连读规则",
+      "understand vs catch on",
+      "informal spellings"
+    ],
+    "key_point": "【速记】Gotcha = 明白了。\ngot you 的连写；也可表「逮到你」。\n正式用 understood。"
+  },
+  {
+    "point_content": "If it's meant to be.",
+    "tag": ["宿命论表达", "命里有时终须有", "中性", "感情/等待", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "如果注定如此（那就是如此）；命里注定的话，自然会成\n自然译法：要是该成就是该成 / 顺其自然吧 / 命里有时终须有",
+    "examples": [
+      "If it's meant to be, it'll happen. 要是注定，就会发生。\n",
+      "We'll meet again — if it's meant to be. 有缘自会再见。\n",
+      "Meant to be implies fate, not effort. 强调宿命，弱化努力。\n",
+      "Often used after a disappointment. 常用于失望之后安慰。\n",
+      "Neutral version: \"let's see how it goes.\" 中性版：看发展吧。"
+    ],
+    "explanation": "【概要】宿命式表达，表示「若注定如此，结果自会到来」，多用于感情、机会落空后的自我安慰。\n【结构】be meant to be（be meant to 表「注定」）；近义 it's fate、que sera sera。\n【语用】中性，情感话题、面试失利安慰；过度使用会削弱行动力。\n【易错】① 用 meant（非 meaned）；② 与 be meant to do（按理该做）不同；③ 不宜用来劝人放弃努力。",
+    "synonym_points": [
+      "it's fate — 这是命",
+      "que sera sera — 该怎样就怎样",
+      "what will be will be — 命中注定",
+      "let it be — 随它去吧"
+    ],
+    "antonym_points": [
+      "make it happen — 自己去争取",
+      "nothing is destined — 没有天注定",
+      "effort decides — 努力决定结果",
+      "take control — 掌握主动"
+    ],
+    "extended_points": [
+      "be meant to be vs be meant to do",
+      "que sera sera",
+      "locus of control（控制点）"
+    ],
+    "key_point": "【速记】If it's meant to be = 命中注定的话。\nbe meant to be；宿命色彩。\n慎用于劝人放弃。"
+  },
+  {
+    "point_content": "Sold.",
+    "tag": ["成交/说服", "成交；我被说服了", "中性偏正", "交易/推销", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "成交；（引申）我被说服了、就这么定了\n自然译法：成交 / 你要的我买了 / 行，就这么办",
+    "examples": [
+      "Fifty dollars? Sold. 五十美元？成交。\n",
+      "You had me at the first slide — sold. 第一页就把我说服了，行。\n",
+      "It ends a negotiation decisively. 用于果断结束谈判。\n",
+      "Original sense is sold out / sold to a buyer. 原义为售出。\n",
+      "Neutral version: \"deal.\" 中性版：deal（成交）。"
+    ],
+    "explanation": "【概要】原指商品售出，口语中引申为「这笔交易成了」或「我被你说服了」，用于快速拍板。\n【结构】Sold.（过去分词独立成句，省略 it is）；近义 deal、you've got a deal。\n【语用】中性偏正，二手交易、销售、推销；正式合同语境用 we have a deal。\n【易错】① 与 sell（主动出售）时态不同；② 与 sold out（售罄）区分；③ 反悔会造成信任损失。",
+    "synonym_points": [
+      "deal — 成交",
+      "you've got a deal — 就这么定了",
+      "I'm in — 我加入",
+      "count me in — 算我一份"
+    ],
+    "antonym_points": [
+      "no deal — 不成交",
+      "I'll pass — 我不买",
+      "not interested — 不感兴趣",
+      "walk away — 不谈了"
+    ],
+    "extended_points": [
+      "sold out（售罄）",
+      "closing a deal",
+      "commitment language"
+    ],
+    "key_point": "【速记】Sold = 成交/我被说服了。\n省略式独立句；正式用 we have a deal。\n勿混 sold out。"
+  },
+  {
+    "point_content": "Big whoop.",
+    "tag": ["反讽口语", "有啥了不起", "强负面（轻蔑）", "吐槽/贬低", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "（反讽）有什么了不起；那又怎样；没啥大不了\n自然译法：有啥了不起的 / 这也能吹 / 那又如何",
+    "examples": [
+      "You got a B? Big whoop. 你拿了个 B？有啥了不起。\n",
+      "So he apologized — big whoop. 他道歉了？那又如何。\n",
+      "It dismisses an achievement as trivial. 把成绩贬成微不足道。\n",
+      "Often spelled big whoop, or whoop-de-do. 变体 whoop-de-do。\n",
+      "Neutral version: \"that's not a big deal.\" 中性版：那不算大事。"
+    ],
+    "explanation": "【概要】反讽式轻蔑语，字面「好大的欢呼」，实际贬低对方所炫耀的事；语气刻薄，常在争执或吐槽中使用。\n【结构】Big whoop.（名词短语独立句）；近义 so what、who cares。\n【语用】强负面，朋友互损、网络吐槽；对努力者使用会打击积极性。\n【易错】① 反讽理解：并非称赞；② 与 whoop（欢呼声）本义不同；③ 正式场合不适用。",
+    "synonym_points": [
+      "so what — 那又怎样",
+      "who cares — 谁在乎",
+      "big deal — 有啥了不起（反讽）",
+      "whoop-de-do — 同义变体"
+    ],
+    "antonym_points": [
+      "that's impressive — 真了不起",
+      "well done — 干得好",
+      "congratulations — 恭喜",
+      "that matters — 这很重要"
+    ],
+    "extended_points": [
+      "sarcasm markers",
+      "belittling language",
+      "so what 语用"
+    ],
+    "key_point": "【速记】Big whoop = 有啥了不起（反讽）。\n轻蔑贬低；正式场合不用。\n中性版 not a big deal。"
+  },
+  {
+    "point_content": "In more ways than one.",
+    "tag": ["双关提示", "不止一个层面", "中性", "评论/幽默", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "不止在一个方面；不只是一层意思（常暗示双关）\n自然译法：不止一层意思 / 各方面都算 / 不止一处",
+    "examples": [
+      "He's a big man — in more ways than one. 他是个大人物，各方面都「大」。\n",
+      "That joke works in more ways than one. 这笑话不止一层意思。\n",
+      "It flags a double meaning. 提示有双关。\n",
+      "Common humorous tag at sentence end. 常放句尾作幽默补注。\n",
+      "Neutral version: \"on several levels.\" 中性版：在多个层面。"
+    ],
+    "explanation": "【概要】置于句尾的补充语，表示同一句话/事实可作多种理解，常暗示双关或幽默反差；中性偏俏皮。\n【结构】in more ways than one（固定 than one）；近义 on several levels、literally and figuratively。\n【语用】中性，幽默评论、影评；正式报告使用会显得轻佻。\n【易错】① 固定 more ways than one（非 than ones）；② 与 in more than one way 近义；③ 双关不当会显低俗。",
+    "synonym_points": [
+      "on several levels — 在多个层面",
+      "literally and figuratively — 字面与比喻都算",
+      "more than one way — 不止一种方式",
+      "double meaning — 双关"
+    ],
+    "antonym_points": [
+      "in one sense only — 只在一个意义上",
+      "literally — 仅字面",
+      "no double meaning — 无双关",
+      "single meaning — 单一含义"
+    ],
+    "extended_points": [
+      "pun（双关）",
+      "figurative vs literal",
+      "humorous tags"
+    ],
+    "key_point": "【速记】In more ways than one = 不止一个层面。\n常暗示双关；句尾补注。\n正式文本慎用。"
+  },
+  {
+    "point_content": "Do over.",
+    "tag": ["重来", "重做/再试一次", "中性", "游戏/工作", "美式口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "（美式口语）重来一次；重做；再来一遍\n自然译法：重来 / 这局不算再来 / 重做一遍",
+    "examples": [
+      "That shot didn't count — do over. 那球不算，重来。\n",
+      "We need a do over on the design. 设计得重来。\n",
+      "Do-over is the noun form. do-over 是名词形式。\n",
+      "BrE often says \"a fresh start.\" 英式常说 a fresh start。\n",
+      "Neutral version: \"let's redo it.\" 中性版：我们重做。"
+    ],
+    "explanation": "【概要】美式口语，指把做过的事推翻重来；源于儿童游戏「这局不算」，也用于工作返工。\n【结构】do over（动词短语）／a do-over（名词）；近义 redo、start over、take two。\n【语用】中性，游戏、设计返工；涉及合同交付时用 formal rework 更清楚。\n【易错】① 名词写作 do-over（连字符）；② 与 make over（改造外观）不同；③ 英式更常说 fresh start。",
+    "synonym_points": [
+      "start over — 从头再来",
+      "redo — 重做",
+      "take two — 再来一条（影视）",
+      "mulligan — 重打一杆（高尔夫借用）"
+    ],
+    "antonym_points": [
+      "one shot only — 只有一次机会",
+      "no second chances — 没有第二次",
+      "final version — 最终版",
+      "locked in — 已定稿"
+    ],
+    "extended_points": [
+      "mulligan（重来机会）",
+      "rework vs redo",
+      "BrE fresh start"
+    ],
+    "key_point": "【速记】Do over = 重来一次。\n名词 do-over；美式口语。\n近义 start over。"
+  },
+  {
+    "point_content": "BFF.",
+    "tag": ["缩写/网络语", "永远的好朋友", "正面", "社交/青少年", "高频缩写"],
+    "translation_lang": "zh-CN",
+    "translation_content": "永远的好朋友（best friends forever 的缩写）\n自然译法：死党 / 一辈子好姐妹（好兄弟）/ 铁哥们儿",
+    "examples": [
+      "We've been BFFs since primary school. 我们从小学就是死党。\n",
+      "She tagged me as her BFF. 她把我标成最好的朋友。\n",
+      "It's an acronym from texting culture. 源自短信文化的首字母缩写。\n",
+      "Plural: BFFs. 复数作 BFFs。\n",
+      "Formal version: \"a lifelong friend.\" 正式版：a lifelong friend。"
+    ],
+    "explanation": "【概要】best friends forever 的首字母缩写，指关系极好的终身好友；起源于短信与社交媒体，年轻人常用。\n【结构】BFF（名词，可复数 BFFs）；近义 bestie、close friend。\n【语用】正面，社交媒体、青少年口语；商务与正式文书用 close colleague / lifelong friend。\n【易错】① 首字母全大写；② 复数加 s（BFFs）；③ 过度使用会弱化分量。",
+    "synonym_points": [
+      "bestie — 死党（口语）",
+      "bosom friend — 知心朋友（文学）",
+      "confidant — 心腹知己",
+      "lifelong friend — 一辈子的朋友"
+    ],
+    "antonym_points": [
+      "acquaintance — 泛泛之交",
+      "stranger — 陌生人",
+      "frenemy — 表面朋友",
+      "ex-friend — 断交的人"
+    ],
+    "extended_points": [
+      "acronym 构词",
+      "frenemy（反义近词）",
+      "social media registers"
+    ],
+    "key_point": "【速记】BFF = 永远的好朋友。\n全大写；复数 BFFs。\n正式说 lifelong friend。"
+  },
+  {
+    "point_content": "Yippee.",
+    "tag": ["欢呼感叹", "太棒了", "正面", "儿童/庆祝", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "（欢呼）太棒了！耶！好耶！\n自然译法：耶 / 太棒啦 / 好耶",
+    "examples": [
+      "Yippee! No school today. 耶！今天不上学。\n",
+      "She shouted yippee when the tickets arrived. 票到了她喊「好耶」。\n",
+      "It's a childish cheer, mostly written speech. 多用于儿童欢呼，书面模拟语音。\n",
+      "Neutral adult version: \"great news.\" 成人中性版：great news。\n",
+      "Related: yay, woohoo. 近义感叹：yay、woohoo。"
+    ],
+    "explanation": "【概要】表达兴奋的欢呼词，音近「耶」，多用于儿童、轻松庆祝场面；成人使用常带自嘲或幽默。\n【结构】Yippee!（拟声感叹词，无语法变化）；近义 yay、woohoo、hooray。\n【语用】正面偏稚气，家庭、儿童活动；正式或严肃场合不宜。\n【易错】① 拼写变体 yippy 少见；② 与 yip（狗叫）不同；③ 成人频繁使用会显幼稚。",
+    "synonym_points": [
+      "yay — 耶",
+      "woohoo — 哇呼（欢呼）",
+      "hooray — 万岁",
+      "yes — 太好了（短促）"
+    ],
+    "antonym_points": [
+      "oh no — 糟糕",
+      "darn — 唉（失望）",
+      "boo — 嘘（喝倒彩）",
+      "what a shame — 真可惜"
+    ],
+    "extended_points": [
+      "interjection 类感叹词",
+      "hooray vs yay",
+      "register of cheers"
+    ],
+    "key_point": "【速记】Yippee = 耶（太棒了）。\n儿童式欢呼；正式场合不用。\n近义 yay / hooray。"
+  },
+  {
+    "point_content": "Live long and prosper.",
+    "tag": ["影视文化梗", "健康长寿、事业兴旺", "正面", "祝语/流行文化", "文化引用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "健康长寿，事业兴旺（《星际迷航》祝语，常配瓦肯举手礼）\n自然译法：长命百岁、万事顺遂 / 健康又发达\n",
+    "examples": [
+      "Live long and prosper — that's the Vulcan salute. 这是瓦肯人的祝语。\n",
+      "Fans greet each other with \"live long and prosper.\" 粉丝见面就用这句打招呼。\n",
+      "It comes from Star Trek. 出自《星际迷航》。\n",
+      "Used seriously it sounds like a sci-fi fan. 认真使用会显「科幻迷」身份。\n",
+      "Neutral toast: \"wishing you health and success.\" 中性祝酒：祝你健康成功。"
+    ],
+    "explanation": "【概要】《星际迷航》中瓦肯人的经典祝语，字面「长寿且繁荣」，现作为流行文化梗用于打招呼、告别或祝酒。\n【结构】Live long and prosper.（祈使句并列结构）；常配 Vulcan salute（瓦肯举手礼）。\n【语用】正面偏文化梗，粉丝社群、轻松场合；正式商务祝语用 wishing you success。\n【易错】① 属文化引用，非普通英语祝语；② prosper 为动词（繁荣）；③ 与 god bless 宗教祝语不同。",
+    "synonym_points": [
+      "wishing you health and success — 祝你健康成功",
+      "may you prosper — 愿你兴旺",
+      "all the best — 一切顺利",
+      "best of luck — 祝好运"
+    ],
+    "antonym_points": [
+      "farewell forever — 永别",
+      "may you fail — 愿你失败（诅咒）",
+      "good riddance — 走了正好",
+      "better luck next time — 下次吧"
+    ],
+    "extended_points": [
+      "Star Trek 引用",
+      "Vulcan salute",
+      "toast formulas"
+    ],
+    "key_point": "【速记】Live long and prosper = 健康长寿事业兴旺。\n星际迷航祝语；配瓦肯举手礼。\n正式祝语用 all the best。"
+  },
+  {
+    "point_content": "Adieu.",
+    "tag": ["外来语（法语）", "再见（永久）", "正式/文学", "告别", "文化借词"],
+    "translation_lang": "zh-CN",
+    "translation_content": "再见；永别（法语借词，含「不再相见」意味，比 goodbye 更重）\n自然译法：就此别过 / 再见（带感伤）/ 后会无期",
+    "examples": [
+      "He bowed and said adieu. 他鞠了一躬说「就此别过」。\n",
+      "Adieu implies a long or final parting. 暗含长久或最终分离。\n",
+      "It is literary, not everyday speech. 属文学语，不用于日常。\n",
+      "In French it can be casual, in English it's heavy. 法语中可随意，英语里偏重。\n",
+      "Neutral version: \"goodbye.\" 中性版：goodbye。"
+    ],
+    "explanation": "【概要】借自法语的告别词，在英语中带文学与戏剧色彩，暗示长久甚至永久的分离，语气比 goodbye 重。\n【结构】Adieu.（名词/感叹词，可作 bid adieu to sb）；近义 farewell、goodbye for good。\n【语用】正式/文学，诗歌、影剧、演讲结尾；日常告别用 bye / see you。\n【易错】① 英语中比法语更「重」；② 与 adu（无此词）区分；③ 与 adieu 的复数 adieus/adieux 罕用。",
+    "synonym_points": [
+      "farewell — 告别（正式）",
+      "goodbye for good — 永别",
+      "bid adieu — 道别",
+      "vale — 再见（拉丁语，文学）"
+    ],
+    "antonym_points": [
+      "welcome — 欢迎",
+      "hello again — 又见面了",
+      "see you soon — 很快见",
+      "au revoir — 再见（法语，含再会）"
+    ],
+    "extended_points": [
+      "bid adieu to（告别某事物）",
+      "au revoir vs adieu",
+      "farewell register"
+    ],
+    "key_point": "【速记】Adieu = 再见（永别意味）。\n法语借词，文学色彩重。\n日常用 bye。"
+  },
+  {
+    "point_content": "Revenge is a dish best served cold.",
+    "tag": ["谚语", "君子报仇十年不晚", "中性偏负", "报复/叙事", "文化经典"],
+    "translation_lang": "zh-CN",
+    "translation_content": "君子报仇，十年不晚；报复最好在冷静、时机成熟时进行\n自然译法：等时机到了再算账 / 先忍着，日后再说 / 报仇要稳准狠",
+    "examples": [
+      "He waited two years — revenge is a dish best served cold. 他等了两年，所谓君子报仇十年不晚。\n",
+      "The proverb argues patience over impulse. 谚语主张冷静等待而非冲动。\n",
+      "It is often quoted in fiction and films. 常见于小说与影视。\n",
+      "It sanctions revenge, so use cautiously. 它为报复辩护，引用需谨慎。\n",
+      "Neutral version: \"wait for the right moment.\" 中性版：等合适时机。"
+    ],
+    "explanation": "【概要】谚语，字面「复仇最好冷着上桌」，主张延后报复、以冷静与时机取胜；常用于叙事与影评，引用时应意识到其鼓励报复的倾向。\n【结构】Revenge is a dish best served cold.（主语 + is + 名词 + 过去分词定语）；近义 bide your time。\n【语用】中性偏负，文学评论、职场隐喻；正式沟通宜改为 wait for the right moment。\n【易错】① 结构为 served cold（过去分词定语）；② 不是鼓励违法报复；③ 与 turn the other cheek 相反。",
+    "synonym_points": [
+      "bide your time — 等待时机",
+      "wait for the right moment — 等合适时机",
+      "patience pays — 耐心有回报",
+      "strike when ready — 准备好了再动手"
+    ],
+    "antonym_points": [
+      "turn the other cheek — 忍让不报复",
+      "forgive and forget — 宽恕放下",
+      "let it go — 算了",
+      "act on impulse — 冲动行事"
+    ],
+    "extended_points": [
+      "bide one's time",
+      "谚语来源考",
+      "报复伦理讨论"
+    ],
+    "key_point": "【速记】Revenge is best served cold = 报仇十年不晚。\n主张冷静等时机；引用需谨慎。\n正面替 wait for the moment。"
+  },
+  {
+    "point_content": "Chop chop.",
+    "tag": ["催促口语", "快点快点", "中性偏负（催）", "服务/催促", "文化借词"],
+    "translation_lang": "zh-CN",
+    "translation_content": "快点；赶紧；动作快点（催促语，略带不耐）\n自然译法：快点快点 / 麻利点 / 赶紧的",
+    "examples": [
+      "Chop chop — the taxi is waiting. 快点，出租车等着呢。\n",
+      "The manager said \"chop chop\" twice. 经理连说了两遍「赶紧」。\n",
+      "It comes from Cantonese/Pidgin repetition. 源自粤语/洋泾浜的叠词式催促。\n",
+      "It can sound impatient or rude. 会显得不耐烦，甚至无礼。\n",
+      "Polite version: \"when you have a moment.\" 客气版：方便的时候尽快。"
+    ],
+    "explanation": "【概要】催促他人动作快的口语，叠词形式源于粤语「速速」与洋泾浜英语；语气急躁，属不客气的催法。\n【结构】Chop chop.（独立感叹，可作动词化 chop-chop）；近义 hurry up、get a move on。\n【语用】中性偏负，服务场合、家庭催促；对客户与上级改用 when you have a moment。\n【易错】① 叠词固定，不写 chops；② 属催促语，非请求语；③ 对陌生人使用易冲突。",
+    "synonym_points": [
+      "hurry up — 快点",
+      "get a move on — 动作快点",
+      "shake a leg — 赶快（口语）",
+      "step on it — 加把劲（驾车/行动）"
+    ],
+    "antonym_points": [
+      "take your time — 慢慢来",
+      "no rush — 不急",
+      "whenever you're ready — 你准备好再说",
+      "at your own pace — 按自己节奏"
+    ],
+    "extended_points": [
+      "Pidgin English（洋泾浜英语）",
+      "粤语借词",
+      "politeness in requests"
+    ],
+    "key_point": "【速记】Chop chop = 快点快点。\n叠词来自粤语/洋泾浜；带不耐。\n客气说 take your time。"
+  },
+  {
+    "point_content": "If you catch my drift.",
+    "tag": ["暗示/委婉", "如果你懂我意思", "中性", "委婉表达", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "如果你懂我意思的话；你明白我在暗示什么吧\n自然译法：懂我意思吧 / 你懂的 / 我话就说到这",
+    "examples": [
+      "The budget is tight, if you catch my drift. 预算很紧，你懂我意思吧。\n",
+      "He's not exactly reliable — if you catch my drift. 他不太靠得住，你明白吧。\n",
+      "It hints at something left unsaid. 暗示未尽之言。\n",
+      "Similar: if you know what I mean. 近义：if you know what I mean。\n",
+      "Direct version: \"let me be explicit.\" 直接版：我说明白些。"
+    ],
+    "explanation": "【概要】表示话中有未尽之意，请对方自行领会；常用于委婉批评、敏感话题或不便明说的情况。\n【结构】if you catch my drift / if you know what I mean；drift 此处指「意思走向」。\n【语用】中性，成人对话、暗示拒绝；正式文本应改为明确表述以免歧义。\n【易错】① 用 drift（非 draft）；② 与 catch drift（无此搭配）区分；③ 频繁暗示会让沟通低效。",
+    "synonym_points": [
+      "if you know what I mean — 你懂的",
+      "nudge nudge, wink wink — 你明白的（幽默）",
+      "read between the lines — 揣摩言外之意",
+      "say no more — 不用说了，我懂"
+    ],
+    "antonym_points": [
+      "let me be explicit — 我直说",
+      "to put it plainly — 说白了",
+      "no hidden meaning — 没有暗示",
+      "spell it out — 讲明白"
+    ],
+    "extended_points": [
+      "drift 的「意思」义",
+      "read between the lines",
+      "implicature（语用含义）"
+    ],
+    "key_point": "【速记】If you catch my drift = 你懂我意思吧。\n表暗示未尽之言；正式宜明说。\n近义 if you know what I mean。"
+  }
+]

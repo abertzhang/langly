@@ -1,0 +1,562 @@
+[
+  {
+    "point_content": "I don't care",
+    "tag": ["口语态度", "不在乎", "冷淡", "中性偏负", "边界"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我不在乎；我不感兴趣；随便你\n自然译法：我无所谓 / 我不管 / 随你便",
+    "examples": ["I don't care which restaurant we go to. 去哪家餐厅我无所谓。",
+      "I don't care what they think — I'm wearing this. 他们怎么想我不在乎，我就穿这个。",
+      "\"Are you upset?\" \"I don't care anymore.\" 「你难过吗？」「我已经不在意了。」",
+      "I don't care about the money; I care about the work. 我不在乎钱，我在乎这份工作。",
+      "Say what you want — I don't care. 你想说什么就说，我不在意。"
+    ],
+    "explanation": "【概要】表达无所谓、不在意或不愿介入；语气从随意到冷淡，取决于场合与语调。\n【结构】don't care (about sth / wh-从句)；可加强为 I couldn't care less（英式也说 I could care less，属误用但常见）。\n【语用】中性偏负；对伴侣说「I don't care」易被听成冷漠，宜补充理由。\n【易错】① care about 用于「关心」；② I don't care for sth 是「不喜欢某物」；③ couldn't care less 才是「完全不在意」的本义。",
+    "synonym_points": ["I couldn't care less — 我一点都不在乎",
+      "it doesn't matter to me — 对我无所谓",
+      "whatever — 随便（口语，常带不耐烦）",
+      "it's not my concern — 不关我的事"
+    ],
+    "antonym_points": ["I care a lot — 我很在意",
+      "it matters to me — 这对我很重要",
+      "I'm invested — 我很投入",
+      "I'm all in — 我全力以赴"
+    ],
+    "extended_points": ["care for sb — 照顾某人；care for sth — 喜欢某物",
+      "couldn't care less 是正确本义写法",
+      "not give a damn — 毫不在乎（粗俗）"
+    ],
+    "key_point": "【速记】I don't care = 我不在乎。\ncare about（关心）／care for（照顾、喜欢）区分。\n正确写法：couldn't care less。"
+  },
+  {
+    "point_content": "Without further ado",
+    "tag": ["正式口语", "开场过渡", "仪式", "中性", "演讲"],
+    "translation_lang": "zh-CN",
+    "translation_content": "闲话少说；废话不多说；下面直接进入正题\n自然译法：不多说了 / 咱们直接开始 / 言归正传",
+    "examples": ["Without further ado, let's welcome our first speaker. 废话不多说，欢迎第一位讲者。",
+      "Without further ado, here's the main event. 不多说了，正片开始。",
+      "He thanked the sponsors and, without further ado, opened the show. 他感谢赞助商，随后直接开场。",
+      "Without further ado — the results. 废话少说，看结果。",
+      "The host said, \"Without further ado, please enjoy the performance.\" 主持人说「闲话少说，请欣赏演出」。"
+    ],
+    "explanation": "【概要】正式场合的过渡语，宣布结束铺垫、直接进入主要内容或仪式环节。\n【结构】Without further ado, + 主句（句首状语）；也可单独成句 Without further ado.。\n【语用】中性，颁奖、发布会、演讲、播客开场常用；日常口语显夸张。\n【易错】① ado 为不可数名词，不加 a；② 拼写 ado 不是 adieu（告别）；③ with no further ado 亦可用。",
+    "synonym_points": ["without further delay — 不再拖延（近义）",
+      "let's get straight to it — 直接进入正题",
+      "cutting to the chase — 直奔主题",
+      "moving right along — 接着往下（口语）"
+    ],
+    "antonym_points": ["before we begin — 开始之前（前置铺垫）",
+      "just one more thing — 还有一件事",
+      "bear with me — 请耐心听我说完",
+      "as a side note — 顺便提一句"
+    ],
+    "extended_points": ["ado = 忙乱、折腾（much ado about nothing 无事忙）",
+      "cut to the chase — 直接说重点（影业来源）",
+      "get down to business — 谈正事"
+    ],
+    "key_point": "【速记】without further ado = 闲话少说、直接开始。\nado 不可数；拼写勿写 adieu。\n日常说会显夸张，适合仪式/演讲。"
+  },
+  {
+    "point_content": "My apologies",
+    "tag": ["致歉语", "礼貌", "正式", "中性", "职场"],
+    "translation_lang": "zh-CN",
+    "translation_content": "抱歉；我道歉；不好意思\n自然译法：是我的错 / 我向您致歉 / 抱歉抱歉",
+    "examples": ["My apologies for the late reply. 回复晚了，抱歉。",
+      "My apologies — I misread the schedule. 抱歉，我看错日程了。",
+      "He offered his apologies to the whole team. 他向整个团队道歉。",
+      "My apologies if that came across as rude. 如果刚才听着无礼，我道歉。",
+      "She sent a short note: \"My apologies for the confusion.\" 她发了条短信：「造成混乱，抱歉。」"
+    ],
+    "explanation": "【概要】apology 的复数形式用于正式或半正式致歉，比 sorry 更「书面/商务」。\n【结构】My apologies (for sth).；也可说 Please accept my apologies. / I owe you an apology.。\n【语用】中性正式，邮件、会议、客服常用；口语中略显生硬但得体。\n【易错】① 常用复数 apologies；② apology 是「道歉」，apologies 也是；不要写 my apologize（动词误用）；③ 与 My apology（较少见）区分。",
+    "synonym_points": ["I apologize — 我道歉",
+      "please accept my apologies — 请接受我的歉意",
+      "I owe you an apology — 我欠你一个道歉",
+      "my bad — 我的错（口语，轻松）"
+    ],
+    "antonym_points": ["no apology needed — 不必道歉",
+      "I stand by what I said — 我坚持我的说法",
+      "don't blame me — 别怪我",
+      "it's not my fault — 不是我的错"
+    ],
+    "extended_points": ["apologize to sb for sth — 就某事向某人道歉",
+      "a public apology — 公开道歉",
+      "my bad — 口语「我的错」"
+    ],
+    "key_point": "【速记】My apologies = 我道歉（偏正式）。\n常用复数；结构 apologize to sb for sth。\n口语轻松版：my bad。"
+  },
+  {
+    "point_content": "Easy on the eyes",
+    "tag": ["口语评价", "外貌", "习语", "正面偏轻浮", "社交"],
+    "translation_lang": "zh-CN",
+    "translation_content": "好看；养眼；（多指）大美女、大帅哥\n自然译法：长得真养眼 / 颜值在线 / 看着就舒服",
+    "examples": ["The new bartender is easy on the eyes. 新来的调酒师很养眼。",
+      "She's easy on the eyes and sharp as a tack. 她既好看又聪明。",
+      "The lobby is easy on the eyes — soft lighting everywhere. 大堂很舒服，到处是柔和灯光。（也指设计）",
+      "He said the view was easy on the eyes; the view was his date. 他说风景养眼，其实指的是约会对象。",
+      "Easy on the eyes doesn't mean easy to work with. 长得好看不等于好共事。"
+    ],
+    "explanation": "【概要】easy on the eyes 指视觉上令人愉悦，多形容外貌，也可形容设计、景色。\n【结构】be easy on the eyes（固定搭配）；也可说 easy on the ear（好听）。\n【语用】正面但偏轻浮，当面评价他人外貌可能被视为不专业甚至骚扰。\n【易错】① 介词 on；② 与 easy on sb（对某人宽容）不同；③ 用于职场评价外貌需谨慎。",
+    "synonym_points": ["good-looking — 好看（中性）",
+      "a sight for sore eyes — 让人看着舒服（也可指久别重逢）",
+      "pleasing to the eye — 悦目（书面）",
+      "eye candy — 养眼的人/物（略带物化）"
+    ],
+    "antonym_points": ["hard on the eyes — 不好看、刺眼",
+      "easy on the ear — 好听（不同感官）",
+      "a face only a mother could love — 实在不好看（刻薄）",
+      "plain — 长相普通"
+    ],
+    "extended_points": ["easy on the ear — 悦耳",
+      "eye candy — 视觉享受（常物化，慎用）",
+      "a sight for sore eyes — 久违的慰藉"
+    ],
+    "key_point": "【速记】easy on the eyes = 养眼、好看。\n介词 on；也可形容设计/景色。\n职场评价外貌需谨慎。"
+  },
+  {
+    "point_content": "Good thinking",
+    "tag": ["口语称赞", "思路", "正面", "职场", "认可"],
+    "translation_lang": "zh-CN",
+    "translation_content": "想法不错；想得周到；这思路很好\n自然译法：好主意 / 这个点想得好 / 脑子转得快",
+    "examples": ["Good thinking — booking the tickets early saved us money. 想得好，提前订票省了钱。",
+      "\"I brought an umbrella.\" \"Good thinking.\" 「我带了伞。」「想得周到。」",
+      "Good thinking on the backup plan; it saved the launch. 备用方案想得好，救了这次发布。",
+      "That's good thinking, but we still need approval. 思路不错，不过还是得审批。",
+      "She praised the intern: \"Good thinking.\" 她夸实习生「想得好」。"
+    ],
+    "explanation": "【概要】称赞对方的思路、预判或安排得当，比 good idea 更侧重「考虑得周全」。\n【结构】Good thinking.（独立短句）；也可说 That's good thinking. / Good call（侧重决定）。\n【语用】正面，职场、家庭都自然；语气轻松，属低成本肯定。\n【易错】① thinking 是名词化形式；② 与 Good thinking, but…（先肯定再转折）常见；③ 不是「好好想想」（祈使）。",
+    "synonym_points": ["good call — 决定得好（更侧重选择）",
+      "smart move — 明智之举",
+      "nice foresight — 有远见",
+      "great minds think alike — 英雄所见略同（玩笑）"
+    ],
+    "antonym_points": ["bad idea — 馊主意",
+      "poor planning — 计划不周",
+      "what were you thinking — 你怎么想的（责备）",
+      "think again — 再想想（否定）"
+    ],
+    "extended_points": ["good call — 判断得当",
+      "out-of-the-box thinking — 跳出框架思考",
+      "foresight — 预见力"
+    ],
+    "key_point": "【速记】Good thinking = 想法不错、想得周到。\n偏重「预判周全」；常接 but 转折。\n近义：good call / smart move。"
+  },
+  {
+    "point_content": "Thanks a million",
+    "tag": ["口语感谢", "夸张", "正面", "非正式", "社交"],
+    "translation_lang": "zh-CN",
+    "translation_content": "万分感谢；太感谢了；谢啦\n自然译法：真是太谢谢了 / 帮大忙了 / 感激不尽",
+    "examples": ["Thanks a million for the ride home. 送我回家太感谢了。",
+      "You fixed my laptop? Thanks a million. 你把电脑修好了？太谢谢了。",
+      "Thanks a million — I owe you one. 太感谢了，我欠你一个人情。",
+      "She said thanks a million and hung up. 她说「太感谢了」就挂了电话。",
+      "Thanks a million for covering my shift. 帮我顶班太感谢了。"
+    ],
+    "explanation": "【概要】a million 为夸张量词，表示极大感谢；轻松口语，适合帮忙后的即时感谢。\n【结构】Thanks a million (for sth).；也可说 Thanks a ton / Thanks a bunch（口语变体）。\n【语用】正面、非正式；正式场合用 Thank you very much / I'm very grateful。\n【易错】① 固定用 a million，不加 of；② 是 Thanks 复数形式；③ 与 million thanks（少见）不同。",
+    "synonym_points": ["thanks a bunch — 多谢（口语）",
+      "thanks a ton — 太感谢了",
+      "I really appreciate it — 非常感谢（正式）",
+      "much obliged — 多谢（老派/正式）"
+    ],
+    "antonym_points": ["no thanks — 不用了，谢谢",
+      "thanks but no thanks — 谢了但不用（婉拒）",
+      "I don't need your help — 不需要你帮忙",
+      "don't bother — 别费心了"
+    ],
+    "extended_points": ["I owe you one — 我欠你一个人情",
+      "much obliged — 不胜感激（老派）",
+      "appreciate it — 感谢（职场高频）"
+    ],
+    "key_point": "【速记】Thanks a million = 万分感谢（夸张口语）。\n固定 a million；正式版 I really appreciate it。\n配套：I owe you one。"
+  },
+  {
+    "point_content": "It's a go",
+    "tag": ["口语确认", "通过", "项目", "正面", "商务"],
+    "translation_lang": "zh-CN",
+    "translation_content": "可以开始了；批准了；一切就绪\n自然译法：通过 / 就这么定了 / 可以开干",
+    "examples": ["The budget was approved — it's a go. 预算批了，可以开工。",
+      "We got the permits; it's a go for Monday. 许可证拿到了，周一开工。",
+      "\"Is the launch confirmed?\" \"It's a go.\" 「发布确认了吗？」「批了。」",
+      "It's a go as long as the weather holds. 天气没问题的话就按计划。",
+      "The client signed — it's a go. 客户签了，正式启动。"
+    ],
+    "explanation": "【概要】go 作名词表示「获准、可以启动」，it's a go 是简短确认，常用于项目、行动、发射等。\n【结构】It's a go (for + 时间/事项)；也可说 give sth a go（试一试）、make a go of it（努力做成）。\n【语用】正面、商务口语；比 approved 更口语化。\n【易错】① 需冠词 a；② 与 it's a no-go（不行）相对；③ give it a go 是「试一试」不同义。",
+    "synonym_points": ["we're cleared to proceed — 获准推进（正式）",
+      "green light — 绿灯、批准",
+      "it's approved — 已批准",
+      "full steam ahead — 全速推进"
+    ],
+    "antonym_points": ["it's a no-go — 不行、取消",
+      "on hold — 暂停",
+      "scrap it — 取消",
+      "red light — 红灯、否决"
+    ],
+    "extended_points": ["give it a go — 试一试（英式）",
+      "make a go of sth — 努力做成",
+      "green light — 批准（影视/项目管理）"
+    ],
+    "key_point": "【速记】It's a go = 批准了、可以开始。\n需 a；反义 it's a no-go。\n易混：give it a go＝试一试。"
+  },
+  {
+    "point_content": "Better late than never",
+    "tag": ["谚语", "迟到", "补救", "中性偏正", "安慰"],
+    "translation_lang": "zh-CN",
+    "translation_content": "迟到总比不做好；晚做也比不做强\n自然译法：晚点也总比没有强 / 迟到总比不来好 / 补上就好",
+    "examples": ["You finally sent the report — better late than never. 你总算把报告发了，晚点也比不交强。",
+      "Better late than never, but don't make it a habit. 迟到总比不做好，但别成习惯。",
+      "He apologized ten years later; better late than never. 他十年后才道歉，虽晚总比没有好。",
+      "\"Sorry I'm late.\" \"Better late than never.\" 「抱歉迟到了。」「来就好。」",
+      "She started learning piano at sixty — better late than never. 她六十岁开始学琴，晚点也无妨。"
+    ],
+    "explanation": "【概要】谚语：迟到、迟做仍好过完全不做；既可用于安慰，也常作委婉批评（暗示确实太晚）。\n【结构】Better late than never.（独立成句，省略式）；也可说 It's better late than never.。\n【语用】中性偏正，安慰迟到者或肯定迟到的好消息；对上级说需注意语气。\n【易错】① 结构为 better + 形容词 + than + 形容词，保持平行；② 不说 more late；③ 对客户/上级可能被听成阴阳怪气。",
+    "synonym_points": ["late is better than never — 同义变体",
+      "at least it's done — 至少做完了",
+      "no time like the present — 现在开始也不晚",
+      "it's never too late — 永远不晚"
+    ],
+    "antonym_points": ["too little, too late — 太少太迟（带批评）",
+      "missed the boat — 错过时机",
+      "a day late and a dollar short — 总是差一步",
+      "time's up — 时间到了"
+    ],
+    "extended_points": ["too little, too late — 补救无效（常见批评短语）",
+      "it's never too late to learn — 学习永远不晚",
+      "a stitch in time saves nine — 及时一针省九针"
+    ],
+    "key_point": "【速记】Better late than never = 迟做总比不做好。\n平行结构 better…than…；也可作委婉批评。\n反义：too little, too late。"
+  },
+  {
+    "point_content": "Break a leg",
+    "tag": ["祝福语", "演出", "习语", "正面", "戏剧来源"],
+    "translation_lang": "zh-CN",
+    "translation_content": "祝你好运；（上台前）祝演出成功\n自然译法：加油，祝顺利 / 演出大成功 / 干得漂亮（赛前祝福）",
+    "examples": ["Break a leg tonight — you've rehearsed enough. 今晚祝演出成功，你排练够了。",
+      "The director whispered, \"Break a leg.\" 导演低声说「祝顺利」。",
+      "Break a leg at the interview tomorrow. 明天面试祝好运。",
+      "She told the dancers to break a leg before the show. 演出前她祝舞者们成功。",
+      "\"I'm nervous.\" \"Break a leg!\" 「我紧张。」「祝你好运！」"
+    ],
+    "explanation": "【概要】源自剧场迷信：直接祝好运被认为不吉利，故用反语「摔断腿」表达祝福，现泛指祝成功。\n【结构】Break a leg!（祈使句，独立使用）；也可说 break a leg at/in sth。\n【语用】正面，演出、比赛、面试前的祝福；不可用于真实受伤者，否则极不吉利。\n【易错】① 是 fixed idiom，不要改字面理解；② 勿对已受伤的人说；③ 与 good luck 同义但更「内行」。",
+    "synonym_points": ["good luck — 祝好运（通用）",
+      "knock 'em dead — 让他们心服口服（演出前）",
+      "you'll do great — 你会做好的",
+      "fingers crossed — 祝顺利（交叉手指）"
+    ],
+    "antonym_points": ["bad luck — 倒霉",
+      "I hope you fail — 希望你失败",
+      "don't mess up — 别搞砸了（反向施压）",
+      "better luck next time — 下次好运（事后）"
+    ],
+    "extended_points": ["源自剧场反语迷信，属「反向祝福」类习语",
+      "knock 'em dead — 演出前鼓励",
+      "in bocca al lupo（意大利同义反语）"
+    ],
+    "key_point": "【速记】Break a leg = 祝演出成功/好运（剧场反语）。\n仅用于上台、面试、比赛前。\n勿对伤者说，属大忌。"
+  },
+  {
+    "point_content": "Get real",
+    "tag": ["口语斥责", "不切实际", "习语", "强负面", "劝诫"],
+    "translation_lang": "zh-CN",
+    "translation_content": "现实点；别做梦了；清醒一点\n自然译法：认清现实吧 / 想得美 / 别做白日梦",
+    "examples": ["You want a mansion on that salary? Get real. 就这工资想买豪宅？现实点。",
+      "Get real — no one finishes this in one day. 清醒点，这活没人一天能干完。",
+      "She told him to get real about the timeline. 她让他对时间表现实点。",
+      "\"I'll be famous by next year.\" \"Get real.\" 「我明年就出名了。」「别做梦。」",
+      "Get real, the client will never agree to that price. 现实点，客户绝不会同意那个价。"
+    ],
+    "explanation": "【概要】要求对方面对现实、放弃不切实际的想法；属直白甚至冒犯的批评。\n【结构】Get real.（祈使句）；也可说 Get real, will you? / Let's be realistic（委婉版）。\n【语用】强负面口语，朋友间可用；对客户、上级用会显得无礼。\n【易错】① real 用形容词，不是 really；② 与 get ready（准备）无关；③ 委婉替代 Let's be realistic。",
+    "synonym_points": ["be realistic — 现实点（礼貌版）",
+      "wake up and smell the coffee — 清醒点（习语）",
+      "dream on — 继续做梦吧（讽刺）",
+      "face the facts — 面对事实"
+    ],
+    "antonym_points": ["dream big — 大胆梦想（正面）",
+      "anything is possible — 一切皆有可能",
+      "aim high — 志向高远",
+      "think positive — 积极思考"
+    ],
+    "extended_points": ["wake up and smell the coffee — 认清现实（口语）",
+      "pipe dream — 白日梦",
+      "reality check — 现实提醒"
+    ],
+    "key_point": "【速记】Get real = 现实点、别做梦。\nreal 用形容词；强硬口语。\n委婉版：Let's be realistic。"
+  },
+  {
+    "point_content": "Who gives a shit",
+    "tag": ["粗俗语", "不在乎", "强负面", "警告慎用", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "谁在乎啊；管他呢（粗俗，含 shit）\n注意：粗俗表达，正式场合用 Who cares? / It doesn't matter\n自然译法：谁管这破事 / 谁稀罕 / 关我屁事",
+    "examples": ["\"They might complain.\" \"Who gives a shit?\" 「他们可能会抱怨。」「谁在乎？」",
+      "Who gives a shit about the ranking — we shipped it. 排名谁管，我们上线了。",
+      "He said he didn't give a shit about the critics. 他说他不在乎那些批评者。",
+      "Who gives a shit what the neighbors think? 邻居怎么想谁管？",
+      "That attitude — \"who gives a shit\" — got him fired. 那种「谁在乎」的态度让他被开除了。"
+    ],
+    "explanation": "【概要】not give a shit 表示完全不在乎，语气粗俗且带挑衅，属明确脏话层级。\n【结构】give a shit (about sth) 多用于否定/疑问；回答 Who cares? 为礼貌替代。\n【语用】强负面、粗俗；会议、客服、公开场合禁用，替代 Who cares? / It doesn't matter to me。\n【易错】① 语域粗俗，非中性；② 不要在书面正式文本出现；③ 与 don't give a damn（略轻）分层。",
+    "synonym_points": ["who cares — 谁在乎（礼貌替代）",
+      "I couldn't care less — 我完全不在意（较得体）",
+      "it doesn't matter — 无所谓",
+      "not give a damn — 不在乎（稍轻的粗俗）"
+    ],
+    "antonym_points": ["I care deeply — 我很在意",
+      "it matters a lot — 这很重要",
+      "I'm concerned — 我很担心",
+      "that's important to me — 对我很重要"
+    ],
+    "extended_points": ["礼貌替代：Who cares? / It's not important to me.",
+      "give a damn — 在乎（多用于否定）",
+      "apathy — 冷漠（正式名词）"
+    ],
+    "key_point": "【速记】not give a shit = 完全不在乎（粗俗）。\n礼貌替代 Who cares?；正式文本禁用。\n同层：not give a damn（略轻）。"
+  },
+  {
+    "point_content": "Don't let me down",
+    "tag": ["口语请求", "期望", "压力", "中性偏强", "关系"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别让我失望；别辜负我；靠你了\n自然译法：别掉链子 / 我指望你了 / 你可得争气",
+    "examples": ["This is our last chance — don't let me down. 这是最后机会，别让我失望。",
+      "She told the team not to let her down. 她让团队别辜负她。",
+      "Don't let me down; I already told the client yes. 别掉链子，我已经跟客户说可以了。",
+      "\"I'll be there at eight.\" \"Don't let me down.\" 「我八点到。」「别放我鸽子。」",
+      "He didn't want to let his parents down. 他不想让父母失望。"
+    ],
+    "explanation": "【概要】let sb down 指辜负期望、让人失望；整句是托付兼施压，也可用于亲密关系的情绪表达。\n【结构】let sb down（宾格）；也可说 I won't let you down（保证）、feel let down（感到被辜负）。\n【语用】中性偏强，隐含压力；反复说会让对方感到被控制。\n【易错】① 是 let down（放下），不是 let me disappointing；② 与 put sb down（贬低）不同；③ 名词形式 a letdown（失望）。",
+    "synonym_points": ["don't disappoint me — 别让我失望（中性）",
+      "I'm counting on you — 我指望你",
+      "don't blow it — 别搞砸（口语）",
+      "please come through — 请务必办到"
+    ],
+    "antonym_points": ["no pressure — 别有压力",
+      "whatever happens — 不管怎样都行",
+      "I trust you either way — 无论如何我都信你",
+      "it's not a big deal — 不是什么大事"
+    ],
+    "extended_points": ["feel let down — 感到被辜负",
+      "a letdown — 令人失望的事",
+      "flake out — 放鸽子（口语）"
+    ],
+    "key_point": "【速记】Don't let me down = 别让我失望、别掉链子。\nlet sb down 接宾格；名词 a letdown。\n隐含压力，慎反复使用。"
+  },
+  {
+    "point_content": "You rock",
+    "tag": ["口语称赞", "正面", "轻松", "非正式", "鼓励"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你真棒；你太厉害了；你太靠谱了\n自然译法：你太牛了 / 有你在真好 / 给力",
+    "examples": ["You fixed it in five minutes — you rock. 你五分钟就修好，太牛了。",
+      "Thanks for covering for me; you rock. 谢谢你帮我顶，你太靠谱了。",
+      "She told her teammate, \"You rock.\" 她对队友说「你太厉害了」。",
+      "You rock for remembering my birthday. 你还记得我生日，真贴心。",
+      "That presentation was great — you rock. 那场演示很棒，你太厉害了。"
+    ],
+    "explanation": "【概要】rock 作动词/感叹，表示「很棒、很牛」，是轻松热情的称赞，多见于朋友与团队内部。\n【结构】You rock. / sth rocks（这个东西很棒）；也可说 You rock my world（更夸张）。\n【语用】正面、非正式；客户或正式汇报用 great job / excellent work。\n【易错】① rock 在此为褒义，非「石头」；② 与 you suck（相反）对照；③ 书面语少用。",
+    "synonym_points": ["you're awesome — 你太棒了",
+      "you're a star — 你真是个好帮手",
+      "great job — 干得好（中性）",
+      "you nailed it — 你做得完美"
+    ],
+    "antonym_points": ["you suck — 你很差（粗俗）",
+      "that was weak — 太差劲",
+      "you let me down — 你让我失望",
+      "amateur hour — 业余水平"
+    ],
+    "extended_points": ["sth rocks — 某物很棒",
+      "rock star — 明星级人物（夸人）",
+      "you rule — 你最棒（更老派口语）"
+    ],
+    "key_point": "【速记】You rock = 你真棒（轻松热情）。\nrock 褒义；正式场合用 great job。\n反义口语：you suck。"
+  },
+  {
+    "point_content": "I'm stuffed",
+    "tag": ["口语状态", "吃饱", "日常", "中性", "饮食"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我吃饱了；我吃撑了\n自然译法：撑死我了 / 吃不下了 / 饱得不行",
+    "examples": ["I'm stuffed — no dessert for me. 我吃撑了，甜点免了。",
+      "After the buffet, everyone was stuffed. 自助餐之后大家都吃撑了。",
+      "\"Want more rice?\" \"No, I'm stuffed.\" 「再来点饭？」「不了，我饱了。」",
+      "I'm stuffed but it was worth it. 撑了，不过值得。",
+      "She felt stuffed after the holiday dinner. 节日大餐后她撑得难受。"
+    ],
+    "explanation": "【概要】stuffed 口语指「吃得极饱」，比 I'm full 语气更强、更生动；也可指「塞满的」。\n【结构】be stuffed（或 get stuffed，注意该短语另义为「滚开」的粗鲁表达，勿混）；也可说 stuffed to the gills。\n【语用】中性日常，餐桌语境安全；离开饮食语境易生歧义。\n【易错】① get stuffed 是粗鲁的「滚开」，别误用；② stuffed 与 full 程度不同；③ 描述物「塞满」也用 stuffed。",
+    "synonym_points": ["I'm full — 我饱了（中性）",
+      "I'm stuffed to the gills — 撑到嗓子眼",
+      "I couldn't eat another bite — 一口都吃不下了",
+      "I'm bursting — 撑爆了（夸张）"
+    ],
+    "antonym_points": ["I'm starving — 我饿死了",
+      "I could eat a horse — 我饿得能吃一头牛",
+      "I'm famished — 饿坏了（书面）",
+      "I'm peckish — 有点饿（英式）"
+    ],
+    "extended_points": ["get stuffed — 滚开（粗鲁，勿与 be stuffed 混）",
+      "stuffed full — 塞得满满的",
+      "food coma — 饭后困倦（口语）"
+    ],
+    "key_point": "【速记】I'm stuffed = 我吃撑了。\nget stuffed 是「滚开」，务必区分。\n更中性：I'm full。"
+  },
+  {
+    "point_content": "Shake a leg",
+    "tag": ["口语催促", "快点", "习语", "非正式", "轻微不客气"],
+    "translation_lang": "zh-CN",
+    "translation_content": "快点；动作快点；走起\n自然译法：赶紧的 / 麻利点 / 别磨蹭",
+    "examples": ["Shake a leg — the taxi is waiting. 快点，出租车等着呢。",
+      "Shake a leg, or we'll miss the train. 赶紧，不然赶不上火车。",
+      "He told the kids to shake a leg. 他让孩子们快点。",
+      "Shake a leg in the morning and we'll beat the traffic. 早上早点出门就能避开堵车。",
+      "She shook a leg and finished the report by noon. 她动作麻利，中午就把报告写完了。"
+    ],
+    "explanation": "【概要】催促对方动作快些，字面「抖抖腿」，语气轻快但略不客气，常用于家人、队友之间。\n【结构】Shake a leg!（祈使句）；也可说 get a move on / hurry up（更通用）。\n【语用】非正式，熟人催促合适；对客户或用「Would you mind hurrying?」。\n【易错】① 固定搭配 a leg（单数）；② 不是「跳舞」；③ 也可用于「出发」义。",
+    "synonym_points": ["hurry up — 快点（通用）",
+      "get a move on — 动作快点（英式）",
+      "step on it — 赶紧（驾驶/行动）",
+      "chop-chop — 快点（口语，略老派）"
+    ],
+    "antonym_points": ["take your time — 慢慢来",
+      "no rush — 不着急",
+      "slow down — 慢点",
+      "hold your horses — 别急"
+    ],
+    "extended_points": ["shake a leg 也可指「跳舞」（旧用法）",
+      "get a move on — 加快（英式高频）",
+      "on the double — 立刻（军事来源）"
+    ],
+    "key_point": "【速记】Shake a leg = 快点、别磨蹭。\n单数 a leg；略不客气，熟人间用。\n礼貌版：Would you mind hurrying?"
+  },
+  {
+    "point_content": "We're good to go",
+    "tag": ["项目确认", "就绪", "正面", "商务", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我们可以出发了；一切就绪；可以开始了\n自然译法：准备完毕 / 可以走了 / 万事俱备",
+    "examples": ["The van's loaded — we're good to go. 车装好了，可以出发。",
+      "We're good to go once the contract is signed. 合同一签就可以开始。",
+      "\"Everyone ready?\" \"We're good to go.\" 「都准备好了？」「随时可以。」",
+      "The server's back up; we're good to go. 服务器恢复了，可以继续。",
+      "She checked the checklist twice: we're good to go. 她核对了两遍清单：一切就绪。"
+    ],
+    "explanation": "【概要】be good to go 表示「准备就绪、可以开始/出发」，商务与日常都常用。\n【结构】be good to go (for sth)；也可说 all set / ready to roll（口语）。\n【语用】正面、简洁；正式邮件可用 We are ready to proceed。\n【易错】① 固定结构 good to go，不加 for going；② 与 have a good time（玩得开心）无关；③ 主语常用 we/you/it。",
+    "synonym_points": ["we're all set — 都准备好了",
+      "ready to roll — 可以开动（口语）",
+      "good to go — 就绪（同义短语）",
+      "clear to proceed — 获准推进（正式）"
+    ],
+    "antonym_points": ["not yet — 还不行",
+      "we're on hold — 暂停中",
+      "still pending — 还在等",
+      "hold off — 先别动"
+    ],
+    "extended_points": ["all set — 准备完毕（美式高频）",
+      "ready to roll — 可以开始",
+      "standby — 待命"
+    ],
+    "key_point": "【速记】We're good to go = 一切就绪，可以开始。\n固定 good to go；正式版 ready to proceed。\n近义：all set / ready to roll。"
+  },
+  {
+    "point_content": "Easy peasy",
+    "tag": ["口语", "容易", "儿童化", "正面", "押韵俚语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "小菜一碟；太简单了；轻松搞定（完整版 easy peasy lemon squeezy）\n自然译法：简单到爆 / 小意思 / 分分钟的事",
+    "examples": ["The puzzle was easy peasy. 这谜题太简单了。",
+      "Setup took two minutes — easy peasy. 安装两分钟，小意思。",
+      "Easy peasy, lemon squeezy — I'll do it myself. 小菜一碟，我自己来。",
+      "She said the exam was easy peasy, then got a B. 她说考试很简单，结果拿了个 B。",
+      "Easy peasy for you, maybe — not for a beginner. 对你或许简单，对新手可不是。"
+    ],
+    "explanation": "【概要】押韵俚语（完整形式 easy peasy lemon squeezy），表示极其容易，语气俏皮、带儿童化色彩。\n【结构】easy peasy（形容词/感叹）；完整形式 easy peasy, lemon squeezy；也可作表语 It's easy peasy。\n【语用】正面、轻松，玩笑与教学鼓励合适；正式汇报用 straightforward / simple。\n【易错】① 属非正式押韵俚语，不用于正式文书；② 与 piece of cake 同义但更孩子气；③ 拼写 peasy 不加 s。",
+    "synonym_points": ["a piece of cake — 小菜一碟",
+      "a breeze — 轻而易举",
+      "simple as that — 就这么简单",
+      "no sweat — 不难（口语）"
+    ],
+    "antonym_points": ["easier said than done — 说来容易做来难",
+      "no picnic — 不轻松",
+      "a nightmare — 噩梦般的难",
+      "blood, sweat and tears — 费尽心血"
+    ],
+    "extended_points": ["押韵俚语（rhyming slang）常见形式：easy peasy lemon squeezy",
+      "no sweat — 没问题（口语）",
+      "a walk in the park — 轻松事"
+    ],
+    "key_point": "【速记】easy peasy = 小菜一碟（俏皮押韵）。\n完整版加 lemon squeezy；正式场合勿用。\n近义：piece of cake / a breeze。"
+  },
+  {
+    "point_content": "Morning person",
+    "tag": ["生活习惯", "作息", "中性", "日常", "性格"],
+    "translation_lang": "zh-CN",
+    "translation_content": "早起的人；早上状态最好的人（晨型人）\n自然译法：早鸟型 / 我早上最精神 / 天生早起的人",
+    "examples": ["I'm a morning person — I write before breakfast. 我是晨型人，早饭前写作。",
+      "She's not a morning person; don't call her before nine. 她不是早起型，九点前别打电话。",
+      "Being a morning person helps with jet lag. 早起体质对倒时差有帮助。",
+      "He became a morning person after getting a dog. 养狗之后他变成了早起的人。",
+      "Are you a morning person or a night owl? 你是晨型人还是夜猫子？"
+    ],
+    "explanation": "【概要】指习惯早起、上午精力最充沛的人；与 night owl（夜猫子）相对，是描述作息性格的常用说法。\n【结构】a morning person（可数名词短语）；也可说 early riser（更中性）。\n【语用】中性，自我介绍、同事闲聊、招聘中谈作息都可用。\n【易错】① 需冠词 a；② 与 early bird（早到者/早起者，另含「早起的鸟儿有虫吃」）近义；③ 描述习惯而非职业。",
+    "synonym_points": ["early riser — 早起的人（中性）",
+      "early bird — 早起者（口语）",
+      "lark — 晨型人（睡眠研究术语）",
+      "up with the sun — 日出即起（文学化）"
+    ],
+    "antonym_points": ["night owl — 夜猫子",
+      "a night person — 夜间型人",
+      "late riser — 起得晚的人",
+      "insomniac — 失眠者（不同概念）"
+    ],
+    "extended_points": ["night owl — 夜猫子",
+      "The early bird catches the worm. — 早起的鸟儿有虫吃",
+      "circadian rhythm — 昼夜节律"
+    ],
+    "key_point": "【速记】morning person = 晨型人、早起的人。\n需 a；反义 night owl。\n中性版：early riser。"
+  },
+  {
+    "point_content": "Whatever you want",
+    "tag": ["口语让步", "随你", "中性偏被动", "关系", "日常"],
+    "translation_lang": "zh-CN",
+    "translation_content": "随你；你想要什么都行；你决定就好\n自然译法：都听你的 / 你说了算 / 我无所谓",
+    "examples": ["Whatever you want — I'm just happy to be here. 随你，我来就好。",
+      "\"Beach or mountains?\" \"Whatever you want.\" 「海边还是山里？」「你定。」",
+      "She always says whatever you want, then complains later. 她总说随你，事后又抱怨。",
+      "Whatever you want for dinner; I'll cook. 晚饭你想吃什么，我来做。",
+      "He gave in: \"Whatever you want, honey.\" 他让步：「都听你的，亲爱的。」"
+    ],
+    "explanation": "【概要】表示完全顺从对方意愿，语气可温和也可敷衍；频繁使用易被解读为「不上心、不表态」。\n【结构】Whatever you want.（独立句）；也可说 whatever you like / it's up to you / I'm easy。\n【语用】中性偏被动，亲密关系与点餐场景常见；需注意长期「随你」会积累不满。\n【易错】① 与 whatever（随便，带不耐烦）语气不同；② 不作定语 Whatever you want food（错）；③ 礼貌版 I'm happy with either。",
+    "synonym_points": ["it's up to you — 你决定",
+      "I'm easy — 我随便（英式）",
+      "your call — 你说了算",
+      "I'm fine with either — 两个都行"
+    ],
+    "antonym_points": ["I have a preference — 我有偏好",
+      "let's do my plan — 按我的来",
+      "no, I want this — 不，我要这个",
+      "I insist — 我坚持"
+    ],
+    "extended_points": ["your call — 由你决定（职场高频）",
+      "I'm easy — 我无所谓（英式口语）",
+      "give sb a free hand — 放手让对方决定"
+    ],
+    "key_point": "【速记】Whatever you want = 随你、你定。\n长期使用易显敷衍；礼貌版 I'm happy with either。\n近义：your call / I'm easy。"
+  },
+  {
+    "point_content": "Rob someone blind",
+    "tag": ["习语", "宰客", "价格", "强负面", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "把某人洗劫一空；狠狠宰客；漫天要价\n自然译法：被狠宰了一刀 / 价格离谱 / 掏空钱包",
+    "examples": ["The airport café robbed me blind for a coffee. 机场咖啡店一杯咖啡把我宰惨了。",
+      "Tourist traps rob you blind in the high season. 旺季旅游陷阱宰客毫不手软。",
+      "They robbed him blind on the repairs — triple the normal price. 修车狠狠宰了他，价格是常规三倍。",
+      "Don't use that taxi app; it robs you blind at night. 别用那个打车软件，夜里宰人。",
+      "We were robbed blind at the wedding venue. 婚礼场地把我们掏空了。"
+    ],
+    "explanation": "【概要】rob sb blind 字面「把人抢到看不见」，实指以离谱价格榨取钱财，强调被宰得毫无还手之力。\n【结构】rob sb blind（及物动词短语，sb 用宾格）；也可说 rip sb off（更常用、程度略轻）。\n【语用】强负面口语，消费吐槽、旅游经验分享常见；正式投诉用 overcharged。\n【易错】① blind 是副词性补语，不加 -ly；② 与 rob sb of sth（抢走某物）结构不同；③ 语域口语，不用于合同。",
+    "synonym_points": ["rip sb off — 宰客（最常用）",
+      "overcharge sb — 多收费（正式）",
+      "daylight robbery — 明抢（英式口语）",
+      "gouge sb — 狠宰（商业语境）"
+    ],
+    "antonym_points": ["a bargain — 便宜货、划算",
+      "fair price — 公道价",
+      "good value — 值这个价",
+      "at cost — 按成本价"
+    ],
+    "extended_points": ["daylight robbery — 大白天抢劫（形容价格离谱）",
+      "price gouging — 哄抬价格（法律/经济术语）",
+      "tourist trap — 游客陷阱"
+    ],
+    "key_point": "【速记】rob sb blind = 狠狠宰客。\nblind 作补语，不加 -ly；近义 rip sb off。\n正式版 overcharge / price gouging。"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "point_content": "Goose bumps",
+    "tag": ["身体反应", "情绪", "中性", "日常", "生理"],
+    "translation_lang": "zh-CN",
+    "translation_content": "鸡皮疙瘩；（因感动/恐惧/寒冷）起鸡皮疙瘩\n自然译法：鸡皮疙瘩起来了 / 毛骨悚然 / 冷得起层皮",
+    "examples": ["That song gives me goose bumps every time. 那首歌每次都让我起鸡皮疙瘩。",
+      "I got goose bumps when the crowd started singing. 人群开始合唱时我起了鸡皮疙瘩。",
+      "The cold wind gave me goose bumps. 冷风让我直起鸡皮疙瘩。",
+      "Her story gave us all goose bumps. 她的故事让我们都毛骨悚然。",
+      "Goose bumps are just a physical reaction — nothing to worry about. 鸡皮疙瘩只是生理反应，不用担心。"
+    ],
+    "explanation": "【概要】goose bumps（英式也说 goose pimples）指皮肤因寒冷、恐惧或强烈情绪而出现的小凸起；口语 get/have goose bumps。\n【结构】get goose bumps（复数固定）；give sb goose bumps。\n【语用】中性，可褒（被感动）可贬（恐惧/寒冷）；描述生理现象不必羞于使用。\n【易错】① 用复数 bumps；② goose 不加 -s（不是 geese bumps）；③ 与 hair standing on end（汗毛直竖）近义。",
+    "synonym_points": ["goose pimples — 鸡皮疙瘩（英式）",
+      "gooseflesh — 鸡皮疙瘩（略文雅）",
+      "chills — 一阵寒意/感动（口语）",
+      "hair standing on end — 汗毛直竖"
+    ],
+    "antonym_points": ["relaxed — 放松",
+      "unmoved — 毫无触动",
+      "indifferent — 无动于衷",
+      "comfortably warm — 暖和舒适"
+    ],
+    "extended_points": ["give sb chills — 让人脊背发凉/起鸡皮",
+      "a shiver down one's spine — 一阵寒意传过脊背",
+      "goosebump moment — 高光/动人时刻"
+    ],
+    "key_point": "【速记】goose bumps = 鸡皮疙瘩（复数固定）。\n可表感动或恐惧；英式 goose pimples。\n近义：chills / shiver down the spine。"
+  },
+  {
+    "point_content": "You nailed it",
+    "tag": ["口语称赞", "完美完成", "正面", "职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你做得太棒了；你一击命中；完全做对了\n自然译法：你拿捏得刚刚好 / 这个简直完美 / 一次就对了",
+    "examples": ["You nailed it — the pitch was exactly what they wanted. 太棒了，那提案正合他们心意。",
+      "She nailed the interview and got the offer. 她面试表现出色，拿到了 offer。",
+      "You nailed it on the first try. 你第一次就做到位了。",
+      "The design team nailed it; the client signed same day. 设计团队做得完美，客户当天就签了。",
+      "Not quite — you nearly nailed it, just fix the ending. 还差点，几乎完美，改改结尾。"
+    ],
+    "explanation": "【概要】nail sth 原指准确钉中，口语引申为「精准完成、做到位」，是高频赞赏。\n【结构】nail sth（及物）；也可说 nail it / you nailed that presentation；反义 be off the mark。\n【语用】正面，职场、表演、体育都可用；正式书面用 executed perfectly。\n【易错】① 及物，要有宾语（nail it）；② 与 hit the nail on the head（说到点子上）不同；③ 过去式 nailed。",
+    "synonym_points": ["you crushed it — 你干得超棒（口语）",
+      "spot on — 完全准确（英式）",
+      "you hit the nail on the head — 一针见血（说中要点）",
+      "perfect execution — 执行完美（正式）"
+    ],
+    "antonym_points": ["you missed the mark — 没做到点上",
+      "you blew it — 你搞砸了",
+      "off target — 偏了",
+      "close but no cigar — 差一点（不给奖）"
+    ],
+    "extended_points": ["hit the nail on the head — 说到点子上（近义但侧重说话）",
+      "crush it — 干得极好（口语）",
+      "close but no cigar — 差一步"
+    ],
+    "key_point": "【速记】nail it = 做到完美、拿捏到位。\n及物需宾语；勿混 hit the nail on the head（说中要点）。\n近义：crush it / spot on。"
+  },
+  {
+    "point_content": "It's a steal",
+    "tag": ["购物表达", "划算", "正面", "消费", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "太划算了；简直是白捡的；便宜到不敢信\n自然译法：这个价太值了 / 简直白菜价 / 不买亏了",
+    "examples": ["Two hundred dollars for that bike? It's a steal. 那辆自行车两百块？太划算了。",
+      "The jacket was a steal at half price. 那夹克半价，真是捡到便宜。",
+      "It's a steal compared to the downtown stores. 跟市区店比，这价格太划算。",
+      "She called the deal a steal and bought two. 她说这价格太划算，买了两个。",
+      "It's a steal, but check the return policy first. 是很划算，不过先看看退货政策。"
+    ],
+    "explanation": "【概要】steal 在此为名词，指「极其便宜的成交」，强调性价比超常；不含「偷窃」义。\n【结构】It's a steal.（表语，需冠词 a）；也可说 at a steal（少见）、a real steal。\n【语用】正面，购物、房产、二手交易常用；商业文案高频。\n【易错】① 需冠词 a；② 与 steal（偷）动词义区分靠语境；③ 与 a bargain（划算的交易）近义。",
+    "synonym_points": ["a bargain — 划算的交易（通用）",
+      "a great deal — 很划算（口语）",
+      "dirt cheap — 便宜得离谱",
+      "value for money — 物有所值"
+    ],
+    "antonym_points": ["a rip-off — 宰人（口语）",
+      "overpriced — 定价过高",
+      "highway robbery — 明抢（夸张）",
+      "not worth it — 不值"
+    ],
+    "extended_points": ["a steal 与 steal（偷）同形异义",
+      "rip-off — 宰客",
+      "bang for your buck — 花得值"
+    ],
+    "key_point": "【速记】It's a steal = 太划算了（名词义）。\n需冠词 a；与「偷」义靠语境区分。\n近义：a bargain / dirt cheap。"
+  },
+  {
+    "point_content": "A dog person",
+    "tag": ["性格偏好", "宠物", "中性", "社交", "日常"],
+    "translation_lang": "zh-CN",
+    "translation_content": "喜欢狗的人；狗派（相对 cat person）\n自然译法：我是狗派 / 我更爱狗 / 天生跟狗亲",
+    "examples": ["I'm a dog person — I've had dogs my whole life. 我是狗派，从小就养狗。",
+      "Are you a dog person or a cat person? 你是爱狗的还爱猫的？",
+      "She's a dog person, so the office dog loves her. 她是狗派，办公室那只狗特别黏她。",
+      "Being a dog person means never eating alone. 爱狗的人从不独自吃饭。",
+      "He became a dog person after adopting a rescue. 领养了一只救助犬后他成了狗派。"
+    ],
+    "explanation": "【概要】a dog/cat person 指偏爱某类宠物、性格与之相合的人，是社交闲聊的常见分类。\n【结构】a dog person（可数名词短语，需冠词）；复数 dog people。\n【语用】中性友好，闲聊与自我介绍适用；不带价值判断，别硬分高下。\n【易错】① 需冠词 a；② 不是「狗人」（勿直译）；③ 与 dog lover（爱狗者，程度更强）略有差别。",
+    "synonym_points": ["a dog lover — 爱狗人士",
+      "dog people — 狗派（群体）",
+      "a pet person — 爱宠物的人",
+      "an animal lover — 动物爱好者"
+    ],
+    "antonym_points": ["a cat person — 猫派",
+      "not a pet person — 不喜欢养宠物",
+      "allergic to dogs — 对狗过敏",
+      "a no-pets household — 不养宠物的人家"
+    ],
+    "extended_points": ["cat person — 猫派（对照学习）",
+      "a rescue dog — 救助犬",
+      "pet-friendly — 宠物友好"
+    ],
+    "key_point": "【速记】a dog person = 狗派、爱狗的人。\n需冠词 a；与 cat person 对照。\n勿直译「狗人」。"
+  },
+  {
+    "point_content": "I'm moving on",
+    "tag": ["情感表达", "放下", "正面偏成熟", "关系", "职场"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我要放下过去，重新开始；我要往前走了\n自然译法：我该往前看了 / 这事我翻篇了 / 我要走出来了",
+    "examples": ["I'm moving on — the breakup was six months ago. 我往前看了，分手都半年了。",
+      "She's moving on to a new role next month. 她下个月转去新岗位。",
+      "I'm moving on from that project; it's not working. 那个项目我放手了，做不成。",
+      "It's healthy to say \"I'm moving on\" instead of obsessing. 说「我翻篇了」比死磕更健康。",
+      "He's moving on and doesn't want to talk about the past. 他往前走了，不想再谈过去。"
+    ],
+    "explanation": "【概要】move on 指放下旧事、结束一段关系或转入下一阶段，强调向前而非纠缠。\n【结构】move on (from sth / to sth)；也可说 let it go / turn the page。\n【语用】中性偏成熟，感情、工作、失误复盘都可用；对仍痛苦的人说可能显得催促。\n【易错】① 用 moving on（进行时表近未来）；② 与 move in/out（搬进搬出）不同；③ 与 move forward（推进）语义略不同。",
+    "synonym_points": ["move forward — 向前走",
+      "let it go — 放下",
+      "turn the page — 翻篇",
+      "start fresh — 重新开始"
+    ],
+    "antonym_points": ["stay stuck — 卡住不动",
+      "hold a grudge — 记仇",
+      "dwell on it — 反复纠结",
+      "live in the past — 活在过去"
+    ],
+    "extended_points": ["closure — 心理了结",
+      "turn over a new leaf — 改过自新/新开始",
+      "dwell on — 反复想着"
+    ],
+    "key_point": "【速记】I'm moving on = 我翻篇了、往前看。\n介词 from/to 搭配；中性偏成熟。\n对仍痛苦者慎用，别催。"
+  },
+  {
+    "point_content": "You're a phony",
+    "tag": ["人物指责", "虚伪", "强负面", "冲突", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你是个骗子；你真虚伪；你全是装的\n自然译法：你就是装的 / 假得不行 / 你这人太假了",
+    "examples": ["You're a phony — you don't care about any of us. 你太假了，根本不在乎我们。",
+      "He acts nice on camera and is a phony off it. 他镜头前和气，私下全是装。",
+      "She called him a phony after he broke another promise. 他又失信后，她说他很虚伪。",
+      "You're a phony if you keep saying things you don't mean. 老说违心话，就是虚伪。",
+      "Calling someone a phony ends the friendship fast. 给人扣「虚伪」的帽子，友情很快就没了。"
+    ],
+    "explanation": "【概要】phony（也拼 phoney，英式）指假冒的、虚伪的人或物；直接称人 a phony 属人格攻击。\n【结构】a phony（可数，需冠词）；也可说 fake / two-faced（两面派）。\n【语用】强负面，指责性质；职场公开使用会破坏关系，宜描述行为而非贴标签。\n【易错】① 拼写 phony（美）/ phoney（英）；② 与 a fraud（诈骗者，涉法律）程度不同；③ 不指「假货」以外的物品？也可指假货（a phony watch）。",
+    "synonym_points": ["a fake — 假货/假人（口语）",
+      "two-faced — 两面派",
+      "a hypocrite — 伪君子（正式）",
+      "all show — 全是表演"
+    ],
+    "antonym_points": ["genuine — 真诚的",
+      "the real deal — 真材实料（口语）",
+      "authentic — 真实的",
+      "straight shooter — 直来直去的人（美式）"
+    ],
+    "extended_points": ["phoney 英式拼写",
+      "two-faced — 两面三刀",
+      "impostor syndrome — 冒名顶替感（心理，非骂人）"
+    ],
+    "key_point": "【速记】a phony = 骗子、虚伪的人（强负面）。\nphony 美 / phoney 英；属人格标签。\n宜描述行为，不轻易定性。"
+  },
+  {
+    "point_content": "A knockout",
+    "tag": ["人物评价", "惊艳", "口语", "可显物化", "正面"],
+    "translation_lang": "zh-CN",
+    "translation_content": "绝代佳人；美得惊人的人；（也可指）惊艳之作\n自然译法：长得太惊艳了 / 美到失语 / 一出场就炸场",
+    "examples": ["She walked in and looked like a knockout. 她一走进来，惊艳全场。",
+      "The new design is a knockout. 这个新设计太惊艳了。",
+      "He called her a knockout, and she rolled her eyes. 他说她美得惊人，她翻了个白眼。",
+      "Their performance was a knockout from the first minute. 他们的表演从第一分钟就炸场。",
+      "A knockout dress doesn't guarantee a knockout speech. 衣服惊艳不代表演讲惊艳。"
+    ],
+    "explanation": "【概要】knockout 原为拳击「击倒」，口语引申为极美的人或极出色的作品，强调「一击震撼」。\n【结构】a knockout（可数，需冠词）；也可说 knockout (adj)：a knockout performance。\n【语用】正面但易物化，当面评价外貌可能冒犯；评论作品、设计则安全。\n【易错】① 需冠词 a；② 与 knock out（击倒、使昏睡）动词不同；③ 语域偏口语。",
+    "synonym_points": ["a stunner — 惊艳的人/物（口语）",
+      "drop-dead gorgeous — 美得惊人",
+      "a showstopper — 压轴惊艳之作",
+      "breathtaking — 令人窒息的美"
+    ],
+    "antonym_points": ["a flop — 彻底失败",
+      "underwhelming — 平平无奇",
+      "a plain Jane — 相貌平平（略带贬）",
+      "forgettable — 没有记忆点"
+    ],
+    "extended_points": ["knock sb out — 击倒；也可指「惊艳到某人」",
+      "a showstopper — 压场之作",
+      "eye-catching — 抢眼"
+    ],
+    "key_point": "【速记】a knockout = 惊艳的人/作品。\n需冠词 a；评价外貌易物化，慎用。\n近义：a stunner / showstopper。"
+  },
+  {
+    "point_content": "Silver lining",
+    "tag": ["习语", "希望", "乐观", "正面", "心理"],
+    "translation_lang": "zh-CN",
+    "translation_content": "一线希望；坏消息中好的一面\n自然译法：往好处看的那一面 / 里头还有点好消息 / 总算有个亮点",
+    "examples": ["The silver lining is that we now have time to redesign. 好的一面是，我们终于有时间重做设计。",
+      "Every crisis has a silver lining if you look for it. 每场危机里都能找到一线希望。",
+      "The silver lining: the delay saved us from a bigger loss. 亮点是，延误让我们避免了更大损失。",
+      "She found the silver lining in losing the client. 她从丢客户这件事里看到了积极面。",
+      "It's hard to see the silver lining right now. 现在很难看到好的一面。"
+    ],
+    "explanation": "【概要】silver lining 指困境中的积极面，源自谚语 Every cloud has a silver lining，可单独作名词使用。\n【结构】可数名词 a silver lining / the silver lining；也可说 look for the silver lining。\n【语用】正面，安慰与复盘时常用；对重大创伤过分强调会显得轻慢。\n【易错】① 需冠词 a/the；② 不是「银色内衬」的字面；③ 与 bright side（积极面）近义。",
+    "synonym_points": ["the bright side — 好的一面",
+      "a blessing in disguise — 意外的福气",
+      "the upside — 有利的一面（商务）",
+      "a positive takeaway — 正面收获"
+    ],
+    "antonym_points": ["the downside — 不利的一面",
+      "doom and gloom — 一片悲观",
+      "a curse — 诅咒、祸事",
+      "the worst part — 最糟的部分"
+    ],
+    "extended_points": ["Every cloud has a silver lining. — 源头谚语",
+      "the upside — 商务用语",
+      "reframe — 重新框定（心理技巧）"
+    ],
+    "key_point": "【速记】silver lining = 一线希望、好的一面。\n需冠词；源自云朵谚语。\n商务近义：the upside。"
+  },
+  {
+    "point_content": "Runs in the family",
+    "tag": ["习语", "家族遗传", "中性", "家庭", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "家族遗传；一家人都有这个特点\n自然译法：我们家都这样 / 祖传的 / 遗传下来的",
+    "examples": ["Bad eyesight runs in the family. 视力不好是我们家遗传的。",
+      "Musical talent runs in her family. 音乐天赋是她家传下来的。",
+      "Diabetes runs in the family, so he gets checked yearly. 家族有糖尿病史，他每年体检。",
+      "Stubbornness runs in the family — ask my dad. 倔脾气是家族遗传，问我爸。",
+      "It runs in the family, but that doesn't mean it's destiny. 这是遗传，但不代表注定。"
+    ],
+    "explanation": "【概要】run in the family 指某特征、疾病或习惯在家族中代代出现，可指生理遗传也可指行为传承。\n【结构】sth runs in the family（主语为特征，动词 runs 第三人称单数）；也可说 run in sb's family。\n【语用】中性，家族病史、性格、才华讨论都自然；医学沟通更准确用 hereditary。\n【易错】① 用 runs（主语为单数特征）；② 介词 in；③ 与 family-run（家族经营）不同。",
+    "synonym_points": ["it's hereditary — 遗传性的（医学）",
+      "it's in the blood — 血脉里就有（习语）",
+      "passed down — 一代代传下来",
+      "a family trait — 家族特征"
+    ],
+    "antonym_points": ["it's learned behavior — 后天习得",
+      "it skipped a generation — 隔代遗传（现象）",
+      "unique to you — 你独有的",
+      "environmental — 环境导致的"
+    ],
+    "extended_points": ["hereditary — 遗传的（医学用词）",
+      "family history — 家族病史",
+      "sibling rivalry — 手足竞争（不同概念）"
+    ],
+    "key_point": "【速记】run in the family = 家族遗传。\n主语为特征时动词用 runs；介词 in。\n医学版：hereditary / family history。"
+  },
+  {
+    "point_content": "Momento Mori",
+    "tag": ["拉丁语短语", "生死观", "艺术母题", "中性偏哲思", "警示"],
+    "translation_lang": "zh-CN",
+    "translation_content": "人终有一死；勿忘你终将死去（拉丁语，规范拼写 Memento mori）\n自然译法：记住人都会死 / 别忘了生命有限 / 生死无常，及时行乐或及时行善",
+    "examples": ["The skull in the painting is a memento mori. 画中的头骨是「勿忘死」的象征。",
+      "Memento mori reminds us to use time wisely. 这句话提醒我们要善用时间。",
+      "He keeps a memento mori on his desk — a small hourglass. 他桌上放着沙漏，提醒自己生命有限。",
+      "The film's theme is memento mori: fame fades, death comes. 影片主题是「人终有一死」，名声会淡去。",
+      "Memento mori isn't morbid; it's a call to live deliberately. 这不是病态，而是提醒人认真活。"
+    ],
+    "explanation": "【概要】拉丁语 memento mori 意为「记住你终将死去」，是艺术、哲学中的母题，用于提醒人生有限、珍惜当下。本集标题写作 Momento Mori，规范拼写为 Memento mori。\n【结构】名词短语（可数用法 a memento mori，指一件象征物）；口语中作独立短句。\n【语用】中性偏哲思，艺术讨论、励志演讲适用；不宜在丧礼等场合当作轻松梗。\n【易错】① 正确拼写是 memento（记住），不是 momento（时刻）；② 拉丁语，不按英语语法变复数；③ 与 carpe diem（及时行乐）常搭配但含义不同。",
+    "synonym_points": ["remember you must die — 记住你终将死去（直译）",
+      "carpe diem — 把握当下（拉丁语）",
+      "life is short — 人生苦短",
+      "all things must pass — 一切终将过去"
+    ],
+    "antonym_points": ["live forever — 永生（对立概念）",
+      "denial of death — 否认死亡",
+      "immortality — 不朽（对立）",
+      "live in the moment only — 只图当下（不同取向）"
+    ],
+    "extended_points": ["规范拼写 memento mori（本集标题误作 momento）",
+      "carpe diem — 抓住今天",
+      "vanitas — 虚空派静物画（同主题艺术）"
+    ],
+    "key_point": "【速记】memento mori = 人终有一死（拉丁语）。\n注意规范拼写 memento，本集写作 momento。\n常配 carpe diem（把握当下）。"
+  },
+  {
+    "point_content": "Between us",
+    "tag": ["口语保密", "私下", "中性", "社交", "信任"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你知我知；只在你我之间；别外传\n自然译法：这话就咱俩知道 / 私下说 / 别传出去",
+    "examples": ["Between us, the manager is leaving next month. 私下说，经理下个月要走。",
+      "Between us, I don't think the plan will work. 就咱俩说，我觉得这计划不成。",
+      "Keep this between us — don't tell HR yet. 这事就我们知道，先别告诉人事。",
+      "Between you and me, she's the real decision-maker. 你我之间说，真正的决策人是她。",
+      "He said it was between us, then told everyone. 他说只告诉我，结果到处说。"
+    ],
+    "explanation": "【概要】between us 表示内容仅限双方知悉，等同「私下、保密」；完整形式 between you and me（语法更规范）。\n【结构】Between us, + 句子；也可说 just between you and me / this stays between us。\n【语用】中性，建立信任的私密沟通；也常作为「我只跟你说」的社交策略。\n【易错】① 规范形式为 between you and me（介词后宾格），不是 between you and I；② 与 between us（我们之间关系）字面不同；③ 承诺可能被打破。",
+    "synonym_points": ["between you and me — 你知我知（完整式）",
+      "off the record — 不公开、非正式（新闻/职场）",
+      "in confidence — 私下、保密（正式）",
+      "mum's the word — 守口如瓶（英式口语）"
+    ],
+    "antonym_points": ["public knowledge — 公开信息",
+      "on the record — 可公开引用",
+      "for everyone's ears — 说给大家听",
+      "spread the word — 传出去"
+    ],
+    "extended_points": ["between you and me 是语法正确形式（宾格）",
+      "off the record — 不供发表",
+      "mum's the word — 别说出去"
+    ],
+    "key_point": "【速记】Between us = 你知我知、私下说。\n完整式 between you and me（宾格）。\n近义：off the record / in confidence。"
+  },
+  {
+    "point_content": "I'm tipsy",
+    "tag": ["饮酒状态", "微醺", "中性", "社交", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我微醺了；有点上头；略有醉意（但没醉）\n自然译法：我有点飘了 / 喝得有点高兴 / 微微上头",
+    "examples": ["I'm tipsy — one more drink and I'll be drunk. 我微醺了，再喝一杯就醉了。",
+      "She gets tipsy after one glass of wine. 她一杯酒就上头。",
+      "I'm a little tipsy, so I'll take a taxi home. 我有点上头，打车回去。",
+      "He was tipsy and kept repeating the same story. 他微醺了，反复讲同一个故事。",
+      "Tipsy is the fun stage; drunk is the regret stage. 微醺是好玩的阶段，喝醉就是后悔的阶段。"
+    ],
+    "explanation": "【概要】tipsy 指轻度醉酒、微醺，程度介于 sober 与 drunk 之间，语气轻松不带批评。\n【结构】be/get tipsy（表语/变化）；也可说 a bit tipsy / slightly tipsy。\n【语用】中性，社交场合自述或描述他人；涉及驾驶与工作时务必明确「不能开车」。\n【易错】① 形容词，不加 -ly；② 与 drunk（醉）程度不同；③ 与 high（药物致high）不同。",
+    "synonym_points": ["a bit drunk — 有点醉（更直接）",
+      "buzzed — 上头（美式口语）",
+      "slightly drunk — 轻度醉酒（中性）",
+      "merry — 喝得高兴（英式委婉）"
+    ],
+    "antonym_points": ["sober — 清醒（未饮酒）",
+      "stone-cold sober — 滴酒未沾",
+      "drunk — 醉（程度更重）",
+      "blackout drunk — 断片（极端）"
+    ],
+    "extended_points": ["sober — 清醒",
+      "a lightweight — 酒量小的人",
+      "drink responsibly — 理性饮酒（公益语）"
+    ],
+    "key_point": "【速记】tipsy = 微醺（比 drunk 轻）。\nbe/get tipsy；形容词不加 -ly。\n微醺也不能开车，务必明确。"
+  },
+  {
+    "point_content": "Shooting fish in a barrel",
+    "tag": ["习语", "太容易", "略贬", "竞技/商业", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "易如反掌；毫无悬念的容易（对手太弱）\n自然译法：太容易了，没挑战 / 跟白送一样 / 毫无难度",
+    "examples": ["Selling umbrellas in this rain is like shooting fish in a barrel. 这种雨天卖伞，跟白送一样容易。",
+      "Beating that team was shooting fish in a barrel. 打赢那支队伍毫无难度。",
+      "It's not shooting fish in a barrel — the market is crowded. 这可不是轻而易举，市场竞争很激烈。",
+      "For a fluent speaker, that test was shooting fish in a barrel. 对口语流利的人，那考试太简单了。",
+      "Easy wins feel like shooting fish in a barrel, but they teach nothing. 轻松取胜毫无挑战，也学不到东西。"
+    ],
+    "explanation": "【概要】字面「在桶里射鱼」，比喻目标毫无反抗能力、取胜轻而易举；也暗含「不够公平、不算本事」。\n【结构】like shooting fish in a barrel（常作表语/状语）；也可说 a cakewalk / a walk in the park。\n【语用】略贬或调侃，竞技、商业场景；自夸时用会显得没底气。\n【易错】① 固定用 a barrel（单数）；② 需 like 或 be 引导；③ 与 a sitting duck（活靶子，指易受攻击者）不同。",
+    "synonym_points": ["a cakewalk — 轻而易举（美式）",
+      "a walk in the park — 轻松事",
+      "child's play — 小菜一碟",
+      "no contest — 毫无悬念（竞技）"
+    ],
+    "antonym_points": ["an uphill battle — 艰难之战",
+      "a tough nut to crack — 难啃的骨头",
+      "a level playing field — 公平竞争（相对）",
+      "a nail-biter — 悬到最后一刻的比赛"
+    ],
+    "extended_points": ["a sitting duck — 活靶子、易受攻击者",
+      "no contest — 一边倒",
+      "a level playing field — 公平竞争环境"
+    ],
+    "key_point": "【速记】shooting fish in a barrel = 易如反掌（略贬）。\n固定 a barrel；暗示对手太弱。\n近义：cakewalk / child's play。"
+  },
+  {
+    "point_content": "Better to have it and not need it than to need it and not have it",
+    "tag": ["生活原则", "冗余准备", "中性偏正", "实用", "谚语式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "宁可备而不用，不可用而无备；有总比没有强\n自然译法：带着总比临时找强 / 宁可多准备 / 未雨绸缪好过临时抱佛脚",
+    "examples": ["Pack a charger — better to have it and not need it than to need it and not have it. 带上充电器，宁可备着也别到时没有。",
+      "I carry cash for this reason: better to have it and not need it. 我随身带现金就是这个道理。",
+      "Better to have it and not need it than to need it and not have it — bring the umbrella. 宁可备着不用，也别用的时候没有，带伞吧。",
+      "He bought a spare tire, quoting the saying about having it and not needing it. 他买了个备胎，说「备而不用强过用而无备」。",
+      "The rule applies to insurance too: better to have it and not need it. 保险同理：宁可备着不用。"
+    ],
+    "explanation": "【概要】对比结构格言，主张事先准备（工具、资金、保险），强调「冗余」的价值。\n【结构】Better to + 动词原形 … than to + 动词原形 …（平行结构，口语常省略第二个 to）；主语为泛指的 it。\n【语用】中性偏正，生活建议、项目管理、风险准备适用；过度引申会变成囤积借口。\n【易错】① 两句结构需平行（have/need 对应）；② 句中 it 前后指同一物；③ 不是严格谚语，属格言式表达。",
+    "synonym_points": ["better safe than sorry — 宁可谨慎也别后悔",
+      "err on the side of caution — 宁可谨慎（正式）",
+      "always be prepared — 时刻准备着（童军格言）",
+      "a stitch in time saves nine — 及时一针省九针"
+    ],
+    "antonym_points": ["travel light — 轻装上路",
+      "you can't prepare for everything — 不可能全都准备",
+      "just-in-time — 即时供应（精益管理）",
+      "wing it — 临时应付（口语）"
+    ],
+    "extended_points": ["better safe than sorry — 配套格言",
+      "contingency plan — 应急预案",
+      "redundancy — 冗余（工程/管理）"
+    ],
+    "key_point": "【速记】better to have it and not need it… = 备而不用胜于用而无备。\n平行结构；指事先准备的价值。\n配套：better safe than sorry。"
+  },
+  {
+    "point_content": "I'm overwhelmed",
+    "tag": ["情绪表达", "压力过载", "中性偏负", "职场/心理", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我不知所措；我压力过载；我被压得喘不过气\n自然译法：事情太多我扛不住 / 我有点顶不住了 / 信息量太大",
+    "examples": ["I'm overwhelmed by the number of emails. 邮件太多，我有点顶不住。",
+      "She felt overwhelmed on her first week at the new job. 新工作第一周她压力很大。",
+      "I'm overwhelmed — can we split these tasks? 我扛不住了，能分一下任务吗？",
+      "He was overwhelmed with gratitude when they helped. 他们帮忙时他感激得说不出话。（正面用法）",
+      "Being overwhelmed isn't a weakness; it's a signal to ask for help. 扛不住不是软弱，是该求助的信号。"
+    ],
+    "explanation": "【概要】overwhelmed 指被过多任务、情绪或信息压过承载能力；也可正面表「被感动/惊喜淹没」。\n【结构】be/feel overwhelmed (by/with sth)；也可说 overwhelming（形容事物令人不堪重负）。\n【语用】中性偏负，职场与心理沟通常用；正式报告可写 at capacity。\n【易错】① 用 -ed 表人感受，-ing 表事物属性（an overwhelming workload）；② 与 underwhelmed（大失所望）相对；③ 医学术语 stress 不等于 overwhelmed。",
+    "synonym_points": ["swamped — 忙不过来（口语）",
+      "at capacity — 满负荷（职场）",
+      "stretched thin — 人力/精力被摊薄",
+      "burnt out — 精疲力竭（长期）"
+    ],
+    "antonym_points": ["on top of things — 掌控全局",
+      "in control — 在掌控中",
+      "underwhelmed — 毫无感觉/大失所望",
+      "at ease — 从容"
+    ],
+    "extended_points": ["overwhelming — 压倒性的（形容事物）",
+      "underwhelmed — 大失所望",
+      "burnout — 职业倦怠"
+    ],
+    "key_point": "【速记】I'm overwhelmed = 我不堪重负。\n-ed 表人感受，-ing 表事物；可正可负。\n配套：swamped / at capacity。"
+  },
+  {
+    "point_content": "An open bar",
+    "tag": ["活动安排", "免费酒水", "中性", "宴会", "文化"],
+    "translation_lang": "zh-CN",
+    "translation_content": "免费酒水（由主办方承担费用的酒吧台）\n自然译法：酒水免费 / 全场畅饮 / 主办方包酒",
+    "examples": ["The wedding had an open bar until midnight. 婚礼酒水免费到午夜。",
+      "An open bar usually means a bigger bill for the host. 酒水免费通常意味着主办方账单更高。",
+      "Is it an open bar or do we pay per drink? 是免费畅饮还是单杯付费？",
+      "With an open bar, guests stay longer. 有免费酒水，客人待得更久。",
+      "They skipped the open bar to keep the budget down. 为控制预算，他们没安排免费酒水。"
+    ],
+    "explanation": "【概要】open bar 指宴会中酒水由主办方买单、客人免费取用的安排；与之相对的是 cash bar（客人自付）。\n【结构】an open bar（可数名词短语，需冠词）；也可说 open-bar event（作定语带连字符）。\n【语用】中性，婚礼、年会、发布会策划语境常用；涉及饮酒需考虑安全与合规。\n【易错】① 需冠词 an；② 与 free drinks（更泛）不同；③ 反义 cash bar 是高频对照词。",
+    "synonym_points": ["free drinks — 酒水免费（泛称）",
+      "complimentary drinks — 赠饮（正式）",
+      "all-inclusive drinks — 含酒水的套餐",
+      "a drinks package — 酒水套餐"
+    ],
+    "antonym_points": ["a cash bar — 自费酒水",
+      "pay per drink — 按杯付费",
+      "BYOB — 自带酒水（bring your own bottle）",
+      "a dry event — 不提供酒的活动"
+    ],
+    "extended_points": ["cash bar — 客人自付（对照词）",
+      "BYOB — 自带酒水",
+      "drink tickets — 酒水券（折中方案）"
+    ],
+    "key_point": "【速记】an open bar = 免费酒水（主办方买单）。\n需冠词 an；反义 cash bar。\n策划时注意预算与饮酒安全。"
+  },
+  {
+    "point_content": "Dinner's on",
+    "tag": ["家庭口语", "开饭", "中性", "日常", "简短"],
+    "translation_lang": "zh-CN",
+    "translation_content": "晚饭好了；开饭了；（也可指）晚饭我请\n自然译法：可以吃饭了 / 饭好了，过来吧 / 开饭啦",
+    "examples": ["Dinner's on — wash your hands. 开饭了，去洗手。",
+      "Dinner's on at seven, don't be late. 七点开饭，别迟。",
+      "She called upstairs: \"Dinner's on!\" 她朝楼上喊「开饭了！」",
+      "Dinner's on me tonight — pick a place. 今晚我请，选个地方。（另义）",
+      "Dinner's on the table — come and get it. 饭摆桌上了，来吃吧。"
+    ],
+    "explanation": "【概要】口语省略句。此处 on 表示「（饭菜）已备好/正在供应」，也可在 Dinner's on me 中表示「由我付账」，两义靠后续词区分。\n【结构】Dinner's on.（省略 of it is ready）；Dinner is on sb（某人请客）；也可说 dinner's ready。\n【语用】中性，家庭日常；第二种用法属社交请客表达。\n【易错】① 两义易混：on me（我请）vs on（开饭）；② 口语缩写 Dinner's = Dinner is；③ 不写 Dinner on（缺 be）。",
+    "synonym_points": ["dinner's ready — 饭好了（更清楚）",
+      "time to eat — 该吃饭了",
+      "come and get it — 来吃吧（口语）",
+      "supper's on the table — 晚饭摆好了"
+    ],
+    "antonym_points": ["dinner's canceled — 晚饭取消了",
+      "we're eating out — 我们出去吃",
+      "it's not ready yet — 还没好",
+      "skip dinner — 不吃晚饭了"
+    ],
+    "extended_points": ["dinner's on me — 晚饭我请（同形不同义）",
+      "come and get it — 开饭召唤",
+      "potluck — 各带一菜的聚餐"
+    ],
+    "key_point": "【速记】Dinner's on = 开饭了（也可指「我请」配 on me）。\n两义靠后接词区分。\n更清楚说法：dinner's ready。"
+  },
+  {
+    "point_content": "No more bullshit",
+    "tag": ["粗俗语", "要求直接", "强负面", "警告慎用", "职场"],
+    "translation_lang": "zh-CN",
+    "translation_content": "废话少说；别再扯了；别再来这套虚的（含粗俗词）\n注意：bullshit 属粗俗，正式表达用 No more excuses / Let's be straight\n自然译法：别扯了 / 说点真话 / 别再糊弄",
+    "examples": ["No more bullshit — give me the real numbers. 别扯了，给我真实数字。",
+      "He stood up: \"No more bullshit. Who approved this?\" 他站起来：「别扯了，谁批的？」",
+      "No more bullshit, no more excuses — just fix it. 别再扯、别再找借口，把问题解决。",
+      "The meeting turned into \"no more bullshit\" after the third delay. 第三次延期后，会上就是「别扯了」。",
+      "She's tired of the bullshit and wants straight answers. 她受够了那些虚的，要直接答案。"
+    ],
+    "explanation": "【概要】bullshit 为粗俗词，指胡说、鬼话、糊弄；No more bullshit 表示要求停止空话、回到实质。\n【结构】独立句；也可说 cut the bullshit / that's bullshit（后者是判断「这是胡说」）。\n【语用】强负面且粗俗，适合私下强硬沟通；会议、客户、书面文本应改用 No more excuses / Let's get to the facts。\n【易错】① 语域粗俗，不适合正式场合；② bullshit 不可数；③ 与 bull session（闲聊）不同。",
+    "synonym_points": ["no more excuses — 别再找借口（得体替代）",
+      "cut the crap — 别废话（同样粗俗）",
+      "get to the point — 说重点",
+      "let's be straight — 直说吧（得体）"
+    ],
+    "antonym_points": ["let's keep it civil — 保持礼貌（反取向）",
+      "no offense — 无意冒犯",
+      "take your time — 慢慢说",
+      "polite conversation — 客气交谈"
+    ],
+    "extended_points": ["得体替代：No more excuses. / Let's focus on facts.",
+      "bull — 空话（较温和替代）",
+      "call sb's bluff — 戳穿对方虚张声势"
+    ],
+    "key_point": "【速记】No more bullshit = 别扯了（粗俗）。\n正式替代 No more excuses；不可数。\n判断句 that's bullshit＝这是胡说。"
+  },
+  {
+    "point_content": "No risk, no reward",
+    "tag": ["激励原则", "风险", "中性偏正", "商业", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "不冒险就没有回报；不入虎穴焉得虎子\n自然译法：想赚就得敢担风险 / 不敢赌就没得赢 / 无风险无收益",
+    "examples": ["No risk, no reward — but do the math first. 不冒险没回报，不过先把账算清。",
+      "Investing is no risk, no reward; that's why diversification matters. 投资就是不担风险没收益，所以分散很重要。",
+      "He quit his stable job: no risk, no reward. 他辞了稳定工作，说不冒险就没回报。",
+      "No risk, no reward doesn't justify gambling your rent money. 这原则不能成为拿房租去赌的理由。",
+      "The founder's mantra was simple: no risk, no reward. 创始人的信条很简单：不冒险无回报。"
+    ],
+    "explanation": "【概要】风险与回报对称的原则性表达，用于鼓励适度冒险，但常被误用为「盲目下注」的借口。\n【结构】No risk, no reward.（对偶短句，可加逗号）；也可说 nothing ventured, nothing gained（谚语版）。\n【语用】中性偏正，商业、投资、职业选择激励适用；涉及金钱需配合风险评估。\n【易错】① 用 no…no… 平行结构；② 与 high risk, high reward（高风险高回报，描述关系）不同；③ 不构成投资建议。",
+    "synonym_points": ["nothing ventured, nothing gained — 不入虎穴焉得虎子（谚语）",
+      "high risk, high reward — 高风险高回报（描述性）",
+      "no guts, no glory — 不敢拼没荣耀",
+      "fortune favors the bold — 幸运眷顾勇者"
+    ],
+    "antonym_points": ["play it safe — 稳妥行事",
+      "better safe than sorry — 谨慎为上",
+      "capital preservation — 保本优先（投资）",
+      "risk aversion — 风险规避"
+    ],
+    "extended_points": ["nothing ventured, nothing gained — 谚语同义",
+      "risk-adjusted return — 风险调整后收益（金融）",
+      "asymmetric risk — 不对称风险"
+    ],
+    "key_point": "【速记】No risk, no reward = 不冒险没回报。\n平行结构；不是投资建议。\n配套谚语：nothing ventured, nothing gained。"
+  },
+  {
+    "point_content": "You're under no obligation",
+    "tag": ["礼貌表达", "免责", "中性", "商务", "安抚"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你没有义务这样做；你不必勉强；这不是必须的\n自然译法：你不用非得做 / 没有硬性要求 / 完全看你自愿",
+    "examples": ["You're under no obligation to answer — take your time. 你不必马上答复，慢慢考虑。",
+      "You're under no obligation, but we'd love your feedback. 不是必须，但我们很想要你的反馈。",
+      "She made clear he was under no obligation to stay. 她明确说他没有义务留下。",
+      "You're under no obligation to pay for the damage. 你没有义务赔偿损失（具体以条款为准）。",
+      "I'll help, but you're under no obligation to reciprocate. 我会帮忙，但你不必回礼。"
+    ],
+    "explanation": "【概要】be under an/no obligation 指（不）承担义务；否定式常用于礼貌释放压力，避免让对方觉得被强迫。\n【结构】be under no obligation (to do sth)；肯定式 be under an obligation to do（有义务）。\n【语用】中性，商务邀约、提议、免责说明常用；法律文本中 obligation 有严格含义。\n【易错】① 需 under，不用 have no obligation（也可但结构不同）；② 肯定式需冠词 an；③ 不表示「没有责任」（法律语境另说）。",
+    "synonym_points": ["you don't have to — 你不必",
+      "no pressure — 没有压力（口语）",
+      "it's entirely optional — 完全自愿",
+      "feel free to decline — 可以拒绝"
+    ],
+    "antonym_points": ["you're required to — 你必须",
+      "it's mandatory — 强制性的",
+      "you have an obligation — 你有义务",
+      "no choice — 没得选"
+    ],
+    "extended_points": ["without obligation — 无附加义务（销售话术）",
+      "a moral obligation — 道德义务",
+      "opt out — 选择退出"
+    ],
+    "key_point": "【速记】be under no obligation = 没有义务、不必勉强。\n介词 under；肯定式加 an。\n商务常用语：no obligation / no pressure。"
+  }
+]

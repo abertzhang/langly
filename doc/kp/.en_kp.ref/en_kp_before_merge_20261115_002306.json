@@ -1,0 +1,23 @@
+[
+  {
+    "id": null,
+    "point_id": "KP-001",
+    "point_content": "It's in my blood",
+    "tag": ["习语", "天性与遗传", "日常口语", "情感表达"],
+    "translation_lang": "zh-cn",
+    "translation_content": "这是天生的；骨子里就有；与生俱来；家传的",
+    "examples": [
+      "She's a great musician — music is in her blood. 她是位出色的音乐家——音乐是她与生俱来的。",
+      "Cooking is in my blood; my whole family are chefs. 做饭是我家的传统，我们全家都是厨师。",
+      "He loves football — it's in his blood. 他热爱足球，这是天生的。",
+      "I don't know why I'm so cautious; I guess it's in my blood. 我说不清为什么这么谨慎，大概是骨子里带的。",
+      "Running a business is in his blood; his father ran companies too. 经营生意是他的天性，他父亲也开过公司。",
+      "Being outdoors was in her blood, having grown up on a farm. 她在农场长大，天生就爱往户外跑。"
+    ],
+    "explanation": "句型 Sth is in one's blood. blood 指血统、天性、家传禀赋；主语为爱好、职业或品质，表示天生或世代相传。口语常用，多为褒义，勿按字面理解。",
+    "synonym_points": ["It runs in the family.", "be born to do sth", "second nature", "innate/inborn", "It's in my genes."],
+    "antonym_points": ["against one's nature", "learned behavior", "unnatural"],
+    "extended_points": ["blue blood 贵族血统", "bad blood 积怨", "Blood is thicker than water. 血浓于水", "in cold blood 残忍地", "make one's blood run cold 吓呆"],
+    "key_point": "天生或家传的特质、爱好，用 X is in one's blood。"
+  }
+]

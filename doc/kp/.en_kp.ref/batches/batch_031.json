@@ -1,0 +1,642 @@
+[
+  {
+    "point_content": "Let's not be hasty.",
+    "tag": ["建议", "别草率", "中性偏正", "决策", "正式口语通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我们不要草率行事；别急，慢慢来；别仓促决定\n自然译法：先别急 / 别急着拍板 / 稳一稳",
+    "examples": [
+      "Let's not be hasty — we have until Friday. 别急，我们到周五还有时间。\n",
+      "Let's not be hasty about hiring the first candidate. 第一个候选人别急着定。\n",
+      "He said, \"Let's not be hasty\" before the vote. 表决前他说「别仓促」。\n",
+      "Hasty means too quick, often without care. hasty 指过快而欠缺考虑。\n",
+      "For urgency, say \"we need a decision today.\" 真有急事就说 we need a decision today。"
+    ],
+    "explanation": "【概要】劝对方（含自己）不要因急躁而仓促决定，强调留出评估时间；语气克制、合作。\n【结构】Let's not be + 形容词（hasty/rash）；近义 let's slow down、no rush。\n【语用】中性偏正，会议决策、谈判；频繁使用会被视为拖延。\n【易错】① hasty 与 hurried 近义，但 hasty 更含「欠考虑」；② 用 be hasty（非 do hastily）；③ 与 haste makes waste（谚语）呼应。",
+    "synonym_points": [
+      "let's not rush — 别急",
+      "let's take our time — 慢慢来",
+      "no need to be rash — 不必鲁莽",
+      "let's slow down — 放慢点"
+    ],
+    "antonym_points": [
+      "let's move fast — 快点推",
+      "we need to decide now — 现在就得定",
+      "time is short — 时间紧",
+      "act now — 立即行动"
+    ],
+    "extended_points": [
+      "haste makes waste — 欲速则不达",
+      "rash decision — 鲁莽决定",
+      "due diligence — 尽职调查"
+    ],
+    "key_point": "【速记】Let's not be hasty = 别草率。\nbe hasty（非 do hastily）；勿用于拖延。\n反义 act now。"
+  },
+  {
+    "point_content": "You only live once.",
+    "tag": ["谚语（缩略 YOLO）", "人生一次", "中性偏正", "冒险/消费", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "人生只有一次；及时行乐；（缩写 YOLO）就这一次，干了\n自然译法：人生就一回 / 趁现在 / 别想那么多，冲",
+    "examples": [
+      "You only live once — book the trip. 人生只有一次，订票吧。\n",
+      "YOLO is the acronym for you only live once. YOLO 就是这句的缩写。\n",
+      "You only live once is great for travel, terrible for debt. 旅行时合适，背债时糟糕。\n",
+      "It's used to justify risky or indulgent choices. 常用于为冒险或放纵的选择找理由。\n",
+      "Add a budget check before invoking it. 用这句前先看预算。"
+    ],
+    "explanation": "【概要】字面「你只活一次」，鼓励抓住机会、及时体验；缩写 YOLO 在社媒上常带冲动消费与冒险色彩。\n【结构】You only live once.（独立句）；缩写 YOLO 可作感叹词或形容词化（YOLO spending）。\n【语用】中性偏正，旅行、告白、消费决定；用于高风险决策时需提示后果。\n【易错】① 固定 only（非 just）；② YOLO 为口语/网络用语，正式文本避免；③ 别用它为长期债务背书。",
+    "synonym_points": [
+      "carpe diem — 及时行乐（拉丁）",
+      "make the most of it — 好好把握",
+      "seize the day — 抓住当下",
+      "go for it — 冲吧"
+    ],
+    "antonym_points": [
+      "play it safe — 稳妥为上",
+      "think long term — 看长远",
+      "save for a rainy day — 未雨绸缪",
+      "don't risk it — 别冒险"
+    ],
+    "extended_points": [
+      "YOLO 的网络用法",
+      "carpe diem vs YOLO 语域差",
+      "opportunity cost — 机会成本"
+    ],
+    "key_point": "【速记】You only live once = 人生只有一次（YOLO）。\n鼓励体验；勿背书高债务。\n正式版 seize the day。"
+  },
+  {
+    "point_content": "Can't hurt to try.",
+    "tag": ["建议", "不妨一试", "正面", "尝试/低风险", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "不妨试试；试一下也没损失；试试不吃亏\n自然译法：试一下又不亏 / 反正没坏处 / 那就试试呗",
+    "examples": [
+      "Can't hurt to try — send the application. 不妨一试，投份申请。\n",
+      "Can't hurt to ask for a discount. 问问能不能打折又不亏。\n",
+      "It can't hurt to try, but it can cost time. 试试没坏处，但会花时间。\n",
+      "The phrase assumes low downside. 前提是下行代价很小。\n",
+      "If risk is real, say \"let's weigh it first.\" 风险真实存在就说先评估。"
+    ],
+    "explanation": "【概要】劝说尝试，强调失败代价小、成功收益可能不小；口语中常省略 it，作 It can't hurt to try。\n【结构】It can't hurt to do sth（后接不定式）；近义 worth a shot、no harm in trying。\n【语用】正面，求职、搭讪、试新方法；在真实风险场景下不可滥用。\n【易错】① 用 can't hurt to + 原形；② 省略主语时写成 Can't hurt to try 属口语；③ 与 no harm done（事后无损伤）不同。",
+    "synonym_points": [
+      "worth a shot — 值得一试",
+      "no harm in trying — 试试无妨",
+      "give it a try — 试试看",
+      "nothing to lose — 不会有什么损失"
+    ],
+    "antonym_points": [
+      "not worth the risk — 不值得冒险",
+      "don't bother — 别费劲",
+      "too risky — 太冒险",
+      "leave it alone — 别碰"
+    ],
+    "extended_points": [
+      "worth a shot — 值得一试",
+      "downside risk — 下行风险",
+      "cost-benefit — 成本收益"
+    ],
+    "key_point": "【速记】Can't hurt to try = 不妨一试。\ncan't hurt to + 原形；前提是低风险。\n近义 worth a shot。"
+  },
+  {
+    "point_content": "Talk to the hand.",
+    "tag": ["俚语", "懒得理你", "强负面", "不礼貌", "慎用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "懒得理你；（伸掌示意）跟我的手说吧\n注意：属极不礼貌的轻蔑拒绝，配套手势（伸掌向前），正式场合与职场禁用\n自然译法：不想听 / 别跟我说 / 省省吧（无礼版）",
+    "examples": [
+      "He raised his palm: \"Talk to the hand.\" 他抬手：「懒得理你」。\n",
+      "Talk to the hand — I'm done arguing. 别说了，我不吵了。\n",
+      "\"Talk to the hand, 'cause the face ain't listening\" is the full rhyme. 完整押韵句另有后半句。\n",
+      "It's a rude dismissal, popular in 1990s teen slang. 是 1990 年代青少年俚语里的粗鲁拒绝。\n",
+      "At work, say \"I need to stop this conversation.\" 职场改成我需要结束这段对话。"
+    ],
+    "explanation": "【概要】俚语式轻蔑拒绝，意为「我不想听你说」，通常配合伸手掌的手势；源自 1990 年代美国青少年文化。\n【结构】Talk to the hand.（祈使句，hand 不加冠词）；完整押韵版 + 'cause the face ain't listening。\n【语用】强负面、不礼貌，同龄人玩笑或影视；职场、客户、长辈场合绝对避免。\n【易错】① 加手势才是完整「表演」；② 与 talk to sb（与某人谈）无关；③ 别用于正式冲突处理。",
+    "synonym_points": [
+      "I'm not listening — 我不听",
+      "save it — 省省吧",
+      "whatever — 随便你（轻蔑）",
+      "not interested — 没兴趣"
+    ],
+    "antonym_points": [
+      "I'm listening — 我在听",
+      "tell me more — 继续说",
+      "go on — 你接着说",
+      "let's hear it — 说来听听"
+    ],
+    "extended_points": [
+      "rude dismissals（粗鲁拒绝语）",
+      "1990s teen slang 文化背景",
+      "职场替代表达 I need to pause this"
+    ],
+    "key_point": "【速记】Talk to the hand = 懒得理你（极无礼）。\n配伸手掌手势；职场禁用。\n礼貌替代：I need to stop here。"
+  },
+  {
+    "point_content": "Go-getter.",
+    "tag": ["人物描述", "积极进取者", "正面", "职场", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "积极进取的人；有干劲的人；主动拿下目标的人\n自然译法：很能拼的人 / 行动派 / 干事的人",
+    "examples": [
+      "She's a real go-getter — promoted twice in two years. 她是真正的行动派，两年升了两次。\n",
+      "We need a go-getter for this new market. 这个新市场需要一个有冲劲的人。\n",
+      "Go-getter implies energy and initiative, not recklessness. 强调干劲与主动，不等于鲁莽。\n",
+      "He hired go-getters and gave them clear targets. 他招了行动派并给了明确目标。\n",
+      "For neutral phrasing, say \"self-starter.\" 中性表述可用 self-starter。"
+    ],
+    "explanation": "【概要】指主动出击、目标导向、执行力强的人，职场褒义常用；与 self-starter 相近，但更强调「去争取结果」。\n【结构】名词，可数：a go-getter / go-getters；近义 self-starter、high achiever。\n【语用】正面，招聘、绩效评语；用于形容他人时注意别暗示「只会猛冲」。\n【易错】① 需连字符（go-getter）；② 与 go-get（去拿）动词不同；③ 与 workaholic（工作狂）褒贬不同。",
+    "synonym_points": [
+      "self-starter — 自驱型人（中性）",
+      "high achiever — 高成就者",
+      "go-ahead person — 有闯劲的人",
+      "doer — 实干者"
+    ],
+    "antonym_points": [
+      "slacker — 摸鱼的人",
+      "passive employee — 被动型员工",
+      "procrastinator — 拖延者",
+      "clock-watcher — 只等下班的人"
+    ],
+    "extended_points": [
+      "self-starter — 自驱型",
+      "workaholic — 工作狂（偏负）",
+      "initiative — 主动性"
+    ],
+    "key_point": "【速记】go-getter = 积极进取的人。\n需连字符、可数；职场褒义。\n中性版 self-starter。"
+  },
+  {
+    "point_content": "Lone wolf.",
+    "tag": ["人物描述", "独行者", "中性", "性格/团队", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "独行者；独来独往的人；不爱合作、自己干的人\n自然译法：独狼型 / 单人作战 / 不太合群",
+    "examples": [
+      "He's a lone wolf — great output, poor handoffs. 他是独行型，产出不错，交接很差。\n",
+      "A lone wolf can thrive in research but struggle on teams. 独行者适合研究，团队里会吃力。\n",
+      "She described herself as a lone wolf who hates meetings. 她说自己是讨厌开会的独行派。\n",
+      "Lone wolf is neutral but implies low collaboration. 中性词，但暗含协作偏弱。\n",
+      "For neutral wording, say \"works independently.\" 中性表述用 works independently。"
+    ],
+    "explanation": "【概要】喻指习惯独自工作、少依赖他人的人；中性描述，但在团队语境里常带「协作不足」的隐含评价。\n【结构】a lone wolf（可数名词短语）；近义 solo operator、independent worker。\n【语用】中性，性格描述与团队评估；作为评价他人时慎用，易被听成批评。\n【易错】① 需 a（非 lone wolf 直接作表语也可）；② 与 team player（团队型）相对；③ 与 loner（更偏社交孤立）语感不同。",
+    "synonym_points": [
+      "independent worker — 独立工作者（中性）",
+      "solo operator — 单人作战者",
+      "loner — 独来独往者（偏社交）",
+      "free agent — 自由行动者"
+    ],
+    "antonym_points": [
+      "team player — 团队型",
+      "collaborator — 协作者",
+      "people person — 善交际者",
+      "joiner — 爱参与的人"
+    ],
+    "extended_points": [
+      "team player — 团队型（对照）",
+      "loner vs lone wolf",
+      "collaboration cost — 协作成本"
+    ],
+    "key_point": "【速记】lone wolf = 独行者。\n暗含协作偏弱；评价他人慎用。\n中性版 works independently。"
+  },
+  {
+    "point_content": "Proactive people don't wait for things to happen; they make them happen.",
+    "tag": ["职场理念", "主动性", "正面", "激励/管理", "完整句"],
+    "translation_lang": "zh-CN",
+    "translation_content": "积极的人不会等事情发生，而是让事情发生；主动者创造机会，不被动等待\n自然译法：主动的人不等运气，自己造机会 / 别等，去做",
+    "examples": [
+      "Proactive people don't wait for things to happen; they make them happen. 主动的人不等事情发生，而是让事情发生。\n",
+      "Her manager quoted it in the kickoff: proactive people make things happen. 启动会上经理引用了这句。\n",
+      "The sentence contrasts waiting with initiating. 这句对比「等待」与「发起」。\n",
+      "Being proactive needs targets, or it becomes busywork. 主动要有目标，否则只是瞎忙。\n",
+      "In performance reviews, cite an example of initiating. 绩效复盘要举一个主动发起的实例。"
+    ],
+    "explanation": "【概要】完整句式的职场理念表达，强调主动性（proactive）区别于被动反应（reactive）：不等条件成熟，而由自己推动条件。\n【结构】对比结构：don't wait for… ; they make…（分号连接两个对照分句）；关键词 proactive vs reactive。\n【语用】正面，管理宣讲、绩效评语；空喊口号而无授权与资源会变成压力。\n【易错】① proactive 与 reactive 成对；② make things happen 中 make 后接宾语 + 原形；③ 引用时保留分号，别改成逗号导致连写。",
+    "synonym_points": [
+      "take initiative — 主动出击",
+      "make things happen — 促成事情发生",
+      "don't wait to be told — 不用等人安排",
+      "self-starter mindset — 自驱心态"
+    ],
+    "antonym_points": [
+      "wait and see — 观望",
+      "reactive — 被动反应",
+      "wait for instructions — 等指令",
+      "let things happen — 顺其自然（消极版）"
+    ],
+    "extended_points": [
+      "proactive vs reactive",
+      "ownership mindset — 主人翁心态",
+      "initiative — 主动性"
+    ],
+    "key_point": "【速记】proactive people make things happen = 主动者促成事。\n对比 reactive；引用保留分号。\n需授权与目标配套。"
+  },
+  {
+    "point_content": "Trust me on this.",
+    "tag": ["劝说表达", "听我的", "中性偏正", "建议/自信", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这事信我的；这点听我的没错；我保证\n自然译法：你信我 / 听我一句 / 这点我有把握",
+    "examples": [
+      "Trust me on this — don't sign before legal review. 信我，法务审完再签。\n",
+      "Trust me on this, I've seen it go wrong twice. 听我的，我见过两次出问题。\n",
+      "Trust me on this can sound confident or condescending. 可显自信，也可显居高临下。\n",
+      "It works best with evidence attached. 配上证据最有效。\n",
+      "For formal advice, say \"my recommendation is…\" 正式建议用 my recommendation is。"
+    ],
+    "explanation": "【概要】请求对方信任自己的判断，用于强建议场合；语气自信，但缺少依据时容易显得压人。\n【结构】trust sb on sth（介词 on 表「在某事上」）；近义 take my word for it。\n【语用】中性偏正，经验型建议、风险提示；说服力来自既往记录，而非语气强度。\n【易错】① 介词 on（非 about/in）；② 与 believe in me（相信我这个人）不同；③ 反复使用会消耗信任。",
+    "synonym_points": [
+      "take my word for it — 信我的话",
+      "believe me — 相信我",
+      "I know what I'm talking about — 我懂这行",
+      "listen to me — 听我说"
+    ],
+    "antonym_points": [
+      "don't trust me — 别信我",
+      "check it yourself — 你自己核实",
+      "I might be wrong — 我可能错",
+      "get a second opinion — 再找人看看"
+    ],
+    "extended_points": [
+      "take my word for it — 同义",
+      "credibility — 可信度",
+      "appeal to authority — 诉诸权威"
+    ],
+    "key_point": "【速记】Trust me on this = 这事信我的。\n介词 on；需证据支撑。\n正式版 my recommendation is。"
+  },
+  {
+    "point_content": "Enough is enough.",
+    "tag": ["习语", "够了", "强负面/中性", "叫停", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "够了；该停了；不能再这样下去\n自然译法：到此为止 / 别再继续 / 我受够了",
+    "examples": [
+      "Enough is enough — we've delayed this three times. 够了，这已经推了三次。\n",
+      "She stood up: \"Enough is enough.\" 她站起来说「到此为止」。\n",
+      "Enough is enough can end a discussion or a bad habit. 可用于终止讨论，也可叫停坏习惯。\n",
+      "It's stronger than \"let's stop\" but not profane. 比「我们停吧」更强，但不粗俗。\n",
+      "In mediation, pair it with a next step. 调解中要接下一步方案。"
+    ],
+    "explanation": "【概要】固定重复结构，表示「已到极限，必须停止」，用于叫停争执、反复延期或不良行为，语气坚决。\n【结构】Enough is enough.（主语 + be + 表语同词，强调结构）；近义 that's it、no more。\n【语用】强负面至中性偏强，会议叫停、家庭规训；只说这句不接方案易留僵局。\n【易错】① 固定 is（非 was 时态看语境）；② 与 enough（足够，量）不同；③ 别用于客户沟通中的情绪化叫停。",
+    "synonym_points": [
+      "that's it — 就到这吧",
+      "no more — 不再了",
+      "cut it out — 别闹了（口语）",
+      "we're done here — 到此结束"
+    ],
+    "antonym_points": [
+      "keep going — 继续",
+      "one more time — 再来一次",
+      "let it ride — 让它继续",
+      "carry on — 接着来"
+    ],
+    "extended_points": [
+      "cut it out — 住手/别闹",
+      "draw the line — 划出底线",
+      "hard stop — 硬性终止"
+    ],
+    "key_point": "【速记】Enough is enough = 够了、到此为止。\n同词反复强调；接方案才不留僵局。\n近义 that's it。"
+  },
+  {
+    "point_content": "Let me pay.",
+    "tag": ["社交礼貌", "我来买单", "正面", "餐饮/人情", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "让我来买单；我请客；这顿算我的\n自然译法：我来付 / 我请 / 别抢，算我的",
+    "examples": [
+      "Let me pay — you got the last one. 我来付，上次是你。\n",
+      "Put your wallet away, let me pay. 收起来吧，我来付。\n",
+      "He insisted, \"Let me pay this time.\" 他坚持「这次我请」。\n",
+      "It's polite insistence; arguing too long gets awkward. 是礼貌性坚持，争太久反而尴尬。\n",
+      "In split-bill cultures, \"let's split it\" is safer. 在 AA 文化里说 let's split it 更稳。"
+    ],
+    "explanation": "【概要】主动提出承担费用，属社交礼貌与人情往来；在东亚语境是热情表达，在欧美 AA 文化里可能需先礼让一轮。\n【结构】let sb do sth（使役结构，后接动词原形）；近义 it's on me、my treat。\n【语用】正面，聚餐、感谢、约会；过度争抢付款会让人不适。\n【易错】① 用 let me pay（非 let me to pay）；② it's on me 更口语、更干脆；③ 与 let me pay you back（我把钱还你）义反。",
+    "synonym_points": [
+      "it's on me — 算我的（口语）",
+      "my treat — 我请客",
+      "I've got this — 这个我来（口语）",
+      "this one's mine — 这单我的"
+    ],
+    "antonym_points": [
+      "let's split it — 我们 AA",
+      "you can get the next one — 下次你请",
+      "let me pay you back — 我把钱还你",
+      "separate checks, please — 分开结账"
+    ],
+    "extended_points": [
+      "it's on me — 我请",
+      "split the bill — AA",
+      "go Dutch — 各付各的"
+    ],
+    "key_point": "【速记】Let me pay = 我来买单。\nlet + 原形；别争太久。\nAA 文化可用 let's split it。"
+  },
+  {
+    "point_content": "My bad.",
+    "tag": ["口语道歉", "我的错", "中性", "非正式", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我的错；是我不好；我搞砸了（轻量道歉）\n自然译法：我的锅 / 我的问题 / 我错了（随口版）",
+    "examples": [
+      "My bad — I sent the old version. 我的错，我发了旧版本。\n",
+      "My bad, I thought you were free tonight. 怪我，我以为你今晚有空。\n",
+      "He said \"my bad\" and fixed the typo. 他说「我的锅」然后把错字改了。\n",
+      "My bad is casual and light; not for serious harm. 太随意，不适合严重过错。\n",
+      "For a serious error, say \"that was my mistake, and here's the fix.\" 严重错误要用完整道歉加补救。"
+    ],
+    "explanation": "【概要】极简口语道歉，承认小失误，语气轻松，多用于同龄人与同事之间；不适用于严重后果。\n【结构】My bad.（省略 it was my bad / that's my bad）；近义 my fault、that's on me。\n【语用】中性偏随意，小失误、迟到、发错文件；对客户或重大事故会显得不负责。\n【易错】① 别用于书面正式致歉（用 I apologize for…）；② 与 my mistake（更接近正式）不同；③ 说完要补补救行动。",
+    "synonym_points": [
+      "my fault — 我的错",
+      "that's on me — 这算我的（更担责）",
+      "my mistake — 我弄错了",
+      "oops, my bad — 哎呀我的错（更轻）"
+    ],
+    "antonym_points": [
+      "not my fault — 不是我的错",
+      "that's on you — 那是你的问题",
+      "I did nothing wrong — 我没做错",
+      "blame the process — 怪流程"
+    ],
+    "extended_points": [
+      "my bad 的语域（非正式）",
+      "own it — 认下来",
+      "non-apology — 假道歉"
+    ],
+    "key_point": "【速记】My bad = 我的错（随口版）。\n仅限小失误；须补补救。\n正式致歉用 I apologize。"
+  },
+  {
+    "point_content": "A watched pot never boils.",
+    "tag": ["谚语", "心急吃不了热豆腐", "中性", "等待/焦虑", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "心急吃不了热豆腐；越盯着越慢；等待时别焦躁\n自然译法：别老盯着 / 越等越久 / 心急没用",
+    "examples": [
+      "Stop refreshing the tracking page — a watched pot never boils. 别刷物流了，心急吃不了热豆腐。\n",
+      "A watched pot never boils, so go do something else. 越盯越慢，去干点别的。\n",
+      "He kept checking the test results; a watched pot never boils. 他不停查结果，越等越焦虑。\n",
+      "The saying addresses perceived time, not actual speed. 说的是主观等待感，不是真的变慢。\n",
+      "For real delays, diagnose the cause instead. 真有延误要查原因，别只靠这句。"
+    ],
+    "explanation": "【概要】谚语，指过度关注等待过程会让时间显得更漫长；劝人转移注意力、别焦躁，并不意味着事情真的变慢。\n【结构】A watched pot never boils.（主语 + 频率副词 never + 动词）；近义 patience is a virtue。\n【语用】中性，等待结果、物流、成长；真有延误时应查原因而非安慰。\n【易错】① 固定 never（非 doesn't）；② pot 指锅、boils 指沸腾；③ 与 slow and steady wins the race 侧重不同。",
+    "synonym_points": [
+      "patience is a virtue — 耐心是美德",
+      "good things take time — 好事需时间",
+      "don't rush it — 别催",
+      "wait and see — 等着看"
+    ],
+    "antonym_points": [
+      "time is money — 时间就是金钱",
+      "strike while the iron is hot — 趁热打铁",
+      "act fast — 快速行动",
+      "don't wait — 别等"
+    ],
+    "extended_points": [
+      "patience is a virtue — 耐心是美德",
+      "perceived time — 主观时间感",
+      "delayed gratification — 延迟满足"
+    ],
+    "key_point": "【速记】A watched pot never boils = 心急吃不了热豆腐。\n讲主观感受；真延误要查因。\n近义 patience is a virtue。"
+  },
+  {
+    "point_content": "No muss no fuss.",
+    "tag": ["口语习语", "干净利落", "正面", "流程/服务", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "干净利落；省事省心；不折腾\n规范书写：no muss, no fuss\n自然译法：简单直接 / 一点不麻烦 / 不用折腾",
+    "examples": [
+      "The service was no muss, no fuss — booked and done in five minutes. 服务省心，五分钟订完。\n",
+      "We want a no-muss-no-fuss process for returns. 退货流程要简单不折腾。\n",
+      "No muss, no fuss: one form, one signature. 不折腾：一张表一个签字。\n",
+      "Muss means mess or disorder. muss 意为「弄乱/麻烦」。\n",
+      "In writing, add the comma: no muss, no fuss. 书面要加逗号。"
+    ],
+    "explanation": "【概要】口语习语，形容做事干净利落、无多余麻烦；muss 指弄乱、fuss 指小题大做，两词押韵强化语气。\n【结构】no muss, no fuss（可连字符化作形容词 no-muss-no-fuss）；近义 hassle-free、smooth。\n【语用】正面，服务体验、流程设计、产品描述；正式文案用 hassle-free。\n【易错】① 书面对称结构加逗号；② muss 非 must（易拼错）；③ 与 no fuss（别大惊小怪，祈使）不同。",
+    "synonym_points": [
+      "hassle-free — 省心（正式）",
+      "smooth and simple — 顺畅简单",
+      "no strings attached — 无附加条件（不同侧重）",
+      "clean and easy — 干净省事"
+    ],
+    "antonym_points": [
+      "a hassle — 麻烦事",
+      "red tape — 繁文缛节",
+      "a mess — 一团乱",
+      "a lot of fuss — 大费周章"
+    ],
+    "extended_points": [
+      "muss 的「弄乱」义",
+      "fuss over — 小题大做",
+      "red tape — 官僚流程"
+    ],
+    "key_point": "【速记】no muss, no fuss = 干净利落不折腾。\n加逗号；muss≠must。\n正式版 hassle-free。"
+  },
+  {
+    "point_content": "All bark no bite.",
+    "tag": ["习语", "光说不练", "贬义", "威胁/虚张", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "光说不练；只会叫不会咬；虚张声势\n规范书写：all bark and no bite\n自然译法：只会喊 / 嘴上厉害 / 雷声大雨点小",
+    "examples": [
+      "Their warning was all bark and no bite. 他们的警告只是虚张声势。\n",
+      "The dog is all bark and no bite. 这狗只会叫不会咬。\n",
+      "He talks tough but it's all bark, no bite. 他嘴上强硬，其实不敢动手。\n",
+      "It criticizes empty threats or empty promises. 批评空洞威胁或空头承诺。\n",
+      "In formal writing, say \"lacks enforcement.\" 正式文本用 lacks enforcement。"
+    ],
+    "explanation": "【概要】习语，以狗「只会叫、不咬人」比喻只有声势而无实际行动，常指空头威胁或空承诺，带贬义。\n【结构】be all bark (and) no bite（可省 and 作口语）；近义 all talk and no action。\n【语用】贬义，评价政策、威胁、人物；直接对当事人说会显轻蔑。\n【易错】① 固定 bark / bite 对举；② 与 bark up the wrong tree（找错方向）不同；③ 书面宜补 and。",
+    "synonym_points": [
+      "all talk and no action — 光说不做",
+      "empty threats — 空威胁",
+      "paper tiger — 纸老虎",
+      "sound and fury — 喧嚣而空洞（文学）"
+    ],
+    "antonym_points": [
+      "walk the talk — 说到做到",
+      "put your money where your mouth is — 拿行动证明",
+      "follow through — 落实到底",
+      "bite as good as bark — 说到做到（对举）"
+    ],
+    "extended_points": [
+      "paper tiger — 纸老虎",
+      "walk the talk — 言行一致",
+      "enforcement gap — 执行缺口"
+    ],
+    "key_point": "【速记】all bark and no bite = 光说不练。\nbark/bite 对举；贬义。\n正面版 walk the talk。"
+  },
+  {
+    "point_content": "You force my hand.",
+    "tag": ["谈判表达", "逼我出手", "中性偏负", "博弈/冲突", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "是你逼我的；你让我别无选择；（不得不）出手\n自然译法：你逼我这么做 / 我没别的选择 / 别怪我下狠手",
+    "examples": [
+      "You force my hand — I'll have to escalate this. 你逼我出手，我只能上报。\n",
+      "By leaking the memo, they forced his hand. 泄露备忘录，逼得他不得不行动。\n",
+      "You force my hand when you miss every deadline. 你次次逾期，就是逼我采取措施。\n",
+      "It shifts responsibility while announcing a firm move. 既推责，又宣告强硬动作。\n",
+      "In negotiation, say \"this leaves us no option.\" 谈判里说 this leaves us no option。"
+    ],
+    "explanation": "【概要】force one's hand 指迫使某人提前或被迫采取行动，常用来声明「我本不想这么做，是你逼的」，兼具施压与推责。\n【结构】force sb's hand（物主代词随主语）；近义 leave sb no choice、back sb into a corner。\n【语用】中性偏负，谈判、冲突升级、绩效警告；过度使用会被视为表演式免责。\n【易错】① 用 force my hand（非 force me hand）；② 与 force sb to do（强迫某人做）结构不同；③ 宣告同时要给出具体动作。",
+    "synonym_points": [
+      "you leave me no choice — 你让我别无选择",
+      "you backed me into a corner — 你把我逼到墙角",
+      "you pushed me to this — 你把我推到这一步",
+      "my hands are tied — 我受制于人（不同）"
+    ],
+    "antonym_points": [
+      "I chose this myself — 我自己选的",
+      "I have other options — 我还有别的选择",
+      "no pressure — 没有压力",
+      "let's keep talking — 继续谈"
+    ],
+    "extended_points": [
+      "back sb into a corner — 逼到墙角",
+      "hand is forced — 被迫出手",
+      "escalate — 升级（商务）"
+    ],
+    "key_point": "【速记】force sb's hand = 逼某人出手。\n物主代词随主语；兼推责与施压。\n须配具体动作。"
+  },
+  {
+    "point_content": "Wake up and smell the coffee.",
+    "tag": ["习语", "认清现实", "强负面", "规劝/讽刺", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "醒醒，认清现实；别做梦了；该面对现实了\n自然译法：清醒点 / 别自我安慰了 / 现实点吧",
+    "examples": [
+      "Wake up and smell the coffee — the company isn't coming back. 认清现实，公司回不来了。\n",
+      "It's time to wake up and smell the coffee about the budget. 预算这事该面对现实了。\n",
+      "She told him to wake up and smell the coffee. 她让他清醒点。\n",
+      "It's blunt and can feel insulting. 语气直白，可能被当成侮辱。\n",
+      "Softer version: \"here's what the data shows.\" 柔和版是给出数据。"
+    ],
+    "explanation": "【概要】习语，字面「醒来闻闻咖啡」，实则催人认清现实、停止幻想；语气直白，带不耐烦或讽刺。\n【结构】wake up and smell the coffee（动词并列祈使）；近义 face the facts、get real。\n【语用】强负面，规劝与讽刺；对上级或客户使用极不妥当。\n【易错】① 固定 coffee 单数（非 coffees）；② 与 wake up（真起床）双关；③ 与 smell the roses（享受生活）义反。",
+    "synonym_points": [
+      "face the facts — 面对事实",
+      "get real — 现实点（口语）",
+      "see the writing on the wall — 看出败象",
+      "come back down to earth — 回到现实"
+    ],
+    "antonym_points": [
+      "keep dreaming — 继续做梦吧",
+      "stay optimistic — 保持乐观",
+      "live in denial — 活在否认中",
+      "ignore the data — 无视数据"
+    ],
+    "extended_points": [
+      "smell the roses — 享受当下（义反）",
+      "denial — 否认心理",
+      "reality check — 现实检验"
+    ],
+    "key_point": "【速记】wake up and smell the coffee = 认清现实。\n语气直白；忌对上级/客户用。\n柔和版：给出数据。"
+  },
+  {
+    "point_content": "That's the last straw.",
+    "tag": ["习语", "忍无可忍", "强负面", "冲突/离职", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这真是忍无可忍了；最后一根稻草；再忍不下去了\n自然译法：我彻底受不了了 / 这是压垮的最后一根 / 到极限了",
+    "examples": [
+      "He was late again — that's the last straw. 他又迟到了，真是忍无可忍。\n",
+      "That was the last straw, so she quit. 那成了最后一根稻草，她辞职了。\n",
+      "The last straw was the missing bonus. 压垮她的是没发的奖金。\n",
+      "It comes from \"the straw that broke the camel's back.\" 源自「压垮骆驼的最后一根稻草」。\n",
+      "For a formal exit, cite the pattern, not just the last straw. 正式离职要说明长期模式。"
+    ],
+    "explanation": "【概要】习语，指在多次容忍后出现的「最后一击」，使人彻底失去耐心；源自谚语 the straw that broke the camel's back。\n【结构】That's the last straw. / the final straw；近义 the tipping point。\n【语用】强负面，冲突爆发、离职动因；正式复盘需陈述累积问题，而非只提最后一件事。\n【易错】① 固定 straw（非 straws）；② 与 last drop（更文学）不同；③ 与 deal breaker（不可接受条款）侧重略异。",
+    "synonym_points": [
+      "the final straw — 最后一根稻草",
+      "the breaking point — 崩溃临界点",
+      "I've had it — 我受够了",
+      "the tipping point — 临界点"
+    ],
+    "antonym_points": [
+      "water under the bridge — 都过去了（义反）",
+      "no big deal — 没什么大不了",
+      "I can live with it — 我能忍",
+      "give it another chance — 再给一次机会"
+    ],
+    "extended_points": [
+      "the straw that broke the camel's back — 完整谚语",
+      "deal breaker — 不可接受项",
+      "threshold — 阈值"
+    ],
+    "key_point": "【速记】the last straw = 忍无可忍的最后一击。\n固定 straw 单数；正式离职讲累积模式。\n近义 breaking point。"
+  },
+  {
+    "point_content": "Coffee's for closers.",
+    "tag": ["影视台词", "业绩导向", "中性偏负", "销售/职场", "文化梗"],
+    "translation_lang": "zh-CN",
+    "translation_content": "咖啡是给成交的人喝的；（引申）好处只给能拿下结果的人\n自然译法：奖励给能成单的人 / 没业绩别谈福利 / 结果说话",
+    "examples": [
+      "\"Coffee's for closers\" is a line from a 1980s sales film. 这句出自 1980 年代销售题材电影（Glengarry Glen Ross）。\n",
+      "The manager quoted \"coffee's for closers\" at the kickoff. 经理在启动会上引用了这句。\n",
+      "It means perks follow performance, not effort alone. 意为福利跟业绩走，不只看苦劳。\n",
+      "Used literally, it can humiliate junior staff. 生硬使用会羞辱新人。\n",
+      "For fair framing, pair targets with support. 公平做法是目标与支持配套。"
+    ],
+    "explanation": "【概要】源自话剧/电影 Glengarry Glen Ross（1980 年代销售文化）的台词，字面「咖啡只给能成交的人」，引申为「资源与奖励只给拿到结果的人」，是硬派业绩文化的标语。\n【结构】Coffee's for closers.（Coffee's = Coffee is；closers 指「成交者」）；近义 results-based rewards。\n【语用】中性偏负，销售团队激励；作为管理口号易滑向羞辱与高压。\n【易错】① closer 在此指「成交的销售」，非「更近的」；② 属引用性台词，正式文件慎用；③ 别用它否定新人的学习期。",
+    "synonym_points": [
+      "results-based rewards — 结果导向奖励",
+      "perks follow performance — 福利跟业绩走",
+      "only closers get paid — 只有成交者拿钱",
+      "performance over effort — 业绩优先于苦劳"
+    ],
+    "antonym_points": [
+      "effort counts too — 苦劳也算",
+      "everyone gets support — 人人都该有支持",
+      "learning curve — 学习曲线",
+      "psychological safety — 心理安全"
+    ],
+    "extended_points": [
+      "Glengarry Glen Ross（1983 话剧 / 1992 电影）",
+      "closer（成交型销售）",
+      "hard-driving sales culture — 强压销售文化"
+    ],
+    "key_point": "【速记】Coffee's for closers = 好处只给成交者。\n出自销售题材影视；硬派业绩文化。\n滥用会羞辱新人。"
+  },
+  {
+    "point_content": "Bros before hoes.",
+    "tag": ["俚语（贬义/性别歧视）", "重友轻色", "强负面", "慎用/不建议", "语域警告"],
+    "translation_lang": "zh-CN",
+    "translation_content": "不要重色轻友；兄弟优先于女人\n注意：含贬义词 hoes（对女性的侮辱性称呼），属性别歧视性俚语，正式场合、职场、跨性别沟通中应避免；中性替代：friends before romance / don't ditch your friends for a partner\n自然译法：别为了姑娘丢了兄弟（粗俗版，不建议使用）",
+    "examples": [
+      "He skipped his friend's wedding for a date — bros before hoes, as the saying goes. 他为约会错过朋友婚礼，俗话叫「重色轻友」。\n",
+      "The phrase is crude and derogatory toward women. 这句粗俗且贬损女性。\n",
+      "In a workplace, never use it. 职场绝对不要说。\n",
+      "Say \"don't ditch your friends for a partner\" instead. 改用「别为伴侣丢下朋友」。\n",
+      "Friendship loyalty is the real point behind the slang. 俚语背后真正的点是朋友忠诚。"
+    ],
+    "explanation": "【概要】网络/青少年俚语，字面「兄弟在妓女之前」（hoes 为对女性的侮辱性称呼），强调朋友忠诚高于恋爱；因含性别侮辱词，属不当表达。\n【结构】X before Y 的对比省略句；中性替代 friends before romance、don't ditch your friends。\n【语用】强负面、性别歧视性，影视与网络语境出现；职场、公开演讲、跨性别沟通中一律避免。\n【易错】① hoes 是侮辱性词，不可在解释外复述；② 它与「重友轻色」不等价，后者无贬损；③ 引用时须明确标注语域问题，不可当趣味表达传播。",
+    "synonym_points": [
+      "friends before romance — 朋友优先（中性）",
+      "don't ditch your friends for a partner — 别为伴侣丢朋友",
+      "loyalty to your friends — 对朋友忠诚",
+      "never abandon your crew — 别丢下你的伙伴"
+    ],
+    "antonym_points": [
+      "love conquers all — 爱情至上",
+      "partner first — 伴侣优先",
+      "drop your friends for a date — 为约会丢朋友",
+      "romance over friendship — 重色轻友"
+    ],
+    "extended_points": [
+      "语域警告：含性别侮辱词，不建议使用",
+      "workplace language policy — 职场用语规范",
+      "friendship loyalty — 朋友忠诚"
+    ],
+    "key_point": "【速记】bros before hoes = 重友轻色（粗俗俚语）。\n含对女性的侮辱词，职场禁用。\n中性替代：friends before romance。"
+  },
+  {
+    "point_content": "Dog eat dog.",
+    "tag": ["习语", "自相残杀/恶性竞争", "负面", "商业/竞争", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "狗咬狗；残酷竞争；弱肉强食\n规范搭配：dog-eat-dog（作定语）自然译法：你死我活 / 恶性竞争 / 谁也不让谁",
+    "examples": [
+      "It's a dog-eat-dog market out there. 外面是个弱肉强食的市场。\n",
+      "Dog eat dog means competition without mercy. 指毫不留情的竞争。\n",
+      "In a dog-eat-dog industry, ethics still matter. 在恶性竞争的行业，伦理仍重要。\n",
+      "As a modifier, hyphenate: dog-eat-dog culture. 作定语要加连字符。\n",
+      "For neutral wording, say \"highly competitive.\" 中性表述用 highly competitive。"
+    ],
+    "explanation": "【概要】习语，字面「狗吃狗」，形容竞争残酷、彼此倾轧的环境；常作 dog-eat-dog 定语修饰 market、culture、world。\n【结构】dog eat dog（表语/口号）/ dog-eat-dog（定语，需连字符）；近义 cutthroat、rat race。\n【语用】负面，商业环境描述、职场抱怨；正式报告用 highly competitive、intense rivalry。\n【易错】① 定语形式必须连字符；② 与 eat dog（字面吃狗肉）无关；③ 与 rat race（无意义的奔忙）侧重不同。",
+    "synonym_points": [
+      "cutthroat competition — 残酷竞争",
+      "the rat race — 无休止的竞争奔忙",
+      "survival of the fittest — 适者生存",
+      "every man for himself — 各自为战"
+    ],
+    "antonym_points": [
+      "win-win cooperation — 双赢合作",
+      "collaborative culture — 协作文化",
+      "fair play — 公平竞争",
+      "mutual support — 互相扶持"
+    ],
+    "extended_points": [
+      "rat race — 内卷式奔忙",
+      "cutthroat — 毫不留情",
+      "hyphenation rules（定语连字符）"
+    ],
+    "key_point": "【速记】dog eat dog = 弱肉强食式竞争。\n作定语加连字符；正式版 highly competitive。\n近义 rat race。"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "point_content": "Who do you think you are?",
+    "tag": ["口语质问", "傲慢", "冲突", "强负面", "讽刺"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你以为你是谁？；你凭什么？\n自然译法：你算老几 / 你凭什么这么说话 / 你把自己当谁了",
+    "examples": ["Who do you think you are, talking to my staff like that? 你以为你是谁，那样跟我员工说话？",
+      "She snapped: \"Who do you think you are?\" 她厉声说「你以为你是谁？」",
+      "Who do you think you are, giving me orders? 你以为你是谁，还命令我？",
+      "He asked who she thought she was after she cut the line. 她插队后他问「你以为你是谁」。",
+      "Who do you think you are — the boss? 你算老几，老板吗？"
+    ],
+    "explanation": "【概要】质问对方越权、傲慢或无礼，核心是「你没有资格」，是冲突中的重话。\n【结构】Who do you think you are?（固定质问句）；可后接 doing sth（Who do you think you are, coming in here?）。\n【语用】强负面，家庭争吵、服务冲突常见；职场使用等于宣战。\n【易错】① 语序为 do you think（插入语），不写 Who you think you are；② 反讽语气靠语调；③ 与 Who are you?（真问身份）不同。",
+    "synonym_points": ["who are you to say that — 你凭什么这么说",
+      "what gives you the right — 你有什么资格",
+      "you're out of line — 你过分了",
+      "mind your place — 摆正你的位置（更狠）"
+    ],
+    "antonym_points": ["you're right to speak up — 你有权发声",
+      "fair point — 说得有道理",
+      "I value your input — 我重视你的意见",
+      "by all means — 当然可以（礼貌许可）"
+    ],
+    "extended_points": ["插入语 do you think 的语序是常见语法考点",
+      "get above oneself — 自视过高（英式）",
+      "overstep — 越界"
+    ],
+    "key_point": "【速记】Who do you think you are? = 你以为你是谁。\n插入语语序 do you think；强负面。\n近义：what gives you the right。"
+  },
+  {
+    "point_content": "Out of sight out of mind",
+    "tag": ["谚语", "遗忘", "距离", "中性偏冷", "心理"],
+    "translation_lang": "zh-CN",
+    "translation_content": "眼不见，心不烦；看不见就忘了\n自然译法：不在眼前就不惦记了 / 一走就忘 / 人走茶凉（近似）",
+    "examples": ["He moved abroad and never called — out of sight, out of mind. 他搬去国外就没再联系，眼不见心不烦。",
+      "Out of sight, out of mind: put the snacks in a closed cupboard. 眼不见心不烦，把零食收进柜子。",
+      "It's out of sight, out of mind for most donors. 对多数捐赠者来说，看不见也就不惦记了。",
+      "She worried the team would forget her — out of sight, out of mind. 她担心团队会忘了她，人一走就被淡忘。",
+      "Delete the app; out of sight, out of mind. 把 App 删了，眼不见心不烦。"
+    ],
+    "explanation": "【概要】谚语：看不见的事物容易被遗忘、不再牵挂；也可用于自我管理（把诱惑藏起来）。\n【结构】Out of sight, out of mind.（两个短语并列，常加逗号）；可作表语 It's out of sight, out of mind。\n【语用】中性偏冷，谈人情淡薄时带批评，谈习惯管理时属实用建议。\n【易错】① 中间逗号可省但朗读需停顿；② 与 Absence makes the heart grow fonder 观点相反；③ 不表示「看不见就安全」。",
+    "synonym_points": ["long absent, soon forgotten — 久不相见，渐被遗忘（谚语）",
+      "distance dulls memory — 距离冲淡记忆",
+      "easily forgotten — 容易被忘记",
+      "what the eye doesn't see, the heart doesn't grieve over — 眼不见心不痛（谚语）"
+    ],
+    "antonym_points": ["absence makes the heart grow fonder — 小别胜新婚（反义）",
+      "always on my mind — 一直挂念",
+      "can't stop thinking about it — 念念不忘",
+      "keep in touch — 保持联系"
+    ],
+    "extended_points": ["与 absence makes the heart grow fonder 构成经典对照",
+      "out of sight 也可表示「极好的」（俚语，美式）",
+      "object permanence — 客体永久性（心理学术语，概念相通）"
+    ],
+    "key_point": "【速记】out of sight, out of mind = 眼不见心不烦。\n与 absence makes the heart grow fonder 相反。\n可作自我管理建议。"
+  },
+  {
+    "point_content": "Take a hike",
+    "tag": ["俚语斥退", "赶人", "不礼貌", "强负面", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "走开；一边凉快去；滚远点\n自然译法：哪凉快哪待着 / 你走吧，别烦我 / 玩你的去",
+    "examples": ["Take a hike — I'm not lending you money again. 走开，我不会再借钱给你。",
+      "He told the salesman to take a hike. 他让推销员一边凉快去。",
+      "If you're just here to complain, take a hike. 你要是只来抱怨，那就请走。",
+      "She laughed and told her brother to take a hike. 她笑着让弟弟哪凉快哪去。",
+      "Take a hike, buddy — this is a private conversation. 走开吧，这是私人谈话。"
+    ],
+    "explanation": "【概要】字面「去远足」，实为粗鲁地叫人离开，比 go away 更带嘲讽。\n【结构】祈使句 Take a hike!；也可用 tell sb to take a hike（叫某人滚开）。\n【语用】强负面、不礼貌，熟人玩笑可，正式或陌生场合会激化矛盾。\n【易错】① 不表示真的邀请远足；② 与 go hiking（去徒步）语义不同；③ 语气强硬，慎用于客户。",
+    "synonym_points": ["get lost — 滚开（更冲）",
+      "beat it — 走开（老派口语）",
+      "go away — 走开（中性）",
+      "scram — 快走（轻蔑）"
+    ],
+    "antonym_points": ["come on in — 进来吧",
+      "stay a while — 多待会儿",
+      "you're welcome here — 欢迎你来",
+      "stick around — 留下来"
+    ],
+    "extended_points": ["take a hike 另义（美式俚语旧用法）：涨价（Prices took a hike.）",
+      "get off my back — 别烦我",
+      "buzz off — 走开（英式口语）"
+    ],
+    "key_point": "【速记】Take a hike = 走开、一边凉快去（粗鲁）。\n与 go hiking 不同；加 tell sb to 可转述。\n旧俚语义：涨价。"
+  },
+  {
+    "point_content": "Piss me off",
+    "tag": ["粗俗语", "愤怒", "强负面", "警告慎用", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "气死我了；惹我发火；别惹我\n注意：piss 属粗俗词，正式场合用 annoy / irritate\n自然译法：真把我惹毛了 / 别来烦我 / 让我火大",
+    "examples": ["It really pisses me off when people are late. 别人迟到真把我气炸。",
+      "Don't piss me off today — I'm already in a bad mood. 今天别惹我，我心情已经够差。",
+      "He said the delay pissed him off. 他说延误让他火大。",
+      "What pisses me off most is the lying. 最让我火大的是撒谎。",
+      "She was pissed off about the unfair review. 她对那条不公平的评价很生气。"
+    ],
+    "explanation": "【概要】piss sb off 表示强烈惹怒某人；为粗俗表达，常见于影视口语与私下吐槽。\n【结构】piss sb off（主动）；be pissed off (about/with sth)（被动形容生气，英式亦同）；pissed 单独在美式口语指「醉」。\n【语用】粗俗、非正式；会议、客服、正式邮件必须替换为 annoy / irritate / upset。\n【易错】① 语域粗俗，非中性；② pissed off（生气）与 pissed（美式「喝醉」）易混；③ 别对客户使用。",
+    "synonym_points": ["annoy me — 惹我烦（礼貌替换）",
+      "make me angry — 让我生气（中性）",
+      "get on my nerves — 让我心烦",
+      "ticks me off — 惹火我（较温和的口语）"
+    ],
+    "antonym_points": ["calm me down — 让我冷静",
+      "cheer me up — 让我开心",
+      "put me at ease — 让我放松",
+      "please me — 让我满意"
+    ],
+    "extended_points": ["礼貌替代：It really frustrates me. / I find it annoying.",
+      "pissed off = 恼火（英式常用）",
+      "piss poor — 差劲透顶（更粗俗）"
+    ],
+    "key_point": "【速记】piss sb off = 惹火某人（粗俗）。\n正式替代：annoy / irritate / upset。\n美式 pissed 单用＝喝醉。"
+  },
+  {
+    "point_content": "You got a lot of nerve",
+    "tag": ["口语点评", "胆大", "无礼", "强负面", "反讽"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你胆子真大；你也太不要脸了（多含贬义）\n自然译法：你可真敢 / 脸皮够厚的 / 你哪来的底气",
+    "examples": ["You've got a lot of nerve asking me for a favor. 你还敢找我帮忙，脸皮真够厚。",
+      "She had a lot of nerve to show up late and complain. 她迟到还抱怨，真够胆。",
+      "You got a lot of nerve calling me a liar. 你还敢说我撒谎。",
+      "He had the nerve to ask for a raise after that email. 出了那封邮件之后他还敢要求加薪。",
+      "You got a lot of nerve — I'll give you that. 你是真敢，这点我服。"
+    ],
+    "explanation": "【概要】have a lot of nerve 常指「厚脸皮、不知分寸」，也可中性指「有胆量」，语气由语境决定。\n【结构】have a lot of nerve (to do sth)；也可说 have the nerve to do sth（竟敢）。\n【语用】强负面为主，用于被冒犯时；夸人胆量用 brave / gutsy 更稳。\n【易错】① nerve 不可数，用 a lot of；② have the nerve 也表「有勇气」，需语境；③ 与 lose one's nerve（怯场）相反。",
+    "synonym_points": ["you're out of line — 你过分了",
+      "the audacity — 真是胆大包天（书面）",
+      "how dare you — 你怎么敢（更冲）",
+      "what a cheek — 脸皮真厚（英式）"
+    ],
+    "antonym_points": ["that took courage — 那需要勇气（褒义）",
+      "you're brave — 你很勇敢",
+      "you've got guts — 你有种（可褒）",
+      "you lost your nerve — 你怯场了"
+    ],
+    "extended_points": ["have the nerve to do sth — 竟敢做某事",
+      "lose one's nerve — 失去勇气",
+      "audacity — 大胆无礼（正式名词）"
+    ],
+    "key_point": "【速记】have a lot of nerve = 胆子真大（多贬：脸皮厚）。\nnerve 不可数；have the nerve to do 也可表勇气。\nlose one's nerve 是「怯场」。"
+  },
+  {
+    "point_content": "I didn't mean anything",
+    "tag": ["口语辩解", "误会", "无心之失", "中性", "关系"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我没别的意思；我不是那个意思；我没恶意\n自然译法：我真没别的意思 / 别误会 / 我就是随口一说",
+    "examples": ["I didn't mean anything by that joke. 那个玩笑我没别的意思。",
+      "\"That hurt.\" \"I didn't mean anything — sorry.\" 「那话伤人了。」「我没恶意，抱歉。」",
+      "I didn't mean anything bad; I was just asking. 我没恶意，就是问问。",
+      "She said she didn't mean anything by the comment. 她说那句话没别的意思。",
+      "I didn't mean anything by it, but I'll apologize anyway. 我没那意思，不过还是道个歉。"
+    ],
+    "explanation": "【概要】为说过的话做澄清，表示无恶意、无针对性，常用于误会后的补救。\n【结构】mean anything by sth（多用于否定）；也可说 I didn't mean it（我不是故意的/不是真心的）。\n【语用】中性，关系修复场景常用；但仍需道歉，否则显得只辩解。\n【易错】① 介词 by；② 与 I didn't mean to（我不是故意的）不同；③ I didn't mean anything 单独说略生硬，最好加 by that。",
+    "synonym_points": ["no offense intended — 无意冒犯（书面）",
+      "I didn't mean it that way — 我不是那个意思",
+      "that came out wrong — 我说得不合适",
+      "I meant no harm — 我无意伤害"
+    ],
+    "antonym_points": ["I meant every word — 我说的是真心话",
+      "I did mean it — 我确实那意思",
+      "take it personally — 往心里去（对方反应）",
+      "on purpose — 故意地"
+    ],
+    "extended_points": ["mean well — 出于好意",
+      "read too much into it — 想多了",
+      "I didn't mean to — 我不是故意的"
+    ],
+    "key_point": "【速记】I didn't mean anything (by it) = 我没别的意思。\n介词 by；仍需配道歉。\n区分：I didn't mean to 是「不是故意」。"
+  },
+  {
+    "point_content": "Nice going",
+    "tag": ["口语点评", "反讽", "称赞或挖苦", "非正式", "语域警示"],
+    "translation_lang": "zh-CN",
+    "translation_content": "干得漂亮（真诚）／真有你的（反讽：搞砸了）\n自然译法：好活儿 / 干得不错（真心） / 你可真行（反讽）",
+    "examples": ["Nice going — you fixed it in ten minutes. 干得漂亮，十分钟就修好了。",
+      "Nice going, you spilled coffee on the contract. 你可真行，把咖啡洒合同上了。",
+      "\"I deleted the file.\" \"Nice going.\" 「我把文件删了。」「你真行。」（反讽）",
+      "Nice going, team — we hit the target early. 干得好各位，提前达标。",
+      "She said \"nice going\" without smiling, so I knew I'd messed up. 她面无表情说「干得好」，我就知道搞砸了。"
+    ],
+    "explanation": "【概要】评价对方的行为结果；真诚时等同 well done，语调平淡或配上糟糕结果时是反讽。\n【结构】Nice going.（/ Nice work.）独立短句；也可说 Nice going, genius（加强讽刺）。\n【语用】非正式口语，朋友同事间；书面表扬用 well done / great job。\n【易错】① 反讽全靠语境与语调；② 与 nice to see you（见面语）无关；③ 对上级反讽风险高。",
+    "synonym_points": ["well done — 干得好（真诚）",
+      "great job — 做得好",
+      "nice work — 干得不错",
+      "way to go — 干得漂亮（口语）"
+    ],
+    "antonym_points": ["you blew it — 你搞砸了",
+      "nice one, Einstein — 真行啊你（反讽）",
+      "that was a fail — 失败了",
+      "bad move — 这步走错了"
+    ],
+    "extended_points": ["反讽标记：语调下沉、配 genius/Einstein",
+      "pat on the back — 表扬",
+      "backhanded compliment — 明褒暗贬"
+    ],
+    "key_point": "【速记】Nice going = 干得好，也可反讽「你真行」。\n语调决定褒贬；书面用 well done。\n对上级勿反讽。"
+  },
+  {
+    "point_content": "It's in your blood",
+    "tag": ["习语", "天赋", "家族传承", "正面", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这是你天生的；这在你血里；家族传承的本事\n自然译法：你天生就带这个 / 骨子里就有 / 你们家都这样",
+    "examples": ["She's been singing since she was three — it's in her blood. 她三岁就唱歌，这是天生的。",
+      "Farming is in your blood when you grow up on a ranch. 在牧场长大，农耕就在你血里。",
+      "It's in your blood — your grandfather was a carpenter too. 这是天生的，你爷爷也是木匠。",
+      "Competitiveness seems to be in his blood. 好胜心好像是他的天性。",
+      "You can learn the skills, but the feel for it is in your blood. 技巧能学，手感是天生的。"
+    ],
+    "explanation": "【概要】be in one's blood 比喻某能力、偏好或性格天生或由家族传承，几乎无法后天获得。\n【结构】be in sb's blood（物主代词随主语变）；也可说 run in the blood（在血脉中流传）。\n【语用】正面为主，夸奖天赋与家族传统；也可用于解释改不掉的习惯（含无奈）。\n【易错】① 介词 in；② blood 不可数，不加 a；③ 与 in cold blood（冷血地，残忍）完全不同。",
+    "synonym_points": ["it's in your DNA — 天生的（现代说法）",
+      "second nature — 第二天性",
+      "runs in the family — 家族遗传",
+      "born with it — 与生俱来"
+    ],
+    "antonym_points": ["learned behavior — 后天习得的行为",
+      "it's not your thing — 这不是你的强项",
+      "acquired skill — 后天技能",
+      "out of character — 不符合性格"
+    ],
+    "extended_points": ["in cold blood — 冷血地（形似义异，重点区分）",
+      "run in the blood — 血脉相传",
+      "blood will tell — 血统终会显形（谚语）"
+    ],
+    "key_point": "【速记】be in sb's blood = 天生、骨子里有。\n介词 in；blood 不可数。\n易混：in cold blood 是「冷血地」。"
+  },
+  {
+    "point_content": "Look on the bright side",
+    "tag": ["安抚语", "乐观", "习语", "中性偏正", "建议"],
+    "translation_lang": "zh-CN",
+    "translation_content": "往好处想；看看积极的一面\n自然译法：想想好的方面 / 也别太丧 / 换个角度看看",
+    "examples": ["Look on the bright side — at least you weren't driving. 往好处想，至少你没在开车。",
+      "Look on the bright side: the delay gave us time to talk. 往好处想，延误反倒给了我们聊天的时间。",
+      "She always looks on the bright side, even in bad weather. 她总往好处想，连天气差也能乐。",
+      "Look on the bright side; the refund covers the repair. 往好处想，退款够修了。",
+      "It's hard to look on the bright side right now, I know. 我知道现在很难往好处想。"
+    ],
+    "explanation": "【概要】on the bright side 指「从积极角度看」，整句用于安慰或自我调节。\n【结构】look on the bright side (of sth)；也可说 on the bright side, …（句首状语）。\n【语用】中性偏正，安慰常用；对方情绪激烈时先共情再讲这句。\n【易错】① 介词 on；② bright side 前加 the；③ 与 look at the big picture（看全局）不同。",
+    "synonym_points": ["look for the silver lining — 找一线希望",
+      "see the glass half full — 看半杯满（乐观）",
+      "make the best of it — 尽量往好里做",
+      "count your blessings — 想想自己拥有的"
+    ],
+    "antonym_points": ["look on the dark side — 往坏处想",
+      "see the glass half empty — 看半杯空（悲观）",
+      "doom and gloom — 一片阴暗",
+      "catastrophize — 灾难化思考"
+    ],
+    "extended_points": ["on the bright side — 往好处说（独立状语）",
+      "a silver lining — 一线希望",
+      "positive reframing — 积极重构（心理学）"
+    ],
+    "key_point": "【速记】look on the bright side = 往好处想。\n介词 on + the bright side。\n先共情再安慰，效果更好。"
+  },
+  {
+    "point_content": "Go big or go home",
+    "tag": ["激励语", "冒险", "习语", "非正式", "正面偏激进"],
+    "translation_lang": "zh-CN",
+    "translation_content": "要么大干一场，要么回家；不成功便成仁\n自然译法：要干就干大的 / 不敢拼就别上场 / 全力一搏",
+    "examples": ["It's our only launch — go big or go home. 这是唯一的发布机会，要么大干一场。",
+      "Go big or go home: double the ad budget. 要干就干大的，广告预算翻倍。",
+      "He told the team, \"Go big or go home.\" 他对团队说「不搏一把就别干」。",
+      "Some investors prefer caution; others go big or go home. 有投资人偏谨慎，也有人要么全压要么不做。",
+      "Going big or going home is a strategy, not a personality. 这只是一种策略，不是性格。"
+    ],
+    "explanation": "【概要】口号式表达，主张要么全力投入争取大胜，要么干脆不做，强调决心与风险偏好。\n【结构】Go big or go home.（祈使并列句）；也可作定语 a go-big-or-go-home approach。\n【语用】非正式激励语，创业、营销、比赛场合合适；对稳健型团队可能造成压力。\n【易错】① 结构为 go + 形容词 big；② 不是「去大的或回家」字面；③ 与 go for it（大胆去做）语气相近但更极端。",
+    "synonym_points": ["all in — 全押、全力投入",
+      "go all out — 全力以赴",
+      "swing for the fences — 全力一击（棒球比喻）",
+      "no guts, no glory — 不敢拼就没荣耀"
+    ],
+    "antonym_points": ["play it safe — 稳着来",
+      "take it slow — 慢慢来",
+      "hedge your bets — 分散风险",
+      "cut your losses — 及时止损"
+    ],
+    "extended_points": ["all-in — 全押（金融/创业俚语）",
+      "risk appetite — 风险偏好",
+      "go-for-broke — 孤注一掷的"
+    ],
+    "key_point": "【速记】Go big or go home = 要么大干，要么回家。\ngo + 形容词 big；口号式激励。\n稳健团队慎用。"
+  },
+  {
+    "point_content": "You have my word",
+    "tag": ["承诺表达", "保证", "正式口语", "正面", "信任"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我向你保证；我说话算话\n自然译法：我保证 / 我给你这句话 / 我承诺",
+    "examples": ["You have my word — the money will be there by Friday. 我保证，钱周五前到。",
+      "I won't tell anyone; you have my word. 我不会告诉别人，我保证。",
+      "You have my word that this stays confidential. 我保证这事保密。",
+      "He gave her his word and kept it. 他给了她承诺，也做到了。",
+      "You have my word — I'll fix this personally. 我保证，我亲自处理。"
+    ],
+    "explanation": "【概要】give/have one's word 表示郑重承诺；「You have my word.」是给对方保证的固定说法。\n【结构】You have my word (that + 从句 / on sth)；也可说 I give you my word。\n【语用】正式口语，商务与私人承诺都可用；比 I promise 更有分量。\n【易错】① word 单数指「诺言」；② 不说 You have my words；③ 与 keep one's word（守信）搭配不同。",
+    "synonym_points": ["I promise — 我保证",
+      "my word is my bond — 一诺千金（正式）",
+      "I give you my word — 我向你保证",
+      "count on me — 信我"
+    ],
+    "antonym_points": ["I can't promise — 我不能保证",
+      "no guarantees — 不打包票",
+      "you have my sympathy — 我很同情（形似不同义）",
+      "break one's word — 食言"
+    ],
+    "extended_points": ["keep one's word — 守信",
+      "a word of honor — 荣誉之言（文学）",
+      "take sb at their word — 相信某人的话"
+    ],
+    "key_point": "【速记】You have my word = 我向你保证。\nword 单数；可接 that 从句。\n守信：keep one's word。"
+  },
+  {
+    "point_content": "Fifty-fifty",
+    "tag": ["口语", "平分", "概率", "中性", "商务日常"],
+    "translation_lang": "zh-CN",
+    "translation_content": "五五分；对半分；一半一半（概率各半）\n自然译法：一人一半 / 平分 / 五成把握",
+    "examples": ["Let's split the profit fifty-fifty. 利润我们五五分。",
+      "The chances are fifty-fifty that it rains tomorrow. 明天下雨的概率一半一半。",
+      "We agreed on a fifty-fifty partnership. 我们说好五五分的合伙。",
+      "I'd say it's fifty-fifty whether he shows up. 他来不来，我看五成。",
+      "They divided the bill fifty-fifty. 账单两人平摊。"
+    ],
+    "explanation": "【概要】表示各占一半：分账时指平分，判断时指概率各 50%。\n【结构】fifty-fifty（副词/形容词）；可作 split sth fifty-fifty、a fifty-fifty chance。\n【语用】中性口语，AA 分账、合伙、概率估计都常用；正式文书用 equal shares / 50 percent。\n【易错】① 连字符固定；② 不说 fifty fifty percent；③ 与 half and half（各半，多指奶与奶油混合）不同。",
+    "synonym_points": ["split it evenly — 平均分",
+      "go halves — 对半分（英式口语）",
+      "50/50 — 一半一半（写法变体）",
+      "equal shares — 等份（正式）"
+    ],
+    "antonym_points": ["all or nothing — 全有或全无",
+      "one-sided — 一边倒",
+      "uneven split — 分配不均",
+      "winner takes all — 赢家通吃"
+    ],
+    "extended_points": ["go halves on sth — 与某人分摊费用",
+      "split the bill — AA 制",
+      "a coin flip — 抛硬币（比喻概率各半）"
+    ],
+    "key_point": "【速记】fifty-fifty = 五五分、各半。\n连字符固定；分账/概率两义。\n正式版：equal shares。"
+  },
+  {
+    "point_content": "I'm on fire",
+    "tag": ["口语自评", "状态火热", "正面", "非正式", "运动/创作"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我状态火热；我手感正顺（也可字面：我着火了）\n自然译法：我今天状态爆棚 / 手感太好了 / 灵感正旺",
+    "examples": ["I'm on fire today — three goals in one half. 我今天状态爆棚，半场就进了三球。",
+      "She's on fire at work this quarter. 她这季度工作状态火热。",
+      "Every shot went in; I was on fire. 怎么投怎么进，我手感正顺。",
+      "I'm on fire with this new project — ideas keep coming. 这个新项目我灵感正旺，想法不断。",
+      "Careful with that candle — the curtain's on fire. 小心蜡烛，窗帘着火了。（字面义）"
+    ],
+    "explanation": "【概要】on fire 本义「着火」，口语引申为表现极佳、势不可挡、灵感爆发。\n【结构】be on fire（可指人或表现）；也可说 catch fire（着火）、set sth on fire（点燃）。\n【语用】正面口语，体育、工作、创作场景；字面义需靠语境区分，安全场景务必清楚。\n【易错】① 介词 on；② 与 on the fire（在炉火上）不同；③ 描述火灾用 be on fire / catch fire，不用 is firing。",
+    "synonym_points": ["on a roll — 连战连捷（口语）",
+      "in the zone — 状态极佳、进入心流",
+      "at the top of one's game — 处于巅峰状态",
+      "hot streak — 状态火热的连胜期"
+    ],
+    "antonym_points": ["off my game — 状态不在线",
+      "in a slump — 陷入低谷",
+      "lost my touch — 手感没了",
+      "burnt out — 精疲力竭"
+    ],
+    "extended_points": ["catch fire — 着火；也指「迅速走红」",
+      "on a roll — 一路顺",
+      "in the zone — 心流状态"
+    ],
+    "key_point": "【速记】be on fire = 状态火热（也指真的着火）。\n介词 on；口语褒义为主。\n近义：on a roll / in the zone。"
+  },
+  {
+    "point_content": "You are in for a treat",
+    "tag": ["口语预告", "惊喜", "正面", "习语", "推荐"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你有口福了；你要大饱眼福/耳福了；等着享受吧\n自然译法：你有好东西吃了 / 你等着惊喜吧 / 保证让你满意",
+    "examples": ["Try this cake — you're in for a treat. 尝尝这蛋糕，你有口福了。",
+      "If you've never heard her sing, you're in for a treat. 你要是没听过她唱歌，等着惊艳吧。",
+      "The new season starts tonight — you're in for a treat. 新一季今晚开播，你有福了。",
+      "You're in for a treat if you like old architecture. 喜欢老建筑的话，你会大饱眼福。",
+      "He warned me I was in for a treat — and he was right. 他说我会大饱口福，果然没错。"
+    ],
+    "explanation": "【概要】be in for sth 表示「即将经历某事」，a treat 指令人愉快的体验，整句是正面预告。\n【结构】be in for a treat（也可 in for a surprise 中性/负面、in for it 表示要挨罚）。\n【语用】正面口语，推荐美食、演出、旅行时最自然。\n【易错】① 介词 in for；② treat 前加 a；③ in for it 是「要倒霉了」，别混。",
+    "synonym_points": ["you're going to love it — 你会喜欢的",
+      "wait till you see it — 等着看吧",
+      "it's a real treat — 真是享受",
+      "you won't be disappointed — 不会让你失望"
+    ],
+    "antonym_points": ["you're in for a shock — 你要吓一跳（负面预告）",
+      "you're in for it — 你要挨罚了",
+      "you'll regret it — 你会后悔",
+      "don't get your hopes up — 别抱太大希望"
+    ],
+    "extended_points": ["be in for it — 要倒霉（英式口语）",
+      "a treat — 令人愉快的事/物",
+      "trick or treat — 不给糖就捣蛋（万圣节）"
+    ],
+    "key_point": "【速记】be in for a treat = 你有口福/有惊喜了。\n介词 in for；a treat 加冠词。\n易混：in for it 是「要挨罚」。"
+  },
+  {
+    "point_content": "I don't deserve you",
+    "tag": ["情感表达", "自谦", "亲密关系", "正面偏感性", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我配不上你；你对我太好了，我不配\n自然译法：你太好了，我受之有愧 / 我何德何能 / 遇到你是我运气",
+    "examples": ["You made me soup at midnight — I don't deserve you. 你半夜给我煮汤，我真是配不上你。",
+      "He told her, \"I don't deserve you.\" 他对她说「我配不上你」。",
+      "I don't deserve you, but I'll try to be better. 我配不上你，但我会努力变好。",
+      "After everything she did, he said he didn't deserve her. 她做了那么多，他说自己配不上她。",
+      "I don't deserve you — you remembered my birthday twice. 你连我生日都记了两次，我何德何能。"
+    ],
+    "explanation": "【概要】表达自谦与感激，暗示对方付出远超自己应得；多用于亲密关系，也可用于朋友调侃。\n【结构】deserve + sb（直接接人，不加 to）；也可说 I don't deserve this（我不配得到这些）。\n【语用】正面偏感性；过度使用会显得自我贬低或情绪操控，需适度。\n【易错】① deserve 直接接名词/代词；② 不用 I'm not deserve；③ 与 You don't deserve this（你不该受这个）方向相反。",
+    "synonym_points": ["you're too good to me — 你对我太好了",
+      "I'm lucky to have you — 有你我真幸运",
+      "I don't know what I did to deserve you — 我何德何能",
+      "I'm not worthy — 我不配（略戏剧化）"
+    ],
+    "antonym_points": ["I deserve better — 我值得更好的",
+      "you don't deserve me — 你配不上我",
+      "I've earned this — 这是我应得的",
+      "I deserve respect — 我值得被尊重"
+    ],
+    "extended_points": ["deserve a medal — 该得奖章（口语夸张）",
+      "get what one deserves — 自作自受/得其所应得",
+      "self-deprecation — 自谦（语用标签）"
+    ],
+    "key_point": "【速记】I don't deserve you = 我配不上你（自谦感激）。\ndeserve 直接接人；勿说 not deserve of。\n适度使用，过多显自我贬低。"
+  },
+  {
+    "point_content": "Do you really mean it?",
+    "tag": ["口语确认", "承诺核实", "情感", "中性", "关系"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你说真的吗？；你是认真的吗？\n自然译法：你当真？/ 别骗我 / 这话算数吗",
+    "examples": ["\"I'm quitting.\" \"Do you really mean it?\" 「我要辞职。」「你当真？」",
+      "Do you really mean it when you say you'll stay? 你说会留下，是认真的吗？",
+      "She asked if he really meant it about the trip. 她问他旅行的事是不是说真的。",
+      "Do you really mean it, or are you just being nice? 你是真心的，还是只是客气？",
+      "He nodded: \"I really mean it.\" 他点头说「我是认真的」。"
+    ],
+    "explanation": "【概要】核实对方话语的真实性与承诺强度，常出现在重大决定、表白、道歉之后。\n【结构】mean it（指话语算数）；疑问式 Do you really mean it?；回答 I mean it / I didn't mean it。\n【语用】中性，亲密关系与商务承诺都可用；语气需温和，否则像质疑诚信。\n【易错】① mean it 中 it 固定；② 不用 Do you really mean?（缺宾语）；③ 与 Do you mean that?（更中性）语感不同。",
+    "synonym_points": ["are you serious — 你认真的吗",
+      "do you swear — 你发誓（更强）",
+      "is that a promise — 这是承诺吗",
+      "you're not kidding, right — 你不是开玩笑吧"
+    ],
+    "antonym_points": ["you're joking — 你在开玩笑",
+      "never mind — 算了当我没说",
+      "I didn't mean it — 我不是那个意思",
+      "empty words — 空话"
+    ],
+    "extended_points": ["mean what you say — 说到做到、言出必行",
+      "say what you mean — 表达清楚真实想法",
+      "take sb at their word — 相信对方的话"
+    ],
+    "key_point": "【速记】Do you really mean it? = 你说真的吗。\nmean it 固定搭配（it 不可省）。\n配套：mean what you say。"
+  },
+  {
+    "point_content": "Piece of cake",
+    "tag": ["习语", "容易", "口语", "正面", "任务"],
+    "translation_lang": "zh-CN",
+    "translation_content": "小菜一碟；轻而易举的事\n自然译法：太简单了 / 分分钟搞定 / 不在话下",
+    "examples": ["The test was a piece of cake. 考试太简单了。",
+      "Fixing the bike? Piece of cake. 修自行车？小菜一碟。",
+      "Once you know the shortcut, it's a piece of cake. 知道捷径之后就是小菜一碟。",
+      "She said the interview was a piece of cake, but she studied for weeks. 她说面试轻松，其实准备了好几周。",
+      "It's no piece of cake running a café alone. 一个人开咖啡馆可不容易。（否定式：并不轻松）"
+    ],
+    "explanation": "【概要】形容任务极容易完成；否定形式 no piece of cake 表示「并不轻松」。\n【结构】a piece of cake（表语）；也可说 it's a cakewalk（美式同义）。\n【语用】正面口语，评论任务难度；对正吃力的人说会显得轻慢。\n【易错】① 需加 a（a piece of cake）；② 不是「一块蛋糕」的字面；③ 否定式含义反转。",
+    "synonym_points": ["a walk in the park — 轻松愉快的事",
+      "a cakewalk — 轻而易举（美式）",
+      "a breeze — 小意思",
+      "child's play — 小孩玩意（极容易）"
+    ],
+    "antonym_points": ["no picnic — 不轻松",
+      "a tough nut to crack — 难啃的骨头",
+      "an uphill battle — 艰难之战",
+      "easier said than done — 说来容易做来难"
+    ],
+    "extended_points": ["cakewalk 源自舞蹈，现指轻松事",
+      "no picnic — 一点不轻松",
+      "child's play 常带「对高手而言」意味"
+    ],
+    "key_point": "【速记】a piece of cake = 小菜一碟。\n须加 a；否定 no piece of cake＝不轻松。\n近义：a breeze / a walk in the park。"
+  },
+  {
+    "point_content": "Easy do it",
+    "tag": ["口语提醒", "放慢", "注意", "中性", "动作"],
+    "translation_lang": "zh-CN",
+    "translation_content": "慢慢来，别急；轻一点（标准写法为 Easy does it）\n自然译法：慢点，别太猛 / 轻拿轻放 / 稳着来",
+    "examples": ["Easy does it — that vase is fragile. 轻一点，那花瓶脆。",
+      "Easy does it, the road is icy. 慢点开，路结冰了。",
+      "Easy does it with the paint; don't rush the edges. 刷漆慢点，边角别急。",
+      "He lifted the box slowly: \"Easy does it.\" 他慢慢抬箱子：「稳着来」。",
+      "Easy does it — you're pushing too hard on that lever. 轻点，那手柄你按太猛。"
+    ],
+    "explanation": "【概要】提醒对方动作放缓、力道放轻，避免损坏或受伤；标准英语写法为 Easy does it（本集标题写作 Easy do it）。\n【结构】Easy does it.（固定句，第三人称 does）；也可说 take it easy（放松/慢点）。\n【语用】中性，搬运、驾驶、施工、照料老人小孩时常用。\n【易错】① 规范形式是 Easy does it，不是 Easy do it；② 与 take it easy（休息/别紧张）语义相近但场景略不同；③ 不能改成 Easily do it。",
+    "synonym_points": ["take it easy — 慢点、别急",
+      "steady as you go — 稳住来（英式）",
+      "gently does it — 轻一点（英式变体）",
+      "slow and steady — 稳扎稳打"
+    ],
+    "antonym_points": ["go full speed — 全速前进",
+      "rush it — 赶着做",
+      "no holding back — 别收着",
+      "give it everything — 全力以赴（力气语境）"
+    ],
+    "extended_points": ["easy does it 是固定第三人称单数形式，属「固定句」考点",
+      "take it easy — 放松/别紧张",
+      "handle with care — 小心轻放（包装用语）"
+    ],
+    "key_point": "【速记】Easy does it = 慢点、轻点（标准写法带 does）。\n本集标题写作 Easy do it，注意规范形式。\n近义：take it easy / gently does it。"
+  },
+  {
+    "point_content": "It doesn't make sense",
+    "tag": ["口语评价", "不合逻辑", "困惑", "中性偏负", "职场"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这说不通；这不合理；简直不可思议\n自然译法：这逻辑不通 / 我完全看不懂 / 这不合理吧",
+    "examples": ["It doesn't make sense to hire two managers for one team. 一个团队招两个经理，这不合理。",
+      "The numbers don't make sense — revenue is up but cash is down. 数字说不通，收入涨了现金却少了。",
+      "Her story doesn't make sense; the times don't match. 她的说法对不上，时间线矛盾。",
+      "It doesn't make sense to me — can you explain again? 我没看懂，能再解释一下吗？",
+      "The instructions don't make sense without the diagram. 没有图，这说明书根本看不懂。"
+    ],
+    "explanation": "【概要】make sense 指「讲得通、合理」；否定形式表示逻辑不通、难以理解。\n【结构】sth doesn't make sense (to sb)；也可说 it makes no sense（更强）、does that make sense?（确认理解）。\n【语用】中性偏负，工作中质疑方案时常用；对上级建议加缓冲（I'm not following）。\n【易错】① sense 不加冠词；② 不用 doesn't make senses；③ 与 It doesn't make a difference（没区别）不同。",
+    "synonym_points": ["that makes no sense — 完全说不通（更强）",
+      "it's illogical — 不合逻辑",
+      "I don't follow — 我没跟上思路",
+      "something's off — 有点不对劲"
+    ],
+    "antonym_points": ["that makes sense — 有道理",
+      "it adds up — 对得上、合逻辑",
+      "makes perfect sense — 完全说得通",
+      "clear as day — 一目了然"
+    ],
+    "extended_points": ["make sense of sth — 弄懂某事",
+      "does that make sense? — 明白了吗（讲完后确认）",
+      "commonsense — 常识"
+    ],
+    "key_point": "【速记】it doesn't make sense = 说不通、不合理。\nsense 不可数；更强说法 makes no sense。\n职场加缓冲：I'm not following。"
+  },
+  {
+    "point_content": "I'll see myself out",
+    "tag": ["礼貌告别", "离场", "得体", "中性", "社交"],
+    "translation_lang": "zh-CN",
+    "translation_content": "请留步，不用送了；我自己出去（告辞语）\n自然译法：不用送，我自己出去 / 你忙你的，我走了 / 我先告辞",
+    "examples": ["Thanks for the talk — I'll see myself out. 谢谢你听我说，不用送了。",
+      "Don't get up; I'll see myself out. 别起来，我自己出去就行。",
+      "He stood, shook hands, and said, \"I'll see myself out.\" 他起身握手说「不用送」。",
+      "It's late; I'll see myself out, and thanks for dinner. 太晚了，我自己走，谢谢晚饭。",
+      "She was annoyed and said, \"I'll see myself out.\" 她不太高兴地说「我自己走」。"
+    ],
+    "explanation": "【概要】告辞时礼貌拒绝主人相送的说法，体现体贴与分寸；也可在气氛尴尬时用于体面退场。\n【结构】I'll see myself out.；主语变化：I'll show myself out（更主动）、Let me see myself out。\n【语用】中性得体，正式或半正式社交场合都合适；冷淡语气可暗示不悦。\n【易错】① 反身代词随主语（myself/yourself）；② 不说 I'll see you out（那是「我送你出去」）；③ 与 I'll let myself out 近义。",
+    "synonym_points": ["don't bother walking me out — 不用送我",
+      "I'll let myself out — 我自己出去（同义）",
+      "no need to see me off — 不用送行",
+      "I'll take my leave — 我先告辞（正式）"
+    ],
+    "antonym_points": ["walk me out — 送我出去",
+      "could you see me to the door — 能送我到门口吗",
+      "stay a little longer — 再待会儿",
+      "I'll stay — 我留下"
+    ],
+    "extended_points": ["see sb out — 送某人出门（与 see oneself out 相对）",
+      "see sb off — 送行（车站机场）",
+      "take one's leave — 告辞（正式）"
+    ],
+    "key_point": "【速记】I'll see myself out = 请留步，我自己走。\n反身代词随主语；客气得体。\n区分：see sb out 是「送你出去」。"
+  }
+]

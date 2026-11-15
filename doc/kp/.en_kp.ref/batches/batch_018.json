@@ -1,0 +1,642 @@
+[
+  {
+    "point_content": "Are you single?",
+    "tag": ["社交提问", "感情状态", "中性", "略带试探", "日常"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你单身吗？；你有对象吗？\n自然译法：你现在一个人吗 / 有伴儿了吗 / 还单着吗",
+    "examples": [
+      "Are you single, or is that a wedding ring? 你单身吗，还是那是结婚戒指？",
+      "He asked if she was single before adding her on WeChat. 加她微信前他先问是不是单身。",
+      "Are you single? Sorry if that's too direct. 你单身吗？问得直接，抱歉。",
+      "She laughed: \"Why, are you single?\" 她笑了：「怎么，你也单身？」",
+      "Asking \"Are you single?\" at work can feel inappropriate. 在工作场合问这句可能不太合适。"
+    ],
+    "explanation": "【概要】询问对方感情状态，属带私人性质的问题，语气亲疏决定是否得体。\n【结构】be single（形容词，不用 alone/lonely 替代）；也可说 are you seeing anyone。\n【语用】中性但涉私事，社交、相亲需要；职场初次见面问显得越界。\n【易错】① single 指「未婚/无伴侣」，不是「一个人待着」；② 与 Are you alone（你现在一个人吗）不同；③ 正式询问用 marital status。",
+    "synonym_points": [
+      "Are you seeing anyone — 你在跟人交往吗",
+      "Do you have a partner — 你有伴侣吗",
+      "Are you taken — 你名花有主了吗（口语）",
+      "Are you married — 你结婚了吗"
+    ],
+    "antonym_points": [
+      "I'm taken — 我有对象了",
+      "I'm married — 我结婚了",
+      "I'm seeing someone — 我在跟人交往",
+      "It's complicated — 关系复杂（含糊回答）"
+    ],
+    "extended_points": [
+      "single 与 alone / lonely 的区别",
+      "be seeing sb — 与某人交往",
+      "relationship status — 感情状态"
+    ],
+    "key_point": "【速记】Are you single? = 你单身吗？\nsingle 不等于 alone；职场问易越界。\n委婉版：Are you seeing anyone?"
+  },
+  {
+    "point_content": "My word is my bond",
+    "tag": ["承诺表达", "守信", "正式", "正面", "商务"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我言出必行；一诺千金；我的话就是保证\n自然译法：我说到做到 / 我的话就是凭据 / 我从不食言",
+    "examples": [
+      "My word is my bond — the payment will arrive Friday. 我说到做到，周五款项到账。",
+      "He shook hands and said his word was his bond. 他握手说一言为定。",
+      "In this family, your word is your bond. 在我们家，说话就得算数。",
+      "My word is my bond, so I won't renegotiate. 我一诺千金，不会反悔重谈。",
+      "Saying \"my word is my bond\" only works if you keep it. 这句话只有在做到时才成立。"
+    ],
+    "explanation": "【概要】郑重承诺句式，强调个人信用与话语的分量，语域比 I promise 更正式、略带老派商务感。\n【结构】one's word is one's bond（物主代词随主语变）；也可说 I give you my word。\n【语用】正面，握手成交、商务承诺；口头禅用多会显得做作。\n【易错】① word 为不可数「诺言」，不加 a；② bond 意为「契约」，不是「债券」；③ 与 my word is my oath（更文雅）区分。",
+    "synonym_points": [
+      "I keep my promises — 我守承诺",
+      "my word is my oath — 我的诺言即誓言（更文雅）",
+      "you have my word — 我向你保证",
+      "I'll deliver — 我说到做到"
+    ],
+    "antonym_points": [
+      "break one's word — 食言",
+      "go back on a promise — 违背承诺",
+      "empty promises — 空头承诺",
+      "all talk — 光说不练"
+    ],
+    "extended_points": [
+      "word of honor — 荣誉之言",
+      "a gentleman's agreement — 君子协定",
+      "keep one's word — 守信"
+    ],
+    "key_point": "【速记】my word is my bond = 我说到做到。\nword 不可数；bond 为「契约」。\n比 I promise 更正式。"
+  },
+  {
+    "point_content": "Are you kidding me?",
+    "tag": ["口语反问", "难以置信", "强情绪", "非正式", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你在开玩笑吗？；你在玩我吗？；真的假的？\n自然译法：你没搞错吧 / 逗我呢 / 这也行？",
+    "examples": [
+      "Are you kidding me? The train just left. 逗我呢？火车刚开走。",
+      "You want it by tonight? Are you kidding me? 你要今晚交？开什么玩笑。",
+      "Are you kidding me — that's the third email this hour. 你在玩我吧，这小时第三封邮件了。",
+      "She said \"are you kidding me\" and laughed. 她说「真的假的」然后笑了。",
+      "Are you kidding me? That's the best news all week. 真的吗？这周最好的消息。（也可表惊喜）"
+    ],
+    "explanation": "【概要】表达难以置信或不满，可指「你在耍我吗」（负面），也可指「真的吗，太好了」（正面惊讶），靠语调区分。\n【结构】Are you kidding me?（固定反问）；也可说 You've got to be kidding（更强调）、are you serious。\n【语用】强情绪、非正式；对客户或上级用会显得失礼。\n【易错】① kid 为动词「开玩笑」，进行时 kidding；② 与 Are you kidding（同义省略 me）一致；③ 不是质问「你在哄小孩吗」。",
+    "synonym_points": [
+      "You've got to be kidding — 你一定在开玩笑",
+      "Are you serious — 你说真的？",
+      "You're joking, right — 你在开玩笑吧",
+      "No way — 不可能吧（口语）"
+    ],
+    "antonym_points": [
+      "I'm serious — 我是认真的",
+      "I kid you not — 我没开玩笑",
+      "Believe it — 相信吧，是真的",
+      "It's true — 是真的"
+    ],
+    "extended_points": [
+      "I kid you not — 我没开玩笑",
+      "just kidding — 开个玩笑",
+      "you've got to be kidding me — 完整强调版"
+    ],
+    "key_point": "【速记】Are you kidding me? = 你在开玩笑吗（可表惊也可表怒）。\nkid 进行时；非正式。\n正式场合用 Are you serious?"
+  },
+  {
+    "point_content": "I call the shots",
+    "tag": ["职场表达", "决策权", "强语气", "中性偏强", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我说了算；我做决定；这里我拍板\n自然译法：这儿我定 / 最终我说了算 / 拍板的是我",
+    "examples": [
+      "On this project, I call the shots. 这个项目我说了算。",
+      "She calls the shots in the kitchen — literally. 厨房里她说了算，名副其实。",
+      "You can suggest, but I call the shots. 你可以提建议，但拍板的是我。",
+      "He likes to call the shots even when he's a guest. 他哪怕是客人也爱指手画脚。",
+      "Who calls the shots here? I need a decision today. 这儿谁说了算？我今天要个决定。"
+    ],
+    "explanation": "【概要】call the shots 指掌握最终决定权，源自射击指挥，语气强势、略自我。\n【结构】call the shots（不加冠词于 shots 前，固定复数）；也可说 call the tune、be in charge。\n【语用】中性偏强，职场口语；公开说会显得咄咄逼人，正式场合用 I'm the decision-maker。\n【易错】① shots 复数固定；② 与 call the shot（单数，少用）混淆；③ 不是「打电话」。",
+    "synonym_points": [
+      "I'm in charge — 我负责（中性）",
+      "I make the final call — 我做最终决定",
+      "I call the tune — 我说了算（同义习语）",
+      "the buck stops with me — 责任到我这里为止"
+    ],
+    "antonym_points": [
+      "not my call — 我说了不算",
+      "I report to someone — 我上面有人",
+      "I have no say — 我没发言权",
+      "that's above my pay grade — 超出我权限"
+    ],
+    "extended_points": [
+      "call the tune — 说了算（英式）",
+      "the buck stops here — 责任到此为止（杜鲁门名言）",
+      "have the final say — 有最终决定权"
+    ],
+    "key_point": "【速记】call the shots = 说了算。\nshots 复数固定；语气强。\n正式版 make the final call。"
+  },
+  {
+    "point_content": "We go way back",
+    "tag": ["人际关系", "老交情", "正面", "口语", "社交"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我们老相识了；我们认识很久了；交情很深\n自然译法：我们是老交情 / 认识十几年了 / 从小一起长大",
+    "examples": [
+      "We go way back — since primary school. 我们是老相识，小学就认识。",
+      "He and I go way back; he helped me get my first job. 他和我交情很久，第一份工作是他帮的。",
+      "We go way back, so don't worry about formalities. 我们老交情了，别讲客套。",
+      "They go way back, which is why she trusts him. 他们认识很久，所以她信他。",
+      "\"Do you know her?\" \"We go way back.\" 「你认识她？」「老相识了。」"
+    ],
+    "explanation": "【概要】go way back 指相识已久、关系有长期基础，带信任与亲切感。\n【结构】go way back (with sb)；也可说 we go back a long way（更正式）。\n【语用】正面，社交介绍、推荐背书都自然；不宜夸大到虚假年份。\n【易错】① way back 为固定副词短语；② 与 go back（返回）不同；③ 不及物，不接宾语（不说 go way back you）。",
+    "synonym_points": [
+      "we go back a long way — 我们认识很久（正式）",
+      "we're old friends — 我们是老朋友",
+      "we've known each other for years — 我们认识多年",
+      "we're tight — 我们关系铁（俚语）"
+    ],
+    "antonym_points": [
+      "we just met — 我们刚认识",
+      "we're acquaintances — 我们只是认识",
+      "I barely know him — 我不太认识他",
+      "strangers — 陌生人"
+    ],
+    "extended_points": [
+      "go back a long way — 同义变体",
+      "an old acquaintance — 老相识",
+      "history together — 有共同过往"
+    ],
+    "key_point": "【速记】we go way back = 老相识、交情深。\n固定副词短语；及物性注意。\n正式版 go back a long way。"
+  },
+  {
+    "point_content": "Over my dead body",
+    "tag": ["强拒绝", "习语", "强负面", "口语", "冲突"],
+    "translation_lang": "zh-CN",
+    "translation_content": "想都别想；除非我死了；我坚决不同意\n自然译法：休想 / 门都没有 / 我死也不会同意",
+    "examples": [
+      "You'll sell my car over my dead body. 想卖我的车？除非我死了。",
+      "Over my dead body will that company get the contract. 那家公司想拿合同，门都没有。",
+      "He wants to quit school? Over my dead body. 他想退学？休想。",
+      "She said they'd move abroad, and her father said over his dead body. 她说要移居国外，她爸说想都别想。",
+      "Over my dead body — we're not canceling the wedding. 想都别想，婚礼不会取消。"
+    ],
+    "explanation": "【概要】极端拒绝句式，用「除非我死」表示绝不允许，语气强硬但常带戏剧化色彩。\n【结构】Over my dead body.（独立句，也可句首倒装 Over my dead body will…）；变体 over his dead body。\n【语用】强负面，家庭争执、立场表达；商务谈判用会显得不专业。\n【易错】① 固定介词 over；② 反身物主代词随人变；③ 幽默使用需熟人间。",
+    "synonym_points": [
+      "not in a million years — 绝不可能",
+      "when hell freezes over — 太阳打西边出来",
+      "not on my watch — 有我在就别想",
+      "no way, no how — 绝对不行"
+    ],
+    "antonym_points": [
+      "be my guest — 请便、随你",
+      "go right ahead — 尽管去做",
+      "by all means — 当然可以",
+      "I'm all for it — 我完全支持"
+    ],
+    "extended_points": [
+      "when hell freezes over — 绝不可能",
+      "not on my watch — 我任内绝不允许",
+      "a hill to die on — 值得死守的立场（相关概念）"
+    ],
+    "key_point": "【速记】Over my dead body = 想都别想（极端拒绝）。\n介词 over；物主代词随人变。\n商务场合勿用，显不专业。"
+  },
+  {
+    "point_content": "Are you mocking me?",
+    "tag": ["口语质问", "嘲讽", "强负面", "冲突", "关系"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你在嘲笑我吗？；你在讽刺我？\n自然译法：你在阴阳我？/ 你这是笑我？/ 你拿我开涮？",
+    "examples": [
+      "Are you mocking me, or is that a genuine question? 你在嘲我吗，还是真的在问？",
+      "He repeated my accent: \"Are you mocking me?\" 他学我口音，我问「你在笑我？」",
+      "She felt mocked by the applause and asked if he was mocking her. 那掌声让她觉得被嘲，问他是不是在笑她。",
+      "Are you mocking me? Because it's not funny. 你在讽刺我吗？这不好笑。",
+      "I'm not mocking you — I'm quoting you. 我不是嘲笑你，是在引用你的话。"
+    ],
+    "explanation": "【概要】质问对方是否在嘲讽自己，语气从困惑到愤怒，多出现在敏感关系或冲突中。\n【结构】mock sb（及物，正式/书面），口语更常说 make fun of / tease；疑问式 Are you mocking me?。\n【语用】强负面，直接质问；若误解对方易激化矛盾，宜先确认意图。\n【易错】① mock 及物，不接 at；② 与 Are you joking（开玩笑，轻）不同；③ mocking 也可作形容词「嘲讽的」。",
+    "synonym_points": [
+      "Are you making fun of me — 你在拿我开玩笑吗",
+      "Are you laughing at me — 你在笑我吗",
+      "Are you being sarcastic — 你在讽刺我吗",
+      "Are you teasing me — 你在逗我吗（较轻）"
+    ],
+    "antonym_points": [
+      "I'm being sincere — 我是真心的",
+      "I'm complimenting you — 我在夸你",
+      "no, I'm serious — 不，我认真的",
+      "I respect you — 我尊重你"
+    ],
+    "extended_points": [
+      "mock — 嘲笑（正式）",
+      "make fun of sb — 拿某人开玩笑（口语）",
+      "sarcasm — 讽刺（名词）"
+    ],
+    "key_point": "【速记】Are you mocking me? = 你在嘲笑我吗。\nmock 及物；口语常用 make fun of。\n先确认意图再动怒。"
+  },
+  {
+    "point_content": "Fine by me",
+    "tag": ["口语同意", "随你", "中性", "社交", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我无所谓；对我来说可以；你定就行\n自然译法：我都行 / 我没意见 / 随你安排",
+    "examples": [
+      "\"Let's meet at nine.\" \"Fine by me.\" 「九点见？」「我都行。」",
+      "Fine by me if we skip the dinner. 不吃饭我没意见。",
+      "Either place is fine by me. 哪家店我都可以。",
+      "She said fine by her, but her tone suggested otherwise. 她说随你，但语气不像。",
+      "Fine by me — just text me the address. 我没问题，把地址发我就行。"
+    ],
+    "explanation": "【概要】表示对提议无异议、可以接受，语气平淡中性，比 Fine with me 更短促。\n【结构】Fine by me.（省略 it's）；也可说 works for me / I'm easy。\n【语用】中性，朋友与同事安排事务常用；语气若冷可暗示不情愿。\n【易错】① 介词 by（不是 with/to）；② 与 I'm fine（我没事）不同；③ 正式邮件用 That works for me。",
+    "synonym_points": [
+      "works for me — 我这边可以（职场）",
+      "I'm easy — 我随便（英式）",
+      "that's fine by me — 我没意见",
+      "sounds good — 听起来可以"
+    ],
+    "antonym_points": [
+      "that's not fine by me — 我不接受",
+      "I'd rather not — 我不太想",
+      "doesn't work for me — 我这边不行",
+      "I object — 我反对"
+    ],
+    "extended_points": [
+      "fine by me 与 fine with me 的介词差异",
+      "works for me — 职场高频",
+      "your call — 你定"
+    ],
+    "key_point": "【速记】Fine by me = 我无所谓、都行。\n介词 by；语气冷淡时可暗示不情愿。\n职场版 works for me。"
+  },
+  {
+    "point_content": "Say it to my face",
+    "tag": ["冲突质问", "当面", "强负面", "习语", "关系"],
+    "translation_lang": "zh-CN",
+    "translation_content": "有话当面说；当着我面讲；别背后说\n自然译法：有本事当面讲 / 别背后嘀嘀咕咕 / 冲我来",
+    "examples": [
+      "If you have a problem with me, say it to my face. 有意见就当面说。",
+      "Stop whispering — say it to my face. 别嘀咕，当面讲。",
+      "He said it to my face, which I respected. 他当面说了，我反而尊重他。",
+      "Say it to my face, not in the group chat. 当面说，别在群里发。",
+      "I'd rather you say it to my face than hear it from others. 我宁愿你当面说，也不想从别人那听到。"
+    ],
+    "explanation": "【概要】要求对方当面直接表达不满，反对背后议论；语气强硬，常用于被冒犯时。\n【结构】say sth to sb's face（face 前用物主代词）；也可说 don't talk behind my back（反面表达）。\n【语用】强负面，冲突现场；职场使用可能被视为对抗。\n【易错】① 介词 to + one's face；② 与 in my face（贴近/挑衅）不同；③ 不用 say it on my face。",
+    "synonym_points": [
+      "tell me directly — 直接告诉我",
+      "don't talk behind my back — 别背后说我",
+      "tell it to me straight — 直说",
+      "say it in front of me — 当面讲"
+    ],
+    "antonym_points": [
+      "talk behind my back — 背后议论",
+      "whisper behind sb — 背后嘀咕",
+      "beat around the bush — 绕弯子",
+      "send it in a group chat — 群里发（回避当面）"
+    ],
+    "extended_points": [
+      "to sb's face 与 behind sb's back 对照",
+      "passive-aggressive — 隐性攻击",
+      "call sb out — 当面指出"
+    ],
+    "key_point": "【速记】say it to my face = 有话当面说。\n介词 to + one's face；反义 behind my back。\n语气强硬，职场慎用。"
+  },
+  {
+    "point_content": "That's music to my ears",
+    "tag": ["习语", "好消息", "正面", "口语", "情绪"],
+    "translation_lang": "zh-CN",
+    "translation_content": "这话太中听了；正合我意；听着就舒服\n自然译法：这话我爱听 / 太好了 / 这消息真解渴",
+    "examples": [
+      "The deadline moved to Friday? That's music to my ears. 截止期改到周五？太好了。",
+      "\"We got the funding.\" \"That's music to my ears.\" 「资金到手了。」「这话我爱听。」",
+      "Hearing the kids laugh is music to my ears. 听到孩子笑，我心里特别舒坦。",
+      "That's music to my ears — I've wanted this for years. 这话太中听了，我想了好几年。",
+      "Not everything the client says is music to my ears. 客户说的可不是每句都好听。"
+    ],
+    "explanation": "【概要】music to one's ears 指令人极愉快、正合心愿的消息或话语，褒义强。\n【结构】be music to one's ears（不用 a music）；也可说 that's what I like to hear。\n【语用】正面，接受好消息、听到夸奖时用；反讽时需语调配合。\n【易错】① music 不可数，不加 a；② 用 to 不用 for；③ 与 sweet nothings（甜言蜜语）不同。",
+    "synonym_points": [
+      "that's what I like to hear — 这话我爱听",
+      "just what I wanted to hear — 正想听这句",
+      "great news — 好消息",
+      "a welcome relief — 让人松口气（正式）"
+    ],
+    "antonym_points": [
+      "that's hard to hear — 这话难听",
+      "a bitter pill — 难以下咽的苦果",
+      "bad news — 坏消息",
+      "that hurts — 这话伤人"
+    ],
+    "extended_points": [
+      "music to one's ears 的固定搭配（无冠词）",
+      "a sight for sore eyes — 让人眼前一亮的（视觉版）",
+      "sweet nothings — 甜言蜜语"
+    ],
+    "key_point": "【速记】music to my ears = 太中听了、正合我意。\nmusic 不可数 + to；褒义。\n视觉版：a sight for sore eyes。"
+  },
+  {
+    "point_content": "I know you mean well",
+    "tag": ["沟通缓冲", "理解好意", "中性偏正", "关系", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我知道你是好意；我明白你没恶意（后面常接转折）\n自然译法：我知道你是为我好 / 你没恶意，不过 / 我懂你出发点",
+    "examples": [
+      "I know you mean well, but this isn't helping. 我知道你好意，但这没帮上忙。",
+      "I know you mean well — please just listen for a minute. 我知道你是好意，先听我说一分钟。",
+      "She said she knew he meant well and asked him to stop. 她说知道他是好意，请他别再说了。",
+      "I know you mean well, and I appreciate it. 我知道你好意，也很感谢。",
+      "Saying \"I know you mean well\" usually comes before criticism. 「我知道你好意」后面通常跟着批评。"
+    ],
+    "explanation": "【概要】沟通缓冲句：先认可对方善意，再表达异议或拒绝，降低对抗感。\n【结构】mean well（固定短语，善意但效果不佳）；常用 I know you mean well, but…。\n【语用】中性偏正，家庭、职场反馈高频；比直接批评更得体。\n【易错】① mean well 无冠词、用一般现在时；② 与 mean good（不地道）区分；③ 后接 but 时注意别变人身攻击。",
+    "synonym_points": [
+      "I know your intentions are good — 我知道你出于好意",
+      "no offense taken — 我没往心里去（回应式）",
+      "I appreciate the thought — 我领你的心意",
+      "I hear you — 我听进去了"
+    ],
+    "antonym_points": [
+      "you meant harm — 你就是想害我",
+      "that was deliberate — 那是故意的",
+      "you're not helping — 你没帮上忙（直接）",
+      "mind your own business — 别管闲事"
+    ],
+    "extended_points": [
+      "mean well — 出于好意（但方式欠妥）",
+      "the road to hell is paved with good intentions — 好心办坏事（谚语）",
+      "constructive criticism — 建设性批评"
+    ],
+    "key_point": "【速记】I know you mean well = 我知道你是好意（后面常接 but）。\nmean well 固定；缓冲再批评。\n谚语：好心也可能铺地狱之路。"
+  },
+  {
+    "point_content": "I don't want to keep you",
+    "tag": ["礼貌告别", "体贴", "中性", "电话/拜访", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "那我就不打扰你了；不占用你时间了\n自然译法：不耽误你了 / 你忙吧 / 我先不占你时间",
+    "examples": [
+      "I don't want to keep you — let's talk tomorrow. 不耽误你了，明天聊。",
+      "You're obviously busy, so I don't want to keep you. 你明显忙，我就不占你时间了。",
+      "I don't want to keep you from your work. 不耽误你工作。",
+      "She said she didn't want to keep him and ended the call. 她说不耽误他，就挂了电话。",
+      "I don't want to keep you, but one last question. 不耽误你，最后一个问题。"
+    ],
+    "explanation": "【概要】礼貌结束对话/拜访的套语，表示体谅对方时间，属委婉的离场信号。\n【结构】keep sb（占用/耽误某人）；也可说 I'll let you get back to it / I won't hold you up。\n【语用】中性，电话、会面、拜访收尾都自然；正式邮件用 I won't take more of your time。\n【易错】① keep 在此表「留住、占用」，不是「保持」；② 不用 keep you waiting（那是让对方等）；③ 与 hold you up（耽误）近义。",
+    "synonym_points": [
+      "I'll let you go — 我就不占用你了",
+      "I won't hold you up — 不耽误你",
+      "I'll get out of your hair — 我不打扰你了（口语）",
+      "let me not take more of your time — 不再占你时间（正式）"
+    ],
+    "antonym_points": [
+      "do you have a minute — 你有空吗（继续占用）",
+      "just one more thing — 还有一件事",
+      "hold on — 等一下",
+      "stay on the line — 别挂"
+    ],
+    "extended_points": [
+      "keep sb — 占用某人（时间）",
+      "get out of sb's hair — 不再打扰",
+      "I'll let you get back to it — 你继续忙"
+    ],
+    "key_point": "【速记】I don't want to keep you = 不耽误你了。\nkeep 表「占用」；礼貌离场信号。\n近义：I'll let you go。"
+  },
+  {
+    "point_content": "Seize the day",
+    "tag": ["拉丁语来源", "激励语", "正面", "正式口语", "行动"],
+    "translation_lang": "zh-CN",
+    "translation_content": "把握当下；只争朝夕；抓住今天\n自然译法：趁着现在就干 / 别等 / 今天就去",
+    "examples": [
+      "Seize the day — apply before the deadline. 把握当下，截止前申请。",
+      "He quit and started a bakery: seize the day. 他辞职开了面包店，只争朝夕。",
+      "Seize the day doesn't mean ignoring tomorrow. 把握当下不等于不管明天。",
+      "The speech ended with \"seize the day.\" 演讲以「抓住今天」结尾。",
+      "When the offer came, she seized the day. 机会来时她立刻抓住了。"
+    ],
+    "explanation": "【概要】源自拉丁语 carpe diem 的英译，鼓励立即行动、珍惜当下机会。\n【结构】Seize the day.（祈使句）；也可说 carpe diem（拉丁原语）、make the most of today。\n【语用】正面，演讲、毕业致辞、自我激励；过度使用会显口号化。\n【易错】① seize 拼写（ei 顺序）；② day 用单数；③ 与 live in the moment（活在当下，心态）略不同。",
+    "synonym_points": [
+      "carpe diem — 抓住今天（拉丁语）",
+      "make the most of today — 充分利用今天",
+      "strike while the iron's hot — 趁热打铁",
+      "now or never — 机不可失"
+    ],
+    "antonym_points": [
+      "wait and see — 观望",
+      "there's always tomorrow — 还有明天（拖延心态）",
+      "procrastinate — 拖延",
+      "let it slip away — 任其溜走"
+    ],
+    "extended_points": [
+      "carpe diem — 拉丁原语（同 carpe 主题）",
+      "live in the moment — 活在当下",
+      "memento mori — 人生有限（常与之搭配）"
+    ],
+    "key_point": "【速记】seize the day = 把握当下（carpe diem 英译）。\nseize 拼写注意；day 单数。\n常与 memento mori 并提。"
+  },
+  {
+    "point_content": "Say no more",
+    "tag": ["口语回应", "明白", "中性", "非正式", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "不用再说了；我懂了；不必多解释\n自然译法：明白，别说了 / 我都懂 / 收到，不用讲了",
+    "examples": [
+      "\"It's about the money.\" \"Say no more.\" 「是钱的事。」「不用说了，我懂。」",
+      "Say no more — I'll handle it. 别说了，我来处理。",
+      "He raised a hand: \"Say no more.\" 他抬手说「不必再说了」。",
+      "Say no more, I already guessed. 不用讲，我早猜到了。",
+      "Say no more — I know exactly who did it. 别说了，我知道是谁干的。"
+    ],
+    "explanation": "【概要】表示已理解对方意思、无需继续解释，语气爽快，有时带「心照不宣」。\n【结构】Say no more.（祈使句，独立回应）；也可说 got it / understood。\n【语用】中性口语，熟人间；正式场合用 I understand / no need to elaborate。\n【易错】① 不是「别再说了（不耐烦）」——语气偏合作；② 与 shut up（闭嘴，粗鲁）完全不同；③ 固定语序。",
+    "synonym_points": [
+      "I get it — 我明白",
+      "got it — 收到（职场）",
+      "no need to explain — 不用解释",
+      "understood — 明白了（正式）"
+    ],
+    "antonym_points": [
+      "explain further — 再解释一下",
+      "I don't follow — 我没听懂",
+      "what do you mean — 你什么意思",
+      "spell it out — 说明白点"
+    ],
+    "extended_points": [
+      "a nod is as good as a wink — 心照不宣（谚语）",
+      "read between the lines — 听懂言外之意",
+      "no need to elaborate — 不必详述"
+    ],
+    "key_point": "【速记】Say no more = 不用说了，我懂。\n合作式语气；别混 shut up。\n正式版 no need to explain。"
+  },
+  {
+    "point_content": "No rules",
+    "tag": ["口语表态", "无拘束", "中性", "场景说明", "非正式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "没有规则；无拘无束；怎么都行\n自然译法：没规矩，随便玩 / 不限方式 / 想怎么来怎么来",
+    "examples": [
+      "It's a potluck — no rules, just bring something. 这是自带菜的聚会，没规矩，带点吃的就行。",
+      "No rules tonight; stay as late as you want. 今晚没限制，想待多晚都行。",
+      "The game has no rules until someone gets hurt. 这游戏没规则，直到有人受伤。",
+      "No rules doesn't mean no responsibility. 「没规则」不等于「没责任」。",
+      "He said no rules applied to the dress code. 他说着装没有规定。"
+    ],
+    "explanation": "【概要】说明某项活动没有限制或规矩，语气轻快；也可反讽「乱来」。\n【结构】No rules.（名词短语作独立句）；也可说 there are no rules / anything goes。\n【语用】中性，聚会、创作、游戏规则说明；正式场合用 no formal requirements。\n【易错】① rules 复数；② 与 no rule（无统治）不同；③ 安全与法律底线仍适用（语用提醒）。",
+    "synonym_points": [
+      "anything goes — 怎么都行",
+      "no restrictions — 没有限制（正式）",
+      "free-for-all — 一片混战/毫无规则（可贬）",
+      "make your own rules — 自己定规矩"
+    ],
+    "antonym_points": [
+      "strict rules — 严格规则",
+      "by the book — 按规矩办",
+      "there are rules — 有规定",
+      "zero tolerance — 零容忍"
+    ],
+    "extended_points": [
+      "anything goes — 无限制",
+      "free-for-all — 无秩序（常贬）",
+      "no formal requirements — 正式替代"
+    ],
+    "key_point": "【速记】No rules = 没有规则、随便来。\nrules 复数；不含法律/安全豁免。\n近义：anything goes。"
+  },
+  {
+    "point_content": "Under the weather",
+    "tag": ["习语", "身体不适", "中性", "职场请假", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "身体不舒服；有点生病；状态不佳\n自然译法：我有点不舒服 / 今天身体不太行 / 有点小病",
+    "examples": [
+      "I'm a bit under the weather today, so I'll work from home. 我今天有点不舒服，居家办公。",
+      "She's been under the weather all week. 她这一周都不太舒服。",
+      "He said he was under the weather and skipped the party. 他说身体不适，没去派对。",
+      "Under the weather is a polite way to say you're sick. 这是委婉地说生病了。",
+      "I'm feeling a little under the weather but not seriously ill. 我有点不舒服，但不严重。"
+    ],
+    "explanation": "【概要】委婉表达身体或情绪状态不佳，源自航海（晕船/受天气影响），语域礼貌。\n【结构】be/feel under the weather（不加冠词于 weather 前，固定 the）；也可说 off color（英式）、not feeling well。\n【语用】中性，职场请假与日常问候都自然；重病应直接说明并就医。\n【易错】① 固定 the weather；② 与 under the influence（酒驾/醉）不同；③ 不指天气本身。",
+    "synonym_points": [
+      "not feeling well — 不太舒服（通用）",
+      "off color — 身体不适（英式）",
+      "a bit sick — 有点病（直接）",
+      "run down — 身体虚弱（长期）"
+    ],
+    "antonym_points": [
+      "fit as a fiddle — 身体倍儿棒",
+      "right as rain — 完全恢复",
+      "in fine form — 状态很好",
+      "healthy as a horse — 非常健壮"
+    ],
+    "extended_points": [
+      "under the influence — 受酒精/药物影响（形似义异）",
+      "run-down — 状态差",
+      "take a sick day — 请病假"
+    ],
+    "key_point": "【速记】under the weather = 身体不舒服（委婉）。\n固定 the；勿混 under the influence。\n重病请直接说明并就医。"
+  },
+  {
+    "point_content": "24-7",
+    "tag": ["时间表达", "全天候", "中性", "商务", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "全天候；一天二十四小时、一周七天；随时\n自然译法：24 小时不打烊 / 随时在线 / 全年无休",
+    "examples": [
+      "The support line is open 24-7. 客服热线全天候开放。",
+      "He works 24-7 and never switches off. 他全天候工作，从不关机。",
+      "We need 24-7 monitoring for this system. 这系统需要 7×24 监控。",
+      "The gym is 24-7, which is why I joined. 健身房 24 小时营业，所以我才办卡。",
+      "24-7 availability isn't sustainable for one person. 一个人全天候待命撑不住。"
+    ],
+    "explanation": "【概要】24-7（也写 24/7、twenty-four seven）指 24 小时 × 7 天不间断，常用于服务、监控、营业时间。\n【结构】作形容词/副词：a 24-7 service / work 24-7；读作 twenty-four seven。\n【语用】中性，商务与日常通用；形容人时暗含「透支」意味。\n【易错】① 不写 24-7 hours（重复）；② 与 9-to-5（朝九晚五）相对；③ 正式文本可写 24 hours a day, 7 days a week。",
+    "synonym_points": [
+      "around the clock — 昼夜不停",
+      "24 hours a day, 7 days a week — 全天候（完整说法）",
+      "nonstop — 不停歇",
+      "always-on — 永不离线（技术语境）"
+    ],
+    "antonym_points": [
+      "9-to-5 — 朝九晚五",
+      "business hours — 营业时间内",
+      "by appointment — 预约制",
+      "closed — 打烊"
+    ],
+    "extended_points": [
+      "24/7 为常见变体写法",
+      "around the clock — 昼夜不停",
+      "9-to-5 — 常规上班时间"
+    ],
+    "key_point": "【速记】24-7 = 全天候（24 小时×7 天）。\n读作 twenty-four seven；勿加 hours。\n对照 9-to-5（朝九晚五）。"
+  },
+  {
+    "point_content": "Time to face the music",
+    "tag": ["习语", "承担后果", "中性偏负", "职场/生活", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "是时候面对现实了；该承担后果了；硬着头皮上吧\n自然译法：该去挨批了 / 认账的时候到了 / 躲不过了",
+    "examples": [
+      "The report is due and the client is waiting — time to face the music. 报告到期、客户在等，得去面对了。",
+      "He broke the rules and now it's time to face the music. 他违规了，现在该承担后果。",
+      "Time to face the music: I have to tell my boss I missed the deadline. 得硬着头皮去跟老板说我没赶上。",
+      "Nobody wants to face the music, but avoiding it makes it worse. 没人想认账，但拖着只会更糟。",
+      "She faced the music and apologized publicly. 她承担后果，公开道歉。"
+    ],
+    "explanation": "【概要】face the music 指不得不面对应得的批评、惩罚或后果，源头说法与军乐/舞台有关。\n【结构】face the music（不加冠词于 music 前，固定 the）；也可说 take one's medicine、own up。\n【语用】中性偏负，职场问责、家庭管教常用；也可带自嘲。\n【易错】① 固定 the music；② 不表示「听音乐」；③ 与 face the facts（面对事实）侧重不同。",
+    "synonym_points": [
+      "take your medicine — 接受应得的惩罚",
+      "own up to it — 认账",
+      "take responsibility — 承担责任（正式）",
+      "bite the bullet — 硬着头皮扛"
+    ],
+    "antonym_points": [
+      "dodge responsibility — 推卸责任",
+      "pass the buck — 甩锅",
+      "bury your head in the sand — 逃避现实",
+      "run away from it — 逃避"
+    ],
+    "extended_points": [
+      "face the facts — 面对事实（不同搭配）",
+      "pass the buck — 推卸责任",
+      "hold sb accountable — 追究某人责任"
+    ],
+    "key_point": "【速记】face the music = 面对后果。\n固定 the music；勿理解成听音乐。\n近义：take your medicine。"
+  },
+  {
+    "point_content": "Survival of the fittest",
+    "tag": ["进化论", "竞争", "中性", "书面", "社会话题"],
+    "translation_lang": "zh-CN",
+    "translation_content": "适者生存；物竞天择，适者生存\n自然译法：能适应的才活得下来 / 不适应的被淘汰 / 弱肉强食（误用版）",
+    "examples": [
+      "In this market, it's survival of the fittest. 在这个市场里，适者生存。",
+      "Survival of the fittest doesn't mean the strongest — it means the best adapted. 适者生存不是最强，是最适应。",
+      "The startup world runs on survival of the fittest. 创业圈就是适者生存。",
+      "He misused \"survival of the fittest\" to justify layoffs. 他误用这句话为裁员找理由。",
+      "Species survive by adapting — survival of the fittest in practice. 物种靠适应存活，这就是适者生存。"
+    ],
+    "explanation": "【概要】源自达尔文进化论（常被误归于社会达尔文主义），指最能适应环境的个体或组织存活下来。\n【结构】名词性短语，作表语或标题；也可说 the fittest survive。\n【语用】中性书面，商业竞争、科普讨论；用于为不公辩护时需谨慎（易被视为社会达尔文主义）。\n【易错】① fittest 指「最适应」，不是「最强壮」；② 常误拼 fitest；③ 与 law of the jungle（丛林法则）不同。",
+    "synonym_points": [
+      "adapt or die — 适应否则灭亡",
+      "the law of the jungle — 丛林法则",
+      "natural selection — 自然选择（科学术语）",
+      "only the strong survive — 强者生存（通俗说法）"
+    ],
+    "antonym_points": [
+      "safety net — 安全保障网",
+      "equal opportunity — 机会平等",
+      "protect the vulnerable — 保护弱者",
+      "cooperation over competition — 合作优先"
+    ],
+    "extended_points": [
+      "social Darwinism — 社会达尔文主义（误用衍生）",
+      "natural selection — 自然选择",
+      "adaptability — 适应力"
+    ],
+    "key_point": "【速记】survival of the fittest = 适者生存。\nfittest＝最适应（非最强）。\n慎用于为不公辩护。"
+  },
+  {
+    "point_content": "Get carried away",
+    "tag": ["习语", "得意忘形", "中性偏负", "情绪", "日常"],
+    "translation_lang": "zh-CN",
+    "translation_content": "得意忘形；一时上头；做得过火了\n自然译法：我一时兴奋就过头了 / 没收住 / 说多了",
+    "examples": [
+      "I got carried away and bought three pairs. 我一上头买了三双。",
+      "He got carried away with the applause and kept talking. 掌声一热他就没收住，讲个不停。",
+      "Sorry, I got carried away — let me get back on topic. 抱歉说过头了，回到正题。",
+      "It's easy to get carried away when planning a trip. 做旅行计划时很容易上头。",
+      "Getting carried away once in a while is human. 偶尔上头挺正常。"
+    ],
+    "explanation": "【概要】get carried away 指因情绪、兴奋或投入而失去分寸，做过头或说过头，语气带自责。\n【结构】get carried away (with sth)；也可说 go overboard、overdo it。\n【语用】中性偏负，社交与职场自我修正；主动承认比被指出更好。\n【易错】① 用 carried（过去分词），不是 carrying；② 与 be carried away by（被…带走）结构相似；③ 不加冠词。",
+    "synonym_points": [
+      "go overboard — 做得过火",
+      "overdo it — 过头了",
+      "lose perspective — 失去分寸",
+      "get swept up — 被情绪带走（口语）"
+    ],
+    "antonym_points": [
+      "stay grounded — 保持清醒",
+      "keep it in check — 控制住",
+      "stay on topic — 不离题",
+      "exercise restraint — 克制"
+    ],
+    "extended_points": [
+      "go overboard — 过火（海事比喻）",
+      "swept up in the moment — 一时沉浸",
+      "reel it in — 收一收（口语）"
+    ],
+    "key_point": "【速记】get carried away = 得意忘形、过头。\n用 carried；可接 with sth。\n主动承认好过被指出。"
+  }
+]

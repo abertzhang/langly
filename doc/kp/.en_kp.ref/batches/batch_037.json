@@ -1,0 +1,642 @@
+[
+  {
+    "point_content": "That's news to me.",
+    "tag": ["口语反应", "我才知道", "中性", "信息落差", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我才知道；这我倒没听说；第一次听说\n自然译法：我还是第一次听说 / 我怎么不知道 / 这是新消息\n",
+    "examples": [
+      "The project was canceled? That's news to me. 项目取消了？我怎么不知道。\n",
+      "That's news to me — I thought we agreed on Friday. 我才听说，我以为我们定的是周五。\n",
+      "Saying it can imply you should have been told. 这句常暗示「本该通知我」。\n",
+      "It's milder than \"nobody told me.\" 比「没人告诉我」温和些。\n",
+      "Neutral version: \"I wasn't aware of that.\" 中性版：我不清楚这件事。"
+    ],
+    "explanation": "【概要】表示刚得知某信息，此前并不知情；语气中性，常隐含「我本该早知道」的轻微不满，是信息落差的体面表达。\n【结构】be news to sb（news 不可数、不加 a）；近义 I wasn't aware、first I've heard。\n【语用】中性，职场信息断链、家庭对话；正式书面用 I was not previously informed。\n【易错】① news 不可数（不说 a news）；② 与 that's new to me（对观点新）近义；③ 语气靠上下文判断是否含抱怨。",
+    "synonym_points": [
+      "first I've heard of it — 我第一次听说",
+      "I wasn't aware — 我不知道",
+      "nobody told me — 没人告诉我（更直）",
+      "that's new information — 这是新信息"
+    ],
+    "antonym_points": [
+      "I already knew — 我早知道了",
+      "old news — 早就知道了",
+      "I was briefed — 我被告知过",
+      "everyone knew — 大家都知道"
+    ],
+    "extended_points": [
+      "news 不可数用法",
+      "information gap — 信息落差",
+      "cascade communication（信息逐级传达）"
+    ],
+    "key_point": "【速记】That's news to me = 我才知道。\nnews 不可数；含「本该告诉我」意味。\n正式版 not previously informed。"
+  },
+  {
+    "point_content": "Shoulda woulda coulda.",
+    "tag": ["口语缩略", "早知如此", "中性偏负", "后悔/复盘", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "早知如此，何必当初；（都是）「本该、本会、本可以」的空谈\n规范写法：should've, would've, could've（口语连读成 shoulda woulda coulda）\n自然译法：说这些「早知道」没用 / 别再想当初 / 后悔也晚了",
+    "examples": [
+      "Shoulda woulda coulda — what's the next step? 「早该、本会、本可以」说这些没用，下一步是什么？\n",
+      "He kept replaying shoulda woulda coulda after the failure. 失败后他一直念「早知如此」。\n",
+      "The phrase mocks hindsight-only talk. 这句嘲讽只会事后诸葛的议论。\n",
+      "In writing, use should have / would have / could have. 书面用完整形式。\n",
+      "Neutral version: \"let's focus on what we can change.\" 中性版：聚焦能改变的部分。"
+    ],
+    "explanation": "【概要】三个情态动词加 have 的口语连读式（should've / would've / could've），连用表示「早该、本会、本可以」的空谈，用来打断无效的事后懊悔。\n【结构】shoulda woulda coulda（口语缩略串，书面为 should've, would've, could've）；近义 hindsight talk、if only。\n【语用】中性偏负，项目复盘、朋友劝止；正式文本用完整形式或「focus on next steps」。\n【易错】① 属口语拼写，书面不宜；② 三个词顺序固定（should-would-could）；③ 与 if only（但愿）语气不同。",
+    "synonym_points": [
+      "if only — 要是当初（感叹）",
+      "hindsight talk — 事后空谈",
+      "would've, could've — 本会本可以",
+      "no point crying over spilled milk — 后悔无用"
+    ],
+    "antonym_points": [
+      "what's the next step — 下一步怎么办",
+      "let's move forward — 往前看",
+      "focus on what we can change — 聚焦可改变部分",
+      "lesson learned — 吸取教训"
+    ],
+    "extended_points": [
+      "should've/would've/could've 缩略",
+      "counterfactual thinking — 反事实思维",
+      "action-oriented review"
+    ],
+    "key_point": "【速记】shoulda woulda coulda = 早知如此（空谈）。\n口语缩略；书面写 should've…\n用于打断事后懊悔。"
+  },
+  {
+    "point_content": "I'll get out of your hair.",
+    "tag": ["礼貌告辞", "不打扰了", "正面", "拜访/电话", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我就不打扰你了；我先走了；不再占用你的时间\n自然译法：那我先不打扰了 / 你忙吧，我撤 / 不占你时间了",
+    "examples": [
+      "I'll get out of your hair — thanks for the help. 不打扰你了，谢谢帮忙。\n",
+      "I'll get out of your hair now so you can finish. 我先走，你继续做完。\n",
+      "Get out of sb's hair means stop bothering them. 指不再打扰某人。\n",
+      "It's friendly and self-aware, not rude. 友好且自知，不是失礼。\n",
+      "Casual version: \"I'll leave you to it.\" 口语版：那我就不打扰了。"
+    ],
+    "explanation": "【概要】礼貌告辞语，表示自己将离开、不再占用对方时间或造成打扰；语气体贴，适用于拜访结束、电话收尾。\n【结构】get out of sb's hair（固定物主代词 + hair，不加冠词）；近义 leave you to it、let you get back to work。\n【语用】正面，同事、主客之间；过度使用会显得急于离开。\n【易错】① hair 不加冠词、不可数；② 与 get in sb's hair（烦扰某人）相反；③ 与 get out of here（离开这里）不同。",
+    "synonym_points": [
+      "I'll leave you to it — 我就不打扰了",
+      "let you get back to work — 你继续忙",
+      "I'll let you go — 不占你时间了（电话）",
+      "I'll be on my way — 我该走了"
+    ],
+    "antonym_points": [
+      "I'll stay a bit longer — 我再待会儿",
+      "let me keep you — 我再耽误你一下",
+      "we're not done — 还没说完",
+      "get in your hair — 烦着你（反义动作）"
+    ],
+    "extended_points": [
+      "get in sb's hair（烦人）对照",
+      "leave you to it — 不打扰",
+      "polite exits — 礼貌收尾"
+    ],
+    "key_point": "【速记】get out of your hair = 不打扰你了。\nhair 不加冠词；礼貌收尾。\n反向 get in sb's hair（烦人）。"
+  },
+  {
+    "point_content": "You're blowing me off.",
+    "tag": ["指责冷落", "你放我鸽子/不理我", "强负面", "约会/工作", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你放我鸽子；你故意不理我；你在敷衍我\n自然译法：你晾着我 / 你装看不见 / 说好的又鸽了",
+    "examples": [
+      "You're blowing me off — we agreed at seven. 你放我鸽子，说好七点。\n",
+      "He's been blowing me off for weeks. 他好几周不理我了。\n",
+      "Blow sb off means ignore or cancel on them. 指无视或放某人鸽子。\n",
+      "It's accusatory; bring the specific instance. 带指责，需说明具体事。\n",
+      "Neutral version: \"I feel like I'm being overlooked.\" 中性版：我觉得被忽略了。"
+    ],
+    "explanation": "【概要】blow sb off 指临时取消约定或刻意忽视某人；You're blowing me off 是直接指责，语气强，需附具体事件。\n【结构】blow sb off（代词放中间）；近义 stand sb up（放鸽子）、ignore sb。\n【语用】强负面，约会、协作沟通；职场指责宜改为「我等你确认」的事实陈述。\n【易错】① 代词位置（blow me off，非 blow off me）；② 与 blow off steam（发泄）不同；③ 与 cancel（中性）语气差异大。",
+    "synonym_points": [
+      "you're standing me up — 你放我鸽子",
+      "you're ignoring me — 你不理我",
+      "you're ditching me — 你把我甩了（口语）",
+      "you keep canceling on me — 你老取消"
+    ],
+    "antonym_points": [
+      "I'm here — 我来了",
+      "you showed up — 你到了",
+      "thanks for making time — 谢谢你抽时间",
+      "I'm not ignoring you — 我没无视你"
+    ],
+    "extended_points": [
+      "blow off steam — 发泄（易混）",
+      "stand sb up — 放鸽子",
+      "ghosting（断联，网络语）"
+    ],
+    "key_point": "【速记】blow sb off = 放鸽子/无视。\n代词放中间；指责需举例。\n近义 stand sb up。"
+  },
+  {
+    "point_content": "Mind if I sit.",
+    "tag": ["礼貌请求", "介意我坐吗", "正面", "社交/餐桌", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "介意我坐下吗？（实际是请求许可）我可以坐这儿吗\n规范/完整形式：Mind if I sit down? / Do you mind if I sit here?\n自然译法：我能坐这吗 / 介意我坐一下吗 / 这儿有人吗",
+    "examples": [
+      "Mind if I sit? The train is packed. 我能坐这吗？车厢太挤了。\n",
+      "Mind if I sit here — is this seat taken? 我坐这儿行吗？有人吗？\n",
+      "The polite answer is \"not at all, go ahead.\" 礼貌回答是「当然不介意，请坐」。\n",
+      "Answering \"yes\" literally means you do mind. 回答 yes 字面是「我介意」。\n",
+      "Index form omits \"down\"; add it in full speech. 索引省略 down，完整口语可补。"
+    ],
+    "explanation": "【概要】礼貌请求许可的句型，字面「你介意我坐吗」，实际期待对方答「不介意」；索引形式省略了 down/here，语义为请求座位。\n【结构】Mind if I + 动词原形（省略 Do you）；完整 Do you mind if I sit down?；回答 Not at all / Go ahead。\n【语用】正面，通勤、咖啡馆、会议；正式场合用 May I sit here。\n【易错】① 回答 yes 意为「我介意」，容易误会；② mind 后接 if 从句（不用 whether 更常见）；③ 索引句缺问号，正式书写要加。",
+    "synonym_points": [
+      "may I sit here — 我可以坐这吗（正式）",
+      "is this seat taken — 这座有人吗",
+      "do you mind if I sit down — 完整形式",
+      "can I join you — 我能坐一起吗"
+    ],
+    "antonym_points": [
+      "I'll stand — 我站着",
+      "I'll leave you — 我不坐了",
+      "never mind — 算了",
+      "I'll find another seat — 我另找位子"
+    ],
+    "extended_points": [
+      "Do you mind…? 的回答逻辑",
+      "May I 的正式度",
+      "seat taken（占座）"
+    ],
+    "key_point": "【速记】Mind if I sit = 我能坐这吗。\n答 yes 反而表示介意；完整加 down。\n正式版 May I sit here。"
+  },
+  {
+    "point_content": "Could you do me a favor?",
+    "tag": ["礼貌请求", "帮个忙", "正面", "职场/社交", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "你能帮我个忙吗？能拜托你一件事吗？\n自然译法：帮个忙行吗 / 能麻烦你一下吗 / 有件事想请你帮",
+    "examples": [
+      "Could you do me a favor and print this? 能帮我打印一下吗？\n",
+      "Could you do me a favor? It'll take five minutes. 能帮个忙吗？五分钟就好。\n",
+      "Could is softer than Can for requests. 请求时 could 比 can 客气。\n",
+      "Favor is countable: do sb a favor. favor 可数，搭配 do sb a favor。\n",
+      "Very formal: \"I'd like to ask for your assistance.\" 很正式：I'd like to ask for your assistance。"
+    ],
+    "explanation": "【概要】礼貌请求句式，用于请对方帮忙（小事到中等任务）；语气客气，搭配 could 更委婉。\n【结构】do sb a favor（favor 可数）；请求句 Could you do me a favor (and + 动词)?。\n【语用】正面，同事、邻里、客服；重大请求应说明范围与时限。\n【易错】① 用 do（非 make）a favor；② 英式拼写 favour；③ 与 do me a solid（俚语）语域不同。",
+    "synonym_points": [
+      "can you help me out — 能帮我下吗",
+      "I could use a hand — 我需要帮手",
+      "would you mind helping — 介意帮个忙吗",
+      "do me a solid — 帮个忙（俚语）"
+    ],
+    "antonym_points": [
+      "never mind — 不用了",
+      "I'll handle it myself — 我自己来",
+      "forget it — 算了",
+      "no need — 不必了"
+    ],
+    "extended_points": [
+      "do vs make a favor",
+      "favour 英式拼写",
+      "request softening（请求软化）"
+    ],
+    "key_point": "【速记】Could you do me a favor? = 能帮个忙吗。\ndo a favor（非 make）；could 更客气。\n英式 favour。"
+  },
+  {
+    "point_content": "I'll see you in the morning.",
+    "tag": ["道别用语", "明早见", "中性偏正", "家庭/同住", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "明早见；明天早上见；（睡前）晚安，早上见\n自然译法：明早见 / 睡吧，明儿见 / 早上再说",
+    "examples": [
+      "Good night — I'll see you in the morning. 晚安，明早见。\n",
+      "I'll see you in the morning is a bedtime farewell. 是睡前的道别语。\n",
+      "It implies you'll meet again after sleeping. 暗含睡后会再见。\n",
+      "For a work handoff, say \"let's sync in the morning.\" 工作交接说 let's sync in the morning。\n",
+      "Casual version: \"see you tomorrow.\" 口语版：see you tomorrow。"
+    ],
+    "explanation": "【概要】睡前告别语，表示次日早晨会再见；适用于同住家人、室友、同办公室的同事（暗示次日继续）。\n【结构】see you + 时间状语（in the morning 固定 the）；近义 see you tomorrow、good night。\n【语用】中性偏正，家庭、同住场景；工作语境宜用 sync in the morning 明确事项。\n【易错】① 用 in the morning（非 on morning）；② 与 see you in the afternoon（可类推）同构；③ 不适用于不会再见的场景。",
+    "synonym_points": [
+      "see you tomorrow — 明天见",
+      "good night — 晚安",
+      "sleep well — 睡好",
+      "catch you in the morning — 明早聊（口语）"
+    ],
+    "antonym_points": [
+      "goodbye for now — 就此告别（不再见）",
+      "take care — 保重（可能久别）",
+      "see you next week — 下週见",
+      "farewell — 告别（正式）"
+    ],
+    "extended_points": [
+      "in the morning 介词搭配",
+      "bedtime farewells",
+      "sync in the morning（工作版）"
+    ],
+    "key_point": "【速记】I'll see you in the morning = 明早见。\nin the morning 固定；睡前道别。\n工作版 sync in the morning。"
+  },
+  {
+    "point_content": "As for me.",
+    "tag": ["篇章衔接", "至于我", "中性偏正式", "观点对比", "书面口语通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "至于我；对我来说；就我而言\n自然译法：我这边的话 / 我的看法是 / 至于我嘛",
+    "examples": [
+      "As for me, I'd rather stay home. 至于我，我更想待在家。\n",
+      "They love the plan; as for me, I have doubts. 他们喜欢这方案，我就有疑虑。\n",
+      "As for me introduces contrast with others. 用于与他人形成对比。\n",
+      "More formal: \"as regards my own view.\" 更正式：as regards my own view。\n",
+      "Don't confuse with as to me (中英混用，非地道表达)."
+    ],
+    "explanation": "【概要】篇章衔接短语，用于引出自己的立场，与前文他人的观点形成对照；书面与口语皆可，语体略正式。\n【结构】as for sb/sth（置于句首）；近义 as far as I'm concerned、personally。\n【语用】中性偏正式，讨论、报告、演讲；频繁使用会显生硬。\n【易错】① 固定 as for（非 as to 在此语境常用 as for）；② 后接名词/代词，不接从句（从句用 as for the fact that）；③ 与 as for you（略带指责）语气差异。",
+    "synonym_points": [
+      "as far as I'm concerned — 就我而言",
+      "personally — 个人而言",
+      "in my case — 在我的情况里",
+      "my own view is — 我自己的看法是"
+    ],
+    "antonym_points": [
+      "as for everyone else — 至于其他人",
+      "generally speaking — 一般来说",
+      "on the whole — 总体上",
+      "we all agree — 我们一致同意"
+    ],
+    "extended_points": [
+      "as for vs as to",
+      "discourse markers — 篇章标记",
+      "contrastive view — 对照观点"
+    ],
+    "key_point": "【速记】As for me = 至于我。\n句首引出对比立场；略正式。\n近义 as far as I'm concerned。"
+  },
+  {
+    "point_content": "Out of curiosity.",
+    "tag": ["提问铺垫", "出于好奇", "中性", "对话/访谈", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "出于好奇；只是好奇问问；顺口问一句\n自然译法：随便问问 / 我好奇一下 / 纯属好奇",
+    "examples": [
+      "Out of curiosity, why did you leave? 出于好奇，你为什么离开？\n",
+      "I asked out of curiosity, not to judge. 我是好奇问的，不是评判。\n",
+      "It softens a personal question. 能让私人问题显得不那么冒犯。\n",
+      "Out of + 名词表示动机来源。out of + 名词表示动机。\n",
+      "Neutral version: \"just wondering.\" 口语版：just wondering。"
+    ],
+    "explanation": "【概要】以「出于好奇」为动机的提问铺垫，用来降低问题侵入感；常用于访谈、朋友闲聊，也可作礼貌免责。\n【结构】out of curiosity（介词短语作原因状语）；近义 just wondering、for the sake of asking。\n【语用】中性，访谈开场、私人问题缓冲；涉及敏感隐私时仍需对方愿意回答。\n【易错】① 用 out of（非 from curiosity 也可但少）；② 与 curious about（对某事物好奇）不同；③ 不能免除越界提问。",
+    "synonym_points": [
+      "just wondering — 只是好奇",
+      "for curiosity's sake — 出于好奇",
+      "no particular reason — 没特别原因",
+      "asking out of interest — 因为感兴趣"
+    ],
+    "antonym_points": [
+      "for business reasons — 出于业务原因",
+      "on purpose — 有意为之",
+      "because it matters — 因为这很重要",
+      "I need the answer — 我需要答案"
+    ],
+    "extended_points": [
+      "out of + 名词表动机",
+      "just wondering（口语）",
+      "buffer questions（缓冲提问）"
+    ],
+    "key_point": "【速记】Out of curiosity = 出于好奇。\nout of + 名词；可缓冲私人问题。\n口语版 just wondering。"
+  },
+  {
+    "point_content": "It just hit time.",
+    "tag": ["口语表达（索引原写法）", "突然明白", "中性", "领悟/对话", "需注规范形"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我突然明白了；我这才反应过来；那一刻我想通了\n规范形式应为 it just hit me（hit me 意为「突然点醒我」）；索引写作 hit time 疑为误写，条目保留原写法并注明\n自然译法：我一下明白了 / 突然就懂了 / 后知后觉反应过来",
+    "examples": [
+      "It just hit time — he was joking all along. （按规范形式理解）我突然明白了，他一直在开玩笑。\n",
+      "The standard phrase is \"it just hit me.\" 规范说法是 it just hit me。\n",
+      "It hit me that I had the wrong file. 我突然发现文件拿错了。\n",
+      "Hit here means strike the mind, not physical contact. hit 在此指「点醒」，不是物理击打。\n",
+      "For neutral clarity, say \"it suddenly became clear.\" 中性清晰版：it suddenly became clear。"
+    ],
+    "explanation": "【概要】表达「突然想明白、事发后才反应过来」的口语说法；规范英语为 it just hit me（hit 指「猛然点醒」）。索引第 730 集写作 it just hit time，属不规范变体，已保留原写法并注明规范形。\n【结构】it hits sb that + 从句 / it just hit me；被动领悟不带 to。\n【语用】中性，叙述顿悟、复盘；书面表达用 it suddenly became clear。\n【易错】① 规范为 hit me（非 hit time）；② hit 此处非「击打」；③ 与 it's about time（早该如此）完全不同。",
+    "synonym_points": [
+      "it just hit me — 规范形式，同义",
+      "it dawned on me — 我恍然大悟（略正式）",
+      "the penny dropped — 我一下明白了（英式）",
+      "it suddenly clicked — 突然通了"
+    ],
+    "antonym_points": [
+      "I'm still confused — 我还是不懂",
+      "it makes no sense — 说不通",
+      "I missed the point — 我没抓到重点",
+      "no clue — 完全没头绪"
+    ],
+    "extended_points": [
+      "it hit me that… 句型",
+      "the penny dropped（英式）",
+      "规范形式提醒：hit me"
+    ],
+    "key_point": "【速记】It just hit time = 我突然明白（原写法）。\n规范为 it just hit me；hit＝点醒。\n勿混 it's about time。"
+  },
+  {
+    "point_content": "I am available.",
+    "tag": ["可用性说明", "我有空", "中性", "职场/约见", "略正式"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我有空；我可以（约）；我可以到场\n自然译法：我这边有空 / 随时可以约 / 我可以配合",
+    "examples": [
+      "I am available after three today. 我今天三点后有空。\n",
+      "Let me know if I'm needed — I am available. 需要我就说，我有空。\n",
+      "Available here means free or reachable. 此处指有空/可联系。\n",
+      "For dating, \"I'm free\" is more natural than \"I am available.\" 约会说 I'm free 更自然。\n",
+      "Add a time window to be useful. 最好给出时间窗。"
+    ],
+    "explanation": "【概要】表示自己有时间、可以安排或到场；正式度中等，职场排会与客户约见常用；不带具体时间会显得含糊。\n【结构】be available (for sth / at + 时间)；近义 I'm free、my calendar is open。\n【语用】中性偏正式，会议安排；恋爱语境用 I'm free 更自然。\n【易错】① 与 be available to sb（对某人可用/可求助）不同；② 与 available（可购得）商品义区分；③ 需补时间窗。",
+    "synonym_points": [
+      "I'm free — 我有空（口语）",
+      "my calendar is open — 我日程空着",
+      "I can make it — 我能到",
+      "I'm open to that time — 那个时间我可以"
+    ],
+    "antonym_points": [
+      "I'm booked — 我排满了",
+      "I'm unavailable — 我没空",
+      "I have a conflict — 我时间冲突",
+      "can't make it — 我去不了"
+    ],
+    "extended_points": [
+      "available 的多义（有空/可购）",
+      "calendar blocking — 日程锁时",
+      "time zone availability"
+    ],
+    "key_point": "【速记】I am available = 我有空/可以。\n补时间窗才有效；约会用 I'm free。\n反义 I'm booked。"
+  },
+  {
+    "point_content": "Don't get cute.",
+    "tag": ["警告口语", "别耍小聪明", "强负面", "冲突/谈判", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "别耍小聪明；别油嘴滑舌；别跟我玩花样\n自然译法：别来这套 / 少耍花样 / 别跟我绕",
+    "examples": [
+      "Don't get cute with the numbers — just give me the total. 别在数字上耍花样，直接给我总数。\n",
+      "He got cute in the negotiation and lost the deal. 他在谈判里耍小聪明，丢了单子。\n",
+      "Get cute means act clever or evasive in a bad way. 指耍滑头、绕弯子。\n",
+      "It's a warning, not a compliment. 属警告，不是夸奖。\n",
+      "Professional version: \"please stick to the facts.\" 专业版：请只讲事实。"
+    ],
+    "explanation": "【概要】口语警告，要求对方别耍小聪明、别玩文字游戏或绕弯子；语气强硬，含不耐与不信任。\n【结构】get + 形容词（get cute 表「变得滑头」）；近义 don't play games、don't try to be clever。\n【语用】强负面，谈判、家长训话；正式沟通用 stick to the facts。\n【易错】① cute 此处非「可爱」，而是「滑头」；② 与 be cute（可爱）区分；③ 正式书面不宜使用。",
+    "synonym_points": [
+      "don't play games — 别玩花样",
+      "don't try to be clever — 别自作聪明",
+      "cut the cleverness — 别耍机灵",
+      "stick to the facts — 只讲事实（中性）"
+    ],
+    "antonym_points": [
+      "be straightforward — 直说",
+      "keep it simple — 简单点",
+      "just answer the question — 直接回答",
+      "no tricks — 别耍花招（告知）"
+    ],
+    "extended_points": [
+      "cute 的「滑头」义",
+      "play games — 耍心眼",
+      "negotiation tactics"
+    ],
+    "key_point": "【速记】Don't get cute = 别耍小聪明。\ncute＝滑头（非可爱）；警告语。\n中性版 stick to the facts。"
+  },
+  {
+    "point_content": "Talk is cheap.",
+    "tag": ["谚语", "空谈无用", "中性偏负", "执行/承诺", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "空谈无用；说易行难；光说不做不值钱\n自然译法：嘴上说说谁都会 / 光说不练没用 / 别画饼",
+    "examples": [
+      "Talk is cheap — show me the prototype. 说谁都会，给我看原型。\n",
+      "Talk is cheap; shipping on time is not. 空谈便宜，按时交付不便宜。\n",
+      "It challenges promises without action. 用于质疑无行动支撑的承诺。\n",
+      "It can feel aggressive in a first meeting. 初次会议使用会显咄咄逼人。\n",
+      "Neutral version: \"let's define concrete next steps.\" 中性版：定具体下一步。"
+    ],
+    "explanation": "【概要】谚语，字面「说话很便宜」，指承诺与言辞成本低，真正难的是行动与交付；用于要求证据、推动执行。\n【结构】Talk is cheap.（不可数主语 + is）；近义 actions speak louder than words、show, don't tell。\n【语用】中性偏负，项目推进、销售谈判；初次会面宜改为询问具体计划。\n【易错】① talk 不可数（不加 a talk 在此谚）；② 与 cheap talk（空话）近义；③ 别用它否定对方全部诚意。",
+    "synonym_points": [
+      "actions speak louder than words — 行动胜于言辞",
+      "show, don't tell — 用行动证明",
+      "put up or shut up — 要么做要么闭嘴（冲）",
+      "words are cheap — 话不值钱"
+    ],
+    "antonym_points": [
+      "walk the talk — 说到做到",
+      "follow through — 落实到底",
+      "deliver on promises — 兑现承诺",
+      "proof of work — 成果为证"
+    ],
+    "extended_points": [
+      "actions speak louder than words",
+      "cheap talk（经济学词）",
+      "deliverable — 交付物"
+    ],
+    "key_point": "【速记】Talk is cheap = 空谈无用。\n不可数主语；推动执行。\n正面版 walk the talk。"
+  },
+  {
+    "point_content": "On the count of three.",
+    "tag": ["协同指令", "数到三", "中性", "动作同步/体育", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "数到三（一起动）；我数三下；倒数三声\n自然译法：数三下一起 / 喊三就动 / 一、二、三",
+    "examples": [
+      "On the count of three, push. 我数到三就推。\n",
+      "We'll open the box on the count of three. 数到三我们一起开箱。\n",
+      "It synchronizes a group action. 用于让多人动作同步。\n",
+      "Count here means count aloud, not tally. count 此处指数出声。\n",
+      "In sports, \"on three\" is the short form. 体育里简说 on three。"
+    ],
+    "explanation": "【概要】指令性短语，要求在数到三时同时行动，用于多人协作的同步启动（抬重物、开箱、跳跃、拍照）。\n【结构】on the count of three（固定 the count of + 数字）；近义 on three（省略式）。\n【语用】中性，体育、团队任务、摄影；正式流程文件用 synchronize at the signal。\n【易错】① 固定 on the count of three（非 at the count）；② 与 count to three（数到三）语法不同；③ 数字可替换（four/five）但节奏需一致。",
+    "synonym_points": [
+      "on three — 数三（省略）",
+      "count to three — 数到三",
+      "ready, set, go — 预备，开始",
+      "at my signal — 听我信号"
+    ],
+    "antonym_points": [
+      "one at a time — 一个一个来",
+      "whenever you're ready — 你准备好就来",
+      "on your own time — 各自时间",
+      "no count needed — 不用数"
+    ],
+    "extended_points": [
+      "同步动作（synchronized action）",
+      "ready, set, go 结构",
+      "count 的多义"
+    ],
+    "key_point": "【速记】On the count of three = 数到三一起。\n固定 the count of；用于同步。\n简说 on three。"
+  },
+  {
+    "point_content": "Fat chance.",
+    "tag": ["口语反讽", "想得美", "强负面", "拒绝/嘲讽", "口语"],
+    "translation_lang": "zh-CN",
+    "translation_content": "想得美；几乎不可能；（反讽）机会大得很\n自然译法：门都没有 / 做梦吧 / 想都别想",
+    "examples": [
+      "\"Can I borrow your car?\" \"Fat chance.\" 「能借你车吗？」「想得美。」\n",
+      "Fat chance of finishing by Friday. 周五做完？几乎不可能。\n",
+      "Fat here is ironic: the real meaning is slim. fat 在此反讽，实际指「极小的机会」。\n",
+      "It's dismissive and informal. 带轻视且非正式。\n",
+      "Polite version: \"that's unlikely.\" 礼貌版：that's unlikely。"
+    ],
+    "explanation": "【概要】口语反讽拒绝语，字面「大机会」实际指「机会渺茫、别指望」；语气轻蔑，属不客气回应。\n【结构】Fat chance.（名词短语独立成句，不加 a 常作口语）；近义 not a chance、when pigs fly（更幽默）。\n【语用】强负面偏随意，朋友互怼；对客户或上级用 unlikely。\n【易错】① 反讽理解反了会误解为「很有希望」；② 与 slim chance（中性表述，机会小）语域不同；③ 不宜书面使用。",
+    "synonym_points": [
+      "not a chance — 不可能",
+      "no way — 没门",
+      "when pigs fly — 等猪会飞（幽默）",
+      "dream on — 做梦吧"
+    ],
+    "antonym_points": [
+      "very likely — 很可能",
+      "absolutely — 当然可以",
+      "sure thing — 没问题",
+      "by all means — 当然"
+    ],
+    "extended_points": [
+      "fat chance 的反讽机制",
+      "slim chance（中性）",
+      "when pigs fly — 不可能（幽默）"
+    ],
+    "key_point": "【速记】Fat chance = 想得美（反讽）。\nfat 实际指机会极小；语气轻蔑。\n礼貌版 unlikely。"
+  },
+  {
+    "point_content": "Based on what?",
+    "tag": ["质疑提问", "凭什么", "中性偏负", "论证/争论", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "凭什么？依据是什么？这话有什么根据？\n自然译法：你哪来的结论 / 依据呢 / 凭什么这么说",
+    "examples": [
+      "You say sales are up. Based on what? 你说销售涨了，依据是什么？\n",
+      "Based on what data did you decide this? 你是基于什么数据决定的？\n",
+      "It challenges an unsupported claim. 用于质疑缺乏依据的说法。\n",
+      "Tone determines whether it's inquiry or confrontation. 语气决定是追问还是对峙。\n",
+      "Polite version: \"could you share the evidence?\" 礼貌版：能给我看依据吗。"
+    ],
+    "explanation": "【概要】追问对方结论的依据，常出现在争论、评审与事实核查；语气可中性也可带对抗，取决于语调与场合。\n【结构】based on + 名词（what 作介词宾语）；近义 what's your evidence、where did you get that。\n【语用】中性偏负，评审、辩论、新闻核查；正式文本用 please cite the source。\n【易错】① 介词 on（非 based in）；② 与 on what basis（更正式）近义；③ 语气冲易被视为挑衅。",
+    "synonym_points": [
+      "what's your evidence — 你的证据呢",
+      "where did you get that — 你从哪听来的",
+      "on what basis — 依据何在（正式）",
+      "source? — 出处呢（简短）"
+    ],
+    "antonym_points": [
+      "that's well documented — 有据可查",
+      "the data supports it — 数据支持",
+      "I'll take your word — 我信你说的",
+      "fair enough — 有道理（接受）"
+    ],
+    "extended_points": [
+      "based on 介词搭配",
+      "evidence-based — 有据可依",
+      "source citation"
+    ],
+    "key_point": "【速记】Based on what? = 依据是什么。\n介词 on；语气可中性可对抗。\n礼貌版 share the evidence。"
+  },
+  {
+    "point_content": "The choice is yours.",
+    "tag": ["让权表达", "选择权在你", "正面", "决定/尊重", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "选择权在你；由你决定；你自己选\n自然译法：你决定 / 看你 / 你自个儿选",
+    "examples": [
+      "Stay or go — the choice is yours. 留下还是走，你决定。\n",
+      "The choice is yours, but tell me by Friday. 你定，但周五前告诉我。\n",
+      "It hands over authority and responsibility. 既给决定权，也给了责任。\n",
+      "In teams, pair it with a deadline. 团队里要配截止时间。\n",
+      "Formal version: \"the decision rests with you.\" 正式版：the decision rests with you。"
+    ],
+    "explanation": "【概要】表示决定权归对方，自己不代为决定；语气尊重，常出现在给建议后的收尾；同时把责任交给对方，宜配截止时间。\n【结构】the choice is yours（固定 the choice、yours 名词性物主代词）；近义 it's up to you、your call。\n【语用】正面，职业选择、家庭决策；在需要专业意见时使用会显得回避。\n【易错】① 用 yours（非 your）；② 与 you have no choice（相反）区分；③ 别用它逃避该给的推荐。",
+    "synonym_points": [
+      "it's up to you — 由你决定",
+      "your call — 你定（口语）",
+      "the decision rests with you — 决定权在你（正式）",
+      "you decide — 你决定"
+    ],
+    "antonym_points": [
+      "I'll decide — 我来定",
+      "you have no choice — 你没得选",
+      "the decision is made — 已决定",
+      "it's not negotiable — 不可协商"
+    ],
+    "extended_points": [
+      "名词性物主代词 yours",
+      "delegation of decision rights",
+      "accountability 随权转移"
+    ],
+    "key_point": "【速记】The choice is yours = 选择权在你。\n用 yours；宜配截止时间。\n正式版 rests with you。"
+  },
+  {
+    "point_content": "I lost my appetite.",
+    "tag": ["身体/情绪状态", "没胃口", "中性偏负", "餐饮/健康", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我没胃口了；我吃不下；（比喻）我失去兴趣了\n自然译法：我不太想吃 / 吃不下 / 提不起兴致",
+    "examples": [
+      "I lost my appetite after that news. 听到那消息我就没胃口了。\n",
+      "I lost my appetite — maybe I'm coming down with something. 我吃不下，可能有点不舒服。\n",
+      "Appetite covers food and interest. appetite 可指食欲，也可指兴致。\n",
+      "Persistent loss of appetite needs medical advice. 持续没胃口要看医生。\n",
+      "Neutral version: \"I'm not hungry.\" 中性版：我不饿。"
+    ],
+    "explanation": "【概要】表示食欲消失（常因情绪、疾病），也可比喻对某事物失去兴趣；属中性偏负的状态描述，非医学诊断。\n【结构】lose one's appetite（物主代词随主语）；近义 I'm not hungry、no appetite。\n【语用】中性偏负，餐饮、健康、投资（appetite for risk 风险偏好）；持续发生应就医。\n【易错】① 用 appetite（非 appetit）；② 与 I'm full（吃饱了）不同；③ 医学建议不可用其替代诊断。",
+    "synonym_points": [
+      "I'm not hungry — 我不饿",
+      "I can't eat — 我吃不下",
+      "I have no appetite — 我没胃口",
+      "I'm off my food — 我吃不下（英式）"
+    ],
+    "antonym_points": [
+      "I'm starving — 我饿坏了",
+      "I have a big appetite — 我胃口很好",
+      "I could eat a horse — 我饿得能吃下一头马",
+      "I'm hungry — 我饿了"
+    ],
+    "extended_points": [
+      "appetite for risk — 风险偏好（金融）",
+      "loss of appetite（医学症状）",
+      "I'm off my food（英式）"
+    ],
+    "key_point": "【速记】I lost my appetite = 没胃口。\n可指食欲也可指兴致；持续要就医。\n金融：appetite for risk。"
+  },
+  {
+    "point_content": "My patience is wearing thin.",
+    "tag": ["情绪警示", "耐心快耗尽", "中性偏负", "管理/家庭", "高频"],
+    "translation_lang": "zh-CN",
+    "translation_content": "我的耐心快耗尽了；我快忍不住了；再这样我就没耐心了\n自然译法：我快没耐心了 / 别磨我了 / 我快到极限了",
+    "examples": [
+      "My patience is wearing thin — this is the third delay. 我快没耐心了，这是第三次延期。\n",
+      "She said her patience was wearing thin with the excuses. 她说对这些借口快失去耐心。\n",
+      "Wear thin means gradually diminish. wear thin 指逐渐消磨。\n",
+      "It's a warning before escalation. 是升级前的预警。\n",
+      "Direct version: \"I need this resolved today.\" 直接版：今天必须解决。"
+    ],
+    "explanation": "【概要】表示耐心正逐渐消磨、接近极限，属温和但清晰的警告；常出现在重复问题、反复延期之后。\n【结构】wear thin（固定搭配，表「逐渐变薄/消磨」）；主语可换 my patience、the excuse、the joke。\n【语用】中性偏负，管理提醒、家庭沟通；说出口后应跟明确要求，否则只是抱怨。\n【易错】① wear 用进行时表渐进；② 与 thin（瘦）字面义无关；③ 与 I've lost patience（已耗尽）程度不同。",
+    "synonym_points": [
+      "I'm running out of patience — 我快没耐心了",
+      "my patience is running thin — 同义变体",
+      "I'm at my limit — 我到极限了",
+      "I'm losing my patience — 我在失去耐心"
+    ],
+    "antonym_points": [
+      "I'm patient — 我有耐心",
+      "take your time — 慢慢来",
+      "no rush at all — 完全不急",
+      "I can wait — 我能等"
+    ],
+    "extended_points": [
+      "wear thin 的搭配",
+      "escalation warning",
+      "I've lost patience（已耗尽）"
+    ],
+    "key_point": "【速记】My patience is wearing thin = 耐心快耗尽。\nwear thin 渐进；说完要提要求。\n更强版 I've lost patience。"
+  },
+  {
+    "point_content": "Good health.",
+    "tag": ["祝语", "身体健康", "正面", "敬酒/问候", "正式口语通用"],
+    "translation_lang": "zh-CN",
+    "translation_content": "祝身体健康；健康长寿；（敬酒）为健康干杯\n自然译法：祝你健康 / 身体健康 / 为健康干杯",
+    "examples": [
+      "Good health to you and your family. 祝你和家人身体健康。\n",
+      "He raised his glass: \"Good health!\" 他举杯：「为健康干杯！」\n",
+      "Good health is a noun phrase used as a toast or wish. 是名词短语，用作祝酒或祝愿。\n",
+      "Full toast: \"Here's to your good health.\" 完整祝酒词是 Here's to your good health。\n",
+      "For a birthday, say \"many happy returns.\" 生日祝语用 many happy returns。"
+    ],
+    "explanation": "【概要】健康祝语，用于祝酒、探病问候或告别祝愿；属名词短语式祝福，搭配 to 使用（good health to you）。\n【结构】Good health (to sb) / Here's to your good health；近义 cheers to your health、wishing you good health。\n【语用】正面，宴席敬酒、长辈问候、跨文化礼节；英语母语者更常用 cheers / best of health。\n【易错】① 不用动词形式（非 wish you good health 也可但此处为名词短语）；② 与 good health care（医疗体系）不同；③ 敬酒时通常配 Here's to…。",
+    "synonym_points": [
+      "best of health — 身体健康（祝愿）",
+      "cheers to your health — 为健康干杯",
+      "wishing you good health — 祝你健康",
+      "to your health — 敬健康"
+    ],
+    "antonym_points": [
+      "get well soon — 早日康复（对方已病）",
+      "ill health — 健康不佳",
+      "poor health — 身体不好",
+      "feel better — 好起来（病中）"
+    ],
+    "extended_points": [
+      "toast 结构 Here's to…",
+      "many happy returns（生日）",
+      "get well soon（病中）"
+    ],
+    "key_point": "【速记】Good health = 祝身体健康（名词短语）。\n敬酒配 Here's to your good health。\n病中用 get well soon。"
+  }
+]
