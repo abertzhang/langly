@@ -25,6 +25,13 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <!-- Google Mobile Ads SDK 启动时会读取这个 App ID；缺失会抛
+             GADInvalidInitializationException 导致 App 一启动就闪退。
+             这里用 Google 官方测试 App ID（Android 版），仅用于开发调试，
+             正式发布前必须换成自己的 AdMob App ID。 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3344481719"/>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <meta-data
